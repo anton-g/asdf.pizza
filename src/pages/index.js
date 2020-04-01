@@ -20,7 +20,7 @@ const IndexPage = ({ data, location }) => {
         }}
       >
         <div style={{ minWidth: 200 }}>
-          <h2 style={{ fontSize: 18 }}>episodes</h2>
+          <h2 style={{ fontSize: 18 }}>avsnitt</h2>
           <ul
             style={{
               listStyle: 'none',
