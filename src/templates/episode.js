@@ -15,13 +15,12 @@ const EpisodeTemplate = ({ data, pageContext, location }) => {
         title={episode.frontmatter.title}
         description={episode.frontmatter.description || episode.excerpt}
       />
-      <article>
+      <article style={{ maxWidth: 600 }}>
         <header>
           <h1>{episode.frontmatter.title}</h1>
           <p>{episode.frontmatter.date}</p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: episode.html }} />
-        <hr />
       </article>
 
       {/* <nav>

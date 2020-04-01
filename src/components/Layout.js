@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { Link } from 'gatsby'
 
 require('./layout.css')
 
@@ -12,8 +13,15 @@ const Layout = ({ children }) => {
           maxWidth: 960,
           padding: `0`,
           height: '100%',
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          height: '100%'
         }}
       >
+        <Link to="/" style={{ textDecoration: 'none', color: 'black' }}>
+          <h1>asdf</h1>
+        </Link>
         {children}
       </div>
     </>
@@ -21,7 +29,7 @@ const Layout = ({ children }) => {
 }
 
 Layout.propTypes = {
-  children: PropTypes.node.isRequired,
+  children: PropTypes.node.isRequired
 }
 
 export default Layout
