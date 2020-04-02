@@ -15,7 +15,7 @@ const EpisodeTemplate = ({ data, pageContext, location }) => {
         title={episode.frontmatter.title}
         description={episode.frontmatter.description || episode.excerpt}
       />
-      <article style={{ maxWidth: 600 }}>
+      <article style={{ maxWidth: 600, padding: '0 8px' }}>
         <header>
           <h1>{episode.frontmatter.title}</h1>
           <p>{episode.frontmatter.date}</p>
