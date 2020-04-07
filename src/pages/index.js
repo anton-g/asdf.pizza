@@ -4,6 +4,8 @@ import Layout from '../components/Layout'
 import SEO from '../components/Seo'
 
 import pizzadean from '../images/pizzadean.gif'
+import itunes from '../images/itunes.svg'
+import spotify from '../images/spotify.svg'
 
 const IndexPage = ({ data, location }) => {
   const episodes = data.allMarkdownRemark.edges
@@ -16,17 +18,47 @@ const IndexPage = ({ data, location }) => {
           display: 'flex',
           flexDirection: 'column',
           alignItems: 'center',
-          height: '100%'
+          height: '100%',
         }}
       >
-        <div style={{ minWidth: 200 }}>
+        <div style={{ minWidth: 200, padding: '0 16px' }}>
+          <div
+            style={{
+              display: 'flex',
+              justifyContent: 'center',
+              flexWrap: 'wrap',
+            }}
+          >
+            <a
+              href="https://podcasts.apple.com/se/podcast/asdf/id1506059489"
+              style={{
+                width: '170px',
+                display: 'flex',
+                justifyContent: 'center',
+                marginBottom: '8px',
+              }}
+            >
+              <img src={itunes}></img>
+            </a>
+            <a
+              href="https://open.spotify.com/show/48pKe510caxiFkvxtoXJge"
+              style={{
+                width: '170px',
+                display: 'flex',
+                justifyContent: 'center',
+                marginBottom: '8px',
+              }}
+            >
+              <img src={spotify}></img>
+            </a>
+          </div>
           <h2 style={{ fontSize: 18 }}>avsnitt</h2>
           <ul
             style={{
               listStyle: 'none',
               fontSize: '18px',
               margin: 0,
-              padding: 0
+              padding: 0,
             }}
           >
             {episodes.map((e) => (
