@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `asdf`,
-    description: `Snart en grej.`,
-    author: `@asdfpodcast`
+    title: `asdf podcast`,
+    description: `Som en liten parentes i cyberrymden spenderar webbutvecklarna Therése & Anton en halvtimme lite då och då med att prata ofiltrerat om kod, livet och allt däremellan.`,
+    author: `@awnton & @tkomstadius`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -10,15 +10,15 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/src/images`
-      }
+        path: `${__dirname}/src/images`,
+      },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/episodes`,
-        name: `episodes`
-      }
+        name: `episodes`,
+      },
     },
     `gatsby-transformer-remark`,
     `gatsby-transformer-sharp`,
@@ -32,8 +32,8 @@ module.exports = {
         background_color: `white`,
         theme_color: `white`,
         display: `minimal-ui`,
-        icon: `src/images/pizzadean.gif` // This path is relative to the root of the site.
-      }
-    }
-  ]
+        icon: `src/images/pizzadean.gif`, // This path is relative to the root of the site.
+      },
+    },
+  ],
 }
