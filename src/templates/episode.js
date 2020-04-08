@@ -12,7 +12,7 @@ const EpisodeTemplate = ({ data, pageContext, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
-        title={episode.frontmatter.title}
+        title={siteTitle + ' - ' + episode.frontmatter.title}
         description={episode.frontmatter.description || episode.excerpt}
       />
       <article style={{ maxWidth: 600, padding: '0 16px' }}>
