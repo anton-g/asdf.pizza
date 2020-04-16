@@ -2,9 +2,8 @@
 title: Pepp & Depp
 date: '2020-04-03T08:00:00.000Z'
 description: 'Vilka vi är, vad vi gjort tidigare, strategier för att få klappa hundar, att drunkna i prestandaträsket, Sveriges högsta McDonaldsskylt och mycket annat.'
+pinecastId: '447f8f46-94de-42b2-bdc4-dcd0bfcfcca7'
 ---
-
-<iframe src="https://pinecast.com/player/447f8f46-94de-42b2-bdc4-dcd0bfcfcca7?theme=slim" seamless height="20" style="border:0" class="pinecast-embed" frameborder="0" width="100%"></iframe>
 
 I det första trevande premiäravsnittet av Asdf snackar vi bland annat om vilka vi är och vad vi gjort tidigare, strategier för att få klappa hundar, att (inte) hata EpiServer, Sveriges högsta McDonaldsskylt och att drunkna i prestandaträsket. Dessutom hinner vi prata om att övertänka saker, att inte bry sig om andras åsikter och att bry sig för mycket om andras åsikter.
 

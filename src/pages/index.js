@@ -59,11 +59,13 @@ const IndexPage = ({ data, location }) => {
               fontSize: '18px',
               margin: 0,
               padding: 0,
+              maxWidth: 500,
             }}
           >
             {episodes.map((e) => (
               <li key={e.node.fields.slug}>
                 <Link to={e.node.fields.slug}>{e.node.frontmatter.title}</Link>
+                {/* <p>{e.node.frontmatter.description}</p> */}
               </li>
             ))}
           </ul>

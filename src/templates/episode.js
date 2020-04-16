@@ -20,7 +20,18 @@ const EpisodeTemplate = ({ data, pageContext, location }) => {
           <h1>{episode.frontmatter.title}</h1>
           <p>{episode.frontmatter.date}</p>
         </header>
-        <section dangerouslySetInnerHTML={{ __html: episode.html }} />
+        <section>
+          <iframe
+            src={`https://pinecast.com/player/${episode.frontmatter.pinecastId}?theme=slim`}
+            seamless
+            height="20"
+            style={{ border: 0 }}
+            class="pinecast-embed"
+            frameborder="0"
+            width="100%"
+          ></iframe>
+          <div dangerouslySetInnerHTML={{ __html: episode.html }} />
+        </section>
       </article>
 
       {/* <nav>
@@ -70,6 +81,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        pinecastId
       }
     }
   }
