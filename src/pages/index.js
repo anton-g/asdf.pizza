@@ -62,12 +62,16 @@ const IndexPage = ({ data, location }) => {
               maxWidth: 500,
             }}
           >
-            {episodes.map((e) => (
-              <li key={e.node.fields.slug}>
-                <Link to={e.node.fields.slug}>{e.node.frontmatter.title}</Link>
-                {/* <p>{e.node.frontmatter.description}</p> */}
-              </li>
-            ))}
+            {episodes
+              .filter((e) => new Date(e.node.frontmatter.date) < new Date())
+              .map((e) => (
+                <li key={e.node.fields.slug}>
+                  <Link to={e.node.fields.slug}>
+                    {e.node.frontmatter.title}
+                  </Link>
+                  {/* <p>{e.node.frontmatter.description}</p> */}
+                </li>
+              ))}
           </ul>
         </div>
         <img

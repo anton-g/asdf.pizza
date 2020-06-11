@@ -26,8 +26,8 @@ const EpisodeTemplate = ({ data, pageContext, location }) => {
             seamless
             height="20"
             style={{ border: 0 }}
-            class="pinecast-embed"
-            frameborder="0"
+            className="pinecast-embed"
+            frameBorder="0"
             width="100%"
           ></iframe>
           <div dangerouslySetInnerHTML={{ __html: episode.html }} />
