@@ -3,6 +3,8 @@ title: Trevligt att "träffas"
 date: '2020-05-12T12:00:00.000Z'
 description: 'Avsnitt 3: Att arbeta hemifrån, längtan till kontor, videotjänster och video-AWs.'
 pinecastId: '7ee7a9af-716d-4dd5-8045-0c1d21a5fed4'
+spotifyId: '2fXMq9ZyFQuosTeAPewKID'
+itunesId: '1000474347129'
 ---
 
 Vi snackar om hur det är att arbeta hemifrån. Anton längtar efter kontor men Therése har istället börjat tycka mer och mer om hemmajobbandet. Vi hinner bland annat beta av olika verktyg för remote-arbete, att börja på nytt uppdrag, att presentera sig själv över video, att undvika titta på sig själv i alla videomöten och svårigheterna i att välja videotjänst till AWn.

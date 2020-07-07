@@ -3,6 +3,8 @@ title: draw.wtf
 date: '2020-05-29T08:00:00.000Z'
 description: 'Avsnitt 4: Hobbyprojekt, ångestdriven utveckling, minnesläckor och mycket annat.'
 pinecastId: '67bb518a-1091-4990-b2fe-194858e76b4c'
+spotifyId: '2lBUGMQrRwsrocO4GuzX2Z'
+itunesId: '1000476157313'
 ---
 
 Anton har släppt sitt hobbyprojekt [draw.wtf](http://draw.wtf) vilket leder in på diskussioner kring programmering som kreativt utlopp, att släppa saker innan det är "perfekt" och hur det är att jobba med TypeScript på både frontend och backend. Dessutom en hel del om Therése ångestdrivna utveckling och liten historia om en minnesläcka.

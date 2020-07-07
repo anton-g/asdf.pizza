@@ -3,6 +3,8 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import SEO from '../components/Seo'
+import spotify from '../images/spotify.svg'
+import itunes from '../images/itunes.svg'
 
 const EpisodeTemplate = ({ data, pageContext, location }) => {
   const episode = data.markdownRemark
@@ -18,7 +20,45 @@ const EpisodeTemplate = ({ data, pageContext, location }) => {
       <article style={{ maxWidth: 600, padding: '0 16px' }}>
         <header>
           <h1>{episode.frontmatter.title}</h1>
-          <p>{episode.frontmatter.date}</p>
+          <div
+            style={{
+              display: 'flex',
+              flexWrap: 'wrap',
+              alignItems: 'center',
+              marginBottom: '12px',
+            }}
+          >
+            <p style={{ margin: 0, marginRight: 8 }}>
+              {episode.frontmatter.date}
+            </p>
+            {episode.frontmatter.spotifyId && (
+              <a
+                href={`https://open.spotify.com/episode/${episode.frontmatter.spotifyId}`}
+                style={{
+                  height: '25px',
+                  width: '100px',
+                  display: 'flex',
+                  justifyContent: 'center',
+                  marginRight: 8,
+                }}
+              >
+                <img style={{ width: '100%' }} src={spotify}></img>
+              </a>
+            )}
+            {episode.frontmatter.itunesId && (
+              <a
+                href={`https://podcasts.apple.com/se/podcast/asdf/id1506059489?i=${episode.frontmatter.itunesId}`}
+                style={{
+                  height: '25px',
+                  width: '100px',
+                  display: 'flex',
+                  justifyContent: 'center',
+                }}
+              >
+                <img style={{ width: '100%' }} src={itunes}></img>
+              </a>
+            )}
+          </div>
         </header>
         <section>
           <iframe
@@ -82,6 +122,8 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         pinecastId
+        spotifyId
+        itunesId
       }
     }
   }
