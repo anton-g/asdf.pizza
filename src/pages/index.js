@@ -10,6 +10,10 @@ import spotify from '../images/spotify.svg'
 const IndexPage = ({ data, location }) => {
   const episodes = data.allMarkdownRemark.edges
 
+  const eps = episodes.filter(
+    (e) => new Date(e.node.frontmatter.date) < new Date()
+  )
+
   return (
     <Layout>
       <SEO title="asdf podcast 👋" />
@@ -21,7 +25,19 @@ const IndexPage = ({ data, location }) => {
           height: '100%',
         }}
       >
-        <div style={{ minWidth: 200, padding: '0 16px' }}>
+        <p
+          style={{
+            maxWidth: 340,
+            marginTop: 0,
+            padding: '0 8px',
+            fontSize: 14,
+          }}
+        >
+          Som en liten parentes i cyberrymden spenderar Therése & Anton en
+          halvtimme då och då med att prata ofiltrerat om kod, livet och allt
+          däremellan.
+        </p>
+        <div style={{ minWidth: 200, padding: '0 16px', marginBottom: 16 }}>
           <div
             style={{
               display: 'flex',
@@ -62,16 +78,14 @@ const IndexPage = ({ data, location }) => {
               maxWidth: 500,
             }}
           >
-            {episodes
-              .filter((e) => new Date(e.node.frontmatter.date) < new Date())
-              .map((e) => (
-                <li key={e.node.fields.slug}>
-                  <Link to={e.node.fields.slug}>
-                    {e.node.frontmatter.title}
-                  </Link>
-                  {/* <p>{e.node.frontmatter.description}</p> */}
-                </li>
-              ))}
+            {eps.map((e, i) => (
+              <li key={e.node.fields.slug}>
+                <Link to={e.node.fields.slug}>
+                  {eps.length - i}. {e.node.frontmatter.title}
+                </Link>
+                {/* <p>{e.node.frontmatter.description}</p> */}
+              </li>
+            ))}
           </ul>
         </div>
         <img
