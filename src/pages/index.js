@@ -16,7 +16,7 @@ const IndexPage = ({ data, location }) => {
 
   return (
     <Layout>
-      <SEO title="asdf podcast 👋" />
+      <SEO title="episodes" />
       <div
         style={{
           display: 'flex',
