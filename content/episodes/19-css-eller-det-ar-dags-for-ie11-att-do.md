@@ -3,8 +3,8 @@ title: 'CSS, eller, "Det är dags för IE 11 att dö"'
 date: '2021-01-15T06:00:00.000Z'
 description: 'Avsnitt 19: Grundläggande CSS, animerade SVGer, konfettikanonsfrustration och slutet för IE11.'
 pinecastId: '318915da-f958-4f52-87b0-c72abe6c21fb'
-spotifyId: ''
-itunesId: ''
+spotifyId: '4hCQ52RkUipCITGN3Np7aY'
+itunesId: '1000505400287'
 ---
 
 Efter den långsammaste inledningen någonsin pratar vi om allt kring CSS i kanske det ospretigaste avsnittet hittills. Vi snackar grundläggande CSS såsom flex vs block, px vs em, att använda CSS Grid i produktion och att det verkligen är dags för IE 11 att dö. Dessutom fotorealistisk CSS, animerade SVGer och frustrationen bakom en konfettikanon.

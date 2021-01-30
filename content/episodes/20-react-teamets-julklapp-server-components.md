@@ -3,8 +3,8 @@ title: 'React-teamets julklapp: Server Components'
 date: '2021-01-30T13:00:00.000Z'
 description: 'Avsnitt 20: Reacts nyaste experiment, Server Components. Vad är det och vad är det bra för?'
 pinecastId: '287b4c27-0847-40ed-83ba-732e84d26d34'
-spotifyId: ''
-itunesId: ''
+spotifyId: '4WJK8UF0djC3m5oGE3kOoG'
+itunesId: '1000507098452'
 ---
 
 I det första avsnittet inspelat 2021 ventilerar vi först lite om ångesten över semesterslut och långa startsträckor, men sen hoppar vi in på dagens huvudsakliga ämne: React Server Components. Ett nytt sätt att skriva Reactapplikationer där du kan välja vilka komponenter som körs i webbläsaren och vilka som renderar på servern. Anton har testat och är (som vanligt) rätt pepp!
