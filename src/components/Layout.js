@@ -18,8 +18,15 @@ const Layout = ({ children }) => {
           alignItems: "center",
         }}
       >
-        <Link to="/" style={{ textDecoration: "none", color: "black" }}>
-          <h1>asdf</h1>
+        <Link
+          to="/"
+          style={{
+            textDecoration: "none",
+            color: "#fdf100",
+            fontFamily: "Fascinate, cursive",
+          }}
+        >
+          <h1 style={{ fontSize: "4em" }}>asdf</h1>
         </Link>
         {children}
       </div>

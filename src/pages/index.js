@@ -6,6 +6,7 @@ import SEO from "../components/Seo";
 import pizzadean from "../images/pizzadean.gif";
 import itunes from "../images/itunes.svg";
 import spotify from "../images/spotify.svg";
+import "./index.css";
 
 const IndexPage = ({ data, location }) => {
   const episodes = data.allMarkdownRemark.edges;
@@ -80,7 +81,11 @@ const IndexPage = ({ data, location }) => {
           >
             {eps.map((e, i) => (
               <li key={e.node.fields.slug}>
-                <Link to={e.node.fields.slug}>
+                <Link
+                  className="link"
+                  to={e.node.fields.slug}
+                  style={{ textDecoration: "none", color: "#fdf100" }}
+                >
                   {eps.length - i}. {e.node.frontmatter.title}
                 </Link>
                 {/* <p>{e.node.frontmatter.description}</p> */}

@@ -5,7 +5,7 @@ import SEO from "../components/Seo";
 import itunes from "../images/itunes.svg";
 import spotify from "../images/spotify.svg";
 
-const EpisodeTemplate = ({ data, pageContext, location }) => {
+const EpisodeTemplate = ({ data, location }) => {
   const episode = data.markdownRemark;
   const siteTitle = data.site.siteMetadata.title;
 

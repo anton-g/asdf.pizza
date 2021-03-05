@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Inter&display=swap');
+/* @import url("https://fonts.googleapis.com/css?family=Inter&Architects+Daughter&family=Fascinate&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Fascinate&display=swap");
 
 html,
 body,
@@ -7,5 +8,6 @@ body,
   height: 100%;
   width: 100%;
   margin: 0;
-  font-family: Inter, sans-serif;
+  font-family: "Architects Daughter", sans-serif;
+  background: linear-gradient(-45deg, #eeafd2, #e23b97);
 }
