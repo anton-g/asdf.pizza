@@ -1,15 +1,13 @@
-import React from 'react'
-import { Link, graphql } from 'gatsby'
-
-import Layout from '../components/Layout'
-import SEO from '../components/Seo'
-import spotify from '../images/spotify.svg'
-import itunes from '../images/itunes.svg'
+import { graphql } from "gatsby";
+import React from "react";
+import Layout from "../components/Layout";
+import SEO from "../components/Seo";
+import itunes from "../images/itunes.svg";
+import spotify from "../images/spotify.svg";
 
 const EpisodeTemplate = ({ data, pageContext, location }) => {
-  const episode = data.markdownRemark
-  const siteTitle = data.site.siteMetadata.title
-  const { previous, next } = pageContext
+  const episode = data.markdownRemark;
+  const siteTitle = data.site.siteMetadata.title;
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -17,15 +15,15 @@ const EpisodeTemplate = ({ data, pageContext, location }) => {
         title={episode.frontmatter.title}
         description={episode.frontmatter.description || episode.excerpt}
       />
-      <article style={{ maxWidth: 600, padding: '0 16px' }}>
+      <article style={{ maxWidth: 600, padding: "0 16px" }}>
         <header>
           <h1>{episode.frontmatter.title}</h1>
           <div
             style={{
-              display: 'flex',
-              flexWrap: 'wrap',
-              alignItems: 'center',
-              marginBottom: '12px',
+              display: "flex",
+              flexWrap: "wrap",
+              alignItems: "center",
+              marginBottom: "12px",
             }}
           >
             <p style={{ margin: 0, marginRight: 8 }}>
@@ -35,27 +33,35 @@ const EpisodeTemplate = ({ data, pageContext, location }) => {
               <a
                 href={`https://open.spotify.com/episode/${episode.frontmatter.spotifyId}`}
                 style={{
-                  height: '25px',
-                  width: '100px',
-                  display: 'flex',
-                  justifyContent: 'center',
+                  height: "25px",
+                  width: "100px",
+                  display: "flex",
+                  justifyContent: "center",
                   marginRight: 8,
                 }}
               >
-                <img style={{ width: '100%' }} src={spotify}></img>
+                <img
+                  style={{ width: "100%" }}
+                  src={spotify}
+                  alt="Listen to this episode on Spotify"
+                ></img>
               </a>
             )}
             {episode.frontmatter.itunesId && (
               <a
                 href={`https://podcasts.apple.com/se/podcast/asdf/id1506059489?i=${episode.frontmatter.itunesId}`}
                 style={{
-                  height: '25px',
-                  width: '100px',
-                  display: 'flex',
-                  justifyContent: 'center',
+                  height: "25px",
+                  width: "100px",
+                  display: "flex",
+                  justifyContent: "center",
                 }}
               >
-                <img style={{ width: '100%' }} src={itunes}></img>
+                <img
+                  style={{ width: "100%" }}
+                  src={itunes}
+                  alt="Listen to this episode on Itunes"
+                ></img>
               </a>
             )}
           </div>
@@ -69,6 +75,7 @@ const EpisodeTemplate = ({ data, pageContext, location }) => {
             className="pinecast-embed"
             frameBorder="0"
             width="100%"
+            title="Pinecast"
           ></iframe>
           <div dangerouslySetInnerHTML={{ __html: episode.html }} />
         </section>
@@ -101,10 +108,10 @@ const EpisodeTemplate = ({ data, pageContext, location }) => {
         </ul>
       </nav> */}
     </Layout>
-  )
-}
+  );
+};
 
-export default EpisodeTemplate
+export default EpisodeTemplate;
 
 export const pageQuery = graphql`
   query EpisodeBySlug($slug: String!) {
@@ -127,4 +134,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
