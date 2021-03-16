@@ -15,7 +15,7 @@ Om du gillar podden blir vi väldigt glada för en liten recension i iTunes elle
 
 ### Länkar
 
-- [Kodsnack](https://kodsnack.se/)
+- [Kodsnack-avsnittet Anton gästat](https://kodsnack.se/409/)
 - [Geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities)
 - [Netlify](https://www.netlify.com/)
 - [GitHub Pages](https://pages.github.com/)
