@@ -1,7 +1,7 @@
 ---
 title: '1 år och 1 miljard'
 date: '2021-04-09T09:00:00.000Z'
-description: 'Avsnitt 25: 'Vi har poddat i ett år och Stockholms Stad har spenderat en miljard på ett system.'
+description: 'Avsnitt 25: Vi har poddat i ett år och Stockholms Stad har spenderat en miljard på ett system.'
 pinecastId: '9d3e1739-115a-4557-b94f-fcb841210622'
 spotifyId: ''
 itunesId: ''
