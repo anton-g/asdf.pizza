@@ -3,8 +3,8 @@ title: 'En djup kris i Therése relation'
 date: '2021-04-23T08:00:00.000Z'
 description: 'Avsnitt 26: DX, copy paste-utveckling, automatisering, för tidiga abstraktioner och mycket annat.'
 pinecastId: '78cffd79-e386-47fd-a08d-6a4b14206db6'
-spotifyId: ''
-itunesId: ''
+spotifyId: '4CMF8ll4np3olCmYVWZd1m'
+itunesId: '1000508698062'
 ---
 
 ### Beskrivning

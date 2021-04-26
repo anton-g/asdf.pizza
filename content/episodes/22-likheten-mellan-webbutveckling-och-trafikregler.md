@@ -3,8 +3,8 @@ title: 'Likheten mellan webbutveckling och trafikregler'
 date: '2021-02-26T06:00:00.000Z'
 description: 'Avsnitt 22: Är webbutveckling för komplicerat idag?'
 pinecastId: '4b9073f7-87b4-4a6d-8040-6ce028eeb30b'
-spotifyId: ''
-itunesId: ''
+spotifyId: '4uxfMwOO1zqnT6TUmqHZub'
+itunesId: '1000510719799'
 ---
 
 ### Beskrivning
