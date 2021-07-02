@@ -3,8 +3,8 @@ title: 'TypeScript är din nemesis'
 date: '2021-06-18T13:30:00.000Z'
 description: 'Avsnitt 30: Vi tycker till om TypeScript. Disciplinen som krävs, att inte komma överrens och att använda TS utan typer.'
 pinecastId: 'e17c9ea4-276c-4774-b1b9-c9e6f1eef50c'
-spotifyId: ''
-itunesId: ''
+spotifyId: '6fYYH6PVDugTibVcDSsykw'
+itunesId: '1000526004128'
 ---
 
 ### Beskrivning
