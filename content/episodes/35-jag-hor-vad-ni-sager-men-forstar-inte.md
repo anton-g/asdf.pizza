@@ -3,8 +3,8 @@ title: 'Jag hör vad ni säger men förstår inte'
 date: '2021-08-27T10:00:00.000Z'
 description: 'Avsnitt 35: Planering av sprintar, features, kapacitet, SAFe; att grotta ner sig lite för mycket, hur våra drömplaneringar ser ut och vad vi tycker om estimering.'
 pinecastId: 'f5311fa1-e6f8-45a2-a2e9-c24de9645400'
-spotifyId: ''
-itunesId: ''
+spotifyId: '5jXcG9iMWv4oZ0QzxFwCqQ'
+itunesId: '1000533299059'
 ---
 
 ### Beskrivning

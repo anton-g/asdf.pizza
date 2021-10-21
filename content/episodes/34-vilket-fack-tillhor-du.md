@@ -3,8 +3,8 @@ title: 'Vilket fack tillhör du?'
 date: '2021-08-13T10:00:00.000Z'
 description: 'Avsnitt 34: Generalist eller specialist, att välja spår, att lära sig saker och mycket mer.'
 pinecastId: '195f34a2-7255-49a5-8f43-f4b1778939cb'
-spotifyId: ''
-itunesId: ''
+spotifyId: '0axcSzQRTbvEHzL70UxqOm'
+itunesId: '1000531902755'
 ---
 
 ### Beskrivning

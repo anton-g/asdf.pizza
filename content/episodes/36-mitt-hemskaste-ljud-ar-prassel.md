@@ -3,8 +3,8 @@ title: 'Mitt hemskaste ljud är prassel'
 date: '2021-09-10T09:00:00.000Z'
 description: 'Avsnitt 36: Nyheten att rekommendationen att jobba hemma tas bort har precis släppts så vi pratar om kontor, kontorslandsskap och allt runt omkring.'
 pinecastId: '125e0a04-bd07-4845-9cc7-2e2204a0dab5'
-spotifyId: ''
-itunesId: ''
+spotifyId: '2SldkUEeivLPmAjOYK5q6H'
+itunesId: '1000534900413'
 ---
 
 ### Beskrivning

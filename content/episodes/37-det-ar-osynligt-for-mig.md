@@ -3,8 +3,8 @@ title: 'Det är osynligt för mig'
 date: '2021-09-24T09:00:00.000Z'
 description: 'Avsnitt 37: Den enligt rapporter kassa kulturen på vissa spelbolag, osynliga privilegier, vikten av att utbilda sig och mycket annat.'
 pinecastId: '80c12d3e-f0dc-4a74-a554-31a15c146aaa'
-spotifyId: ''
-itunesId: ''
+spotifyId: '7FcH5RVPIrnQxRipQCG1gh'
+itunesId: '1000536481960'
 ---
 
 ### Beskrivning
