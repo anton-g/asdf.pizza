@@ -3,8 +3,8 @@ title: 'En crash course i pinsam tystnad'
 date: '2021-10-22T07:00:00.000Z'
 description: 'Avsnitt 39: Att börja hålla presentationer på meetups och konferenser, att ignorera kritik, förinspelningar, sårbarheten framför en publik och mycket annat.'
 pinecastId: '85f45dd0-2e44-488c-b45f-884125f31c1e'
-spotifyId: ''
-itunesId: ''
+spotifyId: '1wxe5o2F6lGskT9vFtziQT'
+itunesId: '1000539361571'
 ---
 
 ### Beskrivning
