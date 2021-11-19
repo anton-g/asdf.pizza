@@ -3,8 +3,8 @@ title: 'En fysisk påverkan på hjärnan'
 date: '2021-11-19T07:00:00.000Z'
 description: 'Avsnitt 41: Vi pratar om att vara sjukskriven av utmattning, stressen under sjukskrivningen, hur "gå in i väggen" är en halvdan metafor och mycket annat.'
 pinecastId: 'ddcc402b-fff3-4acc-833c-bee7db189044'
-spotifyId: ''
-itunesId: ''
+spotifyId: '3gW3oLi4CPqAscFfhKcjz0'
+itunesId: '1000542442052'
 ---
 
 ### Beskrivning
