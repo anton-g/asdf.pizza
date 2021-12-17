@@ -3,8 +3,8 @@ title: 'React 18'
 date: '2021-12-03T07:00:00.000Z'
 description: 'Avsnitt 42: React 18 är släppt i beta. Vi går igenom nya features såsom concurrency, batchning, nya hooks och mycket mer.'
 pinecastId: '96855748-9a69-4355-ae11-d99810001ea4'
-spotifyId: ''
-itunesId: ''
+spotifyId: '1E60gGFSS4BSKSXOq9s0Ne'
+itunesId: '1000543813823'
 ---
 
 ### Beskrivning
