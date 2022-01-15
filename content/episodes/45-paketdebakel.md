@@ -3,8 +3,8 @@ title: 'Paketdebakel'
 date: '2022-01-14T07:00:00.000Z'
 description: 'Avsnitt 45: 'Helgens debakel där utvecklaren bakom faker.js och colours.js bestämde sig för att medvetet förstöra paketen i någon form av protest.'
 pinecastId: 'c708a560-8b33-47c1-ac2a-78ed03646b00'
-spotifyId: ''
-itunesId: ''
+spotifyId: '4rEKoSSPScg9SpfiR2xKe3'
+itunesId: '1000547855972'
 ---
 
 Vi snackar om helgens debakel där utvecklaren bakom faker.js och colours.js bestämde sig för att medvetet förstöra paketen i någon form av protest. Det leder bland annat in på diskussioner om ägandeskap över sin egen kod, att bli bannad från GitHub, sociala medier-poesi och open source-finansiering.
