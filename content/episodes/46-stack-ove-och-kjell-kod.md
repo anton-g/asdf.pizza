@@ -7,7 +7,7 @@ spotifyId: ''
 itunesId: ''
 ---
 
-Dokumentationsbonanza! Egen dokumentation i form av kommentarer, readmes och XXX samt ramverks dokumentation och guider. Är frågor på “Stack-Ove” dokumentation? Är det en superkraft att vara duktig på att läsa dokumentation? Den eviga känslan att det är jobbigt att uppdatera dokumentation samt mycket mycket annat.
+Dokumentationsbonanza! Egen dokumentation i form av kommentarer och readmes samt ramverks dokumentation och guider. Är frågor på “Stack-Ove” dokumentation? Är det en superkraft att vara duktig på att läsa dokumentation? Den eviga känslan att det är jobbigt att uppdatera dokumentation samt mycket mycket annat.
 
 Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
 
