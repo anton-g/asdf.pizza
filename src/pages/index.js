@@ -1,35 +1,35 @@
-import React from "react";
-import { graphql, Link } from "gatsby";
-import Layout from "../components/Layout";
-import SEO from "../components/Seo";
+import React from 'react'
+import { graphql, Link } from 'gatsby'
+import Layout from '../components/Layout'
+import SEO from '../components/Seo'
 
-import pizzadean from "../images/pizzadean.gif";
-import itunes from "../images/itunes.svg";
-import spotify from "../images/spotify.svg";
+import pizzadean from '../images/pizzadean.gif'
+import itunes from '../images/itunes.svg'
+import spotify from '../images/spotify.svg'
 
 const IndexPage = ({ data, location }) => {
-  const episodes = data.allMarkdownRemark.edges;
+  const episodes = data.allMarkdownRemark.edges
 
   const eps = episodes.filter(
     (e) => new Date(e.node.frontmatter.date) < new Date()
-  );
+  )
 
   return (
     <Layout>
       <SEO title="episodes" />
       <div
         style={{
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "center",
-          height: "100%",
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          height: '100%',
         }}
       >
         <p
           style={{
             maxWidth: 340,
             marginTop: 0,
-            padding: "0 8px",
+            padding: '0 8px',
             fontSize: 14,
           }}
         >
@@ -37,21 +37,21 @@ const IndexPage = ({ data, location }) => {
           halvtimme då och då med att prata ofiltrerat om kod, livet och allt
           däremellan.
         </p>
-        <div style={{ minWidth: 200, padding: "0 16px", marginBottom: 16 }}>
+        <div style={{ minWidth: 200, padding: '0 16px', marginBottom: 16 }}>
           <div
             style={{
-              display: "flex",
-              justifyContent: "center",
-              flexWrap: "wrap",
+              display: 'flex',
+              justifyContent: 'center',
+              flexWrap: 'wrap',
             }}
           >
             <a
               href="https://podcasts.apple.com/se/podcast/asdf/id1506059489"
               style={{
-                width: "170px",
-                display: "flex",
-                justifyContent: "center",
-                marginBottom: "8px",
+                width: '170px',
+                display: 'flex',
+                justifyContent: 'center',
+                marginBottom: '8px',
               }}
             >
               <img src={itunes} alt="Listen to asdf on Itunes"></img>
@@ -59,10 +59,10 @@ const IndexPage = ({ data, location }) => {
             <a
               href="https://open.spotify.com/show/48pKe510caxiFkvxtoXJge"
               style={{
-                width: "170px",
-                display: "flex",
-                justifyContent: "center",
-                marginBottom: "8px",
+                width: '170px',
+                display: 'flex',
+                justifyContent: 'center',
+                marginBottom: '8px',
               }}
             >
               <img src={spotify} alt="Listen to asdf on Spotify"></img>
@@ -71,8 +71,8 @@ const IndexPage = ({ data, location }) => {
           <h2 style={{ fontSize: 18 }}>avsnitt</h2>
           <ul
             style={{
-              listStyle: "none",
-              fontSize: "18px",
+              listStyle: 'none',
+              fontSize: '18px',
               margin: 0,
               padding: 0,
               maxWidth: 500,
@@ -91,14 +91,14 @@ const IndexPage = ({ data, location }) => {
         <img
           src={pizzadean}
           alt="man with pizza hands"
-          style={{ maxWidth: 200, marginTop: "auto" }}
+          style={{ maxWidth: 200, marginTop: 'auto' }}
         ></img>
       </div>
     </Layout>
-  );
-};
+  )
+}
 
-export default IndexPage;
+export default IndexPage
 
 export const pageQuery = graphql`
   query {
@@ -123,4 +123,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

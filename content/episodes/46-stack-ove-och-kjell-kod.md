@@ -1,10 +1,10 @@
 ---
 title: 'Stack-Ove & Kjell Kod'
 date: '2022-01-28T07:00:00.000Z'
-description: 'Avsnitt 46: 'Dokumentationsbonanza! Egenskriven dokumentation, ramverks dokumentation, Stack-Ove och mycket mer.'
+description: 'Avsnitt 46: Dokumentationsbonanza! Egenskriven dokumentation, ramverks dokumentation, Stack-Ove och mycket mer.'
 pinecastId: '049912b7-9494-426b-8a7a-85595caf5af6'
-spotifyId: ''
-itunesId: ''
+spotifyId: '1lk6VNnlqvXvDzKopkfLwF'
+itunesId: '1000549248706'
 ---
 
 Dokumentationsbonanza! Egen dokumentation i form av kommentarer och readmes samt ramverks dokumentation och guider. Är frågor på “Stack-Ove” dokumentation? Är det en superkraft att vara duktig på att läsa dokumentation? Den eviga känslan att det är jobbigt att uppdatera dokumentation samt mycket mycket annat.

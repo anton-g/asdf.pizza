@@ -1,13 +1,13 @@
-import { graphql } from "gatsby";
-import React from "react";
-import Layout from "../components/Layout";
-import SEO from "../components/Seo";
-import itunes from "../images/itunes.svg";
-import spotify from "../images/spotify.svg";
+import { graphql } from 'gatsby'
+import React from 'react'
+import Layout from '../components/Layout'
+import SEO from '../components/Seo'
+import itunes from '../images/itunes.svg'
+import spotify from '../images/spotify.svg'
 
 const EpisodeTemplate = ({ data, pageContext, location }) => {
-  const episode = data.markdownRemark;
-  const siteTitle = data.site.siteMetadata.title;
+  const episode = data.markdownRemark
+  const siteTitle = data.site.siteMetadata.title
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -15,55 +15,59 @@ const EpisodeTemplate = ({ data, pageContext, location }) => {
         title={episode.frontmatter.title}
         description={episode.frontmatter.description || episode.excerpt}
       />
-      <article style={{ maxWidth: 600, padding: "0 16px" }}>
+      <article style={{ maxWidth: 600, padding: '0 16px' }}>
         <header>
           <h1>{episode.frontmatter.title}</h1>
           <div
             style={{
-              display: "flex",
-              flexWrap: "wrap",
-              alignItems: "center",
-              marginBottom: "12px",
+              display: 'flex',
+              flexWrap: 'wrap',
+              alignItems: 'center',
+              marginBottom: '12px',
             }}
           >
             <p style={{ margin: 0, marginRight: 8 }}>
               {episode.frontmatter.date}
             </p>
-            {episode.frontmatter.spotifyId && (
-              <a
-                href={`https://open.spotify.com/episode/${episode.frontmatter.spotifyId}`}
-                style={{
-                  height: "25px",
-                  width: "100px",
-                  display: "flex",
-                  justifyContent: "center",
-                  marginRight: 8,
-                }}
-              >
-                <img
-                  style={{ width: "100%" }}
-                  src={spotify}
-                  alt="Listen to this episode on Spotify"
-                ></img>
-              </a>
-            )}
-            {episode.frontmatter.itunesId && (
-              <a
-                href={`https://podcasts.apple.com/se/podcast/asdf/id1506059489?i=${episode.frontmatter.itunesId}`}
-                style={{
-                  height: "25px",
-                  width: "100px",
-                  display: "flex",
-                  justifyContent: "center",
-                }}
-              >
-                <img
-                  style={{ width: "100%" }}
-                  src={itunes}
-                  alt="Listen to this episode on Itunes"
-                ></img>
-              </a>
-            )}
+            <a
+              href={
+                episode.frontmatter.spotifyId
+                  ? `https://open.spotify.com/episode/${episode.frontmatter.spotifyId}`
+                  : 'https://open.spotify.com/show/48pKe510caxiFkvxtoXJge?si=394f0c14012b4d6d'
+              }
+              style={{
+                height: '25px',
+                width: '100px',
+                display: 'flex',
+                justifyContent: 'center',
+                marginRight: 8,
+              }}
+            >
+              <img
+                style={{ width: '100%' }}
+                src={spotify}
+                alt="Listen to this episode on Spotify"
+              ></img>
+            </a>
+            <a
+              href={
+                episode.frontmatter.itunesId
+                  ? `https://podcasts.apple.com/se/podcast/asdf/id1506059489?i=${episode.frontmatter.itunesId}`
+                  : 'http://podcasts.apple.com/us/podcast/asdf/id1506059489'
+              }
+              style={{
+                height: '25px',
+                width: '100px',
+                display: 'flex',
+                justifyContent: 'center',
+              }}
+            >
+              <img
+                style={{ width: '100%' }}
+                src={itunes}
+                alt="Listen to this episode on Itunes"
+              ></img>
+            </a>
           </div>
         </header>
         <section>
@@ -108,10 +112,10 @@ const EpisodeTemplate = ({ data, pageContext, location }) => {
         </ul>
       </nav> */}
     </Layout>
-  );
-};
+  )
+}
 
-export default EpisodeTemplate;
+export default EpisodeTemplate
 
 export const pageQuery = graphql`
   query EpisodeBySlug($slug: String!) {
@@ -134,4 +138,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`
