@@ -3,8 +3,8 @@ title: 'En nerkokad presentation'
 date: '2022-04-22T07:00:00.000Z'
 description: 'Avsnitt 52: Meetups! Gratis mat och dryck, att merch är kul trots allt, hantera sina förväntningar, att dricka lite för mycket cava och visa vad en kan samt mycket annat!'
 pinecastId: 'd4257dda-a0e8-4664-beb3-631995324ab1'
-spotifyId: ''
-itunesId: ''
+spotifyId: '5z1BcLCYkoGTTiNBbgOe6S'
+itunesId: '1000558343273'
 ---
 
 Mer och mer av världen öppnar upp och med det kommer även meetups tillbaka! Vi snackar om gratis mat och dryck, att merch är kul trots allt, vidga sina vyer, hantera sina förväntningar och alternativ till den traditionella meetupstrukturen. Dessutom en hel del om att dricka lite för mycket cava och visa vad en kan samt den perfekta längden på en presentation.

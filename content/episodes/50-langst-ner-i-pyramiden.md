@@ -3,8 +3,8 @@ title: 'Längst ner i pyramiden'
 date: '2022-03-25T07:00:00.000Z'
 description: 'Avsnitt 50: Gunnar Morlings kodgranskningspyramid, kodgranskning som färdighet, dokumentation, sårbarhet, mobbprogrammering och mycket annat.'
 pinecastId: 'a9fba6a6-bf6e-43be-96ad-f3c6cc3e0751'
-spotifyId: ''
-itunesId: ''
+spotifyId: '437cBl2jDOkAzU97BgDaaL'
+itunesId: '1000555200118'
 ---
 
 Med utgångspunkt i Gunnar Morlings visuella kodgranskningspyramid snackar vi var fokus under en kodgranskning bör ligga, sårbarheten, att kodgranskning är en färdighet som måste tränas och hur vissa delar behöver hårdare granskning för att de är svårare att ändra i efterhand. Dessutom en hel del sidospår om bland annat dokumentation, mobbprogrammering och mycket annat.

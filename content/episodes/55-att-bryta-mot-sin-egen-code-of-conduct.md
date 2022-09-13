@@ -3,8 +3,8 @@ title: 'Att bryta mot sin egen Code of Conduct'
 date: '2022-06-11T12:00:00.000Z'
 description: 'Avsnitt 55: Vi pratar om att ReactEurope blev ReactEurasia i Dubai, hur det dramat utspelade sig och vad det resulterade i.'
 pinecastId: '701b004e-d5b7-4bbe-87e4-d1a3bd726c93'
-spotifyId: ''
-itunesId: ''
+spotifyId: '3ZFYr9NAtxafm4fumO75y7'
+itunesId: '1000566069456'
 ---
 
 Vi pratar om ReactEuropes rebranding till ReactEurasia, dess beslut att förlägga konferensen i Dubai och varför det är ett jäkligt dumt val. Det blir en hel del om Twitter-dramat som följde, whataboutism, Reacts community jämfört med andra och att bryta mot sin egen Code of Conduct. Till sist en del om att gå i försvarsställning och lite lite snack om animationer.

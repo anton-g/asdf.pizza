@@ -3,8 +3,8 @@ title: 'Vi slänger bara ut'
 date: '2022-08-19T07:00:00.000Z'
 description: 'Avsnitt 60: Produtionssättning, deploy, release! Kalla det vad du vill men det är det vi snackar om idag!'
 pinecastId: 'c65d5c1d-c86f-4dd3-be03-cf414167565d'
-spotifyId: ''
-itunesId: ''
+spotifyId: '49bh32eNiQOsznYsPclfiR'
+itunesId: '1000576563319'
 ---
 
 ### Beskrivning

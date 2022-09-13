@@ -3,8 +3,8 @@ title: 'Jag och mina liberala glasögon'
 date: '2022-07-09T07:00:00.000Z'
 description: 'Avsnitt 57: Mobbprogrammeringsbonanza! Vad, hur, varför, när plus lite verktyg och svengelska uttryck.'
 pinecastId: '06504f37-3b0a-403b-9d8e-5c38c5b4330f'
-spotifyId: ''
-itunesId: ''
+spotifyId: '32Ng3E0bSKiHP6Ekfpz3be'
+itunesId: '1000569347904'
 ---
 
 ### Beskrivning

@@ -3,8 +3,8 @@ title: 'Totalt ointresserad av Kubernetes'
 date: '2022-07-22T07:00:00.000Z'
 description: 'Avsnitt 58: Vi pratar utvecklarupplevelse eller “DX”. Vad är ett bra CLI, hur trist det är att confa saker, kortkommandot shift + shift och massor av annat gött.'
 pinecastId: 'a6406325-0cd7-4be7-87ae-43c04395afe5'
-spotifyId: ''
-itunesId: ''
+spotifyId: '4O0loSqNz2GMHzRYkGagCt'
+itunesId: '1000570772600'
 ---
 
 ### Beskrivning
