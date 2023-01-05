@@ -1,7 +1,7 @@
 ---
 title: 'Jag får brasklappa hur mycket jag vill'
 date: '2023-01-06T07:00:00.000Z'
-description: 'Avsnitt 68: Fiaskokonferensen Modern Frontends Live och massor av exempel på vad en verkligen inte ska göra när en anordnar utvecklarkonferens.'
+description: 'Avsnitt 68: Det är 2023 och vi är tillbaka och det blir snack om att starta nytt, visionärer, att ta produktmänniskor för givet, vilka roller som är viktiga i en startup, att vara CTO, pengar, feedbackloopar, att skita i backendare samt att få saker att fungera innan de är rätt. '
 pinecastId: '74da125a-02f7-41a6-9779-21efd8f674c6'
 spotifyId: ''
 itunesId: ''
