@@ -2,7 +2,7 @@
 title: 'En startupresa del 2 (eller 3)'
 date: '2023-02-17T07:00:00.000Z'
 description: 'Avsnitt 71: Hur går det för Therése i hennes startupresa? Kapitalstopp, (interim) CTO av misstag, sunk cost fallacy, röster i huvudet och mycket annat.'
-pinecastId: ''
+pinecastId: '4555b96c-d019-4f88-9fc0-784e93455ce8'
 spotifyId: ''
 itunesId: ''
 ---
