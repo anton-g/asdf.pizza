@@ -1,40 +1,66 @@
 ---
+import { Image } from '@astrojs/image/components'
 import Layout from '../layouts/Layout.astro'
 import { getCollection } from 'astro:content'
+import logo from '../images/logo.png'
+import latestEpisodeHeading from '../images/latest-episode.png'
+import moreEpisodesHeading from '../images/more-episodes.png'
+import allEpisodes from '../images/all-episodes.png'
+
 const episodes = await getCollection('episodes')
 
-const sortedEpisodes = episodes
-  .slice()
-  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+const sortedEpisodes = episodes.sort((a, b) => b.data.date.getTime() - a.data.date.getTime()).slice(0, 11)
+const [latestEpisode, ...restEpisodes] = sortedEpisodes
+const { Content: LatestEpisodeContent } = await latestEpisode.render()
 ---
 
-<Layout title="Welcome to Astro.">
-  <main>
-    <h1>asdf</h1>
+<Layout title="asdf">
+  <div class="green-blob">
+    <svg viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+      <path
+        fill="#b3ab46"
+        d="M15.2,-26.6C23.2,-18.4,35.7,-20.2,44.7,-15.9C53.7,-11.6,59.1,-1.2,60.1,10.4C61.2,21.9,57.8,34.5,49.9,42.9C42.1,51.3,29.8,55.4,18.5,54.9C7.3,54.5,-2.9,49.4,-8.4,41.7C-13.9,34.1,-14.7,23.8,-21.3,17.7C-27.8,11.5,-39.9,9.5,-47.4,2.6C-54.9,-4.2,-57.8,-16,-53.9,-24.7C-50.1,-33.5,-39.6,-39.4,-29.5,-46.7C-19.4,-53.9,-9.7,-62.6,-3.1,-57.8C3.6,-53.1,7.1,-34.8,15.2,-26.6Z"
+        transform="translate(75 75)"></path>
+    </svg>
+  </div>
+  <main class="main">
+    <Image src={logo} width={500} alt="asdf logo" />
+    <Image src={latestEpisodeHeading} width={300} alt="Senaste avsnittet" />
+    <div class="latest-episode">
+      <h2>{latestEpisode.data.title}</h2>
+      <LatestEpisodeContent />
+    </div>
+
+    <Image src={moreEpisodesHeading} width={300} alt="Senaste avsnittet" />
     <ul>
       {
-        sortedEpisodes.map((episode) => (
+        restEpisodes.map((episode) => (
           <li>
             <a href={`/${episode.slug}`}>{episode.data.title}</a>
-            <time datetime={episode.data.date.toISOString()}>
-              {episode.data.date.toDateString()}
-            </time>
+            <time datetime={episode.data.date.toISOString()}>{episode.data.date.toDateString()}</time>
           </li>
         ))
       }
     </ul>
+    <a href="/avsnitt">
+      <Image src={allEpisodes} width={200} alt="Senaste avsnittet" />
+    </a>
   </main>
 </Layout>
 
 <style>
-  main {
-    margin: auto;
-    padding: 1.5rem;
-    max-width: 60ch;
+  .latest-episode {
+    position: relative;
+    border: 1px solid #18140b;
+    padding: 0 24px;
   }
-  h1 {
-    font-size: 3rem;
-    font-weight: 800;
-    margin: 0;
+  .green-blob {
+    position: absolute;
+    top: 400px;
+    left: -150px;
+    z-index: -1;
+    width: 600px;
+    height: 600px;
+    transform: rotate(20deg);
   }
 </style>

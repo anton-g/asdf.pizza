@@ -22,8 +22,9 @@ const { title } = Astro.props
 </html>
 <style is:global>
   @font-face {
-    font-family: 'Shantell Sans';
-    src: url('/fonts/Shantell_Sans-Normal-Regular.woff2') format('woff2');
+    /* font-family: 'Shantell Sans';
+    src: url('/fonts/Shantell_Sans-Normal-Regular.woff2') format('woff2'); */
+    font-family: sans-serif;
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -35,5 +36,24 @@ const { title } = Astro.props
   html,
   body {
     font-family: 'Shantell Sans', system-ui, sans-serif;
+  }
+
+  .main {
+    margin: auto;
+    padding: 1.5rem;
+    max-width: 60ch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  a {
+    color: #a05a39;
+  }
+  h2,
+  h3 {
+    font-weight: 500;
+  }
+  ul {
+    list-style-image: url('../images/bullet.png');
   }
 </style>
