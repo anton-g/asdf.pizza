@@ -6,7 +6,9 @@ import back from '../images/back.png'
 
 const episodes = await getCollection('episodes')
 
-const sortedEpisodes = episodes.slice().sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+const sortedEpisodes = episodes
+  .slice()
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
 ---
 
 <Layout title="avsnitt">
@@ -14,13 +16,15 @@ const sortedEpisodes = episodes.slice().sort((a, b) => b.data.date.getTime() - a
     <Image src={back} alt="go back to home" width={200} />
   </a>
   <main class="main">
-    <h1>asdf</h1>
+    <h1>alla våra avsnitt</h1>
     <ul>
       {
         sortedEpisodes.map((episode) => (
           <li>
             <a href={`/${episode.slug}`}>{episode.data.title}</a>
-            <time datetime={episode.data.date.toISOString()}>{episode.data.date.toDateString()}</time>
+            <time datetime={episode.data.date.toISOString()}>
+              {episode.data.date.toDateString()}
+            </time>
           </li>
         ))
       }

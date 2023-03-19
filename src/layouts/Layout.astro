@@ -22,8 +22,8 @@ const { title } = Astro.props
 </html>
 <style is:global>
   @font-face {
-    /* font-family: 'Shantell Sans';
-    src: url('/fonts/Shantell_Sans-Normal-Regular.woff2') format('woff2'); */
+    font-family: 'Shantell Sans';
+    src: url('/fonts/Shantell_Sans-Normal-Regular.woff2') format('woff2');
     font-family: sans-serif;
     font-weight: normal;
     font-style: normal;
@@ -35,6 +35,12 @@ const { title } = Astro.props
 
   html,
   body {
+    font-family: system-ui, sans-serif;
+  }
+
+  h1,
+  h2,
+  h3 {
     font-family: 'Shantell Sans', system-ui, sans-serif;
   }
 
