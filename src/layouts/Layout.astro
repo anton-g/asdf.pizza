@@ -67,6 +67,16 @@ const { title } = Astro.props
     list-style-image: url('../images/bullet.png');
   }
 
+  .markdown p:not(:first-of-type) {
+    margin: 16px 0;
+  }
+  .markdown h1,
+  .markdown h2,
+  .markdown h3,
+  .markdown h4 {
+    margin: 8px 0;
+  }
+
   /*
   RESET
   */
