@@ -7,8 +7,6 @@ spotifyId: '2WHirN1UFbpYZgIkYOmvp2'
 itunesId: '1000537934524'
 ---
 
-### Beskrivning
-
 Med starten i ett riktigt fem plus-skämt så snackar vi sedan karriär. Allt från trappor och stegar till personansvar och att glida ifrån kodandet. Dessutom hur en glapp käft kan leda till möjligheter, forskningen bakom att bli befordrad till sin inkompetens och tankar om våra karriärer om fem år.
 
 Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3

@@ -7,8 +7,6 @@ spotifyId: '04gxHyFHNIbyqIZmSHxKXK'
 itunesId: '1000512659620'
 ---
 
-### Beskrivning
-
 Vi diskuterar den ständigt återkommande pressen att vara och fortsätta vara relevant i sin kunskap. Behöver en kunna allt alltid? Hur påverkar jobbannonser som radar upp fler tekniker än det är möjligt att hålla koll på? Vi glider också in på allt från att vara trygg i sin okunskap, att använda teknik för att den är bättre och inte för att den är ny samt ifall det behövs fler konferenspresentationer om "gamla" saker.
 
 Dessutom en diskussion om att inte lägga sin fritid på att koda borde vara det normala, hur det ändå kan leda till innovation och att det är uppfriskande med folk som odlar tomater.

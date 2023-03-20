@@ -7,8 +7,6 @@ spotifyId: '2SldkUEeivLPmAjOYK5q6H'
 itunesId: '1000534900413'
 ---
 
-### Beskrivning
-
 Nyheten att rekommendationen att jobba hemma tas bort har precis släppts så vi pratar om kontor, kontorslandsskap och allt runt omkring. Det blir diskussioner om kontorspolicys, vad den nya arbetsplatshypen kommer bli och att tid är den bästa valutan.
 
 Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3

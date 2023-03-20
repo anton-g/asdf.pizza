@@ -7,8 +7,6 @@ spotifyId: '6zA7VrdGkXqjCIo3GCtwf5'
 itunesId: '1000529043579'
 ---
 
-### Beskrivning
-
 I dagens avsnitt snackar vi om komponentbibliotek. Vad det är för något, hur vi använder dem, vilka komponenter vill vi ha i ett bibliotek och mycket annat. Anton har en förkärlek för komponentbibliotek som är "headless" där det inte följer med någon styling vilket leder in på diskussioner om när man faktiskt vill att stylingen ska följa med, avvägningen mellan att hålla komponenter små och att tillhandahålla alla användningsfall som behövs, samt hur den avvägningen förändras beroende på vem användaren är.
 
 Dessutom en hel del om Atomic Design, att hitta ett gemensamt språk, koda först och tänka sen samt såklart en liten liten parantes om TypeScript.

@@ -7,8 +7,6 @@ spotifyId: '4A0RCMTnonXYXosqB4rU0o'
 itunesId: '1000546561318'
 ---
 
-### Beskrivning
-
 Vi rundar av året med att ställa varandra frågor inom diverse kategorier från hemsidan 30 Seconds of Interviews. Det blir allt från CSS selektorer, portaler, Ordo, stenhögsspråk, livscykelmetoder och higher order components.
 
 Mest av allt vill vi tacka alla som lyssnat, kommenterat, frågat och stöttat. Utan er vore vi ingenting. Vi ses igen 2022!

@@ -7,8 +7,6 @@ spotifyId: ''
 itunesId: ''
 ---
 
-### Beskrivning
-
 Några utvecklare från Stockholm tänkte podda lite under kvällskvisten. Men ämnet de skulle prata om hanns inte med.
 
 Efter den referensen så tar vi dagens “ämnen”: Rebase, —force-with-lease, navigera i text, en deja vu, terminalfönster och -paneler, quake mode, det självgoda i vim, det coola i touch typing, aggressivt klickande, att inte använda AI samt en liten förfrågan

@@ -7,8 +7,6 @@ spotifyId: '7FcH5RVPIrnQxRipQCG1gh'
 itunesId: '1000536481960'
 ---
 
-### Beskrivning
-
 Med utgång i rapporterna om rätt kass kultur på vissa spelbolag och i deras spel på sistone så pratar vi om osynliga privilegier och privilegier en oftast inte tänker på, vikten av att utbilda sig själv, att kunskap inte är svårt att hitta idag och att våga säga ifrån.
 
 Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3

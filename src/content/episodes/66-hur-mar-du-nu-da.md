@@ -7,8 +7,6 @@ spotifyId: ''
 itunesId: ''
 ---
 
-### Beskrivning
-
 Utan att lova för mycket så inleder Therése dagens avsnitt med poddens kanske bästa skämt genom tiderna, innan vi byter ämne helt och snackar mentorskap och coachning. Vi diskuterar oss fram till “rätt” svar på vad en coach, menter och förebild faktiskt är. Behöver det vara särskilt formellt? Vill vi ens ha eller vara en mentor? Dessutom en del om att lägga upp för misslyckanden, uppförsbackar och två minuters obekväm stämning.
 
 Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3

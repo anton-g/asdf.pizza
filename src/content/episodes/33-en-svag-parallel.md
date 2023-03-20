@@ -7,8 +7,6 @@ spotifyId: '0BaSemcRQ9pnu52a5jWTOZ'
 itunesId: '1000530473884'
 ---
 
-### Beskrivning
-
 I ett avsnitt med klassiskt sommarlåg energi plockar vi upp bollen från ungefär ett år sen och snackar strukturell terminologi inom tech. Vi hinner in på allowlist vs whitelist, att kalla sina brancher för main istället för master och medias roll i ord och uttrycks betydelse. Dessutom en del om buggar och mikroaggressioner, att vår branch borde vara lite mer mottaglig och en OERHÖRT svag parallel mellan att hata möten och att hata kvinnor.
 
 Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3

@@ -7,8 +7,6 @@ spotifyId: '49bh32eNiQOsznYsPclfiR'
 itunesId: '1000576563319'
 ---
 
-### Beskrivning
-
 Efter att ha avhandlat det senaste hippa sociala nätverket så snackar vi om produktionssättning, deployer, releaser; kalla det vad ni vill men det är något vi alla måste göra. Det blir en hel del om testmiljöer, e2e-tester, git när det brinner, hur svårt det är att säga Netlify samt argumenten för att släppa allt till produktion direkt. Dessutom en hel del om att ta en bra process för givet, kill_switch=”on” och jourens vara eller icke vara.
 
 Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3

@@ -7,8 +7,6 @@ spotifyId: ''
 itunesId: ''
 ---
 
-### Beskrivning
-
 Vi inleder med både ett nytt och ett gammalt skämt innan vi snackar om verktyget(?) Prisma. Vi pratar om våra erfarenheter av det, hur vi använder det och att sitta på sin kammare och gissa sig till vad en inner left join är. Dessutom en hel del halloweenpumpor, namedroppande av databaser samt ett, något ångestladdat, skrik.
 
 Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3

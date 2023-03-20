@@ -7,8 +7,6 @@ spotifyId: ''
 itunesId: ''
 ---
 
-### Beskrivning
-
 Therése gör saker som hon sa sist att hon absolut inte ville så vi snackar såklart om misslyckanden, katastroftankar och att befinna sig i limbo. Det blir en hel del om att våga ta beslut, att leva med sina beslut, att kosta pengar och ett bristande självförtroende. Dessutom en del om att ddosa sig själv, att prata skit på arbetstid och att döda en startup genom molnet.
 
 Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3

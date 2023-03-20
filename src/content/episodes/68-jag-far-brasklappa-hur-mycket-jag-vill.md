@@ -7,8 +7,6 @@ spotifyId: ''
 itunesId: ''
 ---
 
-### Beskrivning
-
 Det är 2023 och vi är tillbaka, kanske i motsatsen till högform, MEN det blir snack om att starta nytt, visionärer, att ta produktmänniskor för givet, vilka roller som är viktiga i en startup, att vara CTO, pengar, feedbackloopar, att skita i backendare samt att få saker att fungera innan de är rätt. Dessutom en hel del om att behöva bygga om, gammal React som gör sitt jobb och hur tiden att koda ofta blir lidande.
 
 Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3

@@ -7,8 +7,6 @@ spotifyId: '1wxe5o2F6lGskT9vFtziQT'
 itunesId: '1000539361571'
 ---
 
-### Beskrivning
-
 Som svar på en lyssnarfråga så pratar vi om hur en kan komma igång med att hålla presentationer på meetups och konferenser. Allt om att börja prata inför sina kollegor, våga ställa sig framför en publik, fördelen med lightning talks och att ge sin presentation en till dimension. Dessutom att ignorera kritik för att den är innehållslös, att förinspela sin presentation och mycket mer.
 
 PS. Det krafsande ljudet i bakgrunden är hundvalpen Maggan som gästspelar genom att mörda sin nallebjörn. Hon är gullig nog för att vara ursäktad <3

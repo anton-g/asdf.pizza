@@ -7,8 +7,6 @@ spotifyId: '0VXBg8eKaP8dt88TRdxvob'
 itunesId: '1000567569672'
 ---
 
-### Beskrivning
-
 Glad midsommar säger vi med ett gott snack om att arrangera meetups. Det blir en hel del om fokuset på community och branding snarare än rekrytering, att tejpa upp sin telefon i taket, mat, dryck samt att göra saker för utvecklare av utvecklare.
 Dessutom en hel del om ett fiasko till meetup, en kräsen publik och skillnaden i skala mellan 50 eller 1200 personer.
 

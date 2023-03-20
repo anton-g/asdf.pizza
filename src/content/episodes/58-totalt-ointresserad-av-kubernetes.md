@@ -7,8 +7,6 @@ spotifyId: '4O0loSqNz2GMHzRYkGagCt'
 itunesId: '1000570772600'
 ---
 
-### Beskrivning
-
 För variationens skull börjar vi med ett riktigt riktigt svagt skämt vilket snabbt leder oss in på utvecklarupplevelse, eller “developer experience”, eller DX som det också kallas. Det blir en massa snack om hur trist det är att confa saker, att få motfrågor av sin miljö, vad som är ett bra CLI och kortkommandot shift + shift. Dessutom en hel del om WebStorm vs VS Code, en liten rant om odds och några tips på bra tillägg till Code.
 
 Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3

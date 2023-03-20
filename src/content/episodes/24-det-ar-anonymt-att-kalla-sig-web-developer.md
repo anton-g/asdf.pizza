@@ -7,8 +7,6 @@ spotifyId: '2yjyKfbbD1ieWMG7Jhxtb6'
 itunesId: '1000514457257'
 ---
 
-### Beskrivning
-
 Med utgångspunkt i två artiklar om vad som ingår i modern front-endutveckling pratar vi om termen "front end" räcker som beskrivning av vad vi gör, om en måste skriva JavaScript för att kalla sig front end-utvecklare och hur moderna ramverk gjort allt grumligare. Dessutom en hel del om feedbackloopar, kommunikation och hur man håller ett demo på nya JSON-strukturer.
 
 Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3

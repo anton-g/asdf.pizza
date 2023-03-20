@@ -7,8 +7,6 @@ spotifyId: '40pSs30w6YG4R1oypZsWK8'
 itunesId: '1000540862230'
 ---
 
-### Beskrivning
-
 Anton går i rasande tempo igenom en frustrerande resa med prestandaproblem i sitt nya hobbyprojekt. Det leder till prat om att sortera i objekt istället för arrayer, vikten av dokumentation, att lära sig mer än API specifikationer och Reacts senaste framgångsfaktor.
 Dessutom en del om att smidigt återskapa problem, lite elitism och att fastna i att det ska bli bra.
 

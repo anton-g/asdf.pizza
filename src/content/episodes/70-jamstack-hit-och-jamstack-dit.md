@@ -7,8 +7,6 @@ spotifyId: ''
 itunesId: ''
 ---
 
-### Beskrivning
-
 Vi utgår från Netlifys köp av Gatsby och det leder till ett härligt spretigt samtal om allt från att GraphQL är överskattat, att delat ägandeskap inte är något ägandeskap, Jamstack, WAMP, MAMP, MERN och andra stackar inklusive myrstackar. Dessutom en hel del om att ursäkta influencers, att företag alltid kommer se till sig själv i första hand och lite lite alkoholhets.
 
 Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
