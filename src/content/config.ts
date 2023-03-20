@@ -12,8 +12,19 @@ const episodeCollection = defineCollection({
     itunesId: z.string().optional(),
   }),
 })
+const adventCollection = defineCollection({
+  schema: z.object({
+    date: z.date(),
+    number: z.number(),
+    description: z.string(),
+    pinecastId: z.string(),
+    spotifyId: z.string().optional(),
+    itunesId: z.string().optional(),
+  }),
+})
 // 3. Export a single `collections` object to register your collection(s)
 //    This key should match your collection directory name in "src/content"
 export const collections = {
   episodes: episodeCollection,
+  advent22: adventCollection,
 }

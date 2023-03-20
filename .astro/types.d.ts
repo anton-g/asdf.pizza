@@ -75,7 +75,177 @@ declare module 'astro:content' {
 	>;
 
 	const entryMap: {
-		"episodes": {
+		"advent22": {
+"lucka-1.md": {
+  id: "lucka-1.md",
+  slug: "lucka-1",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-10.md": {
+  id: "lucka-10.md",
+  slug: "lucka-10",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-11.md": {
+  id: "lucka-11.md",
+  slug: "lucka-11",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-12.md": {
+  id: "lucka-12.md",
+  slug: "lucka-12",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-13.md": {
+  id: "lucka-13.md",
+  slug: "lucka-13",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-14.md": {
+  id: "lucka-14.md",
+  slug: "lucka-14",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-15.md": {
+  id: "lucka-15.md",
+  slug: "lucka-15",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-16.md": {
+  id: "lucka-16.md",
+  slug: "lucka-16",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-17.md": {
+  id: "lucka-17.md",
+  slug: "lucka-17",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-18.md": {
+  id: "lucka-18.md",
+  slug: "lucka-18",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-19.md": {
+  id: "lucka-19.md",
+  slug: "lucka-19",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-2.md": {
+  id: "lucka-2.md",
+  slug: "lucka-2",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-20.md": {
+  id: "lucka-20.md",
+  slug: "lucka-20",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-21.md": {
+  id: "lucka-21.md",
+  slug: "lucka-21",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-22.md": {
+  id: "lucka-22.md",
+  slug: "lucka-22",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-23.md": {
+  id: "lucka-23.md",
+  slug: "lucka-23",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-24.md": {
+  id: "lucka-24.md",
+  slug: "lucka-24",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-3.md": {
+  id: "lucka-3.md",
+  slug: "lucka-3",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-4.md": {
+  id: "lucka-4.md",
+  slug: "lucka-4",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-5.md": {
+  id: "lucka-5.md",
+  slug: "lucka-5",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-6.md": {
+  id: "lucka-6.md",
+  slug: "lucka-6",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-7.md": {
+  id: "lucka-7.md",
+  slug: "lucka-7",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-8.md": {
+  id: "lucka-8.md",
+  slug: "lucka-8",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+"lucka-9.md": {
+  id: "lucka-9.md",
+  slug: "lucka-9",
+  body: string,
+  collection: "advent22",
+  data: InferEntrySchema<"advent22">
+} & { render(): Render[".md"] },
+},
+"episodes": {
 "1-pepp-och-depp.md": {
   id: "1-pepp-och-depp.md",
   slug: "1-pepp-och-depp",

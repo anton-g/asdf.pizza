@@ -4,25 +4,25 @@ import { getCollection } from 'astro:content'
 import { Image } from '@astrojs/image/components'
 import back from '../images/back.png'
 
-const episodes = await getCollection('episodes')
+const episodes = await getCollection('advent22')
 
 const sortedEpisodes = episodes
   .slice()
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
 ---
 
-<Layout title="avsnitt">
+<Layout title="adventskalendern 2022 - asdf">
   <a href="/">
     <Image src={back} alt="go back to home" width={200} />
   </a>
   <main class="main">
-    <h1>avsnitt</h1>
+    <h1>luckor</h1>
     <ul style={{ marginTop: '32px' }}>
       {
         sortedEpisodes.map((episode) => (
           <li>
-            <a href={`/${episode.slug}`}>
-              {episode.data.number}. {episode.data.title}
+            <a href={`/julkalendern-2022/${episode.slug}`}>
+              Lucka {episode.data.number}
             </a>
             <time datetime={episode.data.date.toISOString()}>
               {episode.data.date.toDateString()}
