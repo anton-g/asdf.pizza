@@ -3,9 +3,6 @@ import { Image } from '@astrojs/image/components'
 import Layout from '../layouts/Layout.astro'
 import { getCollection } from 'astro:content'
 import logo from '../images/logo.png'
-import latestEpisodeHeading from '../images/latest-episode.png'
-import moreEpisodesHeading from '../images/more-episodes.png'
-import allEpisodes from '../images/all-episodes.png'
 import PinecastPlayer from '../components/PinecastPlayer.astro'
 
 const episodes = await getCollection('episodes')
@@ -20,7 +17,6 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
 <Layout title="asdf - en liten podd om kod o sånt">
   <main class="main">
     <Image src={logo} width={500} alt="asdf logo" class="logo" />
-    <!-- <Image src={latestEpisodeHeading} width={300} alt="Senaste avsnittet" /> -->
     <section class="section latest-episode">
       <div class="latest-episode-title">
         <svg width="190" height="130" viewBox="0 0 106 80">
@@ -76,7 +72,6 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
     </section>
 
     <section class="section">
-      <!-- <Image src={moreEpisodesHeading} width={300} alt="Senaste avsnittet" /> -->
       <h2>Lite fler avsnitt</h2>
       <ul>
         {
@@ -113,7 +108,6 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
           ></path>
         </svg>
       </a>
-      <!-- <Image src={allEpisodes} width={200} alt="Senaste avsnittet" /> -->
     </section>
   </main>
 </Layout>
