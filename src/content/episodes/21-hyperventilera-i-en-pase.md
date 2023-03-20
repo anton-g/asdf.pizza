@@ -2,6 +2,7 @@
 title: 'Hyperventilera i en påse'
 date: 2021-02-12T06:00:00.000Z
 description: 'Avsnitt 21: Boken Technically Wrong, mikroaggressioner som buggar, privilegier, intersektionalitet och mycket annat.'
+number: 21
 pinecastId: '14b5708f-c018-4809-8da2-41e88e0586d7'
 spotifyId: '4hInlREtd8AXfCLu3775xx'
 itunesId: '1000508698062'

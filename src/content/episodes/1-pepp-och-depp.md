@@ -2,6 +2,7 @@
 title: Pepp & Depp
 date: 2020-04-03T08:00:00.000Z
 description: 'Avsnitt 1: Vilka vi är, vad vi gjort tidigare, strategier för att få klappa hundar, att drunkna i prestandaträsket, Sveriges högsta McDonaldsskylt och mycket annat.'
+number: 1
 pinecastId: '447f8f46-94de-42b2-bdc4-dcd0bfcfcca7'
 spotifyId: '4TuIr3fTIAlShwCXEbP0Bk'
 itunesId: '1000470324467'

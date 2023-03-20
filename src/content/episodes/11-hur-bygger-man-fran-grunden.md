@@ -2,6 +2,7 @@
 title: 'Hur bygger man nått från grunden?'
 date: 2020-09-18T07:00:00.000Z
 description: 'Avsnitt 11: Att bygga nytt från ingenting, värdet i oanvändbara projekt, divide and conquer, Ohms lag och mycket annat!'
+number: 11
 pinecastId: '79a39d63-7cdf-4fca-b0c0-e5e0d846d945'
 spotifyId: '24P4fPbiQ92hwX3vNB40MV'
 itunesId: '1000491645524'

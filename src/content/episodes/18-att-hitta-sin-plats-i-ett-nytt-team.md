@@ -2,6 +2,7 @@
 title: 'Att hitta sin plats i ett nytt team'
 date: 2021-01-01T06:00:00.000Z
 description: 'Avsnitt 18: Att komma in i ett nytt team, det obefintliga kallpratat i digitala möten, alkoholkultur och öl-brasklappar.'
+number: 18
 pinecastId: '29ddd71f-11a6-40cc-a6db-fe34230af2d1'
 spotifyId: '6DTsi962Ik31jWXZmNcb8D'
 itunesId: '1000504040175'

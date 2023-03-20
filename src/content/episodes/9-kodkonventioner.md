@@ -2,6 +2,7 @@
 title: 'Kodkonventioner'
 date: 2020-08-21T08:00:00.000Z
 description: 'Avsnitt 9: Fnuttar, semikolon, filnamn. Allt om kodkonventioner!'
+number: 9
 pinecastId: '84a2cfba-50d1-4b59-b990-d3b12f59f000'
 spotifyId: '6kkikMRb4Z1cJR1KTaTdeu'
 itunesId: '1000488756004'

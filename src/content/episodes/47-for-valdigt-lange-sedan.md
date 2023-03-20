@@ -2,6 +2,7 @@
 title: 'För väldigt länge sedan'
 date: 2022-02-11T07:00:00.000Z
 description: 'Avsnitt 47: Frontendutvecklingens historia, magin i att använda ett ramverk, framtidsspaningar om meta-ramverk och mycket annat.'
+number: 47
 pinecastId: '31451bad-3d08-4bf8-a044-33e0d62751a7'
 spotifyId: '1XIBuGpNOw1NixwIWMoVTh'
 itunesId: '1000550762957'

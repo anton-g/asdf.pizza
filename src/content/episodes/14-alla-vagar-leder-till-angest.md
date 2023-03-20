@@ -2,6 +2,7 @@
 title: 'Alla vägar leder till ångest'
 date: 2020-11-06T07:00:00.000Z
 description: 'Avsnitt 14: Tekniska presentationer, rädslan att ha fel, personen i publiken som man hatar och mycket mer.'
+number: 14
 pinecastId: '5d795bfe-e319-428e-bf50-8bfc0dc4e587'
 spotifyId: '0VJlLBe7GGVlnDx5Dz0VIe'
 itunesId: '1000497432984'

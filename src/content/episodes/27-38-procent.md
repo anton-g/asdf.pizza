@@ -2,6 +2,7 @@
 title: '38%'
 date: 2021-05-07T08:00:00.000Z
 description: 'Avsnitt 27: Vi pratar om Basecamps policyförändringar, hur extremt dåligt hanterat det var och vilken PR-katastrof det lett till.'
+number: 27
 pinecastId: '28aaaad5-1fb7-4d32-91e2-848c34f3cfcb'
 spotifyId: '6GwLXCAEilDneXjlho7YAa'
 itunesId: '1000520586595'

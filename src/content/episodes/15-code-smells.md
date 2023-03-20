@@ -2,6 +2,7 @@
 title: 'Kodlukter'
 date: 2020-11-20T07:00:00.000Z
 description: 'Avsnitt 15: Anton har bloggat om React så vi pratar code smells, men även motivation, att nörda ner sig och mycket annat.'
+number: 15
 pinecastId: '375744b0-6b46-4da5-8a1e-8f4f43a5c2d5'
 spotifyId: '6ZZp6EdoXUWnwjcVBctWkU'
 itunesId: '1000499534567'

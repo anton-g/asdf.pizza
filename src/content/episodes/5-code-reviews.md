@@ -2,6 +2,7 @@
 title: 'Code reviews'
 date: 2020-06-19T08:00:00.000Z
 description: 'Avsnitt 5: Code reviews, pull requests, ägandeskap av kod och ovälkommnande jargong.'
+number: 5
 pinecastId: '496830d2-aea7-4944-8c6a-721274327574'
 spotifyId: '26NuopYzar8gNId1U4PqoV'
 itunesId: '1000478575069'

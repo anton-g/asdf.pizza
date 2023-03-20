@@ -2,6 +2,7 @@
 title: 'Du har gett mig något att tänka på'
 date: 2022-09-16T07:00:00.000Z
 description: 'Avsnitt 62: Anton BABBLAR på om sitt nya sidoprojekt Fredagslunchen samt det nya heta ramverket som det är byggt med, Remix, och tro det eller ej så blir Thérese faktiskt lite såld.'
+number: 62
 pinecastId: '454ec5c3-54c2-45f6-a067-bd491a1a5948'
 spotifyId: '7k9Y4VvlJmWNcAuFXsusxL'
 itunesId: '1000579681285'

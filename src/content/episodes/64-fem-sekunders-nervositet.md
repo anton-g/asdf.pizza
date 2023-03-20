@@ -2,6 +2,7 @@
 title: 'Fem sekunders nervositet'
 date: 2022-10-14T07:00:00.000Z
 description: 'Avsnitt 64: Konferensen Nordic.js! Favoritpresentationer, att hålla ett lightning talk, nackspärr, Code in the Dark och mycket annat!'
+number: 64
 pinecastId: '0c05f7e1-8b78-470b-b4ed-2ef6514a308e'
 spotifyId: ''
 itunesId: ''

@@ -2,6 +2,7 @@
 title: 'Stoppa huvudet i sanden'
 date: 2022-04-08T07:00:00.000Z
 description: 'Avsnitt 51: Javascripts ekosystem, drag-n-drop-bibliotek, pengar inom open source, att stoppa huvudet i sandet, en idé på ett nytt licenstroll och mycket annat.'
+number: 51
 pinecastId: '115831df-1d0d-4c24-a989-cf31be0b0785'
 spotifyId: '43e2FoKMnEgPfBM61YGdWI'
 itunesId: '1000556611938'

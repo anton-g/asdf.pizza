@@ -2,6 +2,7 @@
 title: 'Det är uppfriskande med tomater'
 date: 2021-03-12T09:00:00.000Z
 description: 'Avsnitt 23: Om pressen att vara relevant, trygghet i okunskap, att inte koda på sin fritid och mycket annat.'
+number: 23
 pinecastId: 'a81948b2-a5b4-41a2-9106-c58b1707d759'
 spotifyId: '04gxHyFHNIbyqIZmSHxKXK'
 itunesId: '1000512659620'

@@ -21,7 +21,9 @@ const sortedEpisodes = episodes
       {
         sortedEpisodes.map((episode) => (
           <li>
-            <a href={`/${episode.slug}`}>{episode.data.title}</a>
+            <a href={`/${episode.slug}`}>
+              {episode.data.number}. {episode.data.title}
+            </a>
             <time datetime={episode.data.date.toISOString()}>
               {episode.data.date.toDateString()}
             </time>

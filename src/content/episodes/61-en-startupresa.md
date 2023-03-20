@@ -2,6 +2,7 @@
 title: 'En startupresa'
 date: 2022-09-02T07:00:00.000Z
 description: 'Avsnitt 61: Therése startupresa! Konsultbolag vs produktbolag! Ägandeskap, att rulla pitor, jobba för ett bolag utomlands och en TWIST!'
+number: 61
 pinecastId: 'c2ef5f76-0aa3-4d9c-b30b-67ed57bc577b'
 spotifyId: '1OwYFeVSMMzgoqSflMjMX5'
 itunesId: '1000578146419'

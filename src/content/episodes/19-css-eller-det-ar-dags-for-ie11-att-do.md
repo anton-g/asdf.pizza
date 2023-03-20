@@ -2,6 +2,7 @@
 title: 'CSS, eller, "Det är dags för IE 11 att dö"'
 date: 2021-01-15T06:00:00.000Z
 description: 'Avsnitt 19: Grundläggande CSS, animerade SVGer, konfettikanonsfrustration och slutet för IE11.'
+number: 19
 pinecastId: '318915da-f958-4f52-87b0-c72abe6c21fb'
 spotifyId: '4hCQ52RkUipCITGN3Np7aY'
 itunesId: '1000505400287'

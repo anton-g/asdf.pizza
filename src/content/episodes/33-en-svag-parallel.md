@@ -2,6 +2,7 @@
 title: 'En svag parallel'
 date: 2021-07-30T06:00:00.000Z
 description: 'Avsnitt 33: Strukturell terminologi, allowlist istället för whitelist, branchnamn, medias roll, en något svag liknelse och mycket annat.'
+number: 33
 pinecastId: '9b7775d8-4680-4422-a4d7-225f9b858203'
 spotifyId: '0BaSemcRQ9pnu52a5jWTOZ'
 itunesId: '1000530473884'

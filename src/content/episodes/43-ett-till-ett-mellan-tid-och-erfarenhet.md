@@ -2,6 +2,7 @@
 title: 'Ett till ett mellan tid och erfarenhet'
 date: 2021-12-17T07:00:00.000Z
 description: 'Avsnitt 43: Titlar och erfarenhet, senior vs junior, vikten för vissa av att ha en fin titel och mycket annat.'
+number: 43
 pinecastId: '86f5acbe-16a9-41e8-ac8e-e0258d8ff70e'
 spotifyId: '4QVF3jVNzVfNP05bHoGJAU'
 itunesId: '1000545259658'

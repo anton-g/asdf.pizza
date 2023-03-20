@@ -2,6 +2,7 @@
 title: 'Processer låter så trist'
 date: 2021-07-02T16:00:00.000Z
 description: 'Avsnitt 31: Allt om manuella, automatiserade, avsiktliga, onödiga, värdefulla och mänskliga processer.'
+number: 31
 pinecastId: 'fcd6e68b-8c62-4baa-b9c8-5b8dc7fc1c76'
 spotifyId: '1UkVjIvHBOu03e2CHgsX6w'
 itunesId: '1000527628039'

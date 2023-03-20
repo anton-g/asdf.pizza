@@ -2,6 +2,7 @@
 title: 'Tillgänglighet'
 date: 2020-09-04T07:00:00.000Z
 description: 'Avsnitt 10: Tillgänglighet, aria-taggar, semantisk HTML, npm paket och att råka koppla skärmläsaren till ljudsystemet.'
+number: 10
 pinecastId: 'a915010f-5126-44b0-a76c-c4aebaf0b199'
 spotifyId: '1n7JHAGpcSvf9zCwnMSYIJ'
 itunesId: '1000490046974'

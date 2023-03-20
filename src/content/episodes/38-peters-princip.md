@@ -2,6 +2,7 @@
 title: 'Peters princip'
 date: 2021-10-08T07:00:00.000Z
 description: 'Avsnitt 38: Det stora karriärsavsnittet. Trappor, stegar, personalansvar, en glapp käft, Peters princip och mycket mer.'
+number: 38
 pinecastId: '2d7255b9-2978-412f-b072-3c6c52dd672c'
 spotifyId: '2WHirN1UFbpYZgIkYOmvp2'
 itunesId: '1000537934524'

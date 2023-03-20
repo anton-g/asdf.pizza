@@ -2,6 +2,7 @@
 title: 'Ändra lite i schemat bara'
 date: 2022-10-28T07:00:00.000Z
 description: 'Avsnitt 65: Vi pratar om ORMet Prisma! Dessutom en hel del halloweenpumpor, ångestladdade skrik och att gissa vad en inner left join är.'
+number: 65
 pinecastId: '9bd835ca-0b24-4417-9a52-2f8190178a67'
 spotifyId: ''
 itunesId: ''

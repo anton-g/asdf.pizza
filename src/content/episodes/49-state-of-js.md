@@ -2,6 +2,7 @@
 title: 'State of JS'
 date: 2022-03-11T07:00:00.000Z
 description: 'Avsnitt 49: Vi pratar igenom lite av resultatet från årets State of JS undersökning, samt varför vi kanske inte helt kan lite på att det motsvarar verkligheten.'
+number: 49
 pinecastId: '034d93a9-2030-4984-a4b2-45e1e6a65ff6'
 spotifyId: '73DfrgXu1RutL2QjkaNMYw'
 itunesId: '1000553688989'

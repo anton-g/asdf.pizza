@@ -2,6 +2,7 @@
 title: 'Längst ner i pyramiden'
 date: 2022-03-25T07:00:00.000Z
 description: 'Avsnitt 50: Gunnar Morlings kodgranskningspyramid, kodgranskning som färdighet, dokumentation, sårbarhet, mobbprogrammering och mycket annat.'
+number: 50
 pinecastId: 'a9fba6a6-bf6e-43be-96ad-f3c6cc3e0751'
 spotifyId: '437cBl2jDOkAzU97BgDaaL'
 itunesId: '1000555200118'

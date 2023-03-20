@@ -2,6 +2,7 @@
 title: Trevligt att "träffas"
 date: 2020-05-12T12:00:00.000Z
 description: 'Avsnitt 3: Att arbeta hemifrån, längtan till kontor, videotjänster och video-AWs.'
+number: 3
 pinecastId: '7ee7a9af-716d-4dd5-8045-0c1d21a5fed4'
 spotifyId: '2fXMq9ZyFQuosTeAPewKID'
 itunesId: '1000474347129'

@@ -2,6 +2,7 @@
 title: 'Nyårsquiz'
 date: 2021-12-31T07:00:00.000Z
 description: 'Avsnitt 44: Vi rundar av året med att ställa varandra mot vägggen med intervjufrågor. CSS, Ordo, stenhögsspråk, higher order comoponents och mycket annat.'
+number: 44
 pinecastId: '6e9c7da6-1133-451f-812e-e653f06e2ff2'
 spotifyId: '4A0RCMTnonXYXosqB4rU0o'
 itunesId: '1000546561318'

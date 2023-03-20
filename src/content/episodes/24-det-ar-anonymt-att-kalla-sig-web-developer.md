@@ -2,6 +2,7 @@
 title: 'Det är anonymt att kalla sig Web Developer'
 date: 2021-03-26T06:00:00.000Z
 description: 'Avsnitt 24: Är termen "front end" för bred, räcker det med att skriva HTML & CSS och mycket annat.'
+number: 24
 pinecastId: 'd8abc959-a70b-44dd-944a-d224128317dc'
 spotifyId: '2yjyKfbbD1ieWMG7Jhxtb6'
 itunesId: '1000514457257'

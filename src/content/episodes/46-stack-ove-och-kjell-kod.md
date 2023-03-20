@@ -2,6 +2,7 @@
 title: 'Stack-Ove & Kjell Kod'
 date: 2022-01-28T07:00:00.000Z
 description: 'Avsnitt 46: Dokumentationsbonanza! Egenskriven dokumentation, ramverks dokumentation, Stack-Ove och mycket mer.'
+number: 46
 pinecastId: '049912b7-9494-426b-8a7a-85595caf5af6'
 spotifyId: '1lk6VNnlqvXvDzKopkfLwF'
 itunesId: '1000549248706'

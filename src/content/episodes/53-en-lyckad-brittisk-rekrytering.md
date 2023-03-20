@@ -2,6 +2,7 @@
 title: 'En lyckad brittisk rekrytering'
 date: 2022-05-13T07:00:00.000Z
 description: 'Avsnitt 53: Allt från Therése nya jobb och hemtest som inte stoppas upp i näsan till att vara på gränsen till galenskap och en brittisk rekryterares överpeppiga energi.'
+number: 53
 pinecastId: 'b85b2a9f-98b1-4348-97eb-06c79e58868f'
 spotifyId: '2rcbJsIL1lfFHVj4r0bu9V'
 itunesId: '1000560957676'

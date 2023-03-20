@@ -2,6 +2,7 @@
 title: 'Man ska inte prata skit om kod men here we go'
 date: 2022-08-05T07:00:00.000Z
 description: 'Avsnitt 59: useCallback! useMemo! Vi pratar om Reacts kanske mest missförstådda hooks. Vad de är, varför de finns och några exempel på hur de ska användas.'
+number: 59
 pinecastId: 'be7d5144-4006-442b-929f-ceb29e172fda'
 spotifyId: '7tJVERyGHcddc91k9xYN2J'
 itunesId: '1000575092008'

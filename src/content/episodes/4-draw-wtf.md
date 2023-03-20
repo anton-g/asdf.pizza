@@ -2,6 +2,7 @@
 title: draw.wtf
 date: 2020-05-29T08:00:00.000Z
 description: 'Avsnitt 4: Hobbyprojekt, ångestdriven utveckling, minnesläckor och mycket annat.'
+number: 4
 pinecastId: '67bb518a-1091-4990-b2fe-194858e76b4c'
 spotifyId: '2lBUGMQrRwsrocO4GuzX2Z'
 itunesId: '1000476157313'

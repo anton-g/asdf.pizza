@@ -2,6 +2,7 @@
 title: 'Recoil och JavaScript-innovationer'
 date: 2020-12-19T17:00:00.000Z
 description: 'Avsnitt 17: React-state med Recoil: Atomer, träd, selektorer och en liten diskussion om innovationstakten kring JavaScript.'
+number: 17
 pinecastId: '0089bb9f-b92b-40dd-80f7-9831b060ad3b'
 spotifyId: '1HkEqSdVzzWIaXK6T7f9JC'
 itunesId: '1000502929594'

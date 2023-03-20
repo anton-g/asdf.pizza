@@ -2,6 +2,7 @@
 title: 'Sassy CSS-in-JS-modules'
 date: 2021-06-04T08:00:00.000Z
 description: 'Avsnitt 29: Från index.css till Less och Sass till CSS-in-JS och CSS modules.'
+number: 29
 pinecastId: 'fb2c38e3-dcaf-4cf1-baec-57805d2f6d1d'
 spotifyId: '24wvPHaPB1pwRo2I3pbLAg'
 itunesId: '1000524182848'

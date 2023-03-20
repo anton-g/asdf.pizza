@@ -2,6 +2,7 @@
 title: 'React-teamets julklapp: Server Components'
 date: 2021-01-30T13:00:00.000Z
 description: 'Avsnitt 20: Reacts nyaste experiment, Server Components. Vad är det och vad är det bra för?'
+number: 20
 pinecastId: '287b4c27-0847-40ed-83ba-732e84d26d34'
 spotifyId: '4WJK8UF0djC3m5oGE3kOoG'
 itunesId: '1000507098452'

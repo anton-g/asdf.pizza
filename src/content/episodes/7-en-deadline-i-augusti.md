@@ -2,6 +2,7 @@
 title: 'En deadline i augusti'
 date: 2020-07-24T08:00:00.000Z
 description: 'Avsnitt 7: Semester och inte semester, en hel del om deadlines och känslan när något går riktigt snett.'
+number: 7
 pinecastId: 'd234d83a-ab7e-4d91-9dd4-e6c3b627eb25'
 spotifyId: '2tBUAJ5c0w2iUcenHVYHNV'
 itunesId: '1000485917372'

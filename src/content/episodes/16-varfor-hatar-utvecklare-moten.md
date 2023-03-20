@@ -2,6 +2,7 @@
 title: 'Varför hatar utvecklare möten?'
 date: 2020-12-04T07:00:00.000Z
 description: 'Avsnitt 16: Hatar utvecklare möten egentligen? Myter kring utvecklares produktivitet, generaliseringar som gått snett och mycket annat.'
+number: 16
 pinecastId: 'e2a30103-9036-404f-954c-4249a7f5ff94'
 spotifyId: '0iUcZxDB7PbSbdUo6dJPMS'
 itunesId: '1000501295806'

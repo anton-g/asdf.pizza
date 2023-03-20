@@ -2,6 +2,7 @@
 title: 'Jamstack hit och jamstack dit'
 date: 2023-02-03T07:00:00.000Z
 description: 'Avsnitt 70: Från Netlifys köp av Gatsby till Jamstack till influencers till lite lite alkoholhets(ish).'
+number: 70
 pinecastId: 'fd279024-d69b-46a6-83bf-3f12cb4062fb'
 spotifyId: ''
 itunesId: ''

@@ -2,6 +2,7 @@
 title: 'Ett bibliotek med komponenter'
 date: 2021-07-16T06:00:00.000Z
 description: 'Avsnitt 32: Komponentbibliotek, avsaknad av styling, Atomic Design, gemensamma språk och mycket annat.'
+number: 32
 pinecastId: '9ca23278-e24b-449c-8212-c2acf6f1a3e8'
 spotifyId: '6zA7VrdGkXqjCIo3GCtwf5'
 itunesId: '1000529043579'

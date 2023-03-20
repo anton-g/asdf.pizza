@@ -2,6 +2,7 @@
 title: 'Att bryta mot sin egen Code of Conduct'
 date: 2022-06-11T12:00:00.000Z
 description: 'Avsnitt 55: Vi pratar om att ReactEurope blev ReactEurasia i Dubai, hur det dramat utspelade sig och vad det resulterade i.'
+number: 55
 pinecastId: '701b004e-d5b7-4bbe-87e4-d1a3bd726c93'
 spotifyId: '3ZFYr9NAtxafm4fumO75y7'
 itunesId: '1000566069456'

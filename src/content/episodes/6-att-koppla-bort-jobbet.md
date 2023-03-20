@@ -2,6 +2,7 @@
 title: 'Att koppla bort jobbet'
 date: 2020-07-10T08:00:00.000Z
 description: 'Avsnitt 6: Att koppla bort från jobbet, (av)saknaden av kontor, en skärm i badrummet och dålig tidsuppfattning.'
+number: 6
 pinecastId: 'b3a98d08-e512-4e2a-a82e-af716aab3bea'
 spotifyId: '4JkKZ9QUm5AZyWMLwh87ed'
 itunesId: '1000484029852'

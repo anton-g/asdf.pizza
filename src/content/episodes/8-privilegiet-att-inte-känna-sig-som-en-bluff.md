@@ -2,6 +2,7 @@
 title: 'Privilegiet att inte känna sig som en bluff'
 date: 2020-08-07T08:00:00.000Z
 description: 'Avsnitt 8: Vår relation till imposter syndrome, att känna sig som en bluff och hur det relaterar till rasism, sexism, privilegier samt mycket annat.'
+number: 8
 pinecastId: '58efd4d2-b588-4d5c-b778-bfd81497a330'
 spotifyId: '3ykUIOuLstclSHLWj3dKYS'
 itunesId: '1000487376628'

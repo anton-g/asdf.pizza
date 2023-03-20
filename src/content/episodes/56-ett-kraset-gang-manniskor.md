@@ -2,6 +2,7 @@
 title: 'Ett kräset gäng människor'
 date: 2022-06-24T07:00:00.000Z
 description: 'Avsnitt 56: Glad midsommar! Det blir meetup-arrangemang, community, branding, en telefon tejpad i taket och mycket mycket annat!'
+number: 56
 pinecastId: '957a7352-707b-40aa-84e1-a7a9937af169'
 spotifyId: '0VXBg8eKaP8dt88TRdxvob'
 itunesId: '1000567569672'

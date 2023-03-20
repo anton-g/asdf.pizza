@@ -2,6 +2,7 @@
 title: 'Paketdebakel'
 date: 2022-01-14T07:00:00.000Z
 description: 'Avsnitt 45: Helgens debakel där utvecklaren bakom faker.js och colours.js bestämde sig för att medvetet förstöra paketen i någon form av protest.'
+number: 45
 pinecastId: 'c708a560-8b33-47c1-ac2a-78ed03646b00'
 spotifyId: '4rEKoSSPScg9SpfiR2xKe3'
 itunesId: '1000547855972'

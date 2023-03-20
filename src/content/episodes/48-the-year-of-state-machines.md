@@ -2,6 +2,7 @@
 title: 'The Year of State Machines'
 date: 2022-02-26T07:00:00.000Z
 description: 'Avsnitt 48: Anton pratar om sin senaste förälskelse XState och gör sitt bästa för att förklara både hur det fungerar och vad dess storhet är för Therése.'
+number: 48
 pinecastId: '0afeeb9f-d2d6-4a2a-af70-fbb4cb37759a'
 spotifyId: '1EAA5nX3K0QS9hG0rkQvJu'
 itunesId: '1000552287512'

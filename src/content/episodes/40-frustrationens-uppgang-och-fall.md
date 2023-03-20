@@ -2,6 +2,7 @@
 title: 'Frustrationens uppgång och fall'
 date: 2021-11-05T07:00:00.000Z
 description: 'Avsnitt 40: Antons nya hobbyprojekt, vikten av dokumentation, prestandaproblem och mycket annat.'
+number: 40
 pinecastId: '079bc02e-ea89-4133-a841-fe47f8d66f58'
 spotifyId: '40pSs30w6YG4R1oypZsWK8'
 itunesId: '1000540862230'
