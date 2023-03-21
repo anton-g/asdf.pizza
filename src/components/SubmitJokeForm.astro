@@ -5,14 +5,23 @@ const {} = Astro.props
 ---
 
 <h2>Skicka in ett skämt vettja</h2>
-<form class="joke-form" netlify>
+<form
+  class="joke-form"
+  name="jokes"
+  data-netlify="true"
+  netlify-honeypot="honungslåda"
+>
+  <label style={{ visibility: 'hidden', height: '1px', width: '1px' }}
+    >Don't fill this out if you're human
+    <input type="text" class="doodle" name="honungslåda" />
+  </label>
   <label style={{ transform: 'rotateZ(1deg)' }}
     >Ditt namn (eller vad vi nu ska kalla dig):
-    <input type="text" class="doodle" />
+    <input type="text" class="doodle" name="name" />
   </label>
   <label style={{ transform: 'rotateZ(-0.5deg)' }}>
     Ditt skämt (eller något annat kul du vill berätta):
-    <textarea class="doodle" rows="3"></textarea>
+    <textarea class="doodle" rows="3" name="joke"></textarea>
   </label>
   <button type="submit" class="submit-joke-button">Skicka :)</button>
 </form>
