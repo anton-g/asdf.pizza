@@ -26,15 +26,18 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
   description={'Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata ofiltrerat om kod, livet och allt däremellan.'}
 >
   <main class="main">
-    <Image src={logo} width={500} alt="asdf logo" class="logo" />
-    <section class="section latest-episode">
+    <div class="logo">
+      <Image src={logo} width={500} alt="asdf logo" />
+      <PinkBlob class="pink-blob" />
+    </div>
+    <section class="section">
       <div class="latest-episode-title">
         <svg width="190" height="130" viewBox="0 0 106 80">
           <path
             id="curve"
             d="M1 100.9355C1 100.9355 30.2419 28.9202 54 22.9353C80.2475 6.72456 125 12.43576 125 12.43576"
             fill="transparent"></path>
-          <text x="24">
+          <text x="23">
             <textPath xlink:href="#curve">Senaste avsnittet</textPath>
           </text>
         </svg>
@@ -79,6 +82,7 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
           ></path>
         </svg>
       </aside>
+      <BlueBlob class="blue-blob" />
     </section>
 
     <section class="section">
@@ -114,6 +118,7 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
             ></path>
           </svg>
         </a>
+        <YellowBlob class="yellow-blob" />
       </div>
     </section>
     <section class="section joke-section">
@@ -133,111 +138,119 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
       </div>
     </section>
   </main>
-  <PinkBlob class="pink-blob" />
-  <BlueBlob class="blue-blob" />
-  <YellowBlob class="yellow-blob" />
-
-  <style>
-    .logo {
-      margin-bottom: 88px;
-      object-fit: contain;
-      max-width: 100%;
-      max-height: 100%;
-      width: auto;
-      height: auto;
-    }
-
-    .section {
-      width: 100%;
-      padding: 0 24px;
-      display: flex;
-      flex-direction: column;
-    }
-
-    .services {
-      gap: 8px;
-      font-family: 'Shantell Sans', system-ui, sans-serif;
-      align-self: center;
-      margin-top: 124px;
-      text-align: center;
-    }
-
-    .latest-episode-title {
-      margin-left: -90px;
-      margin-bottom: -74px;
-      display: flex;
-      gap: 10px;
-      font-family: 'Shantell Sans', system-ui, sans-serif;
-      font-variation-settings: 'BNCE' -50, 'wght' 350;
-      width: fit-content;
-      font-size: 16px;
-
-      /* Apply this for mobile:
-    transform-origin: 100% 150%;
-    transform: rotateZ(45deg); */
-    }
-
-    .more-episodes-cta {
-      font-family: 'Shantell Sans', system-ui, sans-serif;
-      font-variation-settings: 'BNCE' -50, 'wght' 500;
-      line-height: 1.1;
-      position: sticky;
-      bottom: -80px;
-      margin-left: auto;
-      margin-right: -200px;
-      margin-bottom: -100px;
-      width: fit-content;
-      display: flex;
-      flex-direction: column;
-      gap: 4px;
-    }
-
-    .more-episodes-cta svg {
-      margin-right: 40px;
-    }
-
-    .julkalender-link {
-      color: black;
-      font-family: 'Shantell Sans', system-ui, sans-serif;
-      display: flex;
-      text-decoration: none;
-      gap: 4px;
-    }
-    .all-episodes-link {
-      margin-left: auto;
-      color: black;
-      font-family: 'Shantell Sans', system-ui, sans-serif;
-      display: flex;
-      text-decoration: none;
-      gap: 4px;
-    }
-    .all-episodes-link:hover span {
-      text-decoration: underline;
-    }
-
-    .all-episodes-link span {
-      white-space: pre;
-    }
-
-    .all-episodes-link svg {
-      margin-top: 12px;
-    }
-
-    .joke-section {
-      margin-top: 124px;
-    }
-
-    .pink-blob {
-      top: -85%;
-      left: -20%;
-    }
-    .blue-blob {
-      top: 80%;
-      left: -20%;
-    }
-    .yellow-blob {
-      top: 140%;
-      right: -20%;
-    }
-  </style>
 </Layout>
+
+<style>
+  .logo {
+    margin-bottom: 88px;
+    position: relative;
+  }
+
+  .logo img {
+    object-fit: contain;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+  }
+
+  .section {
+    width: 100%;
+    padding: 0 24px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+
+  .services {
+    gap: 8px;
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+    align-self: center;
+    margin-top: 124px;
+    text-align: center;
+  }
+
+  .latest-episode-title {
+    margin-left: -90px;
+    margin-bottom: -74px;
+    display: flex;
+    gap: 10px;
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+    font-variation-settings: 'BNCE' -50, 'wght' 350;
+    width: fit-content;
+    font-size: 16px;
+  }
+
+  .more-episodes-cta {
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+    font-variation-settings: 'BNCE' -50, 'wght' 500;
+    line-height: 1.1;
+    position: sticky;
+    bottom: -80px;
+    margin-left: auto;
+    margin-right: -200px;
+    margin-bottom: -100px;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .more-episodes-cta svg {
+    margin-right: 40px;
+  }
+
+  .julkalender-link {
+    color: black;
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+    display: flex;
+    text-decoration: none;
+    gap: 4px;
+  }
+  .all-episodes-link {
+    margin-left: auto;
+    color: black;
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+    display: flex;
+    text-decoration: none;
+    gap: 4px;
+  }
+  .all-episodes-link:hover span {
+    text-decoration: underline;
+  }
+
+  .all-episodes-link span {
+    white-space: pre;
+  }
+
+  .all-episodes-link svg {
+    margin-top: 12px;
+  }
+
+  .joke-section {
+    margin-top: 124px;
+  }
+
+  .pink-blob {
+    top: -800px;
+    left: -700px;
+  }
+  .blue-blob {
+    top: 100px;
+    left: -900px;
+  }
+  .yellow-blob {
+    top: -300px;
+    right: -600px;
+  }
+
+  @media (max-width: 712px) {
+    .latest-episode-title {
+      transform-origin: 100% 150%;
+      transform: rotateZ(30deg);
+    }
+    .more-episodes-cta {
+      visibility: hidden;
+    }
+  }
+</style>
