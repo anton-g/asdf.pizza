@@ -1,5 +1,6 @@
 ---
 number: 10
+title: Lucka 10
 date: 2022-12-10T07:00:00.000Z
 description: 'Bakom lucka 10 döljer sig något med snögubbar, kaffe och yxor.'
 pinecastId: '59cd19d8-62ff-4d1d-8a85-7aaf807c567e'
