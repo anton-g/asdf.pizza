@@ -6,6 +6,9 @@ number: 57
 pinecastId: '06504f37-3b0a-403b-9d8e-5c38c5b4330f'
 spotifyId: '32Ng3E0bSKiHP6Ekfpz3be'
 itunesId: '1000569347904'
+joke:
+  setup: What do you call a man with a rubber toe?
+  punchline: Roberto.
 ---
 
 Vi pratar mobbprogrammering och allt vad det innebär. Det blir tankar kring vad det faktiskt är, hur en gör det på bästa sätt, varför det är bra (eller dåligt?) samt hur det funkar att köra remote jämfört med IRL. Dessutom en hel del om verktyg, kunskapssilos, svengelska uttryck och att lära sig vim i en mobb.

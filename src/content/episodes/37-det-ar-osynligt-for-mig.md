@@ -6,6 +6,9 @@ number: 37
 pinecastId: '80c12d3e-f0dc-4a74-a554-31a15c146aaa'
 spotifyId: '7FcH5RVPIrnQxRipQCG1gh'
 itunesId: '1000536481960'
+joke:
+  setup: Varför är det så svårt att boka möten med gränssnittsutvecklare?
+  punchline: De flexar så mycket.
 ---
 
 Med utgång i rapporterna om rätt kass kultur på vissa spelbolag och i deras spel på sistone så pratar vi om osynliga privilegier och privilegier en oftast inte tänker på, vikten av att utbilda sig själv, att kunskap inte är svårt att hitta idag och att våga säga ifrån.

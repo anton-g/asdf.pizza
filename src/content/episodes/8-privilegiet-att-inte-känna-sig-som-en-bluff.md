@@ -6,6 +6,9 @@ number: 8
 pinecastId: '58efd4d2-b588-4d5c-b778-bfd81497a330'
 spotifyId: '3ykUIOuLstclSHLWj3dKYS'
 itunesId: '1000487376628'
+joke:
+  setup: Vilka onyktra programmerare är det mest synd om?
+  punchline: Fullstackarna
 ---
 
 Vi börjar att prata om imposter syndrome och våra relationer till det, men glider ganska snabbt in på vad som ligger bakom att en (inte) känner sig som en bluff. Det leder in på diskussioner om rasism, sexism, privilegier samt liknelser mellan buggar och mikroaggressioner. Dessutom, första gången Anton & Therése pratade och hur "woke" är egentligen Anton?

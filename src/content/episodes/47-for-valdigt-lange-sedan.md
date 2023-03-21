@@ -6,6 +6,9 @@ number: 47
 pinecastId: '31451bad-3d08-4bf8-a044-33e0d62751a7'
 spotifyId: '1XIBuGpNOw1NixwIWMoVTh'
 itunesId: '1000550762957'
+joke:
+  setup: Vilka skidåkare är bäst på agil utveckling?
+  punchline: De som tävlar i Sprint
 ---
 
 Efter att Anton för en gångs skull är den som levererar dagens skämt så snackar vi lite om frontendutvecklingens historia med utgångspunkt i en intressant youtubevideo. Det blir en hel del om magin i att använda ett ramverk, backendare som kan lite frontend, resan från tvåvägsdatabindning till den virtuella DOMen och att hamna på React utan att välja det själv. Dessutom lite smått och gott om att lära sig under press, Facebooks kontroll av React och lite framtidsspaningar om meta-ramverk.

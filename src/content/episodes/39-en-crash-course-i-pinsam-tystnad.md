@@ -6,6 +6,9 @@ number: 39
 pinecastId: '85f45dd0-2e44-488c-b45f-884125f31c1e'
 spotifyId: '1wxe5o2F6lGskT9vFtziQT'
 itunesId: '1000539361571'
+joke:
+  setup: Varför ska man inte browsa när det är kallt ut?
+  punchline: Man kan få URInvägsinfektion.
 ---
 
 Som svar på en lyssnarfråga så pratar vi om hur en kan komma igång med att hålla presentationer på meetups och konferenser. Allt om att börja prata inför sina kollegor, våga ställa sig framför en publik, fördelen med lightning talks och att ge sin presentation en till dimension. Dessutom att ignorera kritik för att den är innehållslös, att förinspela sin presentation och mycket mer.

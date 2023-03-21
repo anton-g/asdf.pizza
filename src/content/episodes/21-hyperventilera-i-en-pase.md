@@ -6,6 +6,9 @@ number: 21
 pinecastId: '14b5708f-c018-4809-8da2-41e88e0586d7'
 spotifyId: '4hInlREtd8AXfCLu3775xx'
 itunesId: '1000508698062'
+joke:
+  setup: Vad dricker programmerarna när de ska ut och flyga?
+  punchline: Bash på terminalen
 ---
 
 Therése har läst boken Technically Wrong av Sara Wachter-Boettcher och med den som utgångspunkt diskuterar vi bland annat problemet att utveckling i mångt och mycket utförs av vita män, varför mikroaggressioner är som buggar, vad intersektionalitet är och att anpassa sig för att inte hamna i ett fack. Dessutom en hel del om Antons privilegier och icke-risker samt att vidga sitt nätverk för att få ett bredare perspektiv, även om det inte alltid är bekvämt.

@@ -6,6 +6,9 @@ number: 48
 pinecastId: '0afeeb9f-d2d6-4a2a-af70-fbb4cb37759a'
 spotifyId: '1EAA5nX3K0QS9hG0rkQvJu'
 itunesId: '1000552287512'
+joke:
+  setup: Varför blev det aldrig några typer i frontend?
+  punchline: Fick aldrig till något riktigt flow.
 ---
 
 Anton pratar om sin senaste förälskelse XState och gör sitt bästa för att förklara både hur det fungerar och vad dess storhet är för Therése. Det blir state nodes, transitions och events. Ett trafikljus. Ett litet sidospår om useReducer. Hur state machines tillåter en att visualisera och samarbeta kring kodens logik.

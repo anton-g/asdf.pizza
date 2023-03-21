@@ -6,6 +6,9 @@ number: 64
 pinecastId: '0c05f7e1-8b78-470b-b4ed-2ef6514a308e'
 spotifyId: ''
 itunesId: ''
+joke:
+  setup: How do you get to Google headquarters?
+  punchline: You Drive.
 ---
 
 Vi har besökt konferensen Nordic.js och snackar oss igenom vår upplevelse. Det blir favoritpresentationer, vad för konferenser vi föredrar, Antons upplevelse av att hålla ett lightning talk, underhållningsvärde vs innehåll och att få nackspärr. Dessutom en hel del om att tävla i Code in the Dark, ångesten som följde med och vad som är en bra publik.

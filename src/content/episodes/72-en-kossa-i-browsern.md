@@ -6,6 +6,9 @@ number: 72
 pinecastId: '03a25bd0-05d9-4eb2-88a3-b4d2be090890'
 spotifyId: ''
 itunesId: ''
+joke:
+  setup: What programming language does Austin Powers use?
+  punchline: Groovy, baby!
 ---
 
 Idag blir det en resa från Austin Powers genom två små notiser om Twitters API och GitHub Blocks till att korta ner sitt CV, vakna av en dammsugare i sängen, kina och ordet alienera. Dessutom en hel del om en kossa i browsern, kött, bea, korv, en aversion mot TikTok och att nå kritisk massa.

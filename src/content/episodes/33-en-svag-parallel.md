@@ -6,6 +6,9 @@ number: 33
 pinecastId: '9b7775d8-4680-4422-a4d7-225f9b858203'
 spotifyId: '0BaSemcRQ9pnu52a5jWTOZ'
 itunesId: '1000530473884'
+joke:
+  setup: Varför gillar API-evangelisterna att göra taberas?
+  punchline: De älskar resten.
 ---
 
 I ett avsnitt med klassiskt sommarlåg energi plockar vi upp bollen från ungefär ett år sen och snackar strukturell terminologi inom tech. Vi hinner in på allowlist vs whitelist, att kalla sina brancher för main istället för master och medias roll i ord och uttrycks betydelse. Dessutom en del om buggar och mikroaggressioner, att vår branch borde vara lite mer mottaglig och en OERHÖRT svag parallel mellan att hata möten och att hata kvinnor.

@@ -6,6 +6,9 @@ number: 59
 pinecastId: 'be7d5144-4006-442b-929f-ceb29e172fda'
 spotifyId: '7tJVERyGHcddc91k9xYN2J'
 itunesId: '1000575092008'
+joke:
+  setup: How do trees use the internet?
+  punchline: They log in.
 ---
 
 Efter att ha avverkat Therése framtida standupkarriär gräver vi ner oss i React-hookarna useCallback och useMemo. Vad är de för något, varför finns de och hur ska de användas. Dessutom en hel del om closures, tunga uträkningar, ordo, automatisk memoisering, Reacts nya hook och mycket mycket mer.

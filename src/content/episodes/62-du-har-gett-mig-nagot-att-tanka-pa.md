@@ -6,6 +6,9 @@ number: 62
 pinecastId: '454ec5c3-54c2-45f6-a067-bd491a1a5948'
 spotifyId: '7k9Y4VvlJmWNcAuFXsusxL'
 itunesId: '1000579681285'
+joke:
+  setup: Why do you never see Lucifers programs?
+  punchline: He only runs daemons.
 ---
 
 Anton BABBLAR på om sitt nya sidoprojekt Fredagslunchen samt det nya heta ramverket som det är byggt med, Remix, och tro det eller ej så blir Thérese faktiskt lite såld. Dessutom en hel del om en skriva dig på näsan-attityd i sin marknadsföring, ett väldigt avancerat excelark, back to basics-strategin, filbaserad routing och att använda formulär istället för fetch för att skicka data.

@@ -6,6 +6,9 @@ number: 73
 pinecastId: '4f3ded9e-f432-4eda-a864-dd01dcdb1799'
 spotifyId: ''
 itunesId: ''
+joke:
+  setup: Why was the developer single?
+  punchline: They had commitment issues
 ---
 
 Några utvecklare från Stockholm tänkte podda lite under kvällskvisten. Men ämnet de skulle prata om hanns inte med.

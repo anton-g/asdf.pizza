@@ -6,6 +6,9 @@ number: 23
 pinecastId: 'a81948b2-a5b4-41a2-9106-c58b1707d759'
 spotifyId: '04gxHyFHNIbyqIZmSHxKXK'
 itunesId: '1000512659620'
+joke:
+  setup: Varför kom utvecklaren inte in genom dörren?
+  punchline: Porten var upptagen.
 ---
 
 Vi diskuterar den ständigt återkommande pressen att vara och fortsätta vara relevant i sin kunskap. Behöver en kunna allt alltid? Hur påverkar jobbannonser som radar upp fler tekniker än det är möjligt att hålla koll på? Vi glider också in på allt från att vara trygg i sin okunskap, att använda teknik för att den är bättre och inte för att den är ny samt ifall det behövs fler konferenspresentationer om "gamla" saker.

@@ -6,6 +6,9 @@ number: 10
 pinecastId: 'a915010f-5126-44b0-a76c-c4aebaf0b199'
 spotifyId: '1n7JHAGpcSvf9zCwnMSYIJ'
 itunesId: '1000490046974'
+joke:
+  setup: Hur får en sina barn att bli intresserad av programmering?
+  punchline: Genom att cURLa dem.
 ---
 
 Veckans avsnitt börjar starkt med ett riktigt kvalitetsskämt från Therése innan vi snabbt slänger oss in i dagens ämne, tillgänglighet. Vi snackar om aria-taggar och semantisk HTML, att råka koppla upp skärmläsaren till ljudsystemet samt olika verktyg för att förenkla arbetet med tillgänglighet. Dessutom gör vi vårt absolut bästa för att inte nämna några gamla kunder vid namn och pratar en del om hur det var att "testa på" hur det känns att vara blind.

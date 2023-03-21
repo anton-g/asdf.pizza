@@ -6,6 +6,9 @@ number: 65
 pinecastId: '9bd835ca-0b24-4417-9a52-2f8190178a67'
 spotifyId: ''
 itunesId: ''
+joke:
+  setup: Why are C++ developers so good at discussions?
+  punchline: They always have such good pointers.
 ---
 
 Vi inleder med både ett nytt och ett gammalt skämt innan vi snackar om verktyget(?) Prisma. Vi pratar om våra erfarenheter av det, hur vi använder det och att sitta på sin kammare och gissa sig till vad en inner left join är. Dessutom en hel del halloweenpumpor, namedroppande av databaser samt ett, något ångestladdat, skrik.

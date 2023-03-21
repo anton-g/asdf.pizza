@@ -6,6 +6,9 @@ number: 42
 pinecastId: '96855748-9a69-4355-ae11-d99810001ea4'
 spotifyId: '1E60gGFSS4BSKSXOq9s0Ne'
 itunesId: '1000543813823'
+joke:
+  setup: Varför känns det så tråkigt att spara persondata som JSON?
+  punchline: Jag gillar inte att objektifiera människor.
 ---
 
 Therése är förkyld, Anton har fyllt 30 och med det i ryggen snackar vi om nyheter i React 18 som nyligen gått in i sin betaperiod. Allt från att den här releasen är mer spännande än den tråkiga React 17-releasen, concurrent mode vs concurrent features, automatisk batching, lite nya hooks och mycket annat kul.

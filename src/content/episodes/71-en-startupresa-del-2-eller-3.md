@@ -6,6 +6,9 @@ number: 71
 pinecastId: '4555b96c-d019-4f88-9fc0-784e93455ce8'
 spotifyId: ''
 itunesId: ''
+joke:
+  setup: Hur vet du att en frontendare är en så kass kriminell?
+  punchline: Den har så många DOMar
 ---
 
 Poddens populäraste följetång fortsätter! Hur går det för Therése i hennes startupresa? Vi behandlar kapitalstopp, produktbyggande, visioner och UX-hjältar till att gå på 50%, sitta själv och sunk cost fallacy. Dessutom en hel del om röster i huvudet, att bli (interim) CTO av misstag och två veckor som blev till fyra månader.

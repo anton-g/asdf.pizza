@@ -6,6 +6,9 @@ number: 38
 pinecastId: '2d7255b9-2978-412f-b072-3c6c52dd672c'
 spotifyId: '2WHirN1UFbpYZgIkYOmvp2'
 itunesId: '1000537934524'
+joke:
+  setup: Varför är det så svårt att boka möten med gränssnittsutvecklare?
+  punchline: De flexar så mycket.
 ---
 
 Med starten i ett riktigt fem plus-skämt så snackar vi sedan karriär. Allt från trappor och stegar till personansvar och att glida ifrån kodandet. Dessutom hur en glapp käft kan leda till möjligheter, forskningen bakom att bli befordrad till sin inkompetens och tankar om våra karriärer om fem år.

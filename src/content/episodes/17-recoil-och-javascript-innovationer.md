@@ -6,6 +6,9 @@ number: 17
 pinecastId: '0089bb9f-b92b-40dd-80f7-9831b060ad3b'
 spotifyId: '1HkEqSdVzzWIaXK6T7f9JC'
 itunesId: '1000502929594'
+joke:
+  setup: 'På östgötska: Vilka är backend:ares favoritleksaker?'
+  punchline: Docker
 ---
 
 Vi pratar om biblioteket Recoil för att hantera state i React. Therése tycker det hittills känns väldigt bra och lär oss allt om atomer, träd och selektorer. Dessutom Antons relation till ordet "ortagonalt" och en diskussion om innovationstakten inom JavaScript-communityt.

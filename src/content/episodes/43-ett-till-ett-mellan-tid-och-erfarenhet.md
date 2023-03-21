@@ -6,6 +6,9 @@ number: 43
 pinecastId: '86f5acbe-16a9-41e8-ac8e-e0258d8ff70e'
 spotifyId: '4QVF3jVNzVfNP05bHoGJAU'
 itunesId: '1000545259658'
+joke:
+  setup: Varför hatar JavaScript-utvecklare julen?
+  punchline: För många onödiga paket
 ---
 
 Efter att kanske årets bästa skämt avverkats så pratar vi om vilka titlar vi använder för att beskriva oss själva. Hur relaterar titlar till erfarenhet? Är “senior” och “junior” bra ord för att beskriva vart i karriärer en befinner sig? Dessutom en del om att lova saker med sin titel, att titlar kan vara viktigare än en tror och relationen mellan tid och erfarenhet.

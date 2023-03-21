@@ -6,6 +6,9 @@ number: 46
 pinecastId: '049912b7-9494-426b-8a7a-85595caf5af6'
 spotifyId: '1lk6VNnlqvXvDzKopkfLwF'
 itunesId: '1000549248706'
+joke:
+  setup: Vad sa utvecklaren som blev medbjuden på padel?
+  punchline: Tack, men jag föredrar att squasha!
 ---
 
 Dokumentationsbonanza! Egen dokumentation i form av kommentarer och readmes samt ramverks dokumentation och guider. Är frågor på “Stack-Ove” dokumentation? Är det en superkraft att vara duktig på att läsa dokumentation? Den eviga känslan att det är jobbigt att uppdatera dokumentation samt mycket mycket annat.

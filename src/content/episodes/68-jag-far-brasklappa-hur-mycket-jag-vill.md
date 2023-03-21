@@ -6,6 +6,9 @@ number: 68
 pinecastId: '74da125a-02f7-41a6-9779-21efd8f674c6'
 spotifyId: ''
 itunesId: ''
+joke:
+  setup: Varför finns det så många säkerhetsexperter i Amsterdam?
+  punchline: För de gilla att hascha saker
 ---
 
 Det är 2023 och vi är tillbaka, kanske i motsatsen till högform, MEN det blir snack om att starta nytt, visionärer, att ta produktmänniskor för givet, vilka roller som är viktiga i en startup, att vara CTO, pengar, feedbackloopar, att skita i backendare samt att få saker att fungera innan de är rätt. Dessutom en hel del om att behöva bygga om, gammal React som gör sitt jobb och hur tiden att koda ofta blir lidande.

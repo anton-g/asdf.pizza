@@ -6,6 +6,9 @@ number: 36
 pinecastId: '125e0a04-bd07-4845-9cc7-2e2204a0dab5'
 spotifyId: '2SldkUEeivLPmAjOYK5q6H'
 itunesId: '1000534900413'
+joke:
+  setup: Varför blir utvecklare så nere när de Covid-vaccinerar sig?
+  punchline: För det är en distribuerad dos.
 ---
 
 Nyheten att rekommendationen att jobba hemma tas bort har precis släppts så vi pratar om kontor, kontorslandsskap och allt runt omkring. Det blir diskussioner om kontorspolicys, vad den nya arbetsplatshypen kommer bli och att tid är den bästa valutan.

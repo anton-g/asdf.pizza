@@ -6,6 +6,9 @@ number: 67
 pinecastId: 'e12778d0-4328-4857-83b2-a0eb56341a11'
 spotifyId: ''
 itunesId: ''
+joke:
+  setup: Vilken biltyp vill mellanchefen alltid att du ska köra?
+  punchline: Hybrid
 ---
 
 Efter en liten brasklapp snackar vi fiaskokonferensen Modern Frontends Live. Det blir massor av exempel på saker en absolut inte ska göra när det arrangeras konferens. Allt från liveströmmar utan videoutrustning, det bästa upplägget för att gå vilse, uppsåt vs inkompetens, till att göra sig ovän med utvecklarcommunityn och att inte plocka bort sina bord.

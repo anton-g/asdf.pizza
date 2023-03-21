@@ -6,6 +6,9 @@ number: 13
 pinecastId: '418ecec4-e88d-46e4-a2a2-5cc2539beb20'
 spotifyId: '7aPB80tII8wDRTeEwvFVZF'
 itunesId: '1000495747738'
+joke:
+  setup: Hur håller programmerare reda på sin alkoholkonsumption?
+  punchline: Enhetstest
 ---
 
 Therése har bytt uppdrag och därmed varit på en del konsultintervjuer. Vi snackar skillnader mellan konsultintervjuer och anställningsintervjuer, olika intervjutyper, hur man ska förhålla sig till att man representerar både ett konsultbolag och sig själv samt hur vi förbereder oss inför intervjuer. Dessutom kanoncitatet "Do as I say, not as I do" och att gömma sig bakom humor.

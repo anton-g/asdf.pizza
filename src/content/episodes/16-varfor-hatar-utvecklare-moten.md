@@ -6,6 +6,9 @@ number: 16
 pinecastId: 'e2a30103-9036-404f-954c-4249a7f5ff94'
 spotifyId: '0iUcZxDB7PbSbdUo6dJPMS'
 itunesId: '1000501295806'
+joke:
+  setup: Vad har polisen och TypeScript gemensamt?
+  punchline: De gillar inte dåliga typer.
 ---
 
 Vi pratar om den vedertagna sanningen att utvecklare hatar möten och om den verkligen stämmer.

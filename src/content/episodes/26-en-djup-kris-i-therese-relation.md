@@ -6,6 +6,9 @@ number: 26
 pinecastId: '78cffd79-e386-47fd-a08d-6a4b14206db6'
 spotifyId: '4CMF8ll4np3olCmYVWZd1m'
 itunesId: '1000508698062'
+joke:
+  setup: Vilket är webbutvecklarens favorit-te?
+  punchline: URL Grey
 ---
 
 Anton har bytt uppdrag och har i sin reflektion insett hur mycket han älskar Prettier. Med det som utgångspunkt diskuterar vi “developer experience” (DX), trailing commas, copy paste-utvecklings styrka och att automatisera så mycket som möjligt. Dessutom lite snack om en djup kris i Therése relation, för tidiga abstraktioner och den skavande känslan när React-importen ej är överst.

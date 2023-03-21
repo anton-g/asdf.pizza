@@ -6,6 +6,9 @@ number: 30
 pinecastId: 'e17c9ea4-276c-4774-b1b9-c9e6f1eef50c'
 spotifyId: '6fYYH6PVDugTibVcDSsykw'
 itunesId: '1000526004128'
+joke:
+  setup: Vad säger utvecklaren när den måste dra?
+  punchline: Jag måste gitta!
 ---
 
 Vi börjar med att prata om att Anton längtar tillbaka till kontoret av en väldigt specifik anledning, innan vi hoppar in på dagens huvudämne: TypeScript. Allt om disciplinen som krävs för att skriva TS, att Therése tror hon aldrig kommer komma överens med TS och att misstag med sina typer kan kosta mycket. Dessutom en del om att använda TS utan att skriva typer och ett dåligt exempel på Discriminated Unions.

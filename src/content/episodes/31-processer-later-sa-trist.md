@@ -6,6 +6,9 @@ number: 31
 pinecastId: 'fcd6e68b-8c62-4baa-b9c8-5b8dc7fc1c76'
 spotifyId: '1UkVjIvHBOu03e2CHgsX6w'
 itunesId: '1000527628039'
+joke:
+  setup: Varför sysslar ingen med JavaScript på slottet?
+  punchline: De har ingen klass
 ---
 
 Anton är så taggad på att komma igång att han helt missar introt, men så snart det är avklarat så diskuteras främst manuella, automatiserade, avsiktliga, onödiga, värdefulla och mänskliga processer. Dessutom en del om likheter med att bygga vägar och broar samt naiviteten att tro att allt kan automatiseras.

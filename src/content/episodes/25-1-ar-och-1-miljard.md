@@ -6,6 +6,9 @@ number: 25
 pinecastId: '9d3e1739-115a-4557-b94f-fcb841210622'
 spotifyId: '31k3KMBxUNQoFOt5pNzW8d'
 itunesId: '1000516396298'
+joke:
+  setup: Varför hade programmeraren så stökigt kök?
+  punchline: För lite diskutrymme.
 ---
 
 Vi inleder med att low-key fira att vi nu poddat i ett år och bjuder på lite bakom kulisserna, men sedan går vi in på Stockholms Stads skolplattform, den ofattbara summan pengar som spenderats och likheten med Cyberpunk 2077. Bråket med Öppna Skolplattformen. Att vara konsult och byta namn på headers bara för att sabotera. Sedan lite om gruppdynamik, trasiga fönster och buggar som leder till buggar.

@@ -6,6 +6,9 @@ number: 18
 pinecastId: '29ddd71f-11a6-40cc-a6db-fe34230af2d1'
 spotifyId: '6DTsi962Ik31jWXZmNcb8D'
 itunesId: '1000504040175'
+joke:
+  setup: Vad gör infra-teamet på metal-konsert?
+  punchline: En mesh-pit
 ---
 
 I dagens avsnitt pratas det om att komma in i ett nytt team, både under pandemi och något normalare omständigheter. Vi kommer in på det obefintliga kallpratet i digitala möten, om det krävs aktiviteter utanför arbetstid för att lära känna varandra och att ändra sig själv för att passa in.

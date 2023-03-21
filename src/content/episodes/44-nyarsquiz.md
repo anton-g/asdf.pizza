@@ -6,6 +6,9 @@ number: 44
 pinecastId: '6e9c7da6-1133-451f-812e-e653f06e2ff2'
 spotifyId: '4A0RCMTnonXYXosqB4rU0o'
 itunesId: '1000546561318'
+joke:
+  setup: Varför måste utvecklare ha självdistans?
+  punchline: Standup varje morgon.
 ---
 
 Vi rundar av året med att ställa varandra frågor inom diverse kategorier från hemsidan 30 Seconds of Interviews. Det blir allt från CSS selektorer, portaler, Ordo, stenhögsspråk, livscykelmetoder och higher order components.

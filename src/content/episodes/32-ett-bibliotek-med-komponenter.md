@@ -6,6 +6,9 @@ number: 32
 pinecastId: '9ca23278-e24b-449c-8212-c2acf6f1a3e8'
 spotifyId: '6zA7VrdGkXqjCIo3GCtwf5'
 itunesId: '1000529043579'
+joke:
+  setup: Vad kallar programmeraren ett misslyckat bankrån?
+  punchline: En cache-miss.
 ---
 
 I dagens avsnitt snackar vi om komponentbibliotek. Vad det är för något, hur vi använder dem, vilka komponenter vill vi ha i ett bibliotek och mycket annat. Anton har en förkärlek för komponentbibliotek som är "headless" där det inte följer med någon styling vilket leder in på diskussioner om när man faktiskt vill att stylingen ska följa med, avvägningen mellan att hålla komponenter små och att tillhandahålla alla användningsfall som behövs, samt hur den avvägningen förändras beroende på vem användaren är.

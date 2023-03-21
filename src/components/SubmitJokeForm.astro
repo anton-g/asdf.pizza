@@ -6,13 +6,13 @@ const {} = Astro.props
 
 <h2>Skicka in ett skämt vettja</h2>
 <form class="joke-form">
-  <label
+  <label style={{ transform: 'rotateZ(1deg)' }}
     >Ditt namn eller vad vi nu ska kalla dig:
     <input type="text" class="doodle" />
   </label>
-  <label>
+  <label style={{ transform: 'rotateZ(-0.5deg)' }}>
     Ett skämt (eller vad som helst):
-    <textarea class="doodle"></textarea>
+    <textarea class="doodle" rows="3"></textarea>
   </label>
   <button type="submit" class="submit-joke-button">Skicka :)</button>
 </form>
@@ -29,6 +29,10 @@ const {} = Astro.props
     font-variation-settings: 'BNCE' -30, 'wght' 400;
     display: flex;
     flex-direction: column;
+  }
+
+  .joke-form textarea {
+    resize: none;
   }
 
   .submit-joke-button {

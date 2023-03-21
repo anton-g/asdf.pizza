@@ -6,6 +6,9 @@ number: 63
 pinecastId: '686c60bb-956e-403e-8683-bb8397c54700'
 spotifyId: ''
 itunesId: ''
+joke:
+  setup: How do you comfort a JavaScript bug?
+  punchline: You console it.
 ---
 
 Therése gör saker som hon sa sist att hon absolut inte ville så vi snackar såklart om misslyckanden, katastroftankar och att befinna sig i limbo. Det blir en hel del om att våga ta beslut, att leva med sina beslut, att kosta pengar och ett bristande självförtroende. Dessutom en del om att ddosa sig själv, att prata skit på arbetstid och att döda en startup genom molnet.

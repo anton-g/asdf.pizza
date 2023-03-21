@@ -6,6 +6,9 @@ number: 66
 pinecastId: '39d5789f-8484-4688-b6a4-2f933030a5bc'
 spotifyId: ''
 itunesId: ''
+joke:
+  setup: Vad kallas en pythonutvecklare som är out of bounds?
+  punchline: Sir Väs
 ---
 
 Utan att lova för mycket så inleder Therése dagens avsnitt med poddens kanske bästa skämt genom tiderna, innan vi byter ämne helt och snackar mentorskap och coachning. Vi diskuterar oss fram till “rätt” svar på vad en coach, menter och förebild faktiskt är. Behöver det vara särskilt formellt? Vill vi ens ha eller vara en mentor? Dessutom en del om att lägga upp för misslyckanden, uppförsbackar och två minuters obekväm stämning.

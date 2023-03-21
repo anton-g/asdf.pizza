@@ -6,6 +6,9 @@ number: 70
 pinecastId: 'fd279024-d69b-46a6-83bf-3f12cb4062fb'
 spotifyId: ''
 itunesId: ''
+joke:
+  setup: Hur grattar embedded-utvecklare varandra?
+  punchline: Heap heap hurra!
 ---
 
 Vi utgår från Netlifys köp av Gatsby och det leder till ett härligt spretigt samtal om allt från att GraphQL är överskattat, att delat ägandeskap inte är något ägandeskap, Jamstack, WAMP, MAMP, MERN och andra stackar inklusive myrstackar. Dessutom en hel del om att ursäkta influencers, att företag alltid kommer se till sig själv i första hand och lite lite alkoholhets.

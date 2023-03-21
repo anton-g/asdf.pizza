@@ -6,6 +6,9 @@ number: 52
 pinecastId: 'd4257dda-a0e8-4664-beb3-631995324ab1'
 spotifyId: '5z1BcLCYkoGTTiNBbgOe6S'
 itunesId: '1000558343273'
+joke:
+  setup: Varför tycker front-endare det är så kul med JavaScript-konferenser?
+  punchline: För de älskar events.
 ---
 
 Mer och mer av världen öppnar upp och med det kommer även meetups tillbaka! Vi snackar om gratis mat och dryck, att merch är kul trots allt, vidga sina vyer, hantera sina förväntningar och alternativ till den traditionella meetupstrukturen. Dessutom en hel del om att dricka lite för mycket cava och visa vad en kan samt den perfekta längden på en presentation.

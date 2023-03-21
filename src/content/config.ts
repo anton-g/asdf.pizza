@@ -10,6 +10,12 @@ const episodeCollection = defineCollection({
     pinecastId: z.string(),
     spotifyId: z.string().optional(),
     itunesId: z.string().optional(),
+    joke: z
+      .object({
+        setup: z.string(),
+        punchline: z.string(),
+      })
+      .optional(),
   }),
 })
 // 3. Export a single `collections` object to register your collection(s)

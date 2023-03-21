@@ -6,6 +6,9 @@ number: 58
 pinecastId: 'a6406325-0cd7-4be7-87ae-43c04395afe5'
 spotifyId: '4O0loSqNz2GMHzRYkGagCt'
 itunesId: '1000570772600'
+joke:
+  setup: Hur relaxar den ensamstående webbutvecklaren?
+  punchline: Single-SPA
 ---
 
 För variationens skull börjar vi med ett riktigt riktigt svagt skämt vilket snabbt leder oss in på utvecklarupplevelse, eller “developer experience”, eller DX som det också kallas. Det blir en massa snack om hur trist det är att confa saker, att få motfrågor av sin miljö, vad som är ett bra CLI och kortkommandot shift + shift. Dessutom en hel del om WebStorm vs VS Code, en liten rant om odds och några tips på bra tillägg till Code.

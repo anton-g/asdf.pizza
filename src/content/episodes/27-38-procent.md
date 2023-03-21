@@ -6,6 +6,9 @@ number: 27
 pinecastId: '28aaaad5-1fb7-4d32-91e2-848c34f3cfcb'
 spotifyId: '6GwLXCAEilDneXjlho7YAa'
 itunesId: '1000520586595'
+joke:
+  setup: Vad har testare och ryttare gemensamt?
+  punchline: De mockar väldigt mycket.
 ---
 
 Vi pratar om Basecamp och hur bilden av bolaget förändrats radikalt på bara några dagar. Att annonsera policy-förändringar utan att prata med bolagets anställda kanske inte är den bästa vägen att gå, hur en kan hantera upprörda möten genom att ligga i sängen med kameran avstängd och hur det inte är ett positivt betyg att bli hyllad av högerextremister.

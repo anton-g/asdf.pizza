@@ -6,6 +6,9 @@ number: 40
 pinecastId: '079bc02e-ea89-4133-a841-fe47f8d66f58'
 spotifyId: '40pSs30w6YG4R1oypZsWK8'
 itunesId: '1000540862230'
+joke:
+  setup: Hur semestrar front-endare när de vill ha ett riktigt oväntat äventyr?
+  punchline: Safari
 ---
 
 Anton går i rasande tempo igenom en frustrerande resa med prestandaproblem i sitt nya hobbyprojekt. Det leder till prat om att sortera i objekt istället för arrayer, vikten av dokumentation, att lära sig mer än API specifikationer och Reacts senaste framgångsfaktor.

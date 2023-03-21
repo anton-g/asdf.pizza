@@ -6,6 +6,9 @@ number: 53
 pinecastId: 'b85b2a9f-98b1-4348-97eb-06c79e58868f'
 spotifyId: '2rcbJsIL1lfFHVj4r0bu9V'
 itunesId: '1000560957676'
+joke:
+  setup: Varför förstod inte React-komponenten poängen med skämtet?
+  punchline: Den saknade context.
 ---
 
 Efter en veckas försening är vi tillbaka med ett fullproppat avsnitt! Vi plockar upp cliffhangern från ett par avsnitt sen och pratar om Therése nya jobb, misslyckade splice-anrop, hemtest som inte stoppas upp i näsan, Antons datumhat, att drivas till gränsen av galenskap inom loppet av en intervjuprocess samt att vara brutalt ärlig mot en potentiell arbetsgivare. Dessutom en hel del om att göra något gott för världen, att svälja Gandhi-kroken och en brittisk rekryterares överpeppiga energi.

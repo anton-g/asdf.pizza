@@ -1,6 +1,6 @@
 ---
 export interface Props {
-  episodes: any[]
+  episodes: any[] // TODO
 }
 
 const { episodes } = Astro.props
@@ -16,7 +16,7 @@ const randomSvgHeight = () => 6 + Math.floor(Math.random() * 6) - 3
       <li>
         <div class="item-wrapper">
           <a href={`/${episode.slug}`} class="no-wrap">
-            {episode.data.title}
+            {episode.data.number}. {episode.data.title}
           </a>
           <div class="line-wrapper">
             <svg

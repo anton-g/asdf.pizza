@@ -6,6 +6,9 @@ number: 41
 pinecastId: 'ddcc402b-fff3-4acc-833c-bee7db189044'
 spotifyId: '3gW3oLi4CPqAscFfhKcjz0'
 itunesId: '1000542442052'
+joke:
+  setup: Varför är det så bra att ha våtdräkt när en googlar?
+  punchline: Man är redo att surfa.
 ---
 
 I dagens avsnitt snackar vi om de sex senaste månaderna i Therése liv, att vara sjukskriven med utmattning, stressen under sjukskrivningen, att (inte) bli ifrågasatt, hur "gå in i väggen" är en halvdan metafor samt att komma tillbaka men inte jobba 100%.

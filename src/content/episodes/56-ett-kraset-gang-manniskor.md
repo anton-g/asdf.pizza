@@ -6,6 +6,9 @@ number: 56
 pinecastId: '957a7352-707b-40aa-84e1-a7a9937af169'
 spotifyId: '0VXBg8eKaP8dt88TRdxvob'
 itunesId: '1000567569672'
+joke:
+  setup: What do you use web hooks for?
+  punchline: Phishing
 ---
 
 Glad midsommar säger vi med ett gott snack om att arrangera meetups. Det blir en hel del om fokuset på community och branding snarare än rekrytering, att tejpa upp sin telefon i taket, mat, dryck samt att göra saker för utvecklare av utvecklare.
