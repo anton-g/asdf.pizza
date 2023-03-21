@@ -8,6 +8,7 @@ import PinkBlob from '../components/PinkBlob.astro'
 import BlueBlob from '../components/BlueBlob.astro'
 import YellowBlob from '../components/YellowBlob.astro'
 import SubmitJokeForm from '../components/SubmitJokeForm.astro'
+import EpisodeList from '../components/EpisodeList.astro'
 
 const episodes = await getCollection('episodes')
 
@@ -80,18 +81,7 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
 
     <section class="section">
       <h2>Lite fler avsnitt</h2>
-      <ul>
-        {
-          restEpisodes.map((episode) => (
-            <li>
-              <a href={`/${episode.slug}`}>{episode.data.title}</a>
-              <time datetime={episode.data.date.toISOString()}>
-                {episode.data.date.toDateString()}
-              </time>
-            </li>
-          ))
-        }
-      </ul>
+      <EpisodeList episodes={restEpisodes} />
       <div style={{ marginTop: '36px', display: 'flex' }}>
         <a href="/julkalendern-2022" class="julkalender-link">
           <span>Ibland kör vi en<br />specialare också:</span>
@@ -172,7 +162,7 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
     position: sticky;
     bottom: -80px;
     margin-left: auto;
-    margin-right: -180px;
+    margin-right: -200px;
     margin-bottom: -100px;
     width: fit-content;
     display: flex;

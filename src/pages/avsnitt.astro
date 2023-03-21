@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro'
 import { getCollection } from 'astro:content'
 import { Image } from '@astrojs/image/components'
 import back from '../images/back.png'
+import EpisodeList from '../components/EpisodeList.astro'
 
 const episodes = await getCollection('episodes')
 
@@ -17,20 +18,7 @@ const sortedEpisodes = episodes
   </a>
   <main class="main">
     <h1>avsnitt</h1>
-    <ul style={{ marginTop: '32px' }}>
-      {
-        sortedEpisodes.map((episode) => (
-          <li>
-            <a href={`/${episode.slug}`}>
-              {episode.data.number}. {episode.data.title}
-            </a>
-            <time datetime={episode.data.date.toISOString()}>
-              {episode.data.date.toDateString()}
-            </time>
-          </li>
-        ))
-      }
-    </ul>
+    <EpisodeList episodes={sortedEpisodes} />
   </main>
 </Layout>
 
