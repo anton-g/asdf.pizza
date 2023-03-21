@@ -3,6 +3,8 @@ import { Image } from '@astrojs/image/components'
 import Layout from '../layouts/Layout.astro'
 import { getCollection } from 'astro:content'
 import logo from '../images/logo.png'
+import spotify from '../images/spotify.png'
+import itunes from '../images/itunes.png'
 import PinecastPlayer from '../components/PinecastPlayer.astro'
 import PinkBlob from '../components/PinkBlob.astro'
 import BlueBlob from '../components/BlueBlob.astro'
@@ -117,104 +119,125 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
     <section class="section joke-section">
       <SubmitJokeForm />
     </section>
+    <section class="services">
+      Prenumunemerera här:
+      <div style={{ display: 'flex', gap: '8px' }}>
+        <a
+          href="https://open.spotify.com/show/48pKe510caxiFkvxtoXJge?si=394f0c14012b4d6d"
+        >
+          <Image src={spotify} alt="listen on Spotify" />
+        </a>
+        <a href="https://podcasts.apple.com/se/podcast/asdf/id1506059489">
+          <Image src={itunes} alt="listen on itunes" />
+        </a>
+      </div>
+    </section>
   </main>
   <PinkBlob class="pink-blob" />
   <BlueBlob class="blue-blob" />
   <YellowBlob class="yellow-blob" />
-</Layout>
 
-<style>
-  .logo {
-    margin-bottom: 88px;
-    object-fit: contain;
-    max-width: 100%;
-    max-height: 100%;
-    width: auto;
-    height: auto;
-  }
+  <style>
+    .logo {
+      margin-bottom: 88px;
+      object-fit: contain;
+      max-width: 100%;
+      max-height: 100%;
+      width: auto;
+      height: auto;
+    }
 
-  .section {
-    width: 100%;
-    padding: 0 24px;
-    display: flex;
-    flex-direction: column;
-  }
+    .section {
+      width: 100%;
+      padding: 0 24px;
+      display: flex;
+      flex-direction: column;
+    }
 
-  .latest-episode-title {
-    margin-left: -90px;
-    margin-bottom: -74px;
-    display: flex;
-    gap: 10px;
-    font-family: 'Shantell Sans', system-ui, sans-serif;
-    font-variation-settings: 'BNCE' -50, 'wght' 350;
-    width: fit-content;
-    font-size: 16px;
+    .services {
+      gap: 8px;
+      font-family: 'Shantell Sans', system-ui, sans-serif;
+      align-self: center;
+      margin-top: 124px;
+      text-align: center;
+    }
 
-    /* Apply this for mobile:
+    .latest-episode-title {
+      margin-left: -90px;
+      margin-bottom: -74px;
+      display: flex;
+      gap: 10px;
+      font-family: 'Shantell Sans', system-ui, sans-serif;
+      font-variation-settings: 'BNCE' -50, 'wght' 350;
+      width: fit-content;
+      font-size: 16px;
+
+      /* Apply this for mobile:
     transform-origin: 100% 150%;
     transform: rotateZ(45deg); */
-  }
+    }
 
-  .more-episodes-cta {
-    font-family: 'Shantell Sans', system-ui, sans-serif;
-    font-variation-settings: 'BNCE' -50, 'wght' 500;
-    line-height: 1.1;
-    position: sticky;
-    bottom: -80px;
-    margin-left: auto;
-    margin-right: -200px;
-    margin-bottom: -100px;
-    width: fit-content;
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-  }
+    .more-episodes-cta {
+      font-family: 'Shantell Sans', system-ui, sans-serif;
+      font-variation-settings: 'BNCE' -50, 'wght' 500;
+      line-height: 1.1;
+      position: sticky;
+      bottom: -80px;
+      margin-left: auto;
+      margin-right: -200px;
+      margin-bottom: -100px;
+      width: fit-content;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
 
-  .more-episodes-cta svg {
-    margin-right: 40px;
-  }
+    .more-episodes-cta svg {
+      margin-right: 40px;
+    }
 
-  .julkalender-link {
-    color: black;
-    font-family: 'Shantell Sans', system-ui, sans-serif;
-    display: flex;
-    text-decoration: none;
-    gap: 4px;
-  }
-  .all-episodes-link {
-    margin-left: auto;
-    color: black;
-    font-family: 'Shantell Sans', system-ui, sans-serif;
-    display: flex;
-    text-decoration: none;
-    gap: 4px;
-  }
-  .all-episodes-link:hover span {
-    text-decoration: underline;
-  }
+    .julkalender-link {
+      color: black;
+      font-family: 'Shantell Sans', system-ui, sans-serif;
+      display: flex;
+      text-decoration: none;
+      gap: 4px;
+    }
+    .all-episodes-link {
+      margin-left: auto;
+      color: black;
+      font-family: 'Shantell Sans', system-ui, sans-serif;
+      display: flex;
+      text-decoration: none;
+      gap: 4px;
+    }
+    .all-episodes-link:hover span {
+      text-decoration: underline;
+    }
 
-  .all-episodes-link span {
-    white-space: pre;
-  }
+    .all-episodes-link span {
+      white-space: pre;
+    }
 
-  .all-episodes-link svg {
-    margin-top: 12px;
-  }
+    .all-episodes-link svg {
+      margin-top: 12px;
+    }
 
-  .joke-section {
-    margin-top: 124px;
-  }
+    .joke-section {
+      margin-top: 124px;
+    }
 
-  .pink-blob {
-    top: -85%;
-    left: -20%;
-  }
-  .blue-blob {
-    top: 80%;
-    left: -20%;
-  }
-  .yellow-blob {
-    top: 140%;
-    right: -20%;
-  }
-</style>
+    .pink-blob {
+      top: -85%;
+      left: -20%;
+    }
+    .blue-blob {
+      top: 80%;
+      left: -20%;
+    }
+    .yellow-blob {
+      top: 140%;
+      right: -20%;
+    }
+  </style>
+</Layout>
