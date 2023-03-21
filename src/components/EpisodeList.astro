@@ -1,6 +1,8 @@
 ---
+import type { CollectionEntry } from 'astro:content'
+
 export interface Props {
-  episodes: any[] // TODO
+  episodes: (CollectionEntry<'episodes'> | CollectionEntry<'advent22'>)[] // TODO
 }
 
 const { episodes } = Astro.props

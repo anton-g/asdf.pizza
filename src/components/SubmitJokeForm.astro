@@ -4,7 +4,8 @@ export interface Props {}
 const {} = Astro.props
 ---
 
-<h2>Skicka in ett skämt vettja</h2>
+<!-- TODO success page -->
+<h2>Bidra med ett skämt vettja</h2>
 <form
   class="joke-form"
   name="jokes"
@@ -17,13 +18,13 @@ const {} = Astro.props
   </label>
   <label style={{ transform: 'rotateZ(1deg)' }}
     >Ditt namn (eller vad vi nu ska kalla dig):
-    <input type="text" class="doodle" name="name" />
+    <input type="text" class="doodle" name="name" required />
   </label>
   <label style={{ transform: 'rotateZ(-0.5deg)' }}>
     Ditt skämt (eller något annat kul du vill berätta):
-    <textarea class="doodle" rows="3" name="joke"></textarea>
+    <textarea class="doodle" rows="3" name="joke" required></textarea>
   </label>
-  <button type="submit" class="submit-joke-button">Skicka :)</button>
+  <button type="submit" class="submit-joke-button doodle">Skicka :)</button>
 </form>
 
 <style>
@@ -51,6 +52,6 @@ const {} = Astro.props
     font-family: 'Shantell Sans', system-ui, sans-serif;
     cursor: pointer;
     margin-left: auto;
-    margin-top: 16px;
+    margin-top: 8px;
   }
 </style>

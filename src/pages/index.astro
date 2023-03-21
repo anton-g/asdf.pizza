@@ -11,6 +11,7 @@ import BlueBlob from '../components/BlueBlob.astro'
 import YellowBlob from '../components/YellowBlob.astro'
 import SubmitJokeForm from '../components/SubmitJokeForm.astro'
 import EpisodeList from '../components/EpisodeList.astro'
+import GreenBlob from '../components/GreenBlob.astro'
 
 const episodes = await getCollection('episodes')
 
@@ -25,7 +26,7 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
   title="asdf - med Therése & Anton"
   description={'Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata ofiltrerat om kod, livet och allt däremellan.'}
 >
-  <main class="main">
+  <main class="main" style={{ position: 'relative' }}>
     <div class="logo">
       <Image src={logo} width={500} alt="asdf logo" />
       <PinkBlob class="pink-blob" />
@@ -137,11 +138,14 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
         </a>
       </div>
     </section>
+    <GreenBlob class="green-blob" />
   </main>
 </Layout>
 
 <style>
   .logo {
+    display: flex;
+    justify-content: center;
     margin-bottom: 88px;
     position: relative;
   }
@@ -242,6 +246,11 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
   .yellow-blob {
     top: -300px;
     right: -600px;
+  }
+
+  .green-blob {
+    bottom: 0px;
+    left: -900px;
   }
 
   @media (max-width: 712px) {
