@@ -232,4 +232,20 @@ const { setup, punchline } = Astro.props
     position: absolute;
     inset: 0;
   }
+
+  @media (max-width: 666px) {
+    .wrapper {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .wrapper h2 {
+      margin-left: 0px;
+    }
+    .instruction {
+      transform: rotateZ(40deg);
+      margin-top: 36px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
 </style>
