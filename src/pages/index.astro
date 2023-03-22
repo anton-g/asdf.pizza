@@ -2,9 +2,6 @@
 import { Image } from '@astrojs/image/components'
 import Layout from '../layouts/Layout.astro'
 import { getCollection } from 'astro:content'
-import logo from '../images/logo.png'
-import spotify from '../images/spotify.png'
-import itunes from '../images/itunes.png'
 import PinecastPlayer from '../components/PinecastPlayer.astro'
 import PinkBlob from '../components/PinkBlob.astro'
 import BlueBlob from '../components/BlueBlob.astro'
@@ -12,6 +9,14 @@ import YellowBlob from '../components/YellowBlob.astro'
 import SubmitJokeForm from '../components/SubmitJokeForm.astro'
 import EpisodeList from '../components/EpisodeList.astro'
 import GreenBlob from '../components/GreenBlob.astro'
+import logo from '../images/logo.png'
+import spotify from '../images/spotify.png'
+import itunes from '../images/itunes.png'
+import keysLV from '../images/keys-lv.png'
+import keysHeart from '../images/keys-heart.png'
+import keysEnter from '../images/keys-enter.png'
+import keysLH from '../images/keys-lh.png'
+import keysSpace from '../images/keys-space.png'
 
 const episodes = await getCollection('episodes')
 
@@ -65,6 +70,7 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
         <div class="markdown">
           <LatestEpisodeContent />
         </div>
+        <Image src={keysHeart} alt="" class="keys-heart bg-image" />
       </div>
       <aside class="more-episodes-cta">
         <div style={{ marginLeft: 'auto' }}>
@@ -83,6 +89,7 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
           ></path>
         </svg>
       </aside>
+      <Image src={keysLV} alt="" class="keys-lv bg-image" />
       <BlueBlob class="blue-blob" />
     </section>
 
@@ -133,6 +140,8 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
             ></path>
           </svg>
         </a>
+        <Image src={keysLH} alt="" class="keys-lh bg-image" />
+        <Image src={keysEnter} alt="" class="keys-enter bg-image" />
         <YellowBlob class="yellow-blob" />
       </div>
     </section>
@@ -154,13 +163,16 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
     </section>
     <GreenBlob class="green-blob" />
   </main>
+  <div class="keys-space-wrapper">
+    <Image src={keysSpace} alt="" class="keys-space bg-image" />
+  </div>
 </Layout>
 
 <style>
   .logo {
     display: flex;
     justify-content: center;
-    margin: 0 auto 88px;
+    margin: 0 auto 36px;
     position: relative;
     max-width: 500px;
   }
@@ -171,14 +183,6 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
     max-height: 100%;
     width: 100%;
     height: auto;
-  }
-
-  .section {
-    width: 100%;
-    padding: 0 24px;
-    display: flex;
-    flex-direction: column;
-    position: relative;
   }
 
   .services {
@@ -268,7 +272,7 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
   }
 
   .pink-blob {
-    top: -800px;
+    top: -790px;
     left: -700px;
   }
   .blue-blob {
@@ -277,12 +281,57 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
   }
   .yellow-blob {
     top: -300px;
-    right: -600px;
+    right: -620px;
   }
 
   .green-blob {
     bottom: 0px;
     left: -900px;
+  }
+
+  .bg-image {
+    position: absolute;
+    z-index: -1;
+    object-fit: contain;
+    height: auto;
+    opacity: 0.1;
+  }
+
+  .keys-lv {
+    left: -350px;
+    top: 150px;
+    width: 180px;
+  }
+
+  .keys-lh {
+    right: -600px;
+    top: 300px;
+    width: 400px;
+  }
+
+  .keys-heart {
+    top: 350px;
+    left: 150px;
+    width: 180px;
+  }
+
+  .keys-enter {
+    bottom: -50px;
+    left: -150px;
+    width: 180px;
+  }
+
+  .keys-space-wrapper {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 275px;
+    width: 400px;
+    overflow: hidden;
+  }
+  .keys-space {
+    position: relative;
+    bottom: -100px;
   }
 
   @media (max-width: 712px) {

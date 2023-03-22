@@ -6,6 +6,8 @@ import Layout from '../layouts/Layout.astro'
 import spotify from '../images/spotify.png'
 import itunes from '../images/itunes.png'
 import { Image } from '@astrojs/image/components'
+import GreenBlob from '../components/GreenBlob.astro'
+import BlueBlob from '../components/BlueBlob.astro'
 
 export interface Props {
   entry: CollectionEntry<'episodes'>
@@ -26,11 +28,18 @@ const intl = new Intl.DateTimeFormat('sv-SE', { dateStyle: 'long' })
 ---
 
 <Layout title={entry.data.title}>
-  <main class="main" style={{ position: 'relative' }}>
-    <h1>{entry.data.number}. {entry.data.title}</h1>
-    <time class="date" datetime={entry.data.date.toISOString()}>
-      {intl.format(entry.data.date)}
-    </time>
+  <main class="main" style={{ position: 'relative', marginTop: '40px' }}>
+    <div class="blue-blob-wrapper">
+      <BlueBlob class="blue-blob" />
+    </div>
+    <GreenBlob class="green-blob" />
+    <section class="section top-section">
+      <h1>{entry.data.number}. {entry.data.title}</h1>
+      <time class="date" datetime={entry.data.date.toISOString()}>
+        {intl.format(entry.data.date)}
+      </time>
+      <PinecastPlayer pinecastId={entry.data.pinecastId} />
+    </section>
     <div class="services">
       <a
         class="spotify"
@@ -76,18 +85,21 @@ const intl = new Intl.DateTimeFormat('sv-SE', { dateStyle: 'long' })
         <Image src={itunes} alt="listen on itunes" />
       </a>
     </div>
-    <PinecastPlayer pinecastId={entry.data.pinecastId} class="player" />
-    <div class="markdown" style={{ marginBottom: '48px' }}>
-      <Content />
-    </div>
-    {
-      entry.data.joke && (
-        <Joke
-          setup={entry.data.joke.setup}
-          punchline={entry.data.joke.punchline}
-        />
-      )
-    }
+    <section class="section" style={{ marginBottom: '48px' }}>
+      <div class="markdown">
+        <Content />
+      </div>
+    </section>
+    <section class="section">
+      {
+        entry.data.joke && (
+          <Joke
+            setup={entry.data.joke.setup}
+            punchline={entry.data.joke.punchline}
+          />
+        )
+      }
+    </section>
   </main>
 </Layout>
 
@@ -97,7 +109,7 @@ const intl = new Intl.DateTimeFormat('sv-SE', { dateStyle: 'long' })
     font-family: 'Shantell Sans', system-ui, sans-serif;
     transform: rotateZ(2deg);
   }
-  .player {
+  .top-section {
     margin-bottom: 16px;
   }
 
@@ -130,7 +142,22 @@ const intl = new Intl.DateTimeFormat('sv-SE', { dateStyle: 'long' })
     margin-right: -120px;
   }
 
-  .spotify {
+  .green-blob {
+    top: -500px;
+    left: -590px;
+    transform: rotateZ(-20deg);
+  }
+  .blue-blob-wrapper {
+    position: absolute;
+    bottom: -40px;
+    right: -400px;
+    width: 500px;
+    height: 1100px;
+  }
+  .blue-blob {
+    position: absolute;
+    margin-left: 50px;
+    transform: rotateZ(5deg);
   }
 
   @media (max-width: 1050px) {
