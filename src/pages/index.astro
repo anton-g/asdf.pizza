@@ -90,11 +90,25 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
       <h2>Lite fler avsnitt</h2>
       <EpisodeList episodes={restEpisodes} />
       <div style={{ marginTop: '36px', display: 'flex' }}>
-        <a href="/julkalendern-2022" class="julkalender-link">
-          <span>Ibland kör vi en<br />specialare också:</span>
-        </a>
         <a href="/avsnitt" class="all-episodes-link">
-          <span>Ännu fler avsnitt</span>
+          <div class="all-episodes-link-text-wrapper">
+            <span>Ännu fler avsnitt</span>
+            <svg
+              width="100%"
+              height="12"
+              viewBox="0 0 100 12"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+              class="line-svg"
+              preserveAspectRatio="none"
+            >
+              <path
+                d="M 0,6 Q 25,7  50,5  T 100,7"
+                stroke="#18140b"
+                stroke-width="2"
+                stroke-linecap="round"></path>
+            </svg>
+          </div>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="80"
@@ -220,12 +234,29 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
     text-decoration: none;
     gap: 4px;
   }
-  .all-episodes-link:hover span {
-    text-decoration: underline;
-  }
 
   .all-episodes-link span {
     white-space: pre;
+    position: relative;
+  }
+  .all-episodes-link-text-wrapper {
+    position: relative;
+    height: fit-content;
+  }
+  .all-episodes-link-text-wrapper svg {
+    overflow: visible;
+    display: inline-block;
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 100%;
+    height: 12px;
+    stroke-dasharray: 101;
+    stroke-dashoffset: 101;
+    transition: stroke-dashoffset 350ms;
+  }
+  .all-episodes-link:hover .all-episodes-link-text-wrapper svg {
+    stroke-dashoffset: 0;
   }
 
   .all-episodes-link svg {
