@@ -126,15 +126,19 @@ const { setup, punchline } = Astro.props
       if (!canvas.isDrawing) {
         return
       }
-      const x = e.touches[0].pageX - canvas.node.offsetLeft
-      const y = e.touches[0].pageY - canvas.node.offsetTop
+
+      const rect = canvas.node.getBoundingClientRect()
+      const x = e.touches[0].pageX - rect.left
+      const y = e.touches[0].pageY - rect.top
       draw(x, y)
     }
     const handleDown = (e: MouseEvent | TouchEvent) => {
+      console.log('start')
       e.preventDefault()
       canvas.isDrawing = true
     }
     const handleUp = (e: MouseEvent | TouchEvent) => {
+      console.log('end')
       e.preventDefault()
       canvas.isDrawing = false
     }
@@ -146,6 +150,9 @@ const { setup, punchline } = Astro.props
   }
 
   const container = document.getElementById('canvas')
+  container!.onclick = () => {
+    console.log('test')
+  }
   init(container, 340, 70, 'silver')
 </script>
 
