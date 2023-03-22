@@ -1,9 +1,10 @@
 ---
 export interface Props {
   pinecastId: string
+  class?: string
 }
 
-const { pinecastId } = Astro.props
+const { pinecastId, class: className } = Astro.props
 ---
 
 <iframe
@@ -13,4 +14,5 @@ const { pinecastId } = Astro.props
   style={{ border: 0 }}
   frame-border="0"
   width="100%"
-  title="audio player for episode"></iframe>
+  title="audio player for episode"
+  class={className}></iframe>
