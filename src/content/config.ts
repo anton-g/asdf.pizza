@@ -14,6 +14,7 @@ const episodeCollection = defineCollection({
       .object({
         setup: z.string(),
         punchline: z.string(),
+        author: z.string().optional(),
       })
       .optional(),
   }),

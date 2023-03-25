@@ -2,9 +2,10 @@
 export interface Props {
   setup: string
   punchline: string
+  author?: string
 }
 
-const { setup, punchline } = Astro.props
+const { setup, punchline, author } = Astro.props
 ---
 
 <div class="wrapper">
@@ -19,6 +20,7 @@ const { setup, punchline } = Astro.props
         </div>
       </div>
     </div>
+    {author && <div class="author">Inskickat av {author}</div>}
   </div>
   <div class="instruction">
     <svg xmlns="http://www.w3.org/2000/svg" width="80" viewBox="0 0 103 41">
@@ -173,7 +175,7 @@ const { setup, punchline } = Astro.props
 
   .instruction {
     display: flex;
-    margin-bottom: 36px;
+    margin-bottom: 66px;
     transform: rotateZ(-4deg);
     position: relative;
   }
@@ -232,6 +234,10 @@ const { setup, punchline } = Astro.props
     inset: 0;
   }
 
+  .author {
+    opacity: 0.6;
+  }
+
   @media (max-width: 666px) {
     .wrapper {
       flex-direction: column;
@@ -242,9 +248,8 @@ const { setup, punchline } = Astro.props
     }
     .instruction {
       transform: rotateZ(40deg);
-      margin-top: 36px;
+      margin-top: 0px;
       margin-left: auto;
-      margin-right: auto;
     }
   }
 </style>
