@@ -13,9 +13,9 @@ import logo from '../images/logo.png'
 import spotify from '../images/spotify.png'
 import itunes from '../images/itunes.png'
 import keysLV from '../images/keys-lv.png'
+import keysLH from '../images/keys-lh.png'
 import keysHeart from '../images/keys-heart.png'
 import keysEnter from '../images/keys-enter.png'
-import keysLH from '../images/keys-lh.png'
 import keysSpace from '../images/keys-space.png'
 
 const episodes = await getCollection('episodes')
@@ -287,14 +287,6 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
   .green-blob {
     bottom: 0px;
     left: -900px;
-  }
-
-  .bg-image {
-    position: absolute;
-    z-index: -1;
-    object-fit: contain;
-    height: auto;
-    opacity: 0.1;
   }
 
   .keys-lv {

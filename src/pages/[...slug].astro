@@ -8,6 +8,7 @@ import itunes from '../images/itunes.png'
 import { Image } from '@astrojs/image/components'
 import GreenBlob from '../components/GreenBlob.astro'
 import BlueBlob from '../components/BlueBlob.astro'
+import PinkBlob from '../components/PinkBlob.astro'
 
 export interface Props {
   entry: CollectionEntry<'episodes'>
@@ -100,6 +101,9 @@ const intl = new Intl.DateTimeFormat('sv-SE', { dateStyle: 'long' })
         )
       }
     </section>
+    <div class="pink-blob-wrapper">
+      <PinkBlob class="pink-blob" />
+    </div>
   </main>
 </Layout>
 
@@ -149,15 +153,25 @@ const intl = new Intl.DateTimeFormat('sv-SE', { dateStyle: 'long' })
   }
   .blue-blob-wrapper {
     position: absolute;
-    bottom: -40px;
+    bottom: 10px;
     right: -400px;
     width: 500px;
     height: 1100px;
   }
   .blue-blob {
-    position: absolute;
     margin-left: 50px;
     transform: rotateZ(5deg);
+  }
+
+  .pink-blob-wrapper {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 500px;
+    height: 500px;
+  }
+  .pink-blob {
+    right: 350px;
   }
 
   @media (max-width: 1050px) {

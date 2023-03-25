@@ -4,6 +4,12 @@ import { getCollection } from 'astro:content'
 import { Image } from '@astrojs/image/components'
 import back from '../images/back.png'
 import EpisodeList from '../components/EpisodeList.astro'
+import YellowBlob from '../components/YellowBlob.astro'
+import PinkBlob from '../components/PinkBlob.astro'
+import GreenBlob from '../components/GreenBlob.astro'
+import keysArrows from '../images/keys-arrows.png'
+import keysLV from '../images/keys-lv.png'
+import keysHome from '../images/keys-home.png'
 
 const episodes = await getCollection('episodes')
 
@@ -17,15 +23,58 @@ const sortedEpisodes = episodes
     <Image src={back} alt="go back to home" width={200} />
   </a>
   <main class="main">
-    <h1>avsnitt</h1>
+    <h1 class="title">våra avsnitt</h1>
     <EpisodeList episodes={sortedEpisodes} />
+    <Image src={keysArrows} alt="" class="keys-arrows bg-image" />
+    <Image src={keysLV} alt="" class="keys-lv bg-image" />
+    <Image src={keysHome} alt="" class="keys-home bg-image" />
+    <YellowBlob class="yellow-blob" />
+    <PinkBlob class="pink-blob" />
+    <GreenBlob class="green-blob" />
   </main>
 </Layout>
 
 <style>
-  h1 {
-    font-size: 3rem;
+  .title {
+    font-size: 4rem;
     font-weight: 800;
     margin: 0;
+    margin-left: -3rem;
+    margin-bottom: 1rem;
+    transform: rotateZ(-4deg);
+  }
+  .main {
+    position: relative;
+  }
+  .yellow-blob {
+    top: -200px;
+    left: -600px;
+  }
+  .keys-arrows {
+    top: 350px;
+    left: -160px;
+    width: 200px;
+    transform: rotateZ(-10deg);
+  }
+  .pink-blob {
+    right: -950px;
+    top: 25%;
+    transform: rotateZ(55deg);
+  }
+  .keys-lv {
+    top: 1000px;
+    width: 220px;
+    left: -320px;
+    transform: rotateZ(160deg);
+  }
+  .green-blob {
+    transform: rotateZ(-60deg);
+    left: -800px;
+    bottom: 0;
+  }
+  .keys-home {
+    top: calc(25% + 1000px);
+    right: -120px;
+    width: 200px;
   }
 </style>
