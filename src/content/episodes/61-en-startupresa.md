@@ -7,7 +7,7 @@ pinecastId: 'c2ef5f76-0aa3-4d9c-b30b-67ed57bc577b'
 spotifyId: '1OwYFeVSMMzgoqSflMjMX5'
 itunesId: '1000578146419'
 joke:
-  setup: Vilket är Google-anställdas favoritsport?
+  setup: Vilken är Google-anställdas favoritsport?
   punchline: Dart
 ---
 

@@ -9,6 +9,9 @@ import { Image } from '@astrojs/image/components'
 import GreenBlob from '../components/GreenBlob.astro'
 import BlueBlob from '../components/BlueBlob.astro'
 import PinkBlob from '../components/PinkBlob.astro'
+import keysLH from '../images/keys-lh.png'
+import keysHeart from '../images/keys-heart.png'
+import keysSpace from '../images/keys-space.png'
 
 export interface Props {
   entry: CollectionEntry<'episodes'>
@@ -40,6 +43,8 @@ const intl = new Intl.DateTimeFormat('sv-SE', { dateStyle: 'long' })
         {intl.format(entry.data.date)}
       </time>
       <PinecastPlayer pinecastId={entry.data.pinecastId} />
+      <Image src={keysHeart} alt="" class="keys-heart bg-image" />
+      <Image src={keysLH} alt="" class="keys-lh bg-image" />
     </section>
     <div class="services">
       <a
@@ -100,6 +105,7 @@ const intl = new Intl.DateTimeFormat('sv-SE', { dateStyle: 'long' })
           />
         )
       }
+      <Image src={keysSpace} alt="" class="keys-space bg-image" />
     </section>
     <div class="pink-blob-wrapper">
       <PinkBlob class="pink-blob" />
@@ -154,9 +160,10 @@ const intl = new Intl.DateTimeFormat('sv-SE', { dateStyle: 'long' })
   .blue-blob-wrapper {
     position: absolute;
     bottom: 10px;
-    right: -400px;
-    width: 500px;
+    right: -860px;
+    width: 960px;
     height: 1100px;
+    overflow: hidden;
   }
   .blue-blob {
     margin-left: 50px;
@@ -166,12 +173,31 @@ const intl = new Intl.DateTimeFormat('sv-SE', { dateStyle: 'long' })
   .pink-blob-wrapper {
     position: absolute;
     bottom: 0;
-    left: 0;
-    width: 500px;
+    left: -1100px;
+    width: 1110px;
     height: 500px;
+    z-index: -2;
+    overflow: hidden;
   }
   .pink-blob {
-    right: 350px;
+  }
+
+  .keys-heart {
+    width: 160px;
+    top: 150px;
+    left: -320px;
+  }
+
+  .keys-lh {
+    width: 450px;
+    top: 250px;
+    right: -380px;
+  }
+
+  .keys-space {
+    width: 250px;
+    top: 120px;
+    left: -520px;
   }
 
   @media (max-width: 1050px) {

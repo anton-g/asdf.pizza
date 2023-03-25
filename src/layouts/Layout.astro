@@ -21,9 +21,7 @@ const { title, description } = Astro.props
     <title>{title}</title>
   </head>
   <body>
-    <div
-      style={{ position: 'relative', minHeight: '100%', overflow: 'hidden' }}
-    >
+    <div style={{ position: 'relative', minHeight: '100%' }}>
       <slot />
     </div>
   </body>
