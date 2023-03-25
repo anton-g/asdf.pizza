@@ -65,7 +65,14 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
         </svg>
       </div>
       <div class="latest-episode">
-        <h2>{latestEpisode.data.title}</h2>
+        <a
+          href={`/${latestEpisode.slug}`}
+          style={{ color: 'black', textDecoration: 'none' }}
+        >
+          <h2>
+            {latestEpisode.data.title}
+          </h2>
+        </a>
         <PinecastPlayer pinecastId={latestEpisode.data.pinecastId} />
         <div class="markdown">
           <LatestEpisodeContent />
@@ -202,6 +209,7 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
     font-variation-settings: 'BNCE' -50, 'wght' 350;
     width: fit-content;
     font-size: 16px;
+    z-index: -1;
   }
 
   .more-episodes-cta {
@@ -320,6 +328,7 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
     height: 275px;
     width: 400px;
     overflow: hidden;
+    z-index: -2;
   }
   .keys-space {
     position: relative;

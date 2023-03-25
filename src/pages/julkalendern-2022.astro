@@ -1,8 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro'
 import { getCollection } from 'astro:content'
-import { Image } from '@astrojs/image/components'
-import back from '../images/back.png'
 import EpisodeList from '../components/EpisodeList.astro'
 
 const episodes = await getCollection('advent22')
@@ -13,9 +11,6 @@ const sortedEpisodes = episodes
 ---
 
 <Layout title="adventskalendern 2022 - asdf">
-  <a href="/">
-    <Image src={back} alt="go back to home" width={200} />
-  </a>
   <main class="main">
     <h1>luckor</h1>
     <EpisodeList episodes={sortedEpisodes} />
