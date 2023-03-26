@@ -9,6 +9,7 @@ import GreenBlob from '../components/GreenBlob.astro'
 import keysArrows from '../images/keys-arrows.png'
 import keysLV from '../images/keys-lv.png'
 import keysHome from '../images/keys-home.png'
+import Footer from '../components/Footer.astro'
 
 const episodes = await getCollection('episodes')
 
@@ -29,6 +30,7 @@ const sortedEpisodes = episodes
     <YellowBlob class="yellow-blob" />
     <PinkBlob class="pink-blob" />
     <GreenBlob class="green-blob" />
+    <Footer />
   </main>
 </Layout>
 
@@ -71,7 +73,7 @@ const sortedEpisodes = episodes
   .green-blob {
     transform: rotateZ(-60deg);
     left: -800px;
-    bottom: 200px;
+    bottom: 250px;
   }
   .keys-home {
     top: calc(25% + 1000px);

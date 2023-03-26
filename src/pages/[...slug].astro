@@ -12,6 +12,7 @@ import PinkBlob from '../components/PinkBlob.astro'
 import keysLH from '../images/keys-lh.png'
 import keysHeart from '../images/keys-heart.png'
 import keysSpace from '../images/keys-space.png'
+import Footer from '../components/Footer.astro'
 
 export interface Props {
   entry: CollectionEntry<'episodes'>
@@ -114,6 +115,7 @@ const intl = new Intl.DateTimeFormat('sv-SE', { dateStyle: 'long' })
       <PinkBlob class="pink-blob" />
     </div>
     <Image src={keysSpace} alt="" class="keys-space bg-image" />
+    <Footer />
   </main>
 </Layout>
 

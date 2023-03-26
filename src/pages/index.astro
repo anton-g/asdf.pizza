@@ -18,6 +18,7 @@ import keysLH from '../images/keys-lh.png'
 import keysHeart from '../images/keys-heart.png'
 import keysEnter from '../images/keys-enter.png'
 import keysSpace from '../images/keys-space.png'
+import Footer from '../components/Footer.astro'
 
 const episodes = await getCollection('episodes')
 
@@ -114,7 +115,6 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
               viewBox="0 0 100 12"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"
-              class="line-svg"
               preserveAspectRatio="none"
             >
               <path
@@ -191,6 +191,7 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
         </a>
       </div>
     </section>
+    <Footer />
     <GreenBlob class="green-blob" />
   </main>
   <div class="keys-space-wrapper">
