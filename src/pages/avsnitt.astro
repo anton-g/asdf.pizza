@@ -10,19 +10,49 @@ import keysArrows from '../images/keys-arrows.png'
 import keysLV from '../images/keys-lv.png'
 import keysHome from '../images/keys-home.png'
 import Footer from '../components/Footer.astro'
+import magnifyingGlass from '../images/magnifying-glass.png'
 
 const episodes = await getCollection('episodes')
 
 const sortedEpisodes = episodes
   .slice()
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+
+const firstHalfOfEpisodes = sortedEpisodes.slice(
+  0,
+  Math.floor(sortedEpisodes.length / 2)
+)
+const secondHalfOfEpisodes = sortedEpisodes.slice(firstHalfOfEpisodes.length)
 ---
 
 <Layout title="avsnitt">
   <main class="main">
     <section class="content">
       <h1 class="title">våra avsnitt</h1>
-      <EpisodeList episodes={sortedEpisodes} class="episodes" />
+      <EpisodeList episodes={firstHalfOfEpisodes} class="episodes" />
+      <a href="/hitta-avsnitt" class="search-link">
+        <Image src={magnifyingGlass} alt="" />
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 33 48">
+          <g
+            fill="#393939"
+            stroke="#393939"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path
+              d="M1.5 42.5c.2.8 1 1.5 2.3 2.1 1.3.7 2.7.8 4.3.4a8 8 0 0 0 3.3-1.5 24.4 24.4 0 0 0 7-10.5 45.2 45.2 0 0 0 2.4-7.7 6724 6724 0 0 1 1.9-7A50.9 50.9 0 0 0 24 8.7s0 0 0 0V9s0 0 0 0V9s0 0 0 0 0 0 0 0v.1h-.1s0 0 0 0 0 0 0 0h-.1V9s0 0 0 0v-.1s0 0 0 0 0 0 0 0v-.1h.1s0 0 0 0h.1s0 0 0 0V9c.1 0 .1 0 0 0V9a27.2 27.2 0 0 1-1 12.7A243 243 0 0 1 18.4 37c-.4 1-1 2-1.7 3a40 40 0 0 1-2 2.5c-.8.9-1.6 1.6-2.5 2.2l-2.7 1.5c-.8.3-2.1.4-3.8.3-1.8-.2-3-.7-3.7-1.5-.7-.8-1-1.4-1-1.9l.1-.6s0 0 0 0v-.1c.1 0 .1 0 0 0h.1s.1 0 0 0c0-.1 0-.1.1 0 0 0 .1 0 0 0 0-.1 0-.1.1 0 0 0 .1 0 0 0h.1s0 0 0 0 0 0 0 0v.1Z"
+            ></path>
+            <path
+              d="M17.1 9.5a138 138 0 0 1 7.4-6.7c.9-.8 2-1.4 3.4-2 1.3-.5 2.3-.1 2.8 1 .6 1.2.9 2.6.9 4.2a106.3 106.3 0 0 1-.4 8.5s0 0 0 0H31v-.1s-.1-.1 0-.1c0 0 0 0 0 0-.1-.1 0-.1 0-.1s0 0 0 0V14h.1s0 0 0 0h.2v.1s0 0 0 0v.2s0 0 0 0 0 0 0 0h-.1c0 .1 0 .1-.1 0 0 0 0 0 0 0 0 .1-.1.1-.1 0 0 0 0 0 0 0s0 0 0 0l-.1-.1-.2-3-.3-5.2a15 15 0 0 0-.5-3.7c-.3-1-1-1.3-2-.8s-2 1.1-3 1.9L22 6a35.7 35.7 0 0 1-5 3.6s0 0 0 0 0 0 0 0v-.1s0 0 0 0l.1-.1h0Z"
+            ></path>
+          </g>
+        </svg>
+        <div class="search-link-text">
+          <span>Letar du efter</span>
+          <span>ett särskilt avsnitt?</span>
+        </div>
+      </a>
+      <EpisodeList episodes={secondHalfOfEpisodes} class="episodes" />
     </section>
     <Image src={keysArrows} alt="" class="keys-arrows bg-image" />
     <Image src={keysLV} alt="" class="keys-lv bg-image" />
@@ -79,6 +109,58 @@ const sortedEpisodes = episodes
     top: calc(25% + 1000px);
     right: -120px;
     width: 200px;
+  }
+
+  .search-link {
+    display: flex;
+    color: black;
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+    text-decoration: none;
+    flex-direction: column;
+    align-items: flex-end;
+    width: fit-content;
+    position: absolute;
+    top: 264px;
+    right: -180px;
+  }
+  .search-link-text {
+    display: flex;
+    flex-direction: column;
+  }
+  .search-link img {
+    object-fit: contain;
+    max-width: 100%;
+    max-height: 100%;
+    width: 80px;
+    height: auto;
+    margin-right: -100px;
+    margin-bottom: 10px;
+  }
+  .search-link svg {
+    width: 40px;
+    margin-bottom: -48px;
+    margin-right: -48px;
+  }
+
+  @media (max-width: 1230px) {
+    .search-link {
+      position: static;
+      flex-direction: row-reverse;
+      gap: 16px;
+      padding: 36px 0;
+      margin: 0 auto;
+    }
+    .search-link img {
+      margin-right: 0;
+      margin-bottom: 0;
+      width: 60px;
+    }
+    .search-link svg {
+      margin-bottom: 0;
+      margin-right: 0;
+      transform: rotateX(180deg) rotateZ(50deg);
+      margin-left: -16px;
+    }
   }
 
   @media (max-width: 720px) {
