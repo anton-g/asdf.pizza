@@ -1,11 +1,16 @@
 ---
 import Footer from '../components/Footer.astro'
 import Layout from '../layouts/Layout.astro'
+import logo from '../images/logo.png'
+import { Image } from '@astrojs/image/components'
 ---
 
 <Layout title="asdf - hitta avsnitt">
   <main class="main">
-    <h1>Om asdf</h1>
+    <div class="logo">
+      <Image src={logo} alt="asdf logo" />
+    </div>
+    <h1>Om oss</h1>
     <section>
       <p>
         Som en liten parentes i cyberrymden spenderar Therése & Anton en
@@ -48,6 +53,21 @@ import Layout from '../layouts/Layout.astro'
 </Layout>
 
 <style>
+  .logo {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto 36px;
+    position: relative;
+    max-width: 500px;
+  }
+
+  .logo img {
+    object-fit: contain;
+    max-width: 100%;
+    max-height: 100%;
+    width: 100%;
+    height: auto;
+  }
   h1 {
     font-size: 3rem;
     font-weight: 800;

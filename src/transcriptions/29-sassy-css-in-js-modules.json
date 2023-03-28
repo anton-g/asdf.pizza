@@ -1,0 +1,1857 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Vad dricker Frontend-utvecklare när de är på event?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:07",
+    "line": "Hmm, vi har ju haft favoritet tidigare, men på events just?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Ja, det är något med ström, kanske, jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:18",
+    "line": "Något som bubblar?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:20",
+    "line": "Ja, okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:24",
+    "line": "Jag började tänka alldeles för inte webbutvecklare. Jag började tänka på eventbuss och massa grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:31",
+    "line": "Ja, men eventbubbla är ju."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:34",
+    "line": "Ja, det var bra. Klassisk nivå så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:40",
+    "line": "Jag vet inte hur jag ska ta det där. Jag får bara ta det och gå vidare. Välkomna till ASDF allihopa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:51",
+    "line": "Ja, allihopa. Du som lyssnar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:55",
+    "line": "Idag tänkte vi att vi skulle snacka lite CSS, men kanske inte bara plain CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:03",
+    "line": "Vi pratade lite CSS tidigare. Men typ alla olika sätt man kan skriva CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:09",
+    "line": "För det finns ju idag ganska många olika sätt. Och många sätt är ju liksom"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:15",
+    "line": "försöka att fixa de problem folk tycker att CSS har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:20",
+    "line": "- Ja, för det är ju, på något sätt så går vi mer och mer mot att sluta behandla CSS som CSS och mer som, ja, script, eller vad man ska kalla det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:35",
+    "line": "Man jobbar ganska hårt från att frångå hela Cascading-grejen som är Cascading-style."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:45",
+    "line": "Vad är det sista?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:47",
+    "line": "- Shits."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:49",
+    "line": "- Just det. På något sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:51",
+    "line": "- Ja, exakt. Det känns väldigt mycket som att vi går från CSS till bara SS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:55",
+    "line": "Man vill bara ha style-shits. Man vill inte ha hela Cascading-grejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:01",
+    "line": "Det är väl det största problemet. Men sen också det här med specificiteten som är en del av Cascadian."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:10",
+    "line": "För att kunna bestämma vilken regel som applicerar just här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:15",
+    "line": "Ja, det är intressant. Det är \"important\" överallt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:24",
+    "line": "Ja, men exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:25",
+    "line": "Men jag tänker liksom att det känns som att det har tagit en jävla resa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:28",
+    "line": "För att när jag började i alla fall, då skrev jag ändå CSS i bara..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:35",
+    "line": "Det var en index.css-fil, så stoppade man in allting man hade där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:39",
+    "line": "Och det var liksom... Ah, det funkar fint."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:42",
+    "line": "Då var det inte i någon typ av professionell kontext, vilket kanske påverkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:47",
+    "line": "Men ändå så var det så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:50",
+    "line": "Första sättet man lärde sig CSS var att skriva CSS helt plain."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:55",
+    "line": "Efter det kom man in på lite mer preprocessors, i stil med less eller sass."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:02",
+    "line": "Eller sassy CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:04",
+    "line": "Det var som en uppenbarelse för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:11",
+    "line": "Äntligen slipper jag skriva nästla saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:16",
+    "line": "Bara det gjorde det så jäkla värt att köra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:19",
+    "line": "Men jag vet inte, hade du samma väg, har du också kört både LESS och SAS eller SASI eller vad fan det heter?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:28",
+    "line": "Inte SASI men jag har kört både LESS och SAS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:34",
+    "line": "Det är precis som du säger, när man ens tänker på det, nu kan jag nästan ha problem om man ska slänga ihop något litet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:42",
+    "line": "Då kan jag nästan fastna i att så här, jaha just det, CSS utan en preprocessor, då får jag inte nästla saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:50",
+    "line": "Det känns så främmande för mig nu, för att det har jag på något sätt alltid gjort sedan jag började jobba som utvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:58",
+    "line": "Men jag kommer också ihåg, för även om man då fick nästla saker så hade man ju fortfarande det här problemet med att det kunde påverka över hela projektet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:07",
+    "line": "för att just Cascader och vad är mest specifikt och sådana bitar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:13",
+    "line": "Jag kommer på något sätt ihåg när BEM revolutionerade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:18",
+    "line": "Jag har aldrig kört BEM egentligen, för jag tyckte att det där kan man väl lösa ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:27",
+    "line": "Det gjorde man inte, men jag vet ungefär vad det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:33",
+    "line": "Jag tror att det står för Block Element Module, eller något i den stilen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:37",
+    "line": "Eller Block Element Modifier."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:43",
+    "line": "Just det, för det var ju hur man döpte grejer bara va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:47",
+    "line": "Ja, precis. För då hade du vilket block du var i, alltså en block på sidan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:54",
+    "line": "Vilket element specifikt var du satt klassnamnet på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:57",
+    "line": "Modifieren röd, eller kanske inte röd, kanske \"error\" eller \"approved\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:05",
+    "line": "Alltså det var den som satte den här sista, allt annat var likadant men det var något som stack ut som skulle modifieras."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:11",
+    "line": "Ungefär så var det länge sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:15",
+    "line": "Ja, just det. Jag tror att jag har lite i projektet nu, lite lämningar som är att det är uppdrag efter BEM-syntax."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:24",
+    "line": "Men visst, fanns det någon tooling runt BEM också? Eller var det bara \"Okej, vi ska döpa saker så här\"?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:30",
+    "line": "Jag är inte helt hundra... Jag är inte säker på att det var så mycket tooling, men jag tror det fanns principer som man skulle följa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:41",
+    "line": "Vad är ett block? Vad är ett element? Vad är en modifier? Sen vad är den här du ska ha?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:46",
+    "line": "Vad var det mellan block och element? Vad är underscore? Och sen modifieren, vad är dubbeldash?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:52",
+    "line": "Så det fanns ju konventioner att följa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:55",
+    "line": "Men jag vill inte minnas att jag suttit med specifika verktyg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:00",
+    "line": "Men det är ju mycket möjligt att det fanns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:03",
+    "line": "Eller finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:05",
+    "line": "Ja, precis. Därför har jag också fått för mig att det bara var en namnstandard i stort sett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:13",
+    "line": "Ja, jag tror också det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:16",
+    "line": "Jag kommer ihåg att jag haft jättemånga diskussioner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:19",
+    "line": "\"Vad är egentligen en modifier? Och vad är blocket? Vad går gränsen på blocket?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:23",
+    "line": "Alltså så här timmar som har försvunnit in i det hålet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:26",
+    "line": "Ja, för det är ju ett av de kanske äldsta stående skämten inom utveckling att namngivning är väl det svåraste man kan göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:34",
+    "line": "Ja, det är ju inte fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:37",
+    "line": "Nej, jag håller med. Det är ju extremt svårt faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:40",
+    "line": "Jag har också skrivit mycket less och sass."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:48",
+    "line": "Det tycker jag är lite svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:50",
+    "line": "Det fanns ju både sass och sass i CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:54",
+    "line": "Det var någon variant på sass."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:56",
+    "line": "Nu kommer jag inte ihåg vilken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:58",
+    "line": "Men den ena var ju typ som vi tänker att sass är idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:03",
+    "line": "Det är typ nestling och lite mer socker ovanpå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:06",
+    "line": "Den andra var att du tog bort måsvingar och fan vet allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:11",
+    "line": "Oj, det har jag inte stött på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:15",
+    "line": "Den följde väl bort lite grann för den skrevs kod som var så olik CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:23",
+    "line": "Och lite liknande grejer, det fanns också något som heter Pag HTML."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:30",
+    "line": "Då skrev du typ HTML, fast utan krokodilmunnarna eller taggarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:39",
+    "line": "Om du skulle skriva ut en div som hade en klass, då skrev du bara div.klassnamn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:51",
+    "line": "Och då processade den där så att den blev en div."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:55",
+    "line": "Och sen var det typ nestlingen, eller inte nestlingen, men typ indenteringen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:00",
+    "line": "som avgjorde vad som var nestlat inom varandra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:04",
+    "line": "Oj, okej. Ja, det känns inte superläsbart, eller?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:09",
+    "line": "Nej, det blev ju mycket mindre text att läsa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:15",
+    "line": "Jag vet att jag byggde liksom någon gammal Spotify-quiz-app för länge sedan i Vue."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:20",
+    "line": "Då körde jag Pug."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:22",
+    "line": "Och då var det ganska nice ändå. Men det var också för att du kunde köra dem i Vues-template."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:28",
+    "line": "Det blev ganska läsbart och då körde jag ändå Vues och då var det liksom \"Varför inte lägga på ett till lager?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:32",
+    "line": "Och det var också lite innan jag kände att man kanske ska försöka abstrahera inte allt för mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:39",
+    "line": "Innan man lärde sig det så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:46",
+    "line": "Jag tror att någon av de här SAS-varianterna, eller om det var SAS i CSS, eller om det är den som lever kvar, var typ så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:53",
+    "line": "Men det var också en grej som jag kände att \"Nä, det här känns inte helt hundra\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:59",
+    "line": "Nej, det där har nog verkligen inte stött på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:03",
+    "line": "Det låter tilltalade, men inte när du pratar om det här, kan jag ändå känna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:12",
+    "line": "Nej, jag tror att de idéerna är ganska döda eller omoderna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:17",
+    "line": "Men det vi pratade om sen var att namngivning är så svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:23",
+    "line": "Och något som hyfsat löser det, i alla fall för CSS,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:29",
+    "line": "var när det kom CSS in JS, alltså CSS i javaskript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:32",
+    "line": "För de som inte har kört det så mycket innan,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:40",
+    "line": "Du skriver din CSS som skriptobjekt på ett sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:45",
+    "line": "Antingen kan du skriva att du har en styled component, som är den vanligaste."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:51",
+    "line": "Då har du en styled objekt som du importerar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:55",
+    "line": "Sen skriver du \"styled.div\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:57",
+    "line": "Då är div en funktion."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:01",
+    "line": "Sen skickar du in ett objekt till den, där objektet är din styling."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:08",
+    "line": "Och sen spottar den ur sig en komponent som du kan använda som får den här stylingen applicerad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:13",
+    "line": "Då har den genererat upp ett klassnamn och allting åt dig som är då scopat till just den komponenten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:19",
+    "line": "Så den stylingen kommer aldrig kunna appliceras någon annanstans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:22",
+    "line": "Och det var ganska länge sedan det kom nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:27",
+    "line": "Det blev populärt för att i React så kan man skicka in styling som objekt också i style-proppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:37",
+    "line": "Det blir populärt. Men nu i fritiden skriver de flesta CSS/JS-bibliotek."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:42",
+    "line": "Då kör de något som heter template literal."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:44",
+    "line": "Som är de här... Jag vet inte vad de heter. Backticks, typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:48",
+    "line": "Man kan göra en multiline-sträng, är väl idén bakom dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:55",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:57",
+    "line": "Då kan man göra smarta saker som att du skriver \"styled.div\" och sen skriver du bara..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:03",
+    "line": "Det ser jävligt skumt ut när man ser det för första gången."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:07",
+    "line": "Då ser det ut som att jag skriver \"style.div\" och så kommer det en textsträng direkt efteråt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:13",
+    "line": "Det är liksom inga parenteser, ingenting. Och det ser så jävla konstigt ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:16",
+    "line": "Jag fattade fan ingenting i början när jag kollade på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:19",
+    "line": "Men det är någon kortsyntax för att skriva en funktion som tar emot en sådan sträng."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:25",
+    "line": "Och då kan man skriva CSS, om vi pratar CSS in JS, så kan man skriva CSS som"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:32",
+    "line": "exakt ser ut i CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:35",
+    "line": "Som om du skriver in CSS-fil. Och det är ju en stor fördel tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:40",
+    "line": "Ja, och så en sån här template-grej. Det är lite som om man har stött på att skriva"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:48",
+    "line": "på samma sätt kan man skriva GraphQL-frågor i JSX också när man använder en sån här template-backtick-grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:54",
+    "line": "Man trycker in hela frågan som en sträng."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:58",
+    "line": "Ja, precis. Det känns som att det har kommit ganska mycket på de sista åren i de moderna verktyg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:03",
+    "line": "Då använder man template literals för att skicka in när man har någonting som inte är JavaScript, som ska vara text."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:12",
+    "line": "Så använder man sådana. Just idag finns det också väldigt mycket tooling runt omkring så du kan få syntax highlighting och"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:18",
+    "line": "autocomplete och allt vad du nu vill inuti de här som är bara strängar egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:23",
+    "line": "Jag är lite, det känns som att jag har missat det här med style i JavaScript, i JS. För jag hade en mellantid här då jag körde rätt mycket CSS-modul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:40",
+    "line": "Det blir ju en sån scoped CSS. Man kan fortfarande köra en CSS-fil, man kan fortfarande köra en preprocessor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:50",
+    "line": "Men du skapar upp en stylefil per komponent egentligen och sen så importerar det som en modul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:57",
+    "line": "Vilket du gör i din paketeringslösning och så. Så kan du lägga till att du hashar klassnamnen så alla blir unika."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:07",
+    "line": "Så det blir ju egentligen en enda stor stylefil men den blir ju namngiven så att det blir skapat per komponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:16",
+    "line": "Och jag tyckte ju det var ganska nice när det kom men det var ju säkert för att man gick från det här med hur ska jag organisera mina CSS-filer, hur ska jag göra det här och namngivningen och jada jada jada och vem och hur ska jag tänka det till att man bara kunde ha en fil per komponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:32",
+    "line": "Och sen så hade man liksom hundra component style filer där alla hade som yttersta klassnamn \"component\" eller \"container\" menar jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:44",
+    "line": "Så det blev många så, men det funkade och det var ändå ganska skönt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:48",
+    "line": "Det var lite befriande på något sätt att allt inte behövde vara hundra procent namngivet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:55",
+    "line": "Och sen blev det mycket så här att det går ju att jobba med det, att specifikt säga att jag vill att den här klassen ska vara global eller plocka in en förälder som är global och sådana här och lite sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:08",
+    "line": "Så det gick ju att göra lite nya saker på något sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:12",
+    "line": "Så det tyckte jag var ganska stort när det kom, eller inte när det kom men när jag började jobba i det skulle jag vilja säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:20",
+    "line": "Sen har jag väl kommit mer in på det här med Style Components eller Style i JS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:31",
+    "line": "Men det jag inte förstår är om man tar Style Components och ändå delar upp det i två olika filer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:40",
+    "line": "För det förstår jag inte riktigt. För jag tänkte att hela poängen med Style Components och sådana saker skulle vara att man hade det på samma ställe som sin JSX."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:48",
+    "line": "Jo, precis. Det skulle jag vilja säga att det är för de flesta fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:54",
+    "line": "Det beror lite på vad du bygger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:57",
+    "line": "Bygger du någon typ av komponentbibliotek,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:00",
+    "line": "eller någon style guide,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:02",
+    "line": "då kan det vara att du behöver inte skapa upp komponenter"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:08",
+    "line": "för att applicera någon styling, utan istället skapar upp en style component."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:12",
+    "line": "Det är lätt att säga style component,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:14",
+    "line": "Det var det första CSS/JS-libbet som blev stort i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:18",
+    "line": "Jag säger nog det mycket nu bara för att jag sitter med MooIs egna sätt att styla och den heter ju Styled."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:28",
+    "line": "Ja, exakt. Jag tror att alla lib som har kommit efter det finns Emotion och Stitches."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:36",
+    "line": "Det finns extremt många som försöker göra lite varianter på det Styled Components gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:43",
+    "line": "Men för din fråga så är det lite så att jag brukar också gilla co-locata."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:50",
+    "line": "Om den här komponenten ska använda, dens styling, den kan typ ligga i samma fil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:55",
+    "line": "Så länge den inte blir alldeles för stor. Då kanske man flyttar ut den till en fil som ligger bredvid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:59",
+    "line": "Men i vissa fall kanske man vill lägga lite generiska styled components i en fil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:08",
+    "line": "Om det är ett inputfält som vi bara har stylat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:11",
+    "line": "Då kanske man vill kunna importera det från en plats."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:15",
+    "line": "Men att lägga exakt all styling om de är specifika för vissa komponenter känns inte supernyttigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:23",
+    "line": "Jag greppar ju den när man har generella komponenter eller generella styling som man vill applicera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:30",
+    "line": "Det har jag också gjort. Det är ganska nice egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:32",
+    "line": "Det kan vara ett grid eller det kan vara specifik styling på en knapp eller vad som helst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:39",
+    "line": "Jag har återanvänt det på flera ställen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:41",
+    "line": "Det vill man inte ha en J6 för nödvändigtvis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:45",
+    "line": "Det tycker jag är väldigt trevligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:47",
+    "line": "Men just den här att splitta upp det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:49",
+    "line": "Man har ju fortfarande det här att man ska hoppa mellan två olika filer för att jobba ihop det till en komponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:55",
+    "line": "Det tänkte jag ju."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:57",
+    "line": "Jag kommer ihåg det var för länge sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:00",
+    "line": "Var det inte någon blogg som blev stor om att vanlig CSS är död."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:04",
+    "line": "Nu är det bara CSS/CJS som är, har jag för mig att det blev lite kontroversiellt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:11",
+    "line": "Det känns som att det har varit en del drama kring just CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:15",
+    "line": "Ja, jag tror det kan ha varit väldigt länge sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:21",
+    "line": "Men just den att, varför ska du ha det på flera ställen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:25",
+    "line": "Du ska ha allt på samma ställe. Jag vet inte vad jag vill komma med här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:29",
+    "line": "Ingenstans säkert."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:31",
+    "line": "Nej, men det är lite olika skolor kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:34",
+    "line": "Alltså för att det man pratar om egentligen är ju,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:37",
+    "line": "och det vi kanske har gått mer och mer mot det som vi pratar om,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:41",
+    "line": "att man vill ha alkohol som berör en komponent till ett ställe."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:44",
+    "line": "Men tittar man tillbaka på när vi började kanske,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:47",
+    "line": "då var ju det här \"separation of concerns\" åt andra hållet då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:52",
+    "line": "Då var det så här, okej, separera CSS, HTML och JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:56",
+    "line": "Då var det de concerns som man separerade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:59",
+    "line": "Men i själva verket, och det kanske är lite vertikalt, det blir lite silos av det, eller kolumner med olika grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:05",
+    "line": "Medan nu har det svängt mycket mer och istället så pratar man om separation of concerns"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:10",
+    "line": "på horisontellt, att vi delar upp separation efter att den här komponenten är en concern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:19",
+    "line": "Och då vill vi ha allting som berör den komponenten, inklusive CSS, JavaScript och HTML, eller markup, på samma ställe."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:27",
+    "line": "Och det känns ju för min del som en oerhört vettig svängning i opinionen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:34",
+    "line": "Ja, jag tycker väl fortfarande att det kan finnas..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:41",
+    "line": "Det beror på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:43",
+    "line": "Och det är väl mer att det beror på liksom om det är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:49",
+    "line": "Alltså det beror på hur mycket styling som ska göras, tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:54",
+    "line": "Men just den här Ron Jud skriver att om man kan skriva CSS i Style Component, så det kanske tilltalar mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:03",
+    "line": "Men det är också den här, när man har projekt som egentligen bara typ är fem divvar, men sen bara är styling, så känns det ändå så här jobbigt att skriva."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:12",
+    "line": "Det är templatespråk. Jag vill ha att den ska formatera åt mig och skriva ut saker åt mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:22",
+    "line": "Det är hjälp. Jag vill ha hjälp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:27",
+    "line": "Du vill bara ha hjälp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:29",
+    "line": "Jag vill bara ha hjälp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:31",
+    "line": "Absolut. Jag tänker att en grej är väl att toolingen runtom styled components eller CSS/JS idag är så pass bra att du kan få allt det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:41",
+    "line": "Oavsett vilket sätt du skriver på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:43",
+    "line": "Det är väl kanske en grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:45",
+    "line": "Men sen håller jag med dig om att ibland kanske man vill..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:47",
+    "line": "Ibland kanske det är lite överdrivet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:51",
+    "line": "För det finns ju också nackdelar med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:53",
+    "line": "Många av de här CSS/JS-libben har ju till exempel en performance-kostnad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:00",
+    "line": "Som man kanske inte tänker på ofta för att man tänker att det är bara CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:04",
+    "line": "Men eftersom, till exempel Site Components, nu vet jag inte om de har ändrats i de senaste versionerna,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:09",
+    "line": "där är det ju att allting sker i Client-side."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:12",
+    "line": "Så att all CSS beräknas i Client-side."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:17",
+    "line": "Det finns många andra libs som försöker lösa det här genom att göra det till static generation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:23",
+    "line": "När du bygger din site genereras all CSS som behövs."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:27",
+    "line": "Och det försöker vi lösa lite."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:31",
+    "line": "Men som du säger så kanske man"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:33",
+    "line": "inte behöver sträcka sig efter något verktyg. Man kan bara skriva plain CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:39",
+    "line": "Men det blir fortfarande så här att går man tillbaka från"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:42",
+    "line": "hela vägen från Style Component eller CSS in JS till"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:45",
+    "line": "till vanlig CSS då tappar man ju så oerhört mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:50",
+    "line": "Du kan inte nästla saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:52",
+    "line": "Bara det här skaver det redan för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:57",
+    "line": "Jag kommer ihåg när vi körde det här anordnade Code in the Dark."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:02",
+    "line": "Just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:03",
+    "line": "Som du anordnade bland annat på jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:08",
+    "line": "Jag var med och tävlade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:10",
+    "line": "Och man skulle skriva allting i, för det värsta, måste jag göra en style tagg?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:14",
+    "line": "Hur funkar det? Hur stoppar jag in CSS i markupen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:18",
+    "line": "Och vart lägger jag den? Och är saker platta?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:20",
+    "line": "Vart ska det vara semicolon? Ska det inte vara så?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:22",
+    "line": "Alltså det var kaos."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:24",
+    "line": "För att man är som du säger så väldigt långt bort ifrån det idag på något sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:30",
+    "line": "Och det kanske inte är något fel i sig, men det är så det är i grunden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:40",
+    "line": "Det känns som att man borde ha med sig det för att kunna bygga små saker utan alla fem miljoner verktyg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:47",
+    "line": "Ja, exakt. Jag tror fortfarande att även om du skriver din CSS i JavaScript eller hur du nu vill skriva den, så krävs det fortfarande en förståelse för CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:59",
+    "line": "Kanske att du slipper vissa grejer som Cascaden eller specificiteten. Jävla svårt ord att säga det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:07",
+    "line": "Eller sådana saker, att du slipper det. Men det finns så oerhört mycket i CSS som inte försvinner bara för att du skriver på ett annat sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:18",
+    "line": "Jag tror kanske att vi pratade om det i någon tidigare avsnitt, att jag köpte en CSS-kurs för ett tag sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:23",
+    "line": "Alltså som verkligen är en basic CSS-kurs. Och har redan lärt mig extremt mycket av den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:29",
+    "line": "mycket av den. Och nu har jag inte kollat klart på alla delar som finns, men det är så spännande att jag har jobbat som webbusinvecklare i så pass många år ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:38",
+    "line": "Eller börjar bli i alla fall. Och liksom inte hade stenkoll på hur margin collapse funkar. Och har ändå suttit och slitit med att man upptäckt en bugg som beror på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:50",
+    "line": "Och man bara \"ah, varför blir det så här?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:52",
+    "line": "Och så sitter man och ändrar tills det funkar istället för att ta reda på vad det faktiskt beror på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:56",
+    "line": "Det här betyder att jag måste kolla upp \"margin collapse\" för att jag har också jobbat många år och kan inte det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:04",
+    "line": "Nej, det känns som en sak som många missar att det finns över huvud taget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:10",
+    "line": "Och sen blir man frustrerad av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:15",
+    "line": "Men ja, jag märkte det blir en liten skillnad i, för när jag körde CSS-modules, då handlade ju allting om klassnamn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:26",
+    "line": "Så det var väldigt mycket, du skulle skapa klasser för allting, så att du kunde sätta klassnamn, så att du kunde styla specifikt den markupen som du ville styla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:37",
+    "line": "Och nu när jag sitter mer med att styla i sexbilarna så har jag väl kommit på mig själv,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:43",
+    "line": "alltså dels att man inte kanske gör klassnamn då,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:47",
+    "line": "men jag orkar ju inte göra en ny komponent för att styla någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:54",
+    "line": "Så jag har ju börjat köra väldigt mycket med \"first child\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:59",
+    "line": "av det närmsta barnet, inte det här barnet av den här elementstypen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:05",
+    "line": "Jag har börjat gå jättemycket för sådana saker istället för att jag har blivit lite lat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:12",
+    "line": "Ja, antingen lat eller smidig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:18",
+    "line": "Det beror på, det blir en avvägning vad som är vettigt och vad som inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:26",
+    "line": "För det kanske inte är vettigt att sätta klassnamn på exakt allting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:31",
+    "line": "Jag vet att när man kör en stack-komponent,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:36",
+    "line": "en komponent som bara tar en sak och gör en hög av det med lite spacing emellan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:42",
+    "line": "Då brukar jag använda till exempel"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:45",
+    "line": "Not First Child och så sätter jag Margin Top, till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:50",
+    "line": "Gud, ja, det gör jag alltid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:52",
+    "line": "Då känns det vettigt att använda de här, för man skulle ju kunna göra en mer"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:56",
+    "line": "komplicerad lösning och sätta klasser på alla barn utom första barnet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:00",
+    "line": "Men då blir det mer avancerat. Nu är det här kanske ett extremt exempel, men för att illustrera det bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:06",
+    "line": "Ja, och ibland tänker jag att jag gör mig själv en okänslig för att när jag sitter i kontextet så blir det väldigt tydligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:14",
+    "line": "Och sen går man tillbaka ett tag senare och bara \"Okej, så first child that is a div and not a pie, that is not the first child of the last child\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:24",
+    "line": "Vad är det jag pekar på? Det blir mindre läsbart från ett annat kontext."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:33",
+    "line": "Jo, det känns som att det finns någon gräns där någonstans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:37",
+    "line": "När man går in i ett övertool som försöker hitta var CSS kommer ifrån och det tar en kvart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:42",
+    "line": "Då kanske man har dragit det lite långt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:45",
+    "line": "Ja, absolut. Så gör jag inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:48",
+    "line": "Jag har ändå varit nere på typ tre nivåer eller någonting och kommit på mig själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:54",
+    "line": "Men det är jävla göttigt i stunden när det bara funkar på något sätt också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:58",
+    "line": "Ja verkligen. Jag tänker också att CSS idag beroende på vilka browsers som måste stödja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:06",
+    "line": "Nu dör ju IE 11 snart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:10",
+    "line": "15 juni 2022."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:12",
+    "line": "Jag tror att det kan vara något sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:14",
+    "line": "Då blir det lite lättare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:17",
+    "line": "Men det finns ju så mycket modern CSS idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:20",
+    "line": "Som gör att det krävs väldigt mycket mindre lösningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:26",
+    "line": "Det är inte säkert att om du sträcker efter CSS i en JS för att kunna köra variabler i den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:33",
+    "line": "Då behöver du inte göra det längre för det finns variabler i CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:35",
+    "line": "Till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:37",
+    "line": "Sträcker du det efter bara för att göra en viss sak så finns det ofta lösningar i CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:42",
+    "line": "Ja, så är det verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:48",
+    "line": "Det är kul att du sa det här med att det är med kursen och att du inte kan de grundläggande sakerna på CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:53",
+    "line": "Det känns ju på något sätt som att vi kommer ännu längre ifrån att lära oss de grundläggande sakerna i CSS"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:58",
+    "line": "ju mer vi trycker in den i JavaScripten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:01",
+    "line": "Ja, absolut. Det håller jag med om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:03",
+    "line": "Därför tycker jag att det är ganska viktigt att du kan skriva CSS med exakt samma syntax som du gör om du skriver i en CSS-fil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:13",
+    "line": "Även om det blir lite syntaktiskt socker ovanpå, som att man kan nästla till exempel, så tycker jag det är vitt att du inte behöver skriva det som ett javskript objekt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:23",
+    "line": "där de heter lite andra saker, där det är typ Pascal case istället för kebab case eller vad det nu är i CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:31",
+    "line": "Det var någon som sa att det var otroligt mycket lättare att använda typ logik i Ifs & Buts, inte den här stylingen, men den här stylingen i Style Components och sådana bitar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:48",
+    "line": "Men jag har inte riktigt stött på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:50",
+    "line": "Det blir ju lite lättare för den kan ju generera upp olika klasser åt dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:57",
+    "line": "I och med att din CSS kan ta props."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:02",
+    "line": "Du kan skicka in props till din Style Components och då kan den generera upp det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:06",
+    "line": "Annars skulle man inte ha det så måste man ju ha flera klasser."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:10",
+    "line": "Lite det här modifier som vi pratade om i BEM."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:14",
+    "line": "Det tänker jag kanske gör det lite lättare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:18",
+    "line": "Men absolut, det finns definitivt inte så stora skillnader som folk vill få det till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:26",
+    "line": "Jag undrar vart vi kommer hamna. Undrar om vi kommer röra oss ännu längre bort?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:34",
+    "line": "Ja, det är en väldigt bra fråga. Jag tycker det är väldigt spännande att se vad som blir nästa stora grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:40",
+    "line": "Jag tänker en grej, vi tror att vi börjar röra oss mot slutet av tiden, men en grej som jag tycker är så jävla spännande och rolig"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:46",
+    "line": "när vi pratar CSS är ju att något som heter container queries är på G."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:52",
+    "line": "Det är väl liksom \"approved\" i working-gruppen för CSS att det kommer in i standarden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:59",
+    "line": "Och det är ju då, det finns ju liksom queries idag för att typ säga,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:05",
+    "line": "\"Okej, hur stort fönster har jag?\" och därför kan man göra responsive styling."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:08",
+    "line": "Men här blir det istället att du kan göra, anpassa din styling efter typ"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:14",
+    "line": "hur stor din förälder är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:16",
+    "line": "Och det kommer ju att bli magiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:19",
+    "line": "Alltså för då kan du ha komponenter som inte anpassar sig efter storleken på"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:23",
+    "line": "fönstret utan anpassar sig efter kontexten de befinner sig i på sajten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:29",
+    "line": "Ja, det är ju stort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:30",
+    "line": "Så att sätter de i en smal container då kan de helt plötsligt bli avlånga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:34",
+    "line": "Och har du dem i en bred container"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:36",
+    "line": "då kan det bli ett liggande kort istället för ett stående."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:38",
+    "line": "Det kommer att vara så jäkla nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:42",
+    "line": "Ja, jag tror också det. Det kommer bli jävligt många breakpoint-värden att hålla reda på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:49",
+    "line": "Jag tänker att det blir lättare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:52",
+    "line": "För att helt plötsligt är breakpoint-värden också co-locatade till komponenten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:57",
+    "line": "Ja, precis. Då blir det så här, vilket var det i den här och vilket gjorde den här?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:01",
+    "line": "Ja, så är det ju. Man kommer behöva hoppa runt lite mer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:04",
+    "line": "Det blir inte den här globala, att vi har våra breakpoints i fönstret."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:08",
+    "line": "Här blir det mer att komponenterna passar sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:10",
+    "line": "Men det känns också som att det blir så mycket enklare att utveckla komponenterna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:14",
+    "line": "Då kan de verkligen vara fristående."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:18",
+    "line": "Oavsett var man använder dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:21",
+    "line": "Speciellt för komplexa layouten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:24",
+    "line": "Om fönstret är stort, då har du komponenter som kanske är mindre än om det är mellanstort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:32",
+    "line": "Då ska den komponenten vara större, för det ska vara färre som får plats i en rad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:36",
+    "line": "och då ska innehållet bli till sig alldeles där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:38",
+    "line": "Så jag får typ rysningar att behöva tänka på och läsa det nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:41",
+    "line": "- Jag tänkte på ett exempel som jag tänkte på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:43",
+    "line": "Jag håller på med ett litet hobbyprojekt nu där jag har lite drag-and-drop."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:45",
+    "line": "Vi kanske återkommer till det i en senare avsnitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:48",
+    "line": "Men bara då att kunna ha samma komponent som renderas"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:52",
+    "line": "när jag drag-and-droppar till olika platser som är olika stora"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:55",
+    "line": "och de ska visas på olika sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:57",
+    "line": "Det skulle ju vara så sjukt nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:00",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:01",
+    "line": "- Medan nu blir det mer att man får rendera olika komponenter"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:04",
+    "line": "baserat på vart i trädet de är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:08",
+    "line": "Just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:10",
+    "line": "Fan, vad länge sedan jag på riktigt styla någonting från scratch."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:15",
+    "line": "Jag sitter ju med projekt som bygger på Material UI Googles komponentbibliotek nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:21",
+    "line": "Så det blir lite så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:23",
+    "line": "Nästan saknat det, säger jag nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:25",
+    "line": "Men om jag väl skulle sitta där och styla så skulle jag nog kanske ångra att jag någonsin sa så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:30",
+    "line": "Ja, det var exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:32",
+    "line": "Det finns så många olika sätt att göra på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:35",
+    "line": "Jag tänker att det kanske får vara det för det här avsnittet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:40",
+    "line": "Det får vara det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:43",
+    "line": "Vill man oss något så finns vi som vanligt på Twitter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:47",
+    "line": "Lämna gärna en recension i iTunes så blir vi glada."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:51",
+    "line": "Ja, det blir vi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:54",
+    "line": "Anton blir glad. Gör honom glad allihopa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:57",
+    "line": "Vi säger så och hörs om två veckor igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:01",
+    "line": "Det är jag med, hejdå! - Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:03",
+    "line": "[Outromusik]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:12",
+    "line": "Tack för mig!"
+  }
+]

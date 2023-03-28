@@ -1,0 +1,1872 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Varför var den funktionella programmeraren så dålig på att läsa grafer?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "Ehh... Gud, jag kommer inte ens på en funktionell språk som det här kan dras till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:13",
+    "line": "Jag vet inte, varför?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Dålig skala."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:15",
+    "line": "Alltså, ja..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:17",
+    "line": "Och jag satt och tänkte, ja, Haskell. Det kan man inte få ett tillitskämt på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:23",
+    "line": "Challenge accepted, nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:26",
+    "line": "Ja, varsågod. Till nästa avsnitt hoppas vi på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:29",
+    "line": "Ja, det kommer inte att bli något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:31",
+    "line": "Okej, välkomna till ett nytt avsnitt av ASDF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:34",
+    "line": "Jag känner mig jävligt ringrostig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:37",
+    "line": "Jag har fan inte poddat på två månader."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:40",
+    "line": "Nej, det är trögstartat nu känner jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:43",
+    "line": "Vi körde ju en batch med avsnitt innan jul för att kunna vara lite lediga inom situationssägen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:49",
+    "line": "Och det funkar bra ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:52",
+    "line": "Men nu är det ju exakt så här segstartat var jag efter jul med jobbet också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:57",
+    "line": "Ja, jag har bara en känsla av att så här obekväm har jag nog inte känt mig på länge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:04",
+    "line": "Lite så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:06",
+    "line": "Ja, men det förstår jag. Jag hade det extremt tungt att komma tillbaka till jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:12",
+    "line": "Ja, jag hade nog snarare så här att jag hade otroligt mycket ångest över att komma tillbaka till jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:18",
+    "line": "Jag ville verkligen, verkligen inte. Men första dagen där så rivstartade det bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:22",
+    "line": "Och då har det bara rullat sen dess."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:24",
+    "line": "Ja, men det är ju nice. Jag tror min startsträcka var en vecka innan jag kände att nu börjar jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:29",
+    "line": "Nu är jag vant mig att jobba igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:31",
+    "line": "Och då hade jag bara varit ledig två veckor över jul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:34",
+    "line": "Ja, du var ledig fyra veckor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:36",
+    "line": "Ja, exakt. Du kanske kom över någon puckel där att när du väl kom tillbaka så hade du en energi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:41",
+    "line": "Ja, för jag tror fjärde veckan så kände jag mig nog stress..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:47",
+    "line": "-3,5 dag, för att sista tiden gick jag åt till att stressa efter att jag var trungen att börja jobba igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:53",
+    "line": "-Ja, men du hade ändå en halv vecka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:59",
+    "line": "-Ja, för jag kollade på mitt sömnmönster. Det var någon vecka då jag faktiskt sov mer än 8 timmar varje natt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:05",
+    "line": "Och det har ju inte hänt sedan jag skaffade min jävla Apple Watch."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:10",
+    "line": "-Ja, men det är ju spännande ändå. Men det är ju fan kul att vara igång igen, tycker jag. Jag är ändå taggad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:16",
+    "line": "- Ja, du är ju pepp. - Jag är ju pepp, som vanligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:18",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:19",
+    "line": "En grej som hände över jul var ju att React-teamet gick ut med en bloggpost"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:25",
+    "line": "där de pratade om React Server Components, eller introducerade det,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:29",
+    "line": "som är någon experimentell grej de pysslar med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:34",
+    "line": "Och de sa \"här är en julklapp från React-teamet\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:37",
+    "line": "Men jag tänkte att vi kunde snacka lite grann om det idag, kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:40",
+    "line": "- Mm, det kan vi göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:42",
+    "line": "Jag såg den och jag likade den och läste den inte som rimligt millennial på sociala mediebeteende."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:49",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:50",
+    "line": "Så det får du gärna..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:51",
+    "line": "Du fick liksom ingen varning så här \"Vill du verkligen lika den här?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:54",
+    "line": "Även fast du inte har läst den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:56",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:57",
+    "line": "Det är väl bara retweets på Twitter som har den funktionen tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:00",
+    "line": "Ja, och de introducerade det i en bloggpost som var första grejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:07",
+    "line": "Sen finns det en video som är typ en timme lång där Dan Abramov och Lauren Tan går igenom vad det är för något, varför de har gjort det och en demo."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:18",
+    "line": "Sen finns det en demo som sagt, så det är open source."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:21",
+    "line": "Och sen finns det även en RFC, alltså vad det står för, Request for Comments."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:27",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:29",
+    "line": "Tror jag, som är det. Det är liksom ett sätt att föreslå ändringar typ på saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:36",
+    "line": "Ja, det är väl ett sätt för dem att öppna upp och ge oss feedback. Vi vill ha feedback."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:40",
+    "line": "Ja, men exakt. Och den är lite mer teknisk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:45",
+    "line": "Så jag har tagit mig och tragglat mig genom allt av det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:49",
+    "line": "Men det var två veckor sedan kanske, så jag är inte helt up to date på allt som händer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:54",
+    "line": "Men om man ska sammanfatta det väldigt kort så är det ju egentligen ett sätt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:59",
+    "line": "För vissa komponenter att köra via servern eller rendera via servern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:05",
+    "line": "Och samtidigt kunna ha vissa komponenter som bara renderar på klienten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:10",
+    "line": "Det är egentligen vad det är för något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:14",
+    "line": "Anledningen till att de gör det här, de pratar i den här videon som jag kan rekommendera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:19",
+    "line": "Är man intresserad så rekommenderar jag verkligen att kolla på den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:21",
+    "line": "Den är bra mycket om det här \"good, fast, cheap\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:24",
+    "line": "Som brukar vara en triangel där man kan välja två."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:27",
+    "line": "Och enligt det här tycker de att det här är en lösning där du kan få alla tre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:30",
+    "line": "Du kan få bra UX, du kan få bra snabb performance, och den kommer inte göra banden större."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:42",
+    "line": "För det är också den stora grejen att serverkomponenter påverkar din JavaScript-bandel 0%."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:48",
+    "line": "Det är liksom 0,0 KB."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:52",
+    "line": "Ja, men är det tänkt att det är komponenter som du renderar på servern,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:57",
+    "line": "sen när du börjar interagera med dem tar klient-renderingen över?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:01",
+    "line": "Nej. Det är här som är lite skillnaden jämfört med server-rendering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:05",
+    "line": "Jag har inte ens kört skitmycket server-rendering i React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:07",
+    "line": "Jag har kört ganska mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:09",
+    "line": "För där är det ofta att du server-renderar bara \"first load\" egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:14",
+    "line": "Och sen så har du att du har den här \"rehydrate\" eller \"hydrate\" eller vad det nu kallas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:19",
+    "line": "där man låter JavaScript ta över renderingen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:23",
+    "line": "I det här fallet är det en av de stora skillnaderna att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:27",
+    "line": "här kan du fetcha om dina serverkomponenter hur många gånger du vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:31",
+    "line": "Så en serverkomponent renderas alltid på servern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:35",
+    "line": "- Okej, men då kommer du ändå vilja välja sådana komponenter som inte är"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:41",
+    "line": "är att du som användare i UX vill ha direkt återkoppling?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:52",
+    "line": "Ja och nej kanske. Det finns lite fasta begränsningar, eller hårda begränsningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:58",
+    "line": "Det är typ att serverkomponenter inte kan ha något state eller interaktivitet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:04",
+    "line": "Alltså det vill säga att de inte kan innehålla just state eller just effekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:07",
+    "line": "Då blir det ingen interaktivitet från en användare?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:10",
+    "line": "Nej, exakt. Och de kan inte ha interaktioner med domen eller clickhandlers och sådana grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:16",
+    "line": "Så det är en hård begränsning som finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:19",
+    "line": "Och sen tror jag den andra begränsningen är att den props de tar måste vara serialiserbara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:27",
+    "line": "Alltså kunna serialiseras till JSON i stort sett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:31",
+    "line": "Så att du kan till exempel inte skicka in en funktion, för den kan man inte serialisera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:34",
+    "line": "Och sen finns det väl några fler undantagsfall som inte kan serialiseras."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:39",
+    "line": "Men det är typ de begränsningar som finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:41",
+    "line": "Sen då, gör ju det inte så mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:45",
+    "line": "Jag kan ta ett exempel snart, som jag tycker illustrerar jävligt bra vad det är för något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:52",
+    "line": "Men i vilket fall, det man gör egentligen är att man rent praktiskt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:57",
+    "line": "så döper komponenterna till komponentnamn.server.js"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:01",
+    "line": "eller komponentnamn.client.js"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:04",
+    "line": "Då indikerar du om det är en klientkomponent eller en serverkomponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:09",
+    "line": "Har de då server-suffixet så körs de på serverna och har de en client så körs de på klienten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:16",
+    "line": "Lämnar du det där suffixet helt och hållet så att de inte har något av dem,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:20",
+    "line": "då säger man egentligen att den här kan köras på båda ställena."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:24",
+    "line": "Den kan dyka upp så att klienten renderar den om det är så,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:28",
+    "line": "men är det så att servern renderar den, då kommer den att renderas på servern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:32",
+    "line": "Men då skulle det fortfarande innebära att den måste ha de restriktionerna?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:36",
+    "line": "Exakt, precis. Så att det blir fortfarande samma restriktioner men den liksom"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:40",
+    "line": "säger att en klientkomponent renderar en komponent som inte är spesad"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:45",
+    "line": "då kommer den förmodligen att renderas av servern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:48",
+    "line": "Eller förlåt, av klienten såklart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:50",
+    "line": "Och tvärtom, om serverkomponenten renderar en så kommer den att renderas av servern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:53",
+    "line": "Om det liksom är ett barn till en serverkomponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:56",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:57",
+    "line": "Jag kan serverkomponenterna ha klientbarn?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:00",
+    "line": "Och det här är också lite coolt för att det som händer när servern renderar de här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:07",
+    "line": "det är inte att den skriver ut det till domobjekt eller demmer eller någonting sånt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:13",
+    "line": "inte heller JSON utan det är något annat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:16",
+    "line": "Exakt vad det är är något som är specifikt till React Server Components."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:21",
+    "line": "Så den datorn som skickas mellan servern och klienten är något som är"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:26",
+    "line": "som är \"Det här är bara för React Server Components, det här är den datan den behöver\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:31",
+    "line": "Varför det är gjort så vet jag inte. Jag tror att de går in lite på det i RFC och varför det funkar så och hur det ser ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:37",
+    "line": "Men det känns som att är man inte känd av det kan man läsa den så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:41",
+    "line": "Men mycket av det den möjliggör är bland annat att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:46",
+    "line": "till exempel då i ditt fall som du sa att du har en serverkomponent som har ett klientkomponent som barn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:53",
+    "line": "Om serverkomponenten ska renderas om, säg att vi ändrar props på den till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:58",
+    "line": "Då kommer den requesta den från servern och servern svarar med det här datat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:02",
+    "line": "Och då kommer fortfarande statet i klientkomponenten som den har som barn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:09",
+    "line": "Det kommer fortfarande behållas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:11",
+    "line": "Så det är en stor skillnad till exempel med serverrendering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:15",
+    "line": "Där blåser man ut och staten försvinner, men här kan den behålla allting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:18",
+    "line": "Och det är för att de har gjort massa smart i React som håller koll på om det här är barnkomponenter och om de är klientkomponenter med state eller inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:28",
+    "line": "- Ja just det, fan vad avancerat. - Det är, när jag började kolla på det här så kände jag, fan det här kommer bli komplext."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:36",
+    "line": "Och liksom så här, fan, och kände liksom att det blir ytterligare ett abstraktionslager på något sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:42",
+    "line": "Det krävs någon typ av Node-server i bakgrunden också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:47",
+    "line": "Jag tror att det är bara där det funkar med just nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:49",
+    "line": "Jag vet inte om det finns planer på att det ska funka med andra backends, men"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:53",
+    "line": "det är liksom som det är uppsatt just nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:55",
+    "line": "Sen..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:58",
+    "line": "Det här demot är också väldigt coolt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:03",
+    "line": "Det är bara en \"to do\"-app, eller \"note-app\". Du kan skriva anteckningar i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:07",
+    "line": "I stort sett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:09",
+    "line": "Och det är hela appen. Men den visar ganska bra på saker man kan göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:13",
+    "line": "Och det de har till exempel är en sök-komponent som är serverrenderad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:21",
+    "line": "Eller en resultat-komponent kanske man ska säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:27",
+    "line": "Själva inputen är såklart klientrenderad för att den måste ha lite domhantering och \"on-change-handlers\" och sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:35",
+    "line": "Men själva resultatlistan, den som visar resultatet och den som gör själva sökningen, den är serverenderad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:40",
+    "line": "Och det enda de gör i det här exemplet är att de skickar in en prop som då är typ \"search string\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:47",
+    "line": "Vilket då är det man söker på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:49",
+    "line": "Och det som händer är att varje gång du ändrar den proppen då kommer den då gå till servern och hämta den här komponenten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:55",
+    "line": "I serverkomponenten, och nu blir det lite mindfucket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:01",
+    "line": "Det de gör i det här exemplet, och de rekommenderar att man inte ska göra så här, men det är bara för att bevisa att det går,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:06",
+    "line": "är att de använder i komponenten, så använder de Node, för att querja en databas direkt i komponenten med SQL."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:17",
+    "line": "Läsa upp resultatet baserat på den här proppen och sedan rendera ut det då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:21",
+    "line": "Oj."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:23",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:24",
+    "line": "Vänta, vem renderar? Är det den här serverkomponenten som renderar klientbarnet med inputfältet?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:32",
+    "line": "Eller klientbarnet med inputfältet skickar väl liksom sin..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:37",
+    "line": "Ja, men jag tror att inputfältet och listan är nog inte..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:41",
+    "line": "De är inte i samma hierarki så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:43",
+    "line": "Okej, men då får du ändå den här söksträngen från inputkomponenten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:48",
+    "line": "Ja, precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:49",
+    "line": "Och passar den som prop."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:50",
+    "line": "Den passar till en prop till den här serverrenderade listan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:53",
+    "line": "Som sedan då, med SQL."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:55",
+    "line": "Vi har en SQL-fråga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:57",
+    "line": "Gå direkt till en databas via Node."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:59",
+    "line": "Få tillbaka resultatet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:01",
+    "line": "Och då har vi den resultaten, så då skickar jag bara upp datan för hur det här skulle se ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:05",
+    "line": "Och sen kommer det att renderas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:07",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:09",
+    "line": "Och det är ju jävligt coolt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:13",
+    "line": "För att helt plötsligt så behöver du inget API."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:15",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:17",
+    "line": "I verkligheten vill man förmodligen inte göra ett SQL-anrop i koden, men du kan ju ha något annat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:22",
+    "line": "Ett annat abstraktionslage som du läser vad du nu vill läsa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:26",
+    "line": "Du kan till exempel läsa från disk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:29",
+    "line": "Om du skulle vilja det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:30",
+    "line": "Så det är mycket sådana här grejer som blir jävligt coolt plötsligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:35",
+    "line": "För att istället för att göra ett API-anrop, då ändrar du bara en prop."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:39",
+    "line": "Och så sker det automatiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:40",
+    "line": "För att den kör på serverdelen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:46",
+    "line": "Och då har ju den tillgång till sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:48",
+    "line": "- Ja, det är lite sjukt alltså."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:51",
+    "line": "Och stökigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:53",
+    "line": "- Jag tror att det kan säkert bli jävligt stökigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:55",
+    "line": "Men där de pushas en mycket fördel med det här är ju att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:58",
+    "line": "det blir en hybridapp mellan server och klient."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:01",
+    "line": "Och att den skalan är ganska arbeträr eller sliding."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:07",
+    "line": "Du kan bestämma på en case by case basis"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:10",
+    "line": "vad som ska vara på servern och vad som ska vara på klienten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:13",
+    "line": "Istället för när man gör serverendering oftast gör att allt eller inget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:18",
+    "line": "Ja, för jag kom väl in i webprogrammering, fan vad lite jag kunde webbföredra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:27",
+    "line": "Men jag kom väl in efter hela POP-storhetstiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:32",
+    "line": "Men jag har väl sett att folk säger att det här är att gå tillbaka till POP."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:36",
+    "line": "Eller tankarna som fanns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:38",
+    "line": "Det är mycket memes om POP is back."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:42",
+    "line": "Och det är väl för att det påminner lite grann om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:44",
+    "line": "Sen är det ju fortfarande att med PHP var det ju fortfarande att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:48",
+    "line": "det var ju kanske mer serverrendering där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:52",
+    "line": "Det var ju liksom inte samma sak att du hade sin sådär,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:54",
+    "line": "du spesade en komponent om den skulle vara server eller klient."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:58",
+    "line": "För ska du köra den på klienten med PHP så behöver du ju jag och Skepticson."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:01",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:02",
+    "line": "Så att jag skulle säga att det är väl, jag fattar folks memes."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:07",
+    "line": "Men det kanske inte är en helt rättvist liknelse."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:11",
+    "line": "Och sen då som sagt, som vi pratade om innan, att den behåller state. Till exempel då om, säg att varje item i den här listan med söksresultaten, de är ju interaktiva."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:26",
+    "line": "Så det är ju liksom en klientkomponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:28",
+    "line": "Okej, så att liksom serverkomponenten får resultaten och säger, rendera de här resultaten i komponenter då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:36",
+    "line": "Exakt, och de har även lite state på om de är aktiva eller inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:41",
+    "line": "Om du klickar på den så dyker själva anteckningen upp till höger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:44",
+    "line": "Så du har en sidebar till vänster i den här demot."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:46",
+    "line": "Det statet lever också kvar när du söker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:50",
+    "line": "Så när du söker och säger att den du har valt fortfarande är kvar i listan"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:54",
+    "line": "då kommer den fortfarande ha kvar sin markerad state."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:56",
+    "line": "Just det, för du inte wipar något state."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:59",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:00",
+    "line": "Däremot då ligger det väl på att då behöver du väl egentligen uppdatera ditt state"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:03",
+    "line": "beroende på gamla och nya saker du får in i klientkomponenten?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:09",
+    "line": "Det blir inte så stor skillnad vad man behöver göra i vanliga fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:13",
+    "line": "För det som kommer hända är att den här listan uppdateras bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:16",
+    "line": "Och sen vilken som är aktiv, det spelar egentligen ingen roll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:19",
+    "line": "Det blir fortfarande väldigt deklarativt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:22",
+    "line": "Du klickar på en i listan, den öppnas som aktiv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:25",
+    "line": "Du kanske söker och det som händer då är att listan uppdateras."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:28",
+    "line": "Finns det där itemet du klickade på kvar, då kommer den vara markerad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:31",
+    "line": "finns det inte kvar, då är det inte markerat längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:34",
+    "line": "Om man inte söker igen och den går tillbaka, är den fortfarande markerad då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:38",
+    "line": "Jag skulle tro det. Inte testat i det emot faktiskt, men det är en bra fråga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:44",
+    "line": "Sådana där saker är väldigt spännande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:48",
+    "line": "Det är ju sådana där saker som kan driva en till vansinne."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:52",
+    "line": "Ja, det är det ju definitivt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:55",
+    "line": "Det var något jag tänkte säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:02",
+    "line": "Sen är det väl lite det här med att allt det här funkar med suspense."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:06",
+    "line": "Också out of the box."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:08",
+    "line": "Så om en serverkomponent tar lite länge på sig att svara och man har rappat den med suspense"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:13",
+    "line": "så kan man använda det som fallback för loading states och transitions och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:17",
+    "line": "Ja och suspense är den här när man säger att man får en fallback på loading."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:22",
+    "line": "Så länge den fortfarande laddar så kan du visa någonting annat i gränssnittet innan det du faktiskt vill visa har laddat klart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:29",
+    "line": "Exakt. Vi kan nästan prata i ett helt avsnitt om suspens också för det var en jävla lång resa för React på det mesta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:36",
+    "line": "Med suspens och det som inte finns och det som finns i React nu och allt som är experimentellt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:41",
+    "line": "Ja, för de backade väl lite med den där just för server-renderingen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:46",
+    "line": "Liksom det där första caset, vi pratar inte det här då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:48",
+    "line": "Utan att du renderar komponenter på både servern och klienten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:52",
+    "line": "Det klarade väl inte suspense därifrån början."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:54",
+    "line": "Och då tror jag de väntade lite med att släppa allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:56",
+    "line": "Ja, men exakt. Så nu finns det vissa delar av suspense som de rekommenderar att använda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:01",
+    "line": "Väldigt dålig på att använda suspens hittills faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:06",
+    "line": "Jag vet inte om det blir tidspress eller man inte har tänkt på den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:09",
+    "line": "Vi borde göra det mer i projekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:11",
+    "line": "Ja, men det känns som att det är en..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:13",
+    "line": "Jag tror att det är mycket kommen från kommunikationen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:16",
+    "line": "som React-teamet hade när de lanserade det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:19",
+    "line": "Att det var så här \"Titta vilken cool grej vi har gjort, använd den inte än.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:22",
+    "line": "Och sen bara \"Fast den här grejen, den kan jag använda.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:25",
+    "line": "\"Men inte det här.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:26",
+    "line": "\"Ja, det här är typ klart, men förresten, det här kommer vi dra tillbaka.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:29",
+    "line": "\"Vi måste tänka lite till på det.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:31",
+    "line": "Suspens kommer snart, tre år senare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:33",
+    "line": "För ett tag när de pratade som S-hållare,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:35",
+    "line": "\"Det här finns i alfan, men använd inte det i produktion.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:38",
+    "line": "Men inte i produktion. Så då vet jag att jag använder det i nån typ av hack-dej-grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:46",
+    "line": "Sen har jag nog glömt bort det, tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:48",
+    "line": "Ja, precis. Det är kraftfullt som fan, men man tänker aldrig på att använda det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:56",
+    "line": "Det är så lätt att bara göra en if-loading."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:59",
+    "line": "-Gör det här istället. -Speciellt med hooks."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:01",
+    "line": "Ja, exakt. Jag är ganska taggad på det här. Det här är superexperimentellt också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:08",
+    "line": "De är väldigt så här \"använda inte det här i produktion, försök inte ens göra det, lär inte ut det i kurser eller någonting sånt,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:18",
+    "line": "utan det är absolut inte klart, det kommer säkert ändras jättemycket innan det är klart\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:22",
+    "line": "Uppenbarligen har den kommunikationen lärt sig av suspensfiaskot, kanske man får säga ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:28",
+    "line": "Jag gick in på fel då, när jag skulle kolla igenom den här lite fort tänkte jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:32",
+    "line": "Så jag missade ju bloggposten utan jag gick in på videoposten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:35",
+    "line": "Och där står det verkligen så här, vi har börjat kommunicera det här för transparens."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:39",
+    "line": "Och inte för att det egentligen är någonting som är klart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:42",
+    "line": "Utan vi vill att ni ska se vad som händer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:45",
+    "line": "Och sen med de andra som du säger, använd inte det här nu. Please."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:50",
+    "line": "Nej men exakt. Så det ska bli väldigt spännande att se fortsättningen, vart det landar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:55",
+    "line": "Jag tror att det kommer hjälpa mest för olika frameworks som Next."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:03",
+    "line": "De kan använda det här på ett väldigt bra sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:07",
+    "line": "Där har du att du kör en Node-server också redan nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:12",
+    "line": "Då kan man inkorporera det här på ett smidigare sätt än om man bara har kört en statisk app."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:18",
+    "line": "Ja, men det är intressant om man kollar den newscasen och vad det öppnar upp för."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:23",
+    "line": "Som till exempel nu så sitter jag ju i en klientrenderad applikation, där vi har jättemånga stora komponenter som gör GraphQL-frågor eller restfrågor för att hämta all data."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:39",
+    "line": "Som vi gör direkt i den komponenten som ska rendera och sen hela det trädet som lever på den datan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:45",
+    "line": "Och då har man ju byggt en back-end såklart egentligen bara för att skapa ett API för läsmodeller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:53",
+    "line": "Så vad gör man med den biten så då? Den skulle man ju kunna börja eliminera eller bygga ihop det på ett helt annat sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:59",
+    "line": "Ja men exakt. Det är ju väldigt spännande. Jag tror att jag läste, om jag minns siffran rätt nu, så tror jag att de skrev i stora projekt så hade de sett en minskning på upp till 29% av javskräpbanden också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:11",
+    "line": "Och det är en jävla bit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:14",
+    "line": "Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:15",
+    "line": "Det är nästan en tredjedel av all JavaScript som kan försvinna för att man konverterar komponenter till serverkomponenter istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:21",
+    "line": "Sen tror jag att det kommer, som vi var inne på innan, att det kommer bli en komplexitet som gör det svårare att jobba med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:29",
+    "line": "Att det blir en till sak att tänka på, att om det är en serverkomponent så måste du tänka på det här också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:35",
+    "line": "Sen tänker jag mig att det kommer säkert typ ESLint-regler som säger bara att, ja, tänk på att om den är delad upp i .server.js då kommer den klaga på om du använder justate eller alla de här reglerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:46",
+    "line": "Ja, det får någon fixa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:49",
+    "line": "Ja, jag tänker bara att någon får göra det. För det är liksom samma sak. Hur många gånger har man liksom inte råkat göra något konstigt med typ hooks och så klagar den där på, ja, du har lagt en hook efter en if, typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:59",
+    "line": "Och man bara, ja, just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:01",
+    "line": "Ja, du har missat det här i dependency-arrayen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:04",
+    "line": "Den har man vant sig i nu. När man har suttit med Hooks i några år."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:08",
+    "line": "Så stoppar man in den i Dependency Array och sen looperar den i en helhet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:12",
+    "line": "\"Jag har byggt det här fel, men jag har inte tid, så jag lämnar ut den ur Dependency Array och lever med varningen.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:17",
+    "line": "\"Islint Disable\" eller React X Hosted Deps eller vad fan det heter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:22",
+    "line": "Ja, det är lite ångestfyllt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:26",
+    "line": "Ja, det skulle ju kunna påverka hur vi bygger webbsen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:32",
+    "line": "Om det är tänkt att man ska bygga ihop allt i en enda, det får ju bara framtiden visa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:38",
+    "line": "Men det är ju häftigt att det rör på sig på så här sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:43",
+    "line": "Prova nya saker och flyger de inte så gör de inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:45",
+    "line": "Men det är, jag menar, SEO-bitarna och applikationer som är server- och klientrenderade,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:52",
+    "line": "Det skulle också kunna öppna ganska mycket nytt, häftigt antagligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:57",
+    "line": "Ja, definitivt. Det är en stor grej som folk har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:02",
+    "line": "Vi måste serverendera det här på grund av det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:07",
+    "line": "Då är det ofta SEO som är den stora biten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:11",
+    "line": "Men att man då skulle kunna bara serverendera de publika sidorna man har,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:17",
+    "line": "eller man slipper göra det på de interna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:19",
+    "line": "Det är ett väldigt starkt use case."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:23",
+    "line": "Ja, om det inte börjar tolkas som att det är cloaking."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:27",
+    "line": "Google indexerar ju klientrenderad JavaScript nu för tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:36",
+    "line": "Hur många andra sökmotorer optimerar vi för nu för tiden egentligen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:40",
+    "line": "Nej, så är det verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:42",
+    "line": "Google styr våra liv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:45",
+    "line": "En annan grej som jag kom på nu precis, men jag glömde nämna, är också att säga att en serverkomponent renderar en klientkomponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:53",
+    "line": "Då kommer den automatiskt codesplitta klientkomponenten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:59",
+    "line": "Så den kommer inte laddas in, den banden kommer inte laddas in, förrän den serverkomponenten kommer från servern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:07",
+    "line": "Oj vad jag zonade där, förlåt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:12",
+    "line": "Ja, det är det. Som ett exempel då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:16",
+    "line": "Om vi tar exemplet den här appen, eller demappen som den hade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:21",
+    "line": "Då säger att vi har en, vi kan ta det exempel vi hade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:24",
+    "line": "Vi hade listan som var serverrenderad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:28",
+    "line": "Just det, säkerhetsresultaten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:29",
+    "line": "Ja, exakt. Men sen varje item i listan, eller varje träff i listan, den är klientrenderad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:34",
+    "line": "Då kommer liksom JavaScriptet för varje item,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:38",
+    "line": "Den kommer få en egen bundle som inte laddas in förrän listan har skickats från servern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:44",
+    "line": "Så att den inkluderas inte i data som kommer från servern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:47",
+    "line": "Men klienten vet om att \"ah, här kommer en klientkomponent som inte har laddat än\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:52",
+    "line": "Och då laddar den in den bundlen så att den är automatiskt code-splittad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:55",
+    "line": "- Ja just det, men den laddar ju inte in någonting för varje barn utan för bara den komponenten som alla barn har använt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:01",
+    "line": "- Ja men precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:02",
+    "line": "Så det är också en sån här smart grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:06",
+    "line": "Nu vet man trädet i förväg hur det ser ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:11",
+    "line": "Då kan de räkna ut att den här komponenten kan vi lägga i den här banden för då kan den läsas in tillsammans med"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:16",
+    "line": "när den här serverkomponenten värderas någon gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:18",
+    "line": "Sen var det kanske ett dåligt exempel för att den där listan visar sig förmodligen alltid i en appen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:23",
+    "line": "Men att man går in i ett edit-läge till exempel och det är en serverkomponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:27",
+    "line": "Ja, men exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:29",
+    "line": "Och att den har en klientkomponent som barn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:35",
+    "line": "Så det gör jag också. Code splitting har jag suttit med så jävla många gånger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:39",
+    "line": "Jag vill få till det lite bättre än vad det är, eller jag vill få till det överhuvudtaget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:43",
+    "line": "Och jag vet inte, det går ju som aldrig enkelt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:46",
+    "line": "Och så finns det en miljard olika sätt att göra det på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:48",
+    "line": "- Och så drar man upp den här jävla bundle-analyzern och tittar på de stora, de här g-sippade, och vilka som har vilka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:57",
+    "line": "Det där är lite som när jag sitter och tittar på performance-tabben."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:00",
+    "line": "Jag blir ju återigen, det är för mycket. Jag kan inte, det backar bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:04",
+    "line": "Nej Alma, det är inte en så rolig grej att hålla på med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:09",
+    "line": "Så om det bara funkar automatiskt, gärna för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:12",
+    "line": "Ja, jag kommer inte sörja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:14",
+    "line": "Så liksom att jag inte får göra det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:17",
+    "line": "Sörja manuell code-splitting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:19",
+    "line": "Får ta en gravöl för det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:23",
+    "line": "Nej, fan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:24",
+    "line": "Ja, men det var nog det jag hade om RSCs React Server Components."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:35",
+    "line": "Jag tror att den där förkortningen blir mer och mer populär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:38",
+    "line": "Jag har sett den på många ställen nu när jag läser om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:40",
+    "line": "Fortfarande måste jag stanna upp varje gång och bara \"RSC? Vad fan är det?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:45",
+    "line": "Ja, jag klarar egentligen inga akronymer. Min hjärna bryter ihop lite."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:49",
+    "line": "Men det är lite av ett första i den här podden att någon hade med sig anteckningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:54",
+    "line": "Ja, men jag hade ändå en tiorad av anteckningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:56",
+    "line": "Det är stort känner jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:58",
+    "line": "Ja, det är ändå välpreppat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:00",
+    "line": "Ja, mer strukturerade än någonsin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:04",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:06",
+    "line": "Med det sagt så tackar vi väl för oss den här gången och så hörs vi om två veckor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:12",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:13",
+    "line": "Bye bye."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:14",
+    "line": "Tja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:15",
+    "line": "[Musik]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:22",
+    "line": "Hej då!"
+  }
+]

@@ -1,0 +1,2432 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Hur övervintrar en programmerare?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:03",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "Idé?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:06",
+    "line": "Alltså..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:07",
+    "line": "Fan vad dåligt det här är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:12",
+    "line": "Jag vet!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:15",
+    "line": "Alltså, jag vet inte. Jag skrattar ju, men..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:20",
+    "line": "Ja, men... Starkt levererat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:26",
+    "line": "Tack, tack. Hej på dig med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:28",
+    "line": "Hej!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:30",
+    "line": "Och hej till alla andra som lyssnar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:32",
+    "line": "Därför har vi en ny avsnitt av ASDF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:34",
+    "line": "I dag..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:36",
+    "line": "Ny miljö för oss i Berlin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:38",
+    "line": "Vi sitter i en skrubbe på jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:40",
+    "line": "Ja, det är tajtare än vanligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:42",
+    "line": "Det är väldigt mycket tajt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:44",
+    "line": "Så är det en massa missljud när vi rör på oss."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:46",
+    "line": "Så är det typ att vi river skrubben."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:48",
+    "line": "Vi får väl se hur det går."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:50",
+    "line": "Det står mycket bra saker här inne."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:52",
+    "line": "Ja, en rökmaskin och en karriär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:54",
+    "line": "Det är väldigt mycket bra saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:56",
+    "line": "Ja, en rökmaskin och en karaoke-maskin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:59",
+    "line": "Ja, spel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:01",
+    "line": "Ja, det är mina spel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:02",
+    "line": "Byggstavar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:03",
+    "line": "Ja, rollspel finns i och för sig här också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:06",
+    "line": "Och folks personliga lådor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:07",
+    "line": "Ja, det finns lite jobbrelaterat också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:11",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:12",
+    "line": "Vi tänkte väl kanske..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:14",
+    "line": "Jo, jag fick en fråga på Twitter av..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:18",
+    "line": "Jag glömde fast namn, tyvärr."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:21",
+    "line": "Pelle, tror jag. Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:23",
+    "line": "och han frågade lite grann hur jag tar mig an nya projekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:30",
+    "line": "Alltså tar mig an att bygga någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:32",
+    "line": "Jag tror frågan kanske mest har ställts om att bygga någonting från grunden, så vi kanske kan börja där i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:37",
+    "line": "Jag tänker att du får börja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:41",
+    "line": "Om du ska bygga någonting från grunden, vart börjar du?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:45",
+    "line": "Jag bygger väldigt sällan saker från grunden nu för tiden, om man ska vara helt ärlig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:54",
+    "line": "Jag brukar börja med tutorials, eller snarare inblick i tekniken jag tänker använda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:04",
+    "line": "Nu har vi redan valt teknik, men ofta om jag ska bygga någonting från grunden så är det nog för att lära mig någonting nytt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:12",
+    "line": "Och för att lära mig något nytt, då vill jag ändå förstå vad det är jag ska hålla på med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:18",
+    "line": "Och jag gillar tutorials. Jag är inte..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:22",
+    "line": "Jag vill säga att jag inte är så kreativ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:25",
+    "line": "Det kanske inte stämmer. Men jag gillar att ha riktlinjer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:30",
+    "line": "Så det blir mycket. Hitta något på Youtube. Kolla igenom dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:35",
+    "line": "Göra deras \"getting started\" eller något. Vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:39",
+    "line": "Så där börjar jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:41",
+    "line": "Och säg att det du ska bygga då, om det är någonting, säg att det är en helt egen idé du kommer på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:47",
+    "line": "Och det finns liksom ingen tutorial på \"så här bygger du det här\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:51",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:52",
+    "line": "Hur angriper du det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:55",
+    "line": "Jag börjar nog fortfarande med att lära mig teknikerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:58",
+    "line": "Det är inte så att jag behöver kunna bygga exakt det jag ska bygga i deras tutorials så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:03",
+    "line": "Men jag måste förstå grundstenarna i tekniken jag ska använda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:07",
+    "line": "Det är nog ganska likt hur jag tänker också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:11",
+    "line": "Det är väldigt mycket så här, vad heter det, \"command and conquer\"?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:14",
+    "line": "Nej, \"divide and conquer\". \"Command and conquer\" är ett spelet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:17",
+    "line": "Jag vill dela upp problemet i delproblem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:22",
+    "line": "Som när jag byggde mitt, det här rita-gissa-spelet som jag pratat om i något tidigare avsnitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:26",
+    "line": "Då var det så här, okej, hur funkar realtidskommunikation?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:32",
+    "line": "Så hur funkar Websocket-spelet i alla fall, i och med att det är på webben?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:36",
+    "line": "Och då började jag bygga något enkelt, något litet med webbsaket via någon tutorial."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:40",
+    "line": "Och så följde man där och bara \"Okej, nu har jag byggt det\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:43",
+    "line": "Och så kan jag säga \"Vad har vi mer för problem? Hur gör man något som man ritar?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:47",
+    "line": "Hur liksom... Hur får jag så att den kan rita något?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:52",
+    "line": "Och så följer man en tutorial på det och bara \"Okej, nu har jag något man kan rita\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:56",
+    "line": "Och sen blir det mer och mer att man bygger på de här byggstenarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:59",
+    "line": "Så att man lägger ihop dem så att till slut får man en hyfsat ihophängande produkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:04",
+    "line": "Sen ska det också sägas att den här rita-gesa-grejen var det tredje gången jag gav mig på det projektet kanske från scratch."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:14",
+    "line": "Så då hade jag försökt en gång, byggde det väldigt ihophackat på en helg, inte alls stabilt. Gick inte alls att skala, gick inte alls att använda på fler sätt än att jag verkligen satt manuellt och startade och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:30",
+    "line": "Och sen blev det liksom att man lärde sig så mycket av det här, så då har man erfarenheter innan man börjar om från början igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:36",
+    "line": "Sällan har man motivationen att börja om från början igen, särskilt på hobbyprojekt liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:42",
+    "line": "Men det gav ju också väldigt mycket för att få ihop ett så pass bra projekt som jag tycker det spelet är ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:51",
+    "line": "Jag är ju inte så bra på att ro projekten i hamn, men jag kan tänka mig att det är så jag också skulle göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:01",
+    "line": "Hur får jag den här saken att fungera? Jag vill göra den här grejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:07",
+    "line": "Men mitt problem är oftast att jag försöker göra allting på en gång och inte gör det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:12",
+    "line": "Så jag har en överblick av vilka delar jag måste lösa, så de är dividerade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:19",
+    "line": "Men sen försöker jag lösa alla samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:21",
+    "line": "Ja, jag fattar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:22",
+    "line": "Och då blir det lite överväldigande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:25",
+    "line": "Jag håller mig ofta till mantra att få det bara att funka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:32",
+    "line": "Var det kul att jag sa där i början att jag är bra på att dividera?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:38",
+    "line": "Absolut inte. Jag tar tillbaka allting, förlåt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:40",
+    "line": "Nej men väldigt mycket får det bara funka för att jag springer i förväg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:46",
+    "line": "Ja men nu får jag det här optimalt, nu får jag det här och göra det här och nu måste jag lösa det här problemet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:51",
+    "line": "Jag har fortfarande inte fått någonting som kör eller som funkar men jag försöker ändå lösa,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:56",
+    "line": "ja men hur ska jag deploya det här eller hur ska jag lösa det här steget så att jag springer i förväg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:01",
+    "line": "Så att jag tror jag lite bränner ut mig själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:04",
+    "line": "Ja det har jag också upplevt lite grann i diverse projekt som man har byggt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:08",
+    "line": "Särskilt när man styr allting själv. Det är skillnad på det man gör på jobbet och privat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:12",
+    "line": "Men verkligen när man gör det privat, då är det liksom så här, jag är produktägare och kravställare och beställare samtidigt och utvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:18",
+    "line": "Och då blir det väldigt mycket att man liksom så här, okej, men jag vill bara få det här lille biten att funka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:24",
+    "line": "Så vill jag att den ska hänga ihop med den här. Och så bara så här, jag vill ju se helheten direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:28",
+    "line": "Även om helheten inte är perfekt. Vilket gör att det blir väldigt liksom mycket som du säger, som ska hända samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:35",
+    "line": "Och så vill man lösa ett problem som var lite roligare än det tråkiga problemet som sabbar väldigt mycket mer egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:43",
+    "line": "Ja, jag håller helt med. Mitt senaste projekt, som jag inte riktigt har en definitionsfråga om jag har börjat eller inte på det,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:52",
+    "line": "men jag vill bygga ett gameshow-system."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:55",
+    "line": "Och där tänkte jag att jag ska bygga det med React, men sen vill jag också bygga fysiska buzzers,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:00",
+    "line": "som man ska bussra med, typ röda knappar i olika färger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:05",
+    "line": "Och så vill jag att de här ska vara trådlösa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:07",
+    "line": "Och så vill jag att de ska kopplas till datorn på vänster, så att man kan köra det här där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:11",
+    "line": "Och tanken är väl att man ska bygga det här med Arduino,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:16",
+    "line": "alltså själva bussr-systemet liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:18",
+    "line": "Och Arduino är typ så här, det är små mikrodatorer som man kan programmera med jättelåg nivåspråk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:26",
+    "line": "Och så kan man löda ihop det själv och sätta ihop det och bygga saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:30",
+    "line": "Det är typ el."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:32",
+    "line": "- Jag är så här, det är som en Raspberry. Ja, det är inte bättre förklarat om man inte vet vad det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:37",
+    "line": "- Nej, men det är typ vad det är. Det är elektronik."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:40",
+    "line": "Och det har jag liksom pillat med någon gång innan. Aldrig riktigt lärt mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:45",
+    "line": "Men nu har jag tagit en annan approach. Nu går jag verkligen grunden upp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:50",
+    "line": "Så nu har jag liksom pluggat ellära."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:53",
+    "line": "Jag har kört, nu orört sidospår, men jag har kört en app för Space Repetition, vet du vad det är?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:00",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:01",
+    "line": "Det är ett sätt att försöka plugga in saker och komma ihåg dem för evigt, säger jag i situationstecken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:07",
+    "line": "Ja, vadå som när man skapar minnesrum?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:09",
+    "line": "Ja, men typ. Fast i det här fallet går det ut på bara att du typ egentligen, från grunden så är det att du har ett kort som du tittar på"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:18",
+    "line": "Och där står det kanske en fråga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:19",
+    "line": "Och så kollar du, okej har du rätt på den frågan, då sätter du den i ett annat fack."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:24",
+    "line": "Och då är det facket liksom"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:26",
+    "line": "varannan dag-korten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:28",
+    "line": "Och det första facket är varje dag-korten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:29",
+    "line": "Och då går du igenom alla så här, alla kort som ligger i varje dag-facket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:34",
+    "line": "Går igenom varje dag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:36",
+    "line": "Och svarar du rätt på dem, då sätter du dem i varannan dag-facket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:38",
+    "line": "Och annars så fortsätter du"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:41",
+    "line": "att plugga dem tills de hamnar i varannan dag-facket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:43",
+    "line": "Och de går du igenom varannan dag?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:45",
+    "line": "Exakt. Och då hamnar de sedan, de som du svarar fel på, de hamnar i varje dag facket igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:51",
+    "line": "Så att du får glömma dem imorgon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:53",
+    "line": "Och de andra hamnar i var fjärde dag facket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:55",
+    "line": "Så då blir det lite längre tills det är deras tur."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:59",
+    "line": "Men så fort du svarar fel på något så hamnar de i första facket igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:01",
+    "line": "Har du gjort fysiska kort för det här?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:04",
+    "line": "Nej, jag har en app."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:06",
+    "line": "Det sa du."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:08",
+    "line": "Men jag har liksom fyllt i det här att såhär, okej, vad mäter man resistans i?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:12",
+    "line": "eller resistens, resistans, resistens kändes det som."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:16",
+    "line": "Vad, hur betecknar man ström?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:20",
+    "line": "Och massa såna här grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:22",
+    "line": "Och hittills funkar det ganska bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:24",
+    "line": "Jag har lärt mig ganska mycket såna här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:26",
+    "line": "väldigt mycket fakta liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:28",
+    "line": "- Det var mycket, mycket gammal skolångest"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:31",
+    "line": "som dök upp för mig där när du började."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:33",
+    "line": "- Kan du åmslag?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:35",
+    "line": "- Nej, jag har nog faktiskt kunnat åmslag,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:37",
+    "line": "men jag har nog förtränkt ganska mycket helt avsiktligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:40",
+    "line": "Det är U = R * I, vilket då är spänningen är lika med dansen..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:49",
+    "line": "Resistans * ström."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:51",
+    "line": "Exakt! Du tog det ju snabbare än mig, och jag har nyss pluggat på det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:55",
+    "line": "Men jag kan väl ändå variablerna för vad som är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:58",
+    "line": "Vad? Att U och I är?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:00",
+    "line": "U är spänning, I är ström, R är resistans, tänker jag. Det kanske är helt fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:06",
+    "line": "Nej, det är rätt. Men jag är imponerad att du kan det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:09",
+    "line": "- Då har du volt. - Ja, exakt. Och watt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:12",
+    "line": "Och effekt hit och dit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:14",
+    "line": "Ja, det är som sagt, tid och spår."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:16",
+    "line": "Men den approachen har jag tagit nu. Nu vill jag verkligen lägga grunden för att förstå det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:19",
+    "line": "För att jag känner att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:20",
+    "line": "Lite för att när man håller på med elektronik så blir det liksom att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:23",
+    "line": "Gör jag fel då, då kommer liksom prylarna gå sönder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:26",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:28",
+    "line": "Det blir liksom bara inte ett kompileringsfel som man kan fixa, utan..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:30",
+    "line": "- Det blir ett kostnadsfack. - Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:33",
+    "line": "Jag måste betala pengar för att fixa det. Det är liksom lite annorlunda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:36",
+    "line": "Men det är ett ganska ambitiöst projekt, i min tanke i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:41",
+    "line": "Så vi får se hur långt det kommer. Men det är liksom approachen jag tagit nu, att börja väldigt grundläggande"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:46",
+    "line": "och sen arbeta mig uppåt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:47",
+    "line": "Nu känner jag ju också att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:50",
+    "line": "visst att bygga liksom reakt-biten av det här, att liksom ha själva gameshow-biten"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:54",
+    "line": "alltså de olika segmenten, det känner jag ju att jag kan också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:57",
+    "line": "Så nu börjar jag väl med det jag verkligen inte kan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:01",
+    "line": "Och så får man se vart man landar liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:03",
+    "line": "Det kanske slutar med att jag köper in buzzers, helt enkelt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:06",
+    "line": "Men jag tycker att det är kul att lära sig också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:09",
+    "line": "Ja, men jag tror den här, alltså var man än slutar i projektet eller hamnar så..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:16",
+    "line": "Nu är det någon som tutar uteifrån, jag undrar om det hörs."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:21",
+    "line": "Men vart man än hamnar i projektet och när det tar slut så har jag ändå lärt mig någonting när jag drar igång, det känner jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:29",
+    "line": "Även om det bara är en tutorial och jag bara har touchat på ämnet så har jag ändå bekantat mig vad det är för någonting, vilka byggstenar det finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:41",
+    "line": "Jag vet att jag var på en workshop någon gång när de pratade om att har du bara skrivit \"hello world\" i ett språk så har du fortfarande lärt dig någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:50",
+    "line": "Det spelar ingen roll att du inte har byggt ett fantastiskt projekt i det här utan du har lärt dig hur du ska kompilera någonting i det här språket"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:57",
+    "line": "eller hur det funkar, vad du behöver för miljö för att klara av det du har lärt dig i massor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:02",
+    "line": "Så jag försöker vara lite utifrån den devisen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:05",
+    "line": "Jag har haft väldigt högt flygande tankar på att bygga så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:10",
+    "line": "Jag tror det var någon gång jag tänkte att jag skulle bygga någonting för att dokumentera alla mina kläder,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:17",
+    "line": "för att jag skulle kunna matcha dem, lite som i den här Clueless-filmen, den gamla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:22",
+    "line": "mer för att ha en inventering på vilka material är det när de köpta, vad är min miljöpåverkan och sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:29",
+    "line": "Jag älskar din referens på Clueless-filmer. Min referens var att bygga en Mixology-app där man liksom gör drinkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:37",
+    "line": "Fast du gjorde det med kläder istället. Vilka ingredienser ska jag ha på mig idag?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:42",
+    "line": "Jag måste matcha min Whiskey Sour."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:47",
+    "line": "Ja, nej men så den... och det blev liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:50",
+    "line": "Jag började ju helt fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:52",
+    "line": "Jag började med att fota saker och försöka få bort bakgrunder och hitta..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:56",
+    "line": "Så att... och det var väl en viktig sak."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:58",
+    "line": "Men jag fastnade på något sätt i liksom fototräsket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:02",
+    "line": "Ehh... och brände ut mig på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:04",
+    "line": "Och liksom lackade ur."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:06",
+    "line": "Ja, för det känns ju som det mest avancerade ur biten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:08",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:09",
+    "line": "Direkt liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:10",
+    "line": "Men det var inte bara så här att det är avancerat utan det fanns inget..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:13",
+    "line": "inget slut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:14",
+    "line": "Jag vet inte hur jag vill ha det, jag vet inte vad jag ska ha det till, jag har ju inte byggt det än."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:18",
+    "line": "Så nu ska jag bara försöka läsa någonting som jag har noll riktning i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:24",
+    "line": "- Ja, det förstår jag också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:27",
+    "line": "Precis som du säger, som du var inne på innan, att man lär sig väldigt mycket när man bygger saker,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:32",
+    "line": "även om man inte bygger klart det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:34",
+    "line": "Eller även om det inte blir någonting alls."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:36",
+    "line": "Det kan vara bara skräp och man har ändå lärt sig någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:38",
+    "line": "För att ta upp det här exemplet med mitt ritaspel igen,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:43",
+    "line": "Så var det liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:45",
+    "line": "Jag hade liksom byggt det... Jag tror jag försökte bygga det en gång först."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:49",
+    "line": "Det lyckades inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:50",
+    "line": "Och liksom bara \"Äh, jag ger upp\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:52",
+    "line": "Och sen tog det ett tag och sen hade man lärt sig mer grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:54",
+    "line": "Och så bara \"Okej, men nu försöker jag\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:55",
+    "line": "Och så blev det liksom en version som funkar där som ändå var kul,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:58",
+    "line": "men som inte var så snygg eller professionell eller liksom så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:01",
+    "line": "inte så underhållningsbar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:03",
+    "line": "Och sen att det liksom går vidare till att \"Okej, nu blev det en version som faktiskt funkade\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:09",
+    "line": "Och det är så många steg bakom där som kanske inte syns riktigt som man tänker på, som ändå är med i hela utvecklingsprocessen om man ska se det krasst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:17",
+    "line": "Även om det är från första kodraden på det här projektet till sista så var det ganska straight forward."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:24",
+    "line": "Så fanns det en massa svans, en lång svans bakom med misslyckade i försök."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:29",
+    "line": "Ja, men hur ror du dig i hamn? Vad är det som driver dig?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:36",
+    "line": "Jag bygger mycket grejer jag vill ha själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:39",
+    "line": "Jag bygger mycket grejer som jag vill ha själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:46",
+    "line": "Och sen hjälpte det ju oerhört mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:50",
+    "line": "För här hade jag den här första versionen ute och uppe som funkade okej, men det gick liksom inte"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:56",
+    "line": "att skala den på något sätt. Man kunde ha ett spel igång i taget till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:00",
+    "line": "Och sen var det så att folk som spelade tyckte att det var jävligt kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:05",
+    "line": "Och det gav mig lite mer motivation att säga \"Okej, men fan, jag har lite motivation att bygga något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:11",
+    "line": "Varför ska jag inte bygga samma grej igen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:12",
+    "line": "Och bara göra det ännu bättre?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:16",
+    "line": "Och då blev det liksom av."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:18",
+    "line": "Sen ska jag också säga att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:19",
+    "line": "hela den här grejen, den versionen som jag bygger nu med att skapa rum och lite sådana grejer som man kan göra,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:24",
+    "line": "att flera kan spela samtidigt,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:26",
+    "line": "den hade jag också byggt i ett ännu tidigare projekt som jag byggde för ett antal år sedan i Vue och lite andra grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:32",
+    "line": "som var ett quizspel mer, men det var samma struktur i backen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:36",
+    "line": "på det projektet som det blev på det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:38",
+    "line": "Så det är återigen kunskap som bara kommer tillbaka"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:41",
+    "line": "när man väl stöter på den igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:44",
+    "line": "Samma problem, fast i annan kontext."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:46",
+    "line": "Ja, jag märker ju en ganska stor skillnad på"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:52",
+    "line": "när jag jobbar och inte jobbar, eller vad man ska säga,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:58",
+    "line": "i min intressenivå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:01",
+    "line": "Jag är mycket dräcker och kårda på jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:05",
+    "line": "Ja, gud ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:06",
+    "line": "Jag tycker inte att någon behöver ha fem miljoner hobbyprojekt för att vara en bra utvecklare"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:11",
+    "line": "eller för att utvecklas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:13",
+    "line": "Det gör man åtta timmar om dagen ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:17",
+    "line": "Jag har alltid tänkt att det är mitt jobb."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:20",
+    "line": "Jag kanske inte ens tycker att teknik är superkul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:23",
+    "line": "Jag vet inte. Jag har ju tvivlat fram och tillbaka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:26",
+    "line": "Men sen så blir det ganska tydligt för i vintras nu så hamnade jag på bänken under en period."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:31",
+    "line": "Och bänken som konsult är då när man är mellanuppdrag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:35",
+    "line": "Och då fysslar jag mycket med dels bolagsutvecklande saker på vårt bolag men även att lära mig nya saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:44",
+    "line": "Och då märkte jag helt plötsligt hur mitt intresse för att ta in nya saker och bygga någonting jobbades upp och rullade på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:53",
+    "line": "Det eskalerade nästan, så jag byggde ihop en blogg i Gatsby som jag inte rör tidigare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:57",
+    "line": "Gatsby till eget ansvaret."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:59",
+    "line": "Vi kan länka till din blogg i beskrivningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:01",
+    "line": "Nej, det ska vi inte göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:03",
+    "line": "För den är inte vackert."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:05",
+    "line": "Jag drog upp ett gammalt projekt som var ett Firebase-projekt för att rulla igång det igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:17",
+    "line": "och började bygga upp på båda de här sakerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:19",
+    "line": "Teknik har jag inte ägnat mig åt förut,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:21",
+    "line": "och lärde mig saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:23",
+    "line": "Jag drog och vände genom React,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:25",
+    "line": "Context API och sådana saker, bara för att färska upp mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:28",
+    "line": "Då var det ju nästan bara av glädje att göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:35",
+    "line": "Av nyfikenhet och glädje, och tycka att det var kul att bygga saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:39",
+    "line": "Den känner jag inte vanligtvis på vardagen,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:42",
+    "line": "för att jag är trött, mätt på att koda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:46",
+    "line": "För mig går det väldigt mycket i perioder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:51",
+    "line": "Jag kan ha perioder när jag kommer hem varje kväll i en vecka, två veckor, tre veckor och knackar kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:57",
+    "line": "När jag byggde det här Itagisarspelet så byggde det ganska intensivt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:01",
+    "line": "Det var väldigt intensiva tider och jag satt på helgerna och knackade den här koden och bara \"fan vad kul det är\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:06",
+    "line": "I karantän?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:07",
+    "line": "Ja, exakt. I karantän."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:09",
+    "line": "Man var bara hemma, jag flyttade inte ens mig från datorn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:13",
+    "line": "Jag gick från jobbet genom att byta tab i VS Code."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:16",
+    "line": "Då var det väldigt intensivt och då var jag motiverad att göra det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:21",
+    "line": "Men sen har jag haft perioder på ett halvår eller mer"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:26",
+    "line": "när jag inte har skrivit en rad kod hemma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:28",
+    "line": "Så jag kan verkligen trycka på att det är helt okej att inte snacka kod på fritiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:36",
+    "line": "Jag umgås fan hellre med personer som har lite originella hobbies."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:39",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:41",
+    "line": "- Bygga armin också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:43",
+    "line": "- Det är där jag försöker bredda mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:45",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:47",
+    "line": "Jag går till elektronik. Det är dit jag kommer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:49",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:51",
+    "line": "Nej men, så att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:53",
+    "line": "Det blir liksom att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:55",
+    "line": "Jag vet liksom inte. Ibland så är man bara väldigt taggad på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:01",
+    "line": "Och för min del så är det mycket en kreativ process."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:04",
+    "line": "Det är mitt kreativa utlopp att bygga saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:08",
+    "line": "Och sen, som sagt, 90 procent av grejerna blir ingenting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:12",
+    "line": "Men leder ändå kanske till någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:14",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:16",
+    "line": "Så att, ja, jag tycker det är svårt liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:20",
+    "line": "Sen är det ju här, nu har vi bara pratat om hur man"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:23",
+    "line": "approachar liksom mer kanske hobbyprojekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:26",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:27",
+    "line": "Sen finns det ju liksom helt andra sätt att approacha"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:30",
+    "line": "projekt på jobbet eller hur man approachar"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:32",
+    "line": "projekt man kommer in i mitt i till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:36",
+    "line": "Så det är mycket sådana grejer som är annorlunda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:41",
+    "line": "Och i en professionell sätting så blir det ju väldigt mycket annorlunda att man"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:45",
+    "line": "kanske ska tänka på helt andra saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:48",
+    "line": "Alltså då ska du ju tänka på såhär, okej hur ska jag ta in det här, vad är det jag ska leverera,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:51",
+    "line": "vad är det vi försöker bygga, vilket värde är vi ute efter?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:54",
+    "line": "Hobbyprojekt är ju ganska, det är ganska mycket frihet"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:59",
+    "line": "på ett sätt som jag uppskattar väldigt mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:01",
+    "line": "att här kan jag vara kreativ och bara bygga något för kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:06",
+    "line": "Och så här, designa något, trots att jag inte kan designa för fem öre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:09",
+    "line": "Och sådana grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:11",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:13",
+    "line": "Man ska fundera lite på om man ska in i ett jobbprojekt då, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:17",
+    "line": "För att där är jag..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:21",
+    "line": "Jag får ofta den här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:23",
+    "line": "sätt dig ner, läs igenom lite kod och lite dokumentation och kolla genom projektet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:28",
+    "line": "Jag blir otroligt stressad av den kommentaren, vilket är lite ironiskt med tanke på att jag säger att jag läser tutorials när jag ska lära mig något nytt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:37",
+    "line": "Men om jag ska in i något befintligt som jag ändå har hyfsat koll på teknikerna, då är det att det här \"ge mig en liten bugg\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:47",
+    "line": "Ge mig någonting att göra så att jag kan börja utforska på ett sätt som har ett mål."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:53",
+    "line": "För att det här planlöst klickar runt, jag är så dålig på det här. Jag kan inte tänka på det här. Då blir det igen den här överväldigande allting. Jag fattar inte den här biten och inte den här biten. Hur går det här till?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:05",
+    "line": "Nej, jag behöver jobba lite."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:08",
+    "line": "Jag har nog lite olika approacher. Jag har liksom ingen facit på när jag kör vad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:17",
+    "line": "Jag uppskattar väldigt mycket, som du säger också, att man får någon task som man kan ha som utgångspunkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:23",
+    "line": "Då kan man utforska den här kodlabyrinten så mycket man vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:30",
+    "line": "Men man har ändå en utgångspunkt att \"det är det här jag ska göra, jag vet ungefär vart jag vill in\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:35",
+    "line": "Sen tycker jag att det är väldigt nice att parprogrammera eller mobbprogrammera för att lära sig något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:39",
+    "line": "Och där vet jag att vissa tycker tvärtom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:42",
+    "line": "För att de känner att de hänger liksom inte med eller att det går för snabbt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:46",
+    "line": "Och visst att komma in i en setting där man parprogrammerar med någon som bara kör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:51",
+    "line": "Inte så nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:53",
+    "line": "Men att parprogrammera med någon som faktiskt sitter där för att förklara eller man själv sitter vid tangentbordet och de förklarar och man bygger liksom en feature eller något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:59",
+    "line": "Det tycker jag är skitnice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:01",
+    "line": "Jag tycker egentligen att det är nice, men jag har ett stort problem med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:07",
+    "line": "Det är att jag går in i någon slags \"jag måste bevisa mig\"-mode."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:13",
+    "line": "För att ibland sitter jag i den här känslan, om det är imposter-syndrom eller nåt annat,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:19",
+    "line": "jag måste bevisa att jag förstår."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:22",
+    "line": "Jag måste bevisa att jag förstår på den nivån som jag förväntat förstår saker"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:27",
+    "line": "och att jag kan göra det fort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:29",
+    "line": "Så jag blir väldigt självmedveten när jag gör det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:33",
+    "line": "Jag tycker det är väldigt nice också, för man får mycket historia, mycket kontext"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:38",
+    "line": "och mycket klarhet kring vad för saker jag är som det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:40",
+    "line": "Men samtidigt är jag lite stressad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:42",
+    "line": "Jo, men det kan jag verkligen förstå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:46",
+    "line": "Jag tror att de flesta känner nog som dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:48",
+    "line": "Inte som mig, jag är ju lite udda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:51",
+    "line": "Jag tycker ju bara att det är nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:53",
+    "line": "Jag känner liksom inte den pressen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:56",
+    "line": "Så att för min del så är det väldigt bra sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:00",
+    "line": "Men det handlar ju också väldigt mycket om att man måste hitta sitt eget sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:03",
+    "line": "Jag partprogrammerade ju inte det första jag gjorde när jag började."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:08",
+    "line": "Då visste inte ens jag att det fanns typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:11",
+    "line": "Utan då var det ju att man satte sig vid sin data och bara \"Okej, vad fan ska jag göra nu?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:15",
+    "line": "Man kom in när det var världens största projekt och man var så här \"Okej, det är en miljard filer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:21",
+    "line": "Det här är inte som mina labbar på universitetet med tre filer i.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:25",
+    "line": "Nej, en så lilla sandbox. Bygg den här funktionen här i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:29",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:30",
+    "line": "Exakt. Jag har byggt lite biblioteksapp, kommer du ihåg att jag gjorde?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:35",
+    "line": "C#. Det var tidigare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:37",
+    "line": "Läste väl länkade listor i färdigbyggda skal?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:41",
+    "line": "Ja, det är exakt som i verkligheten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:44",
+    "line": "Ja, Gud ja. Jag har byggt så sjukt många länkade listor nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:48",
+    "line": "Ni förstår inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:50",
+    "line": "– Åh Gud, vi borde prata om intervjuer någon gång. Det ska vi ta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:54",
+    "line": "Det kommer vi ta snitt om där framöver."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:55",
+    "line": "– Intervjuer? Länkade listor på intervjuer?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:58",
+    "line": "– Ja, men typ tekniska intervjuer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:00",
+    "line": "– Okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:02",
+    "line": "– Nej, men, seriöst, sen liksom så här, för min del handlar det väldigt mycket om att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:08",
+    "line": "kanske få testa på, eller sätta ner fötterna i lite olika delar av det man bygger också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:14",
+    "line": "Alltså så här, jag vill kanske inte bara, om jag kommer in och ska lära mig något,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:18",
+    "line": "så vill jag kanske inte bara bygga bugfixar på en specifik feature."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:21",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:22",
+    "line": "Utan vill jag komma in i det, då vill jag kanske ha en bugfix i så många olika delar som möjligt av applikationen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:27",
+    "line": "Till skillnad från att man lär sig en specifik del så har man ingen aning om vad det andra gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:33",
+    "line": "Nej, så vill jag inte heller ha. Men det är också att en bug kan vara en inkörsport i de tyngre sakerna, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:41",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:43",
+    "line": "Ja, men att jag på vägen då kanske inte bara fixar buggen,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:50",
+    "line": "men kollar varför är det här en bugg, vad händer egentligen här i och vart liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:54",
+    "line": "Alltså att man kollar omgivningarna lite också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:59",
+    "line": "Och sen som du säger så vill man ju gärna ha saker i olika delar av applikationen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:04",
+    "line": "Annars blir man jävligt bra på en jävligt nischad del någonstans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:10",
+    "line": "Ja, för sen handlar det också lite grann om att se till att man tar sig an grejer fast det är lite obekvämt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:20",
+    "line": "Alltså du kommer ju inte vara helt bekväm när du bygger din första större feature i ett nytt projekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:25",
+    "line": "I 99 fall av 100, vågar jag säga ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:29",
+    "line": "Alltså då kommer man ju känna att \"oj, jag är inte helt hundra på det här\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:33",
+    "line": "Det handlar mycket om att våga fråga och se till att man ändå, lite beroende på var man känner att man själv är kunskapsmässigt kring det man bygger,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:43",
+    "line": "så kan man ändå säga \"Okej, men jag vet ungefär vad jag ska göra, jag kan testa mig fram litegrann\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:49",
+    "line": "Förhoppningsvis finns det bra code reviews."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:52",
+    "line": "Ja, där kan du säga att tidspress hjälper en del. Det är bara att rada upp saker, \"Det här ska byggas, det är bara att börja bygga någonstans\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:00",
+    "line": "Och så får det mata på och sen får man feedback så får man bygga om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:03",
+    "line": "Så det har varit ganska effektivt på sistone."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:08",
+    "line": "Ja men du, för ett tag sedan så byggde du någon Java-grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:13",
+    "line": "Herregud."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:14",
+    "line": "Och du kunde ju ingen Java tänkte jag säga, men du kunde lite Java."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:17",
+    "line": "Ja men jag kunde ju inte bygga en egen mikrotjänst får man ju ändå säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:20",
+    "line": "Och jag hade ju aldrig jobbat med webhooks till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:24",
+    "line": "Nej. Men hur tog du någon särskild approach där?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:27",
+    "line": "Du vet, lite panik, lite ångest, lite gråta på toa. Vi ska se."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:35",
+    "line": "Jag tror kunden har liksom tutorials."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:40",
+    "line": "Om man har ett väldigt stort företag så har ju en enorm arkitektur och enorm uppsättning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:53",
+    "line": "Så att de har då tutorials på vilka delar som finns, hur bygger du en ny tjänst och då hade de också en rama för"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:01",
+    "line": "här är allt du behöver för att bygga en sån här ny typ av tjänst och här borta finns allt för att bygga en sån här ny typ av tjänst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:07",
+    "line": "Så då det är lite som för dem som kan React och har kört Create React App så var det väl lite för dem också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:14",
+    "line": "De var så här \"Hej, du vill bygga en webbservice i Java med det här protokollet, starta upp här\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:20",
+    "line": "Och så hade man fått en liten igångkick."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:25",
+    "line": "Det känns som en väldigt bra approach."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:28",
+    "line": "I alla fall när du berättar om den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:29",
+    "line": "Ja, gud ja. Det var ju en av mina bästa onboardings till ett ekosystem och ett projekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:38",
+    "line": "Jag fick en vecka på mig att sitta igenom tutorials och genom tutorials så satte man också upp miljön och sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:45",
+    "line": "Ja, det låter ju jäkligt smidigt faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:47",
+    "line": "Ja. Var det något som inte funkar kunde man skicka en liten bug-rapport på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:53",
+    "line": "Ja, men det känns ju... Det där är ju också en lyx som större företag har oftast."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:59",
+    "line": "Alltså större IT-företag, ska man väl säga ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:03",
+    "line": "Och man blir ju lite ledsen när den lyxen inte tas till hand om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:10",
+    "line": "Alltså om man kommer till något större bolag och så vet man att de har gjort ett försök och sen har det inte underhållits."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:15",
+    "line": "Så det är totalt kaos istället för att det är bara själv på den istället för att hjälpa den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:20",
+    "line": "Ja, alltså gammal dokumentation, det är det värsta. Jag blir så arg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:24",
+    "line": "Jag blir liksom upprörd. Det här är varför jag hatar att dokumentera saker själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:28",
+    "line": "För att jag vet hur svårt det kan vara att underhålla det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:31",
+    "line": "Men död dokumentation, det är alltså..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:34",
+    "line": "- ...fruktansvärt. - Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:36",
+    "line": "Jag såg att Spotify open-sourcade nyligen något..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:41",
+    "line": "- Backstage. - ...verktyg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:43",
+    "line": "- TechDocs pratar du om? - Ja, precis. Det var någon plugin till Backstage."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:47",
+    "line": "Backstage är väl deras utvecklad portal som är open source, typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:51",
+    "line": "- Ja. - Och TechDocs kallas det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:55",
+    "line": "Var det då någon plugin till det här där man skulle kunna sköta dokumentationen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:59",
+    "line": "genom att egentligen skriva den tillsammans med koden, om jag fattar rätt?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:04",
+    "line": "Ja, men TechDocs är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:09",
+    "line": "Jag tror inte att du skriver det ihop med koden, utan det är ett eget..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:14",
+    "line": "Det beror väl lite på var man väljer att visa upp det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:18",
+    "line": "Jag vet inte exakt vilka delar som är open-sourcet, men det var mycket att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:22",
+    "line": "Det är markdown som genereras, och som du skriver själv också, som genereras."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:28",
+    "line": "Just det, och så genererar jag någon statisk sida som man kan browsa dokumentationen i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:33",
+    "line": "Det är smidigt ändå. Jag gillar att ha saker..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:36",
+    "line": "Mycket plain text."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:38",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:40",
+    "line": "Men också när saker är markdown."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:42",
+    "line": "Man börjar få det i fingrets spetsarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:44",
+    "line": "Hur gör jag det här?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:46",
+    "line": "Är det en kodsnutt som jag vill lägga här i?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:49",
+    "line": "Hur gör jag den här biten?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:51",
+    "line": "Jag kan länka till de här delarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:53",
+    "line": "Just nu sitter jag faktiskt också och dokumenterar"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:55",
+    "line": "men jag gör det i Storybook."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:57",
+    "line": "Men använder MDX."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:59",
+    "line": "Markdown också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:01",
+    "line": "Och det är väldigt smidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:03",
+    "line": "också få ut det på ett fint presenterat sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:07",
+    "line": "Det tycker jag om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:08",
+    "line": "Ja men gud, alltså MDX skulle vi kunna prata om i sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:12",
+    "line": "Älskar MDX."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:13",
+    "line": "Min blogg är ju MDX."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:16",
+    "line": "Så alla bloggartiklar. Och bara att kunna köra inline-komponenter, vad jag vill, i det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:21",
+    "line": "Underbart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:22",
+    "line": "Känns som att det där var"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:27",
+    "line": "the end of it."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:29",
+    "line": "Ja, jag tror vi bara"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:32",
+    "line": "- Vi zonade ut. - Vi zonade ut lite grann från ämnet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:34",
+    "line": "Jag hoppas att det var nånting vettigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:36",
+    "line": "Som aldrig igång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:38",
+    "line": "Hoppas att man får ut fem minuter vettigt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:40",
+    "line": "av de här 30 minuterna när vi pratar blä."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:42",
+    "line": "Då har vi gjort det bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:44",
+    "line": "- Ja, men man får ju jävla toppskämt ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:46",
+    "line": "- Jag tänker att det är ju första 30 sekunderna"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:48",
+    "line": "av de här fem minuterna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:50",
+    "line": "- Ja, det är ju också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:52",
+    "line": "Att vi ska prata om nåt, det är väl en minut kvar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:54",
+    "line": "- Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:56",
+    "line": "Som vanligt, vill man nåt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:58",
+    "line": "så finns det flytter. Länkarna ligger"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:00",
+    "line": "Lägg en liten beskrivning här under och vi ses så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:03",
+    "line": "Det gör vi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:04",
+    "line": "Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:05",
+    "line": "Ciao!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:10",
+    "line": "Hej då!"
+  }
+]

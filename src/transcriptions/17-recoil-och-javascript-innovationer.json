@@ -1,0 +1,1737 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Jag får ta det på östgötska tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:02",
+    "line": "Okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:04",
+    "line": "Vilka är backändarnas favoritleksaker?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:10",
+    "line": "Docker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:12",
+    "line": "Åh!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Att man inte ens kan gissa det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:18",
+    "line": "Man borde ändå kunna tänka \"backändarna\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:24",
+    "line": "Nej, bra! Jag tyckte det var bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:26",
+    "line": "Bättre på östgötska."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:28",
+    "line": "- Bättre på svenska, definitivt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:30",
+    "line": "- Japp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:30",
+    "line": "- Men, ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:32",
+    "line": "Jag tycker det... Du har sagt att ni mår ner, och jag vet inte om jag håller med här riktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:36",
+    "line": "Jag tror att det här var bättre än förra veckan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:38",
+    "line": "- Ja, men det går... Om jag kommer på ett nytt..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:42",
+    "line": "Alltså, jag har ju inte grävt mig ner i de riktigt nödmässiga skämtena."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:48",
+    "line": "För jag har kommit på några nya."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:50",
+    "line": "- Ja, men det är bra. Det är bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:52",
+    "line": "Okej, välkomna till ett nytt avsnitt av ASTF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:55",
+    "line": "Jag är mest nyfiken på att du ska prata lite om Recoil, som är ett javascript-ramverk, bibliotek, jag kommer aldrig att ihåg exakt vad skillnaden är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:11",
+    "line": "Nu vet jag nog inte exakt vad definitionen de har, men det är väl ett javascript-lib för React-state-hantering, i beta just nu, tror jag fortfarande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:24",
+    "line": "Och kommer också från Facebook från början va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:27",
+    "line": "Ja, det känns som att jag borde ha pluggat på det här mer om jag skulle prata om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:34",
+    "line": "Men jag tror i alla fall att en som jobbar på Facebook har lagt grunden för det och skapat det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:42",
+    "line": "Och försöker nu open sourca det tillsammans med några andra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:46",
+    "line": "Just det. Ja men det är ju spännande. Och du kör det i produktion nu eller?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:52",
+    "line": "Inte i produktion, ska jag väl inte säga, utan den applikation jag siktar på nu är ju inte släppt live än."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:02",
+    "line": "Men vi bygger ju med det. Vilket är vågat, här har ni en beta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:10",
+    "line": "Det är också så jävla svårt, React Native var inte det typ beta tills typ nyss?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:16",
+    "line": "nyss. Kanske jag blandar upp det med något annat, men jag vet att det finns någon väldigt känd ramverk"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:22",
+    "line": "tror jag som var beta fram till jättelänge och alla använder det i produktionen ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:26",
+    "line": "Och det är svårt att avgöra, är produktionsredo fast det är beta, bara att de vill ha möjligheten att göra"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:33",
+    "line": "breaking changes?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:34",
+    "line": "Eller hur då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:36",
+    "line": "Ja, alltså kan det mycket väl vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:38",
+    "line": "Men jag har väl..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:40",
+    "line": "Jag är fortfarande ganska ny inne i det här projektet"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:44",
+    "line": "och jag har väl bara lite tartrat på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:46",
+    "line": "Och är väl kanske inte den som sitter på allra bästa erfarenhet"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:50",
+    "line": "men det jag har gjort hittills är"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:52",
+    "line": "fruktansvärt nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:54",
+    "line": "Det är liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:58",
+    "line": "Ja, det är väldigt lätt att jobba med, skulle jag säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:00",
+    "line": "lätt att jobba med, skulle jag säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:02",
+    "line": "På vilket sätt? Jag tänker om man kanske jämför med"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:08",
+    "line": "Redux, bara för att slänga ut något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:11",
+    "line": "Redux är stort. Redux måste du tänka på flödet hela tiden och"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:20",
+    "line": "i vilken ordning du gör allting. Du måste se till att göra alla"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:24",
+    "line": "grejer och du renderar om hela statet. Du måste koppla upp"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:28",
+    "line": "koppla upp komponenterna och nu har jag i och för sig inte använt Redux med hooks ska jag säga, så jag vet inte hur mycket lättare det är nu, men det är en mycket större grej skulle jag säga, för att recoil det är bara så här, jag drar in en hook, drar in ett state, klar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:42",
+    "line": "Så jag tänkte speciellt på den när jag hade ett problem där jag satt på två olika komponenter som skulle rendera saker på samma state."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:54",
+    "line": "Och när jag först satt där och funderade på det här, det här är ju stökigt, det är inte omöjligt, men det är stökigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:00",
+    "line": "Men då hade jag inte tanken på att Recoil bara fixade det åt mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:04",
+    "line": "Men det vi kan göra är väl, han som släppte det här har ju en awesome presentationsvideo på vad det är för någonting som vi kommer att länka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:16",
+    "line": "Så den går ju helt klart att kolla på. Och det säger ni kanske inte hundra rätt, vem vet, ni får rätta er om det är så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:23",
+    "line": "Men hela tanken är ju att du har alla dina komponenter,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:28",
+    "line": "och det Rieck har lärt då, det är liksom atomer, kallar de det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:32",
+    "line": "Så om man säger att man ritar upp ett komponentträd i 2D,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:37",
+    "line": "då skulle man säga att atomerna ligger som ortogonalt rakt upp i rymden ovanför."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:43",
+    "line": "- Det här \"ortogonalt\" är ett ord inte relaterat jättetankt till, ska jag kalla det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:49",
+    "line": "- Sorry, det där kommer nog från gamla matte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:51",
+    "line": "med 90 grader upp, liksom. Rakt upp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:53",
+    "line": "Du har ett x-plan, ett y-plan och här kommer ett z-plan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:57",
+    "line": "Rakt upp från pappret."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:59",
+    "line": "- Okej, så om vi har papper på bordet och vi har ritat ut det här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:01",
+    "line": "så ligger atomerna liksom parallellt med komponenterna fast i en rymd ovanför."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:09",
+    "line": "- Ja. - Alltså rakt ovanför bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:11",
+    "line": "- Det känns verkligen som att jag inte borde ha använt det här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:15",
+    "line": "som sättet att tänka på överhuvudtaget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:17",
+    "line": "Men ja, rakt ovanför. I rymden ovanför."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:20",
+    "line": "Och det jag kan göra är att alla komponenter som vill bry sig om det här specifika statet som finns i atomen, de bara kopplar upp sig mot den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:34",
+    "line": "- Okej, så den har liksom ingenting med komponentträdet att göra egentligen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:38",
+    "line": "- Nej. - Alltså den ligger liksom inte längre uppe i komponentträdet, så att säga?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:41",
+    "line": "- Nej. Det du har tror jag väl, nu har jag faktiskt inte kollat dig i projekt, men du har väl en recoil root i projektet, men där ska du bara ha en recoil root liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:49",
+    "line": "root. Så det är inte som ett kontext API där du ska wrappa delen av"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:53",
+    "line": "komponentträdet nödvändigtvis i som du vill kunna nå kontextet i, utan"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:00",
+    "line": "det är verkligen de flyter här uppe ovanför dig och behöver du använda dem"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:04",
+    "line": "så huckar du upp dig mot dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:06",
+    "line": "- Ja, okej. Låter ju rätt smidigt. Men sen, jag är också väldigt så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:13",
+    "line": "hur stor blir skillnaden mot andra liknande statehanteringsbibliotek?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:22",
+    "line": "- Ja, jag tror de pratar, det finns tre anledningar till att de skapar det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:29",
+    "line": "Och nu har jag nog glömt bort dem. Jag har glömt bort det första."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:36",
+    "line": "Första tror jag var den här enkelheten i kopplingen och till exempel för"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:40",
+    "line": "på kontext är det mycket, mycket svårare att få alla ändringar och rendera"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:48",
+    "line": "performant om du inte vet hur många komponenter du har från början."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:51",
+    "line": "- Ja, precis. För det är ett problem, alltså så här, för det blir väldigt, väldigt populärt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:54",
+    "line": "att göra typ en mini-redux till exempel med att köra en use-context och sen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:59",
+    "line": "kör man en typ en use-reducer som du skickar ner dispatch-funktionen och så"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:03",
+    "line": "kan du ha liksom, du behöver inte dra in hela redux men du får ungefär den"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:06",
+    "line": "funktionaliteten. Men problemet med kontext är väl just att så fort du ändrar"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:09",
+    "line": "status renderas alla komponenter om som beror på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:12",
+    "line": "Ja, precis. Och speciellt om du bara injektar en ny uppe i det här trädet, då måste allting"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:20",
+    "line": "renderas om igen. Och det behöver du ju inte med recoil, vilket var väl en av"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:25",
+    "line": "anledningarna till att de skapade det. För att du vill kunna få status på olika"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:29",
+    "line": "ställen och rendera om det på ett performant way. Hans exempel i videon är ju"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:34",
+    "line": "till exempel att kunna ha interaktion med Canvas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:38",
+    "line": "Just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:38",
+    "line": "Och det kan du inte göra om du sitter fast i jättemånga omränderingar,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:41",
+    "line": "för det blir alldeles så slött."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:43",
+    "line": "Mm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:43",
+    "line": "Och sen så, den andra anledningen är väl \"using derived state\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:50",
+    "line": "Och det är väl hans exempel, jag har verkligen inga egna exempel,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:55",
+    "line": "så jag tar bara hans exempel, men är att han har en bounding box"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:00",
+    "line": "runt olika komponenter och den kan förändras beroende på hur man flyttar"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:05",
+    "line": "komponenterna i. Då kanske man i vanliga läget tänker att jag har ett state"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:11",
+    "line": "för boundingboxen och hur stor den ska vara och koordinaterna och allt sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:16",
+    "line": "Men det betyder att varje gång du flyttar någonting så måste du också"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:20",
+    "line": "uppdatera det här statet hela tiden. Du måste hålla koll på att du måste"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:23",
+    "line": "räkna om det statet varje gång. Med recoil då är det, jag tänker att du ska"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:29",
+    "line": "deriva state istället. Du kan också skapa selektorer i Recoil istället för bara atoms."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:38",
+    "line": "I selektorerna kan du plocka in andra state och returnera ett värde."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:46",
+    "line": "Då kan jag plocka in de här komponenternas state och använda dem för att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:52",
+    "line": "kalkylera ett värde för boundingboxen, vilket gör att jag aldrig behöver"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:57",
+    "line": "hårt sätta ett värde för den utan den beräknas av sig själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:01",
+    "line": "Just det. Det känns som att alla deriverade värden har blivit mycket mer"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:07",
+    "line": "populärt som koncept också. Jag tänker på det för att det finns också väldigt tydligt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:11",
+    "line": "som koncept i Overmind. Där man kan liksom säga att den här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:16",
+    "line": "propertyn i det här statet är en derived istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:20",
+    "line": "Och då är det också samma sak att den tar istället in en funktion"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:24",
+    "line": "där du spesar att okej, du får in hela staten så kan du spesa att okej, gör det här och så returnerar vi det värdet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:30",
+    "line": "Och då räknas den bara om den delen av statet ändras liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:33",
+    "line": "- Ja, det är väl tankarna också. Jag tror det gör en memois, eller kan göra en memois runt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:39",
+    "line": "Jag menar, det är ju jävligt rimligt när man börjar tänka på det, lite objektivt utifrån tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:47",
+    "line": "tycker jag, för att du vill ju ha en single source of truth. Du vill ju inte ha flera som du försöker uppdatera på rätt sätt samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:56",
+    "line": "- Nej, men verkligen. Till exempel när jag suttit med lite grann med WebGL och React Free Fiber, som vi pratade om i något avsnitt, då är det också väldigt så här att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:07",
+    "line": "när man tänker performance-mässigt, att det går liksom inte att ha statet att vi renderar om komponenterna, utan där måste man också lägga"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:14",
+    "line": "Jag tror att han som gjorde React 3 Fiber, eller kom på mig det,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:19",
+    "line": "han för mig, tyckte Recoil var väldigt coolt när det kom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:22",
+    "line": "Så jag tror att de har tagit fram någon egen variant som passar dem själva lite bättre,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:25",
+    "line": "men med samma idéer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:27",
+    "line": "Just för att det funkar så jävla bra tillsammans med,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:29",
+    "line": "till exempel WebGL som måste renderas om så jävla ofta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:32",
+    "line": "Men där du inte vill att statet kanske går genom React på just den biten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:37",
+    "line": "Men där du fortfarande kan använda det i React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:39",
+    "line": "Så jag tror att det där funkar också väldigt bra,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:42",
+    "line": "Det är väldigt bra, precis som du sa med canvasen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:44",
+    "line": "Ja, men det är ett riktigt bra exempel för det är ju omrenderingstungt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:48",
+    "line": "Jag menar att bara ta, du ska visa den här texten och den här bilden på den här sidan när en användare går in."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:55",
+    "line": "Det är inte så renderingstungt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:57",
+    "line": "Är det det? Då är någonting fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:59",
+    "line": "Ja, men exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:01",
+    "line": "Jag tycker det är väldigt spännande. Jag tycker också det är lite intressant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:04",
+    "line": "Jag vet inte när Recoil kom, om det var ett år sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:08",
+    "line": "Var det i våras någon gång?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:11",
+    "line": "Det känns som att det inte var under pandemin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:13",
+    "line": "Det är min uppfattning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:16",
+    "line": "Men det kanske var tidigt i våras, jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:18",
+    "line": "Det är oklart. Vi kan googla lite snabbt medan vi pratar vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:23",
+    "line": "Men det jag också tycker är ganska coolt är att det fortfarande kan dyka upp nya idéer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:33",
+    "line": "För mig känns det som att JavaScript har funnits länge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:36",
+    "line": "React har funnits relativt länge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:39",
+    "line": "relativt länge. När det är open source-röster, 2015 kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:42",
+    "line": "- Ja, 2014-2015 kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:45",
+    "line": "- Och ändå att man tänker att det finns den här bilden,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:51",
+    "line": "att det kommer nya bibliotek och ramverk för jag och skriptetiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:54",
+    "line": "Men det är för att det är en sån jävla innovationstakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:56",
+    "line": "Alltså det är att folk kommer med nya idéer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:59",
+    "line": "Sen är det inte alla de här idéerna som fastnar, uppenbarligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:02",
+    "line": "För vi har inte så många stora ramverk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:04",
+    "line": "Och om man tänker så här, React har varit stort då i fem år."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:08",
+    "line": "sen det open sourcedades. Jag tycker inte det argumentet håller kritik mot JavaScript, ekosystemet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:15",
+    "line": "För JavaScript, det finns React, det finns Vue, Svelte kommer lite grann, Angular, glömmer alltid bort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:21",
+    "line": "Men det finns ju de här och det är det som gör att det är ganska roligt att jobba i också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:28",
+    "line": "Ja, så är det ju absolut. Men jag förstår ju ändå, jag menar, innovationstakten är väl hög för det finns otroligt många som jobbar med det och rör en del på sig som måste en annan del röra på sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:47",
+    "line": "Jag hade precis, jag satt och brottades med förra veckan, att jag ville testa Tailwind i ett Create React App-projekt jag satt i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:59",
+    "line": "Tailwind kom ut med 2.0. Tailwind är det här CSS-klassbiblioteket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:06",
+    "line": "Ja, typ utility-klasser liksom, som man komposer ihop eller använder tillsammans för att bygga komponenter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:14",
+    "line": "Ja, så jag ville bara testa det, dra in det och se hur det kändes liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:18",
+    "line": "Och då insåg jag ju också att när de släppte 2.0 tror jag, så ändrades post-CSS-versionen som behövde användas tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:29",
+    "line": "Och det var fixat för en del, och Next.js och så, men inte för Create React App än."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:34",
+    "line": "Men det ligger uppe på en PR tror jag. Och sådana grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:38",
+    "line": "För att de innoverar det och släpper en ny sak, då måste de som använder det eller"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:46",
+    "line": "dependerar på det eller gör andra saker som påverkar helt enkelt, då måste ju de röra på sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:55",
+    "line": "Det blir ju som en synergieffekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:58",
+    "line": "- Ja, så är det verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:59",
+    "line": "- De innovererar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:00",
+    "line": "Så det blir mer bara för att börja med en jävel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:04",
+    "line": "Då gäller det att alla andra rör på sig också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:08",
+    "line": "Ja, men typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:10",
+    "line": "Ja, men jag tycker det är spännande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:12",
+    "line": "Det är liksom så stora avvägningar som man måste göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:16",
+    "line": "Till exempel CreateTrackedApp som du tar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:18",
+    "line": "Väljer man att använda det, det är jävligt smidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:20",
+    "line": "Men då blir det kanske att man inte kan ligga i the edge of the edge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:24",
+    "line": "Du kan inte vara helt längst fram på kanten och jobba med de absolut nyaste grejerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:28",
+    "line": "För att du har ett beroende på den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:32",
+    "line": "Jag bad på någon annan liten grej som släpptes häromdagen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:35",
+    "line": "Det var Snowpack, om du vet vad det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:37",
+    "line": "Det är också, tänk dig, det är version 3 som släpptes nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:41",
+    "line": "Men det, man kan väl beskriva det som typ webpack för att förenkla väldigt mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:49",
+    "line": "Men det är liksom väldigt mycket andra idéer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:51",
+    "line": "Det bygger väldigt mycket på nya ES-modules, specifikationer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:55",
+    "line": "Det vill säga att du kan köra moduler i browsern och sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:57",
+    "line": "Och i version 3 som kom släppte de en jävligt cool grej där man kan"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:03",
+    "line": "typ streama npm-paket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:06",
+    "line": "Alltså, du behöver bara köra importen i koden och du behöver inte npm-inståla någonsin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:10",
+    "line": "Oj."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:11",
+    "line": "Utan du bara pekar ut en npm-paket som du vill ha och så funkar det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:16",
+    "line": "Och ska även funka med tooling."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:20",
+    "line": "Så till exempel för VS Code så drar de ner typ typer och sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:24",
+    "line": "Så att du fortfarande får autocomplete och sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:26",
+    "line": "Jag har inte hunnit testa den, jag har bara sett att det kom så jag vet inte hur bra det funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:30",
+    "line": "Men det låter ju också som att det är jävligt mycket framtiden på något sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:34",
+    "line": "Ja, verkligen. För då skulle man kanske slippa hela de här tree shaking-grejerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:39",
+    "line": "Och sen hur hanterar de versioner? Det kanske du också skulle slippa. Det är spännande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:44",
+    "line": "Ja, jag tycker det är väldigt spännande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:46",
+    "line": "Jag vet att Denno, alltså Node-varianten,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:51",
+    "line": "varianten. Alltså han som skapade Node skapade en ny variant på Node som heter"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:55",
+    "line": "Denode. Men de tror jag också har samma princip att du ska kunna"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:00",
+    "line": "bara spesa ett paket genom en import och skriva typ en URL och så importerar den"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:06",
+    "line": "åt dig. Och det är ju väldigt spännande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:09",
+    "line": "Sen var det många som gav lite kritik om att okej, men då blir det kanske"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:14",
+    "line": "enklare att få in infekterad kod och sådana grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:21",
+    "line": "Det är säkert en ganska vettig approach, men det gör inte så stor skillnad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:27",
+    "line": "- Nej, det beror väl på hur mycket..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:32",
+    "line": "Är jag alltid i runtime utan kontroll, då kan det gå åt helvete."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:36",
+    "line": "- Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:37",
+    "line": "- Men jag har verkligen ingen inblick, så jag ska väl kanske..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:41",
+    "line": "Nej, för det här känns ju... Jag tror att i Snowpack så var det så att när du byggde den, då drog de ner paketen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:46",
+    "line": "Det var inte så att du körde ner paketen när du laddade sidan, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:51",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:51",
+    "line": "Utan jag tror att det var att, okej, när du kör lokalt, då streamas paketen, när du utvecklar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:56",
+    "line": "Och sen när du kör ett produktionsbygge, då drar de ner paketen och så sätter de den och så finns det i koden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:01",
+    "line": "Och det är väldigt likt Node-modules-principen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:05",
+    "line": "Ja, det är väl mer en bättre developer experience egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:09",
+    "line": "Ja, exakt. Det är mer att man slipper hela NPM-instål och man kan ändra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:13",
+    "line": "Det är väldigt skönt att \"oj, jag behöver bumpa det här paketet och ändra det i koden. Jag kör ingen NPM-instål.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:18",
+    "line": "Och så fortsätter man köra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:20",
+    "line": "Så jag tycker det är väldigt spännande faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:23",
+    "line": "Men det känns som att det händer så jävla mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:26",
+    "line": "Ja, det gör det ju. Det är kul att vi ändå pratar om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:30",
+    "line": "För jag känner ju att jag blir trött bara att vi pratar om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:35",
+    "line": "Det finns alltid så himla mycket att lära sig och så lite tid eller energi ibland."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:40",
+    "line": "Jag har ändå blivit taggad på att testa lite recoil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:44",
+    "line": "Jag har varit lite skeptisk mot det utan egentligen någon anledning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:47",
+    "line": "Jag vet inte riktigt varför."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:48",
+    "line": "Kanske för att jag har varit så nöjd med Overmind."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:52",
+    "line": "Men jag har alltid varit lite skeptisk mot det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:54",
+    "line": "Löser det här verkligen så stora problem eller blir det så mycket bättre?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:57",
+    "line": "Men det känns ändå som att din presentation här, att jag ska i alla fall labba lite med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:03",
+    "line": "Jag tror det fortfarande finns några saker. Det är någonting med memoriseringen,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:10",
+    "line": "att den inte uppdaterar, vilket är bra i att spara beräkningskraft och sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:19",
+    "line": "Men det var någonting med att det finns en problematik kring det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:22",
+    "line": "Jag kommer inte ihåg exakt vad, men jag tror att det var en issue på det,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:26",
+    "line": "att de tittade på det. Så det är klart att det finns saker som inte är 100% lätta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:31",
+    "line": "Man använder det genom att dra in state."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:35",
+    "line": "Då kan jag ha use recoil state."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:37",
+    "line": "Det betyder att jag får ett värde och en setter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:41",
+    "line": "Jag kan också göra bara use set recoil value."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:45",
+    "line": "Då får jag bara ut en setter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:46",
+    "line": "Och så kan jag ta use set recoil state."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:52",
+    "line": "Ger mig en setter bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:54",
+    "line": "Use recoil value ger mig en läsning av statet bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:59",
+    "line": "Dra in det som en hook."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:01",
+    "line": "Och sen så använder jag det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:02",
+    "line": "Och så kan jag stoppa in en dependency array på en ljuseffekt om jag vill göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:06",
+    "line": "Eller titta på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:07",
+    "line": "Och det är jättefort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:09",
+    "line": "En del jag kanske orat mig för är väl att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:13",
+    "line": "helt plötsligt så har du det här statet på många olika delar i applikationen,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:17",
+    "line": "med många komponenter, så har du ingen kontroll på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:19",
+    "line": "Och det tror jag fortfarande skulle kunna vara en"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:22",
+    "line": "en rejäl"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:24",
+    "line": "grej om man är rädd att ha väldigt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:27",
+    "line": "stökigt eller många dependencies i en applikation. Det tror jag är svårt att göra någonting åt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:33",
+    "line": "Men det är lightweight, det är snabbt, det känns otroligt intuitivt. Jag tycker det är väldigt trevligt att jobba med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:45",
+    "line": "Jag har nog inte jobbat med någon trevligare statehantering egentligen. Nu har jag inte provat Overmind."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:51",
+    "line": "- Ja, exakt. - Overmind bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:53",
+    "line": "Men ja, är jag glatt överraskad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:56",
+    "line": "De pratar också om att du kan få ut hela statet, vilket gör att du kan spara olika state i olika urlar, så att du kan skicka specifika renderingar av state."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:06",
+    "line": "- Just det. - Och sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:08",
+    "line": "Det har jag inte kollat så mycket på, men det är ganska najs också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:11",
+    "line": "Ja, för det känns ju som att, just i och med att Overmind som vi pratar om nu, det känns som att de har ganska olika approach."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:18",
+    "line": "Jag tycker att Recode tar den här idén om att man ska co-locata, det vill säga att du vill ha..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:23",
+    "line": "statet ska leva så nära som möjligt som där du använder det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:27",
+    "line": "Och jag älskar den idén egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:31",
+    "line": "Lägg din styling så nära din komponent som möjligt, lägg dina grafikquery så nära din komponent som möjligt och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:38",
+    "line": "Där används liksom... Och samma sak, jag tycker att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:41",
+    "line": "I teorin har jag också upplevt att det är nog en bra idé för state också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:44",
+    "line": "Men när jag har kört Overmind så har det varit så jävla lämpligt att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:47",
+    "line": "För den är liksom åt motsatt håll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:49",
+    "line": "Den säger att \"Okej, du har ditt state på ett enda ställe\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:51",
+    "line": "\"och det är ett enda state-träd som du kan mutera hur mycket du vill.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:56",
+    "line": "Och det är liksom så det funkar bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:59",
+    "line": "Och liksom, ju mer jag har tänkt på det, ju mer har jag tänkt så här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:02",
+    "line": "\"Ja, fan, det är ganska skönt att ha all state på samma ställe\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:06",
+    "line": "\"för då kan jag få en så enkel överblick över det.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:08",
+    "line": "Det känns som att det måste vara svårare med Recoil där det liksom är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:10",
+    "line": "Men som du säger, det är liksom utspritt så här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:12",
+    "line": "\"Okej, men har jag det här statet? Hur var det nu? Skapade jag upp det här borta? Hur såg det ut?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:16",
+    "line": "Måste man hoppa till den komponenten så kanske gjorde det om jag skulle behöva det statet på ett annat ställe sen också?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:21",
+    "line": "- Ja, men däremot, jag menar alla state-komponenter, eller alla tomra selektorer kan du ha på samma ställe."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:27",
+    "line": "- Ja, men det är sant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:29",
+    "line": "- Och de behöver ju typ arkiv till default state."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:32",
+    "line": "Och sen så kan du ha dem i samma fil och få en överblick av vilka state du har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:37",
+    "line": "Sen så typar vi upp allting så det är också väldigt tydligt vad som finns där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:41",
+    "line": "Så det tycker jag ändå ger en bra överblick."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:43",
+    "line": "Jag kan också ha så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:44",
+    "line": "ja men här borta har jag ett litet ekosystem eller ett eget träd"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:48",
+    "line": "och skapa en state field som bara det trädet använder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:52",
+    "line": "Så att det känns inte problematiskt tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:56",
+    "line": "Ja men det låter ändå vettigt faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:59",
+    "line": "Jag är väldigt sugen på att testa och se hur det funkar liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:03",
+    "line": "Jag tror att det är så. Det känns också som att API-ytan, hur mycket funktioner det finns, är väldigt liten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:13",
+    "line": "Det lockar mig enormt. Ju mindre API-ytan ett bibliotek har, desto mer lockad blir jag användare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:21",
+    "line": "Här finns det atomer, selektorer och några hooks."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:25",
+    "line": "Det måste vara väldigt enkelt att lära sig vad allting är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:30",
+    "line": "Det är bara det här du behöver komma ihåg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:32",
+    "line": "Ja, för att det tog inte så lång tid att komma in i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:37",
+    "line": "Återigen, jag har ju scratchat ytan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:40",
+    "line": "Jag vet inte hur mycket mer som finns där under."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:42",
+    "line": "Men att bygga saker i det gick ju jättejättefort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:45",
+    "line": "Jag kommer ihåg att jag såg recoil och sen så var jag nog bara så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:50",
+    "line": "Och sen så stoppade jag det åt sidan och tänkte inte på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:56",
+    "line": "Det tänkte jag nu, det får dyka upp om det dyker upp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:59",
+    "line": "Jag vill mer så här, du är mer, det här är nytt, jag måste prova."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:02",
+    "line": "Jag kanske orkar lära mig det här när det börjar bli tydligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:06",
+    "line": "Ja, exakt. Eller när du måste jobba med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:08",
+    "line": "Ja, precis. Och då hamnade jag på det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:11",
+    "line": "Och då var första frågan, då var det så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:13",
+    "line": "vet du vad recoil är?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:15",
+    "line": "Och då visste jag nog inte då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:17",
+    "line": "Och när jag började titta på det så insåg jag att jag hade sett det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:19",
+    "line": "Men det hade försvunnit i huvudet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:22",
+    "line": "Så jag är väldigt glatt överraskad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:26",
+    "line": "Ja, men det är spännande. Vi får kanske köra en uppföljning på det här sen och jobba lite mer med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:31",
+    "line": "Och se om den här smekmånaden håller i sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:35",
+    "line": "Eller om vi tappar något, eller om det dyker upp något som är en dealbreaker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:41",
+    "line": "Ja, det gör det säkert. Gör det inte alltid det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:46",
+    "line": "Jo, det brukar väl göra det. Det är väl alltid något som dyker upp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:49",
+    "line": "Eller gräser till lite gröna på andra sidan staketet, eller vad fan man säger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:52",
+    "line": "- Staket? - Nej, staket är det nog inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:55",
+    "line": "Staket känns också som att man ser igenom gräset."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:58",
+    "line": "- Där grävde han det där. - Jag trodde på andra sidan vägen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:01",
+    "line": "Ja, det där kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:02",
+    "line": "Med den oklarheten så kanske vi rundar av det här avsnittet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:06",
+    "line": "Vill man ha oss finns det på Twitter. Länkarna finns i beskrivningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:10",
+    "line": "Ge oss gärna en recension på iTunes. Då blir vi glada."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:14",
+    "line": "Och hör gärna av er till Anton om jag hade jättemycket fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:17",
+    "line": "Så berättar han det för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:19",
+    "line": "så kan vi pudla i ett vanligt avsnitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:21",
+    "line": "Japp!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:22",
+    "line": "Vi ses så länge!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:23",
+    "line": "Det gör vi. Hej då!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:24",
+    "line": "Hej då!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:25",
+    "line": "[Musik]"
+  }
+]

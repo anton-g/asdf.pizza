@@ -18,18 +18,15 @@ const sortedEpisodes = episodes
   .slice()
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
 
-const firstHalfOfEpisodes = sortedEpisodes.slice(
-  0,
-  Math.floor(sortedEpisodes.length / 2)
-)
-const secondHalfOfEpisodes = sortedEpisodes.slice(firstHalfOfEpisodes.length)
+const firstThirtyEpisodes = sortedEpisodes.slice(0, 30)
+const restEpisodes = sortedEpisodes.slice(30)
 ---
 
 <Layout title="avsnitt">
   <main class="main">
     <section class="content">
       <h1 class="title">våra avsnitt</h1>
-      <EpisodeList episodes={firstHalfOfEpisodes} class="episodes" />
+      <EpisodeList episodes={firstThirtyEpisodes} class="episodes" />
       <a href="/hitta-avsnitt" class="search-link">
         <Image src={magnifyingGlass} alt="" />
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 33 48">
@@ -52,7 +49,7 @@ const secondHalfOfEpisodes = sortedEpisodes.slice(firstHalfOfEpisodes.length)
           <span>ett särskilt avsnitt?</span>
         </div>
       </a>
-      <EpisodeList episodes={secondHalfOfEpisodes} class="episodes" />
+      <EpisodeList episodes={restEpisodes} class="episodes" />
     </section>
     <Image src={keysArrows} alt="" class="keys-arrows bg-image" />
     <Image src={keysLV} alt="" class="keys-lv bg-image" />
