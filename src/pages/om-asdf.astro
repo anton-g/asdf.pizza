@@ -2,46 +2,50 @@
 import Footer from '../components/Footer.astro'
 import Layout from '../layouts/Layout.astro'
 import logo from '../images/logo.png'
+import keysArrows from '../images/keys-arrows.png'
+import keysLV from '../images/keys-lv.png'
+import keysHome from '../images/keys-home.png'
+import keysHeart from '../images/keys-heart.png'
 import { Image } from '@astrojs/image/components'
+import GreenBlob from '../components/GreenBlob.astro'
+import PinkBlob from '../components/PinkBlob.astro'
+import BlueBlob from '../components/BlueBlob.astro'
 ---
 
-<Layout title="asdf - hitta avsnitt">
+<Layout title="om oss - asdf">
   <main class="main">
     <div class="logo">
-      <Image src={logo} alt="asdf logo" />
+      <a href="/">
+        <Image src={logo} alt="asdf logo" />
+      </a>
     </div>
     <h1>Om oss</h1>
     <section>
       <p>
-        Som en liten parentes i cyberrymden spenderar Therése & Anton en
-        halvtimme då och då med att prata ofiltrerat om kod, livet och allt
-        däremellan.
+        Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata
+        ofiltrerat om kod, livet och allt däremellan.
       </p>
     </section>
     <section>
       <h2>Therése</h2>
       <p>
-        Som en liten parentes i cyberrymden spenderar Therése & Anton en
-        halvtimme då och då med att prata ofiltrerat om kod, livet och allt
-        däremellan.
+        Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata
+        ofiltrerat om kod, livet och allt däremellan.
       </p>
       <p>
-        Som en liten parentes i cyberrymden spenderar Therése & Anton en
-        halvtimme då och då med att prata ofiltrerat om kod, livet och allt
-        däremellan.
+        Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata
+        ofiltrerat om kod, livet och allt däremellan.
       </p>
     </section>
     <section>
       <h2>Anton</h2>
       <p>
-        Som en liten parentes i cyberrymden spenderar Therése & Anton en
-        halvtimme då och då med att prata ofiltrerat om kod, livet och allt
-        däremellan.
+        Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata
+        ofiltrerat om kod, livet och allt däremellan.
       </p>
       <p>
-        Som en liten parentes i cyberrymden spenderar Therése & Anton en
-        halvtimme då och då med att prata ofiltrerat om kod, livet och allt
-        däremellan.
+        Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata
+        ofiltrerat om kod, livet och allt däremellan.
       </p>
     </section>
     <section>
@@ -49,6 +53,13 @@ import { Image } from '@astrojs/image/components'
       <p>voff</p>
     </section>
     <Footer />
+    <Image src={keysArrows} alt="" class="keys-arrows bg-image" />
+    <Image src={keysLV} alt="" class="keys-lv bg-image" />
+    <Image src={keysHome} alt="" class="keys-home bg-image" />
+    <Image src={keysHeart} alt="" class="keys-heart bg-image" />
+    <GreenBlob class="green-blob" />
+    <PinkBlob class="pink-blob" />
+    <BlueBlob class="blue-blob" />
   </main>
 </Layout>
 
@@ -72,5 +83,50 @@ import { Image } from '@astrojs/image/components'
     font-size: 3rem;
     font-weight: 800;
     margin: 0;
+  }
+
+  section {
+    margin-bottom: 24px;
+  }
+
+  .main {
+    position: relative;
+  }
+
+  .green-blob {
+    bottom: 200px;
+    right: -800px;
+    transform: rotateZ(90deg);
+  }
+  .pink-blob {
+    top: -790px;
+    left: -650px;
+  }
+  .blue-blob {
+    bottom: -100px;
+    left: -700px;
+    transform: rotateZ(-90deg);
+  }
+  .keys-heart {
+    width: 160px;
+    top: 150px;
+    left: -320px;
+  }
+  .keys-arrows {
+    top: 350px;
+    right: -160px;
+    width: 200px;
+    transform: rotateZ(-10deg);
+  }
+  .keys-lv {
+    top: 900px;
+    width: 220px;
+    left: -320px;
+    transform: rotateZ(160deg);
+  }
+  .keys-home {
+    top: 600px;
+    right: -520px;
+    width: 200px;
   }
 </style>
