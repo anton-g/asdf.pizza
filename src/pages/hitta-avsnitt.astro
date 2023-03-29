@@ -1,6 +1,12 @@
 ---
 import Footer from '../components/Footer.astro'
+import GreenBlob from '../components/GreenBlob.astro'
+import YellowBlob from '../components/YellowBlob.astro'
 import Layout from '../layouts/Layout.astro'
+import keysEnter from '../images/keys-enter.png'
+import keysHeart from '../images/keys-heart.png'
+import keysHome from '../images/keys-home.png'
+import { Image } from '@astrojs/image/components'
 ---
 
 <Layout title="hitta avsnitt - asdf">
@@ -9,7 +15,14 @@ import Layout from '../layouts/Layout.astro'
     <input id="searchInput" class="doodle" />
     <div id="episodeList"></div>
     <Footer />
+    <GreenBlob class="green-blob" />
+    <Image src={keysEnter} alt="" class="keys-enter bg-image" />
+    <Image src={keysHeart} alt="" class="keys-heart bg-image" />
+    <Image src={keysHome} alt="" class="keys-home bg-image" />
   </main>
+  <div class="yellow-blob-wrapper">
+    <YellowBlob class="yellow-blob" />
+  </div>
 </Layout>
 
 <script>
@@ -64,8 +77,6 @@ import Layout from '../layouts/Layout.astro'
   const debouncedSearch = debounce(async (value: string) => {
     const results = await search(value)
 
-    console.log(results)
-
     output.innerHTML = ''
 
     results.forEach((episodeData) => {
@@ -76,19 +87,23 @@ import Layout from '../layouts/Layout.astro'
 
       const title = episodeData._highlightResult?.title?.value || episodeData.title
       const titleLink = document.createElement('a')
+      titleLink.classList.add('episode__title')
       titleLink.href = episodeData.slug
       const titleEl = document.createElement('h3')
-      titleEl.classList.add('episode__title')
       titleEl.innerHTML = title
       titleLink.appendChild(titleEl)
       episode.appendChild(titleLink)
 
+      const contentEl = document.createElement('p')
+      contentEl.classList.add('episode__content')
       const contentSnippet = episodeData._snippetResult?.content
       if (contentSnippet && contentSnippet.matchLevel !== 'none') {
-        const contentEl = document.createElement('p')
-        contentEl.classList.add('episode__content')
         const content = episodeData._snippetResult?.content.value || episodeData.content
         contentEl.innerHTML = removeLinksInBrackets(content)
+        episode.appendChild(contentEl)
+      } else {
+        const content = episodeData.content
+        contentEl.innerHTML = removeLinksInBrackets(content).slice(0, 200) + '...'
         episode.appendChild(contentEl)
       }
 
@@ -141,6 +156,10 @@ import Layout from '../layouts/Layout.astro'
 </script>
 
 <style>
+  .main {
+    position: relative;
+  }
+
   h1 {
     font-size: 3rem;
     font-weight: 800;
@@ -148,7 +167,7 @@ import Layout from '../layouts/Layout.astro'
   }
 
   #searchInput {
-    margin-bottom: 64px;
+    margin-bottom: 36px;
   }
 
   #episodeList {
@@ -160,6 +179,17 @@ import Layout from '../layouts/Layout.astro'
   #episodeList :global(em) {
     font-weight: bold;
     font-style: normal;
+  }
+
+  #episodeList :global(.episode__title) {
+    font-weight: bold;
+    font-style: normal;
+    color: black;
+    text-decoration: none;
+  }
+
+  #episodeList :global(.episode__title h3) {
+    font-variation-settings: 'BNCE' 0, 'wght' 600;
   }
 
   #episodeList :global(.episode) {
@@ -181,5 +211,38 @@ import Layout from '../layouts/Layout.astro'
   }
   #episodeList :global(.episode__more) {
     margin-left: auto;
+  }
+
+  .yellow-blob-wrapper {
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+  .yellow-blob {
+    right: -250px;
+    top: 180px;
+  }
+
+  .green-blob {
+    top: -185px;
+    left: -800px;
+    transform: rotateZ(130deg);
+  }
+
+  .keys-heart {
+    left: -300px;
+    width: 200px;
+    top: 200px;
+  }
+  .keys-enter {
+    top: 400px;
+    width: 200px;
+  }
+  .keys-home {
+    right: -400px;
+    width: 300px;
   }
 </style>
