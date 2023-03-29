@@ -1,0 +1,317 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "What did Santa promise to gift a JS dev?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:04",
+    "line": "I think and I wait."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "Det är så dåligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Jag fattar inte ens."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:16",
+    "line": "Det är så jävla dåligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:22",
+    "line": "Det är alltid succé när jag drar skämt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:25",
+    "line": "Jag ska säga tydligare nu punchline här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:32",
+    "line": "Sink and wait."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:35",
+    "line": "En disco och en vikt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:42",
+    "line": "Nu är vi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:54",
+    "line": "Jag är den sämsta skämtmottagaren någonsin och inte alls tillräckligt mycket support här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:01",
+    "line": "Eller så är du bara för bra på att leverera skämt så när jag drar dem då flyger de inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:07",
+    "line": "Jag fattar ingenting, jag är så otroligt korkad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:13",
+    "line": "Men med det välkomna till lucka 6."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:16",
+    "line": "Jajamän."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:18",
+    "line": "Jävla trevlig start."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:20",
+    "line": "Yes, i alla fall 6 december idag och på tal om datum så handlar mitt tips idag om, kanske inte jätte nya längre, men den här JavaScript Intel för datum."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:40",
+    "line": "Just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:42",
+    "line": "Så, Intel-konstruktör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:44",
+    "line": "Med den kan man i alla fall formatera datum."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:48",
+    "line": "Så man kan stoppa in en lokal och sen säga \"ja men jag vill ha det på den här formen\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:53",
+    "line": "\"men jag vill ha den här specificeringen med år, månad, dag och tid\" och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:00",
+    "line": "Så formatera den datumen till den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:02",
+    "line": "För det har ju varit så här notoriskt jävla svårt att hantera datum och formatera dem i avskript liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:08",
+    "line": "Och månad indexera på 0 och de andra på 1 och så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:12",
+    "line": "Så att då har man kört moment först och så blir det deprekerat och sen är det date functions och bla bla bla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:17",
+    "line": "Men nu!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:18",
+    "line": "Nu går det att göra den native."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:20",
+    "line": "Och det tycker jag är himla härligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:22",
+    "line": "Den är ju väldigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:24",
+    "line": "Jag har använt den ganska många gånger för att byta ut typ date functions grejer eller moment i vissa äldre kodbaser."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:32",
+    "line": "Och den gör väldigt mycket väldigt bra tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:34",
+    "line": "Ja, sen är den ju inte, alltså den har ju inte riktigt allt där riktigt härliga, lätta så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:41",
+    "line": "Men det är också skönt att slippa dra in ett extra lib."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:45",
+    "line": "Verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:47",
+    "line": "Det är ganska nytt ändå, även om det inte är purfärskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:54",
+    "line": "Men det här känns som en extrem quality of life-grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:59",
+    "line": "Att man borde kunna göra det i JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:00",
+    "line": "Och de håller väl också på, jag säger \"de\", men de som utvecklar JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:05",
+    "line": "Working group."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:07",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:07",
+    "line": "håller väl också på med ett API för tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:11",
+    "line": "Som ska vara liksom datetime 2.0 eller något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:16",
+    "line": "Som ska göra det mycket enklare att arbeta med tid och tidszoner och allting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:19",
+    "line": "Och det är också så här, det önskar jag med julklapp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:23",
+    "line": "Ja, alltså det hade varit magiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:26",
+    "line": "Sen är frågan, är de räddare för att jorden snurrar snabbare?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:33",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:35",
+    "line": "Ja, förmodligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:37",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:39",
+    "line": "Jag vill inte ens ge mig in."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:41",
+    "line": "Tidszoner, det går liksom inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:43",
+    "line": "Jag är glad att det finns smarta människor som försöker lösa det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:45",
+    "line": "Jag tar med mig"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:49",
+    "line": "quote från"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:51",
+    "line": "Nordekees."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:53",
+    "line": "\"Friends do not let friends"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:55",
+    "line": "build calendars.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:57",
+    "line": "Det är väldigt, väldigt sant. Det är ett perfekt sätt att stänga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:59",
+    "line": "Lucka nummer 6. Vi hörs imorgon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:01",
+    "line": "Hej då!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:03",
+    "line": "Hej då!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:06",
+    "line": "*outro*"
+  }
+]

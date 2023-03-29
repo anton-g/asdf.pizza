@@ -1,0 +1,1912 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Varför sysslar ingen med javascript på slottet?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "- Jag vet inte. - Det har ingen riktig klass."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:11",
+    "line": "- Fan vad tråkigt. Det är ändå en av de jag skrattat mest åt på tittarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:17",
+    "line": "- Vadå tråkig? Den är ju sann. - Ja, det var ändå ett skämt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:28",
+    "line": "Det håller fortfarande vi ändå. Det är ändå en 25 och skämmet in."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:32",
+    "line": "Så jag tycker att vi ska vara glad för det vi får."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:34",
+    "line": "Eller hur, det är också sommar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:37",
+    "line": "Ja, exakt. Så nu kan kvaliteten vara lite lägre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:40",
+    "line": "Jag kommer hitta ursäkter, hur många ursäkter som helst för att kvaliteten sjunker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:48",
+    "line": "Det löser sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:50",
+    "line": "Ja, det löser sig verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:52",
+    "line": "Jag i går, var det i går? Ja kanske i förrgår, så hade jag gjort en ändring på jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:59",
+    "line": "Det har jag lärt mig inte att prata om. Eller en ändring på jobbet. Jag hade gjort en ändring i kodbasen som vi satt i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:04",
+    "line": "Som vi sen skulle testa. Och så var det liksom i en delad app typ, som var mellan lite olika teams."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:10",
+    "line": "Och så sen gjorde jag min kodändring, pushade den, satt i Logitech i acceptantestmiljön."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:17",
+    "line": "och skulle vi testa den där så hamnade vi inte där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:19",
+    "line": "Och sen så proddsatt ett annat in i den här appen och helt plötsligt så dog hela beställningsflödet på den appen jag sitter med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:26",
+    "line": "Och så fick vi en instant \"Vad fan är det här?\" och vi sa \"Vi har inte proddsatt något så det är inte vårt fel\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:33",
+    "line": "Definitionsfrågan var vårt fel, men det fick mig att tänka på lite grann så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:39",
+    "line": "Det är liksom lite svårt, eller så jävla viktigt med processer ibland."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:46",
+    "line": "Alltså typ, i det här fallet, hur ska den här appen proddsättas?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:50",
+    "line": "En grej som jag tänkte på är att det kanske är viktigt att vi inte har saker i acceptantest som inte funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:58",
+    "line": "Nu brukar det här funka bra för att alla brukar bara kolla med varandra och säga \"ja men nu den här grejen som ni har gjort, kan vi dra ut den till produktion?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:07",
+    "line": "Men nu tror jag att det andra teamet som Prod satte, de hade också en hotfix som de behövde få ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:14",
+    "line": "Så de körde ut den i aktien och testade och körde ut den för att fixa sin grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:17",
+    "line": "Och som de pajade vår grej istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:20",
+    "line": "Men jag tycker det har fått mig att tänka på hur mycket jag uppskattat när det har varit så supertydliga processer i andra team."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:28",
+    "line": "Samtidigt som man ibland lite..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:30",
+    "line": "...liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:31",
+    "line": "...går och lite..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:33",
+    "line": "...vad heter det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:34",
+    "line": "bara tänker att processer är alltid onödiga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:37",
+    "line": "Men jag vet inte, vad tänker du om processer?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:41",
+    "line": "Det är dit jag vill komma tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:43",
+    "line": "- Ja, jag fastnade först lite på att vi inte sa"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:48",
+    "line": "\"Hej och välkomna till ASTF\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:50",
+    "line": "- Just det, jag var så jävla exalterad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:52",
+    "line": "- Det blev lite sent efter din Instagram,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:57",
+    "line": "men jag tycker det var en bra inledning,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:59",
+    "line": "en så kallad \"icebreaker\". Följ mig, Storvi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:02",
+    "line": "Absolut, men vi kan säga nu. Välkomna till HSDF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:05",
+    "line": "Kul att ni är här. Vi tänkte prata om det vi sa nyss."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:08",
+    "line": "- Ja, processer. Vad jag tycker om processer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:13",
+    "line": "Alltså, jag är ju lite kluen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:20",
+    "line": "För jag tycker ju om processer som är tydliga och som är nödvändiga och som ger någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:26",
+    "line": "Men jag tycker inte om processer när det blir snarare att man lägger alldeles för mycket tid på att upprätthålla processen bara för processens skull."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:38",
+    "line": "Och där ibland kan det vara svårt att se vart gränsen går kan jag tycka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:47",
+    "line": "Däremot just processer för att produktionssätta saker, där har jag inte så mycket emot att det är lite processigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:54",
+    "line": "Men jag är också ofta väldigt rädd för att skicka ut saker i prod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:59",
+    "line": "- Ja, nämen exakt. Det är kanske en viktig distinktion att höra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:04",
+    "line": "Jag tänker också så här, när det kommer till prod-sättningar och sånt så blir det också så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:09",
+    "line": "ja, jag vill ju kunna prod-sätta väldigt snabbt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:12",
+    "line": "Men jag gillar ju kanske den här lilla tryggheten som kommer med processer,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:14",
+    "line": "där man har tydliga riktlinjer på vad som ska göras."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:18",
+    "line": "Sen tror jag att det kanske också är viktigt att tänka på att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:21",
+    "line": "kan man automatisera saker, så borde man nog göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:25",
+    "line": "Det är en process, till exempel att man ska köra alla tester innan man går ut i produktion."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:30",
+    "line": "Nu för tiden är det oftast automatiserat, men förut kanske man gjorde det manuellt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:34",
+    "line": "Och att arbeta mot att automatisera så mycket som möjligt av processerna man har,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:40",
+    "line": "för att då kan man inte missa dem om de är automatiserade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:43",
+    "line": "Och om man ska missa dem så måste man göra det väldigt medvetet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:46",
+    "line": "Men också att det förmodligen tar mindre tid att göra det automatiserat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:51",
+    "line": "- Ja, så är det absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:55",
+    "line": "Jag fastnar lite på att fundera nu på att det var väldigt länge sedan jag satt i projekt där jag tryckte ut saker live."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:04",
+    "line": "Så jag kanske bara glömt bort allting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:09",
+    "line": "Du sitter bara och kollar lokalt, pushar ingen kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:13",
+    "line": "Jag pushar kod till master och så, men det har suttit ganska mycket green field faktiskt, eller vad man ska kalla det,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:21",
+    "line": "eller inte live ut mot användaren."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:25",
+    "line": "Jag är på faktiskt ganska länge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:28",
+    "line": "Men ja, automatiserade processer, det ger väldigt mycket om de är bra, tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:38",
+    "line": "Som du säger, man måste avsiktligt gå ifrån dem om man vill göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:46",
+    "line": "Det krävs jobb att göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:47",
+    "line": "Till exempel om man har allt automatiserat och det är ett test som failar men du ändå måste få ut en hotfix."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:53",
+    "line": "Då vet du att du aktivt måste disabla den och göra det och trycka ut det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:57",
+    "line": "Det är mer kontrollerat på något sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:59",
+    "line": "Sen såklart ska du backa tillbaka efter att du har fått ut det du verkligen behöver ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:04",
+    "line": "Men jag menar att man gör det med mening."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:08",
+    "line": "Ja, exakt. Att man tar de här avstegen från processerna måste vara"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:13",
+    "line": "explicita och väldigt genomtänkta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:20",
+    "line": "Med avsikt var kanske det jag sköt efter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:23",
+    "line": "Ja, exakt. Jag håller verkligen med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:28",
+    "line": "Jag har så jävla svårt att hitta den här balansen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:31",
+    "line": "Jag tror att det är därför man hamnar ofta i att man \"processer suger\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:35",
+    "line": "Man tänker kanske mer på de processerna som är dåliga och"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:39",
+    "line": "fokuserar på att nu har vi väldigt mycket processer här för att göra den här grejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:44",
+    "line": "Man har SAFE som är ett framverk för att skala agil utveckling eller Scrum."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:52",
+    "line": "Och då har man planeringar någon gång, lite då och då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:57",
+    "line": "Och under de planeringarna så gör vi så att vi typ så här..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:59",
+    "line": "Varje gång man ska planera en Epic, som det heter i vårt fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:03",
+    "line": "Så ska man markera att \"nu har vi börjat planera den här Epicen\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:08",
+    "line": "För det kan vara flera team inblandade i en Epic."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:09",
+    "line": "Så kan man säga \"ja men mitt team har börjat planera Epicen\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:11",
+    "line": "Och sen när man har planerat klart så säger man \"ja mitt team har planerat klart Epicen\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:14",
+    "line": "Och det här gör man liksom, det kan vara att man sätter första för en halvtimme."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:17",
+    "line": "Och efter en halvtimme så byter man till den andra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:20",
+    "line": "Och det känns bara som overhead för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:23",
+    "line": "Men samtidigt kan jag tänka mig att för någon annan som vill se hur det går så kanske det finns en poäng med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:28",
+    "line": "Så att det kan vara så här dolda. Jag behöver ju inte vara slutanvändaren av processen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:34",
+    "line": "Alltså den som faktiskt får någon nytta av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:36",
+    "line": "För att se varför det behövs."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:41",
+    "line": "Utan det kanske är att jag är bara en del av det. Jag gör som det sägs."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:44",
+    "line": "Utan att se varför jag faktiskt gör det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:49",
+    "line": "Och det kanske är ett problem i sig, det kan man säkert jobba på att ta reda på och ha den transparensen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:54",
+    "line": "För då tror jag också att man faktiskt kanske kan uppskatta processerna lite mer om man vet vad värdet är med dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:01",
+    "line": "- Ja, jag har lite svårt för det här ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:08",
+    "line": "Nu har jag väl aldrig planerat en EPIC som ett annat team kan sitta med på det sättet,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:13",
+    "line": "eller snarare om man har beroende mot team eller mellan team."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:17",
+    "line": "Men just det här med att i planeringsstadien när man pratar om det,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:21",
+    "line": "och man gör mycket så här, det är burn downs och vilka kommer jobba vilka timmar,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:28",
+    "line": "och vad har vi för tidsestimering eller poäng eller t-shirt storlekar eller vad den kan vara på de här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:35",
+    "line": "De har jag lite svårt för, för jag ser poängen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:37",
+    "line": "Jag förstår att det är någon som använder det här för att planera någonting och vi har roadmaps"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:42",
+    "line": "och vi har såklart ett företag som vill planera vägen framåt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:47",
+    "line": "Men det fungerar ju aldrig, tänker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:52",
+    "line": "För att det kommer alltid oförutsedda saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:57",
+    "line": "Eller så är det plötsligt så gör man något annat som kommer in från sidan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:00",
+    "line": "Och så plockar man timmar därifrån och därifrån."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:02",
+    "line": "Och det är mer att jag tänker att för att det här verkligen ska fungera"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:07",
+    "line": "så måste alla verkligen lägga tid på att värna om processen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:11",
+    "line": "Och det är ju verkligen få som jobbar så, speciellt utvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:15",
+    "line": "för att det är så lätt att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:18",
+    "line": "Jag menar, om jag tar två timmar och tänker på en annan sak,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:22",
+    "line": "det kommer inte jag registrera, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:24",
+    "line": "Det kommer jag ju knappt registrera att jag har ändrat själv,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:27",
+    "line": "att jag har bytt fokus, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:29",
+    "line": "Så det är svårt att dokumentera det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:32",
+    "line": "- Ja, jag tror att det är många..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:34",
+    "line": "Det är liksom en utopi att tänka att man kan liksom planera allting"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:37",
+    "line": "eller att man ens kan mäta allting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:40",
+    "line": "Alltså att du ens kan veta liksom exakt vilka timmar du har lagt på vilka saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:44",
+    "line": "Om man inte tänker på ett team."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:46",
+    "line": "Utan jag tror mer att det handlar om"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:48",
+    "line": "typ så här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:50",
+    "line": "\"Ja men okej, vad ungefär"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:52",
+    "line": "hur mycket tid har vi?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:54",
+    "line": "Och sen försöker vi plocka in så att det inte är mer än det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:56",
+    "line": "Det är väl min generella uppfattning"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:00",
+    "line": "när det kommer till planeringen just."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:02",
+    "line": "Men som du säger"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:04",
+    "line": "de här processerna som finns runt planeringen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:06",
+    "line": "är det ju ganska ofta"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:08",
+    "line": "att man tänker \"ja, vi behöver de här för att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:10",
+    "line": "någon"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:12",
+    "line": "i hierarkin behöver veta det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:14",
+    "line": "Och det gör ju också att det blir"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:17",
+    "line": "den här dissonansen mellan att man gör"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:19",
+    "line": "massa saker fast man själv inte använder det"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:22",
+    "line": "eller får någon nytta av det och då blir det"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:25",
+    "line": "att man bara \"Äh, det spelar inte så stor roll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:27",
+    "line": "Det gör inget.\" Och då blir det liksom att man"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:29",
+    "line": "som du säger, man blir liksom inte investerad"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:31",
+    "line": "i den här processen utan då tänker man \"Vi löser det"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:33",
+    "line": "så enkelt och snabbt som möjligt bara.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:35",
+    "line": "- Det var så kul för jag satt verkligen och funderade"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:40",
+    "line": "Jag har verkligen funderat på en sak häromdagen. Där jag bor, där håller de på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:46",
+    "line": "De har byggt om en väg. Det har blivit en temporär väg in i vårt område, för de håller på med ett vägbygge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:54",
+    "line": "Och det skulle varit klart för ett tag sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:57",
+    "line": "Och så fick vi nyligen veta att det har dragit ut på tiden på grund av oförutsedda saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:02",
+    "line": "Alla är så här, varför kan inget någonsin bli klart i tid? Och jag är mer så här, ja det är ju tur att de inte utvecklar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:08",
+    "line": "för då hade det liksom, det som skulle ta ut en månad skulle kunna ta ut ett år."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:13",
+    "line": "Så där fick jag verkligen känslan för att vi har det verkligen på ett sätt bra,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:19",
+    "line": "för att det dyker upp oförutsedda saker hela, hela, hela tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:23",
+    "line": "Och det måste du ju, herregud, göra i byggen också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:26",
+    "line": "Du vet ju inte vad du har att jobba med, förrän du jobbar med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:29",
+    "line": "Så det är bara spännande för att allting egentligen är på samma sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:36",
+    "line": "Ja, exakt. Jag läste en artikel för ett tag sen som behandlades som \"Är utvecklare engineers?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:47",
+    "line": "Många kallar det sig för \"software engineer\" och många säger påståendevis \"De som knackar kod är inte engineers, utan vi är någonting annat.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:58",
+    "line": "Och då var det en tredelad essä om det han hade intervjuat riktiga ingenjörer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:07",
+    "line": "Alltså typ någon bioingenjör och någon som byggde broar och lite sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:13",
+    "line": "Och då pratar han om det, att många påstår i den argumentationen att när man bygger en bro då blir man inte försenad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:22",
+    "line": "Då bygger man bron och sen är det klart. Du planerar den och sen bygger du den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:26",
+    "line": "Och sen är det väldigt annorlunda mot mjukvaruutveckling."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:28",
+    "line": "Men det är inte heller sant. Bygger man en bro, det kan bli försenat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:32",
+    "line": "Det kan hända en massa saker. Man kan behöva anpassa sig under tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:35",
+    "line": "Man kan stötta på för att sätta grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:38",
+    "line": "Jag kan länka dem i beskrivningen, för jag tyckte det var superintressant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:42",
+    "line": "Det är lite tangiellt till den här diskussionen kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:47",
+    "line": "Men jag tyckte ändå det var intressant att höra om den diskussionen, just om den titeln."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:54",
+    "line": "- Ja, jag har funderat på det mycket själv. Är jag en engineer eller inte?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:59",
+    "line": "Jag känner mig inte som en engineer. Men ja, som sagt, det finns en annan tid för det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:04",
+    "line": "- Ja, det känns ju som att just titlar och sånt, jag är verkligen bara så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:10",
+    "line": "Jag är typ webbutvecklare. Det är den titeln jag brukar sätta på mig själv om folk frågar vad jag gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:16",
+    "line": "- Ja, samma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:20",
+    "line": "- Jag vet inte. Jag tycker det är intressant, men om vi återgår till processer,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:28",
+    "line": "alltså processer som ämne låter så jävla trist. Det kommer avsnittet absolut inte heta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:37",
+    "line": "Men jag tycker ändå liksom så här, för det känns ändå som att vi har gått lite grann mot att det finns det här drivet för att automatisera saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:48",
+    "line": "Det finns driv för att man ska göra mycket av sig själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:51",
+    "line": "Det ska finnas tydliga saker, vi kör alla tester när vi gör det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:54",
+    "line": "Vi ska automatisera alla integrationstester."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:58",
+    "line": "Vi ska kanske köra lintning och mycket sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:02",
+    "line": "Eller att man kopplar ihop sina..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:06",
+    "line": "Om man har nån ticket i nåt program som kopplas ihop med en pullrequest som ligger någonstans"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:09",
+    "line": "och så ska det läggas ut på olika ställen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:11",
+    "line": "Eller att det kommer incidenter och då ska vi kunna posta dem på nåt kommunikationsverktyg"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:17",
+    "line": "för att snabbt kunna plocka upp dem och sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:19",
+    "line": "Och jag tycker det är kul för att allt det här handlar egentligen om att skapa processer för saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:26",
+    "line": "Samtidigt som jag verkligen har bilden av att utvecklare är så här \"Nej, processer behövs inte\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:31",
+    "line": "Jag tycker det är lite motsägelsefullt att man både jobbar för det samtidigt som man säger att det inte ska finnas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:43",
+    "line": "Men det känns lite som att processer är okej och kanske inte ens benämnt som processer så länge de är tekniska eller som du säger automatiserade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:55",
+    "line": "För jag tycker att det alltid finns ett otroligt motstånd till processer som i mer kvalitativa ramverk, nu heter det inte kvalitativa för det är forskning kanske, men mer liksom"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:12",
+    "line": "kommunikationsbaserade processer, liksom mänskliga processer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:17",
+    "line": "Där tycker jag alltid finns mera motstånd och kallas processer och extra tjafs runt om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:24",
+    "line": "Och jag tycker ofta att jag kan känna eller höra kommentaren"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:28",
+    "line": "kan vi inte bara automatisera det här?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:31",
+    "line": "För att om vi automatiserar det här är det som att det egentligen inte är en process."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:35",
+    "line": "Det kanske är svårt att förstå vad jag är ute efter, men..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:38",
+    "line": "- Nej då, ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:39",
+    "line": "-Va? -Nej, jag hänger med. Jag förstår exakt vad du menar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:45",
+    "line": "-Ja, men för det känns som det. Då känns det helt plötsligt som att det är okej att ha dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:51",
+    "line": "Och som du säger, det är ju egentligen processer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:54",
+    "line": "Men helt plötsligt så är det verkligen någonting som är kontrollerbart och som är mer en teknisk lösning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:00",
+    "line": "Så då kan vi göra det. Men det är också intressant för att hur bra alla de här grejerna än är,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:06",
+    "line": "är hur bra processer vi än får till, automatiska processer vi än får till så slinker ju saker igenom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:12",
+    "line": "För det faktum är att vi kodar ju för människor, eller för mänskliga användare oftast."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:18",
+    "line": "Och jag menar, allt automatiserat, det hittar ju inte alla möjliga saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:25",
+    "line": "Här skulle man ju också kunna gå in på sådana saker som BIA som vi varit inne på tidigare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:28",
+    "line": "Att de som utvecklar en produkt tänker inte alls om kanske faktiskt massan av användare"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:35",
+    "line": "Eller en mindre skara användare som använder någonting på ett helt annat sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:39",
+    "line": "Och vipps har saker gått sönder ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:42",
+    "line": "Fast du trodde att du hade täckt alla möjliga hål med dina processer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:47",
+    "line": "- Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:49",
+    "line": "Jag tycker det knyter ju an lite grann till det vi pratade om,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:52",
+    "line": "med utvecklare som hatar möten för några avsnitt sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:58",
+    "line": "För det är lite samma sak, utvecklare, vi hatar möten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:00",
+    "line": "Det är sådär analoga grejer, nej vi vill inte hitta möten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:03",
+    "line": "Jag utvecklare hatar processer, men i själva verket är det som du säger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:08",
+    "line": "Det finns ganska mycket processer som även inte går att automatisera, som är väldigt vettiga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:15",
+    "line": "Alltså som är väldigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:17",
+    "line": "Det handlar inte bara om hur man utvecklar kod, det kan ju vara mycket i organisationen som liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:23",
+    "line": "Jag kan tänka mig att det finns säkert någon utvecklare som bara har..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:28",
+    "line": "Vi försöker automatisera löneförhandlingen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:32",
+    "line": "Vi säger \"stoppa in dina variabler här i den här programsnurran\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:38",
+    "line": "och sen så spottar den ut din nya lön."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:40",
+    "line": "Bara för att det ska vara så automatiserat och enkelt som möjligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:44",
+    "line": "Det ska vara en streamlined process."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:47",
+    "line": "Finns det garanterat någon som har sagt om exakt det här någon gång?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:50",
+    "line": "Och jag tänker att det är ju liksom helt fel väg att gå tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:56",
+    "line": "Det är precis som du säger, vi jobbar med människor och det är så mycket grejer som inte går att ta hänsyn till i en sån här process."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:04",
+    "line": "Om man ska försöka automatisera den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:06",
+    "line": "Utan man måste kunna prata med varandra och kunna sitta och ta hänsyn till andra saker som inte är så konkreta, utan kanske är lite mer abstrakta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:15",
+    "line": "Så man behöver tänka kring och fundera på innan man faktiskt kommer fram till något svar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:23",
+    "line": "Ja, och sen är det ju liksom, jag tror man kommer ju alltid behöva täcka upp de automatiserade processerna som finns också med andra typer av ramar för, alltså det finns ju processer som inte har, kan automatiseras utan snarare måste ha ett ramverk för hur vi hanterar dem, till exempel incidenter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:44",
+    "line": "Så jag menar, du har alla automatiserade processer, du fick ändå ut en bugg i produktion och den buggen sänkte saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:51",
+    "line": "Och då måste vi ju komma in i en process som man hoppas finns, alltså att det finns en typ incidentkedja om vilka som blir kontaktade, vilka som blir larmade, om någon som faktiskt kommer ta tag i den här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:02",
+    "line": "Och sen så finns det kanske efter lösningen också förhoppningsvis någon typ av postmortem där man lär sig saker så att man kan förbättra sina automatiserade processer då kanske, eller vanliga processer liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:12",
+    "line": "Så att det är ju, och den går ju inte att automatisera. Det är omöjligt. Så även de som, jag menar, en löneprocess går ju att automatisera om man vill vara sådant då, kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:28",
+    "line": "Inte för att jag tror att det skulle vara superhärligt, men jag menar, en incident har jag jättesvårt att se hur den någonsin skulle gå att automatisera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:37",
+    "line": "Det är ju helt omöjligt. Det finns ju inget som skulle bara kunna lösa det, tänker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:43",
+    "line": "Nej, exakt. Det känns väldigt svårt. Sen kommer väl folk komma med argumentet att \"Ja, men med maskinilärning, snart, då jävlar\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:53",
+    "line": "Då kan AI ta över en massa grejer och faktiskt förstå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:57",
+    "line": "Men då är vi verkligen tillbaka på det här med bias och hur man liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:01",
+    "line": "Att det är ju än så länge i stort sett omöjligt att göra en modell som inte liksom lutar åt något håll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:08",
+    "line": "Eller som liksom gör fel eller gör saker som inte borde hända liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:12",
+    "line": "Och det är så jävla mycket som är liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:16",
+    "line": "Så mycket som kan hända som man inte kan före sig själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:19",
+    "line": "Alltså det är det som är ett så jävla stort problem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:21",
+    "line": "Men då såg jag på Twitter kanske att det var något företag som..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:28",
+    "line": "...undrade om det var någon prenumerationstjänst för hundmat eller något sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:33",
+    "line": "Och då hade de skickat ut något reklamutskick med en bild på..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:40",
+    "line": "...för att man laddade upp en bild på sin hund och sitt hundnamn på sin hund."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:44",
+    "line": "Och så fick man anpassa den här tjänsten. Det hade varit något smart grej liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:47",
+    "line": "Men då hade de skickat ut ett reklamutskick till alla ägare där de skickade en bild på deras hund"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:52",
+    "line": "och namnet och adressen och skrev \"Gud vad kul att din hund är här hos oss, titta här vad fin han är\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:59",
+    "line": "Men då var det någon som argumenterade \"Ja men i mitt område har det varit ett jättestort problem med hundar som blir kidnappade\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:07",
+    "line": "Eller stulna kanske man säger"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:09",
+    "line": "Det här öppnar för att folk ska se att här finns det en hund som ser ut så här, bor på den här adressen och heter det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:18",
+    "line": "Om jag vill kunna kalla på den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:20",
+    "line": "Det här gjorde mig skärrad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:23",
+    "line": "Tänk om någon nu har sett det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:27",
+    "line": "Det är en massa hundar i mitt område som har försvunnit redan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:29",
+    "line": "Jag hade inte haft en tanke på det. Jag hade jobbat på det här bolaget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:34",
+    "line": "Men det är så lätt och om man själv inte kan tänka på det, då finns det inte en chans att en automatiserad process skulle fånga upp det heller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:41",
+    "line": "- Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:44",
+    "line": "Jag fastnar på att det bara är rika människor som får sina hundar kidnappade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:50",
+    "line": "- Ja, så är det ju garanterat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:53",
+    "line": "Jag vet inte om det här var att de blev kidnappade och utprestade, eller om det här var mer att de bara stal hundarna och sen kom de aldrig tillbaka än."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:02",
+    "line": "Fan vad sjukt, förlåt. Jag bara fastnade i den, mitt hundhjärta började blöda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:10",
+    "line": "Absolut, jag hade heller aldrig kunnat se det eller tänka på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:14",
+    "line": "Ibland så får man ju verkligen sådana aha-upplevelser, när man kanske till och med bara pratat med användare,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:19",
+    "line": "eller gjort användartester, att \"jaha, det där hade jag aldrig i min vildaste fantasi kunnat komma fram till själv\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:28",
+    "line": "Nej, men precis. Jag tror att det är, återkommit till, det måste finnas någon typ av balans mellan hur mycket ska automatiseras, hur mycket ska inte automatiseras, och vilket värde finns det i de processerna som är kvar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:44",
+    "line": "Man måste ändå hitta ett värde, även om värdet kanske inte ligger hos en själv specifikt, utan det kanske ligger hos någon annan som behöver att man själv gör någonting i en process för att det ska spotta ut sig något i slutändan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:56",
+    "line": "till slut ändå. Men jag vet inte, jag tycker det är en svår balans också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:03",
+    "line": "- Ja, så länge någon tjänar processerna är jag okej med det. Men just den här med att,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:08",
+    "line": "för jag har väl suttit i lite så här projekt där jag känner att processen blev det viktigaste"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:18",
+    "line": "av allt. Och då pratar jag inte om produktionssättningsprocessen, utan jag pratade"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:23",
+    "line": "utan jag pratade snarare om agila processer, om hur det skulle jobbas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:28",
+    "line": "Och då var det så här att det var tight deadline, vi måste komma framåt och vi måste pusha kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:35",
+    "line": "Det var hetsigt. Ändå så tog vi flera timmar och flera dagar på att istället sätta oss ner för att försöka komma fram till hur vi som grupp skulle arbeta via utstakade processer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:50",
+    "line": "Det var ingen som höll dem, det var ingen som samarbetade på det sättet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:55",
+    "line": "Hur många regler vi ens satte upp för att det inte fanns tid och ork att göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:00",
+    "line": "Men ändå så skulle vi återkommande komma tillbaka till och utvärdera vad det är som inte funkar"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:06",
+    "line": "och komma fram till nya processer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:07",
+    "line": "Det tog mycket, mycket mer energi än vad man tjänade in på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:15",
+    "line": "Och då är det kanske jag som var cynisk, men jag tänker att ibland så lämpar det sig inte med processer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:23",
+    "line": "Finns det inte tid, då tycker jag kanske det är bättre att bara köra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:27",
+    "line": "Och dyker det upp konflikter på vägen så får man ta dem då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:30",
+    "line": "Men det är jättesvårt att förutse vad som ska hända i ett projekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:36",
+    "line": "Och innan vi ens hade landat i någon typ av process, då skulle vi redan ändra på den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:42",
+    "line": "För att den inte funkade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:44",
+    "line": "Jag tror verkligen att det är lätt att, särskilt när man pratar Agilt, för att alla har så jävla många idéer om vad Agilt är och hur Agilt ska funka och allting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:52",
+    "line": "Jag tror att det är så jävla lätt att man landar i bara så här \"Ja men nu har vi den här processen, men hur kan vi förbättra den?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:57",
+    "line": "Och så går man till nästa steg och så bara \"Ja men nu har vi den här processen, hur kan vi förbättra den?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:01",
+    "line": "Och så bara \"Ja men nu funkar inte det här riktigt, hur förbättrar vi det här?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:04",
+    "line": "Och så sitter man bara och liksom jobbar på att bygga ut processen oftast."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:09",
+    "line": "Du lägger på fler steg eller grejer man ska göra eller tänka på,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:13",
+    "line": "istället för att skala ner och ta bort saker ur processen som inte behövs egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:18",
+    "line": "- Just det här med att lägga till steg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:24",
+    "line": "Man har redan en tröskel för att genomföra någonting, så bygger vi den lite högre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:29",
+    "line": "Det kommer inte gå lättare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:32",
+    "line": "Man borde bygga den i ett annat håll, snarare i sidled, snarare än på höjden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:37",
+    "line": "Nej, men exakt. Jag tycker att det är jävligt svårt och ändå ganska intressant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:48",
+    "line": "Det har ju växt upp en hel del kultur, eller vad ska man säga, nästan en bransch, kring att sätta strukturer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:57",
+    "line": "I alla fall när vi pratar agilt. Bara tanken på hur många agila coacher det finns där vissa absolut gör ett superbra jobb."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:04",
+    "line": "Men det finns ju också väldigt många som i min erfarenhet också gör det du säger, att man bara byter process gång på gång på gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:15",
+    "line": "- Ja. Jag kan väl ändå förstå hur man kommer dit. \"Aha okej, det här funkar inte. Vad kan vi få funka istället?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:27",
+    "line": "- Ibland tänker jag att det är så otacksamt också. Har man en gäng otacksamma, lite trötta utvecklare som bara inte vill?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:34",
+    "line": "Så vilken jävla uppbörspacker jag måste vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:38",
+    "line": "- Gud ja, det vet man ju att man har jobbat med folk som är trötta är ordet man kan beskriva dem på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:46",
+    "line": "De har varit på samma ställe väldigt länge och är nöjda med där de är, vill bara göra sin grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:51",
+    "line": "Det räcker med att det är en person eller två personer i ett team som är trötta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:57",
+    "line": "Och sen så blir det liksom att man bara, nej, de påverkar allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:01",
+    "line": "Och så istället blir det så att, nej, vi vill inte göra förändringar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:03",
+    "line": "Vi vill inte göra det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:04",
+    "line": "Och man bara, ja, nej, okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:05",
+    "line": "Men vi vill göra andra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:06",
+    "line": "Vi vill gärna förändra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:07",
+    "line": "Men är inte ni med så blir det svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:09",
+    "line": "- Ja, jag tänker ibland också på vilken annan typ av energinivå de kan komma in med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:18",
+    "line": "Ja, verkligen. Jag hoppas att jag får någon typ av respons, men det blir noll respons för att alla är trötta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:24",
+    "line": "Allt är fruktansvärt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:27",
+    "line": "Nej, men med det sagt så tänker jag väl ändå att jag känner mig ändå tacksam för att vi är snarare här borta än utan process."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:37",
+    "line": "Nu har jag aldrig jobbat i vattenfall, men jag tänker att det inte är så himla kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:43",
+    "line": "Man har väl jobbat i saker som man misstag kanske blir vattenfalls för att det blir beställande och beställare och organisation vill ha någonting och vill ha allt på en gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:54",
+    "line": "Men just den här att vi ändå jobbar med förutsättningarna att saker är agila och det måste finnas kommunikation och saker måste kunna förändras."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:04",
+    "line": "måste du kunna göra misstag framförallt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:06",
+    "line": "För det är ju typ, alltså det mesta jag har lärt mig inom mitt yrke,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:09",
+    "line": "det är ju för att jag har gjort fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:11",
+    "line": "- Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:14",
+    "line": "Och alltså så här, för att liksom cirkla tillbaka till det jag pratade om i början,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:19",
+    "line": "med den här produktionssättningen som pajade saker,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:22",
+    "line": "så är det ju också att vi har ju lärt oss något av den,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:24",
+    "line": "och liksom tagit med oss saker från den, och liksom,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:27",
+    "line": "nu vet vi att okej, för att förhindra att det här händer i framtiden,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:30",
+    "line": "så måste vi jobba på det här sättet, till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:33",
+    "line": "Så det är ändå viktigt att det här funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:36",
+    "line": "Det var väl som HBO som skickade ut nåt sånt här test-mail till typ alla sina kunder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:42",
+    "line": "Det var HBO Max, tror jag, som skickade ut ett sånt här test-mail."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:46",
+    "line": "\"Integration test\" stod det bara i mailet, som skickades ut live till alla sina kunder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:50",
+    "line": "Och de tweetade sen till något stil med \"ja, sorry, det var vår praktikant som gjorde det här.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:59",
+    "line": "\"Oroa dig inte, han får allt stöd han behöver.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:02",
+    "line": "\"Shit happens.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:04",
+    "line": "Och det är ett jävligt bra sätt att göra det på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:06",
+    "line": "Man ska inte vara rädd att göra fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:07",
+    "line": "Och även om man är en praktikant som råkar skicka ett mail till hundratusentals,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:10",
+    "line": "miljonersmoder människor, så är det sånt som händer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:15",
+    "line": "- Ja, praktikant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:21",
+    "line": "Det var så himla härligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:23",
+    "line": "Vi hade på ett ställe så här..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:25",
+    "line": "\"Vi har fått ändra alla säkerhetsnycklar, hörrni.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:28",
+    "line": "För att vi hade en säkerhetsfläcka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:30",
+    "line": "Det var praktikanterna som pushade tokens till GitHub."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:34",
+    "line": "Men det är ju bra, nu får vi lära oss hur man byter alla dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:37",
+    "line": "För det var länge sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:39",
+    "line": "- Det är ju så man ska hantera det ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:45",
+    "line": "- Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:48",
+    "line": "För att på riktigt, det är ju så man lär sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:52",
+    "line": "- Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:54",
+    "line": "Nej, jag svälar, typ varenda utvecklare som finns har väl gjort någonting,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:58",
+    "line": "som har pajat någonting i produktion någon gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:00",
+    "line": "- Ja, herregud. Då kan man ju titta, ibland så startar ju folk de här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:05",
+    "line": "\"What mistakes have you done?\"-tweetstrådarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:08",
+    "line": "- Mm, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:10",
+    "line": "Ja, nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:12",
+    "line": "Det är väl sånt som händer, och vi har väl ingen tid kvar i det här avsnittet heller?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:21",
+    "line": "Nej, det blev spretigt som vanligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:25",
+    "line": "Spretigt som vanligt, men det är där man får vänja sig med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:29",
+    "line": "Det är det vi är här för."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:31",
+    "line": "Vill man någonstans så finns vi som vanligt på Twitter. Länkar finns i beskrivningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:36",
+    "line": "Och med det så säger vi väl tack och hej för den här gången."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:42",
+    "line": "Hej då!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:44",
+    "line": "[Musik spelas]"
+  }
+]

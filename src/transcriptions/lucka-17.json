@@ -1,0 +1,372 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "\"Vad är namnet av Santas mest impolita rengör?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:07",
+    "line": "Inte den läkaste."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:09",
+    "line": "\"Rudolf.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:11",
+    "line": "Ja, jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:16",
+    "line": "Den där kände jag att jag borde ha kunnat komma på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:21",
+    "line": "Nu är vi tillbaka här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:24",
+    "line": "Den där kände jag, fan, den där borde jag ha tagit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:27",
+    "line": "Jag har kränkt i två sekunder till kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:29",
+    "line": "Välkomna till lucka nummer 17."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:35",
+    "line": "Är vi på nu?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:37",
+    "line": "Sjukt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:39",
+    "line": "Så vi har..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:41",
+    "line": "Eller det var som 17."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:43",
+    "line": "Det var som 17 och vi har en vecka kvar till julafton."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:45",
+    "line": "Och en vecka kvar av julkalendern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:49",
+    "line": "Sen slipper ni äntligen alla julskämt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:53",
+    "line": "och alla torra tips som Therese brukar påstå att hon har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:57",
+    "line": "– Kan jag också inte lyssna? Men absolut!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:00",
+    "line": "– Nej, man måste lyssna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:02",
+    "line": "Sen är vi tillbaka till vårt vanliga schema."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:05",
+    "line": "Men det var inte det vi skulle prata om idag, utan det är lucka nummer 17."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:09",
+    "line": "Och bakom den så tänkte jag tipsa om..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:11",
+    "line": "Jag tänkte tipsa om... Det är lite weird."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:13",
+    "line": "Jag tänkte tipsa om... Det finns en kurs som heter Total TypeScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:17",
+    "line": "När det här avsnittet kommer ut så har den förmodligen släppts i Early Access precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:25",
+    "line": "Jag har inte gått kursen, jag har inte kollat så mycket på vad den innehåller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:32",
+    "line": "Det låter som ett lovande tips här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:34",
+    "line": "Men det finns, för det första så är det en kille som heter Matt Pocock som har gjort den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:41",
+    "line": "Han är extremt duktig. Han brukar lägga ut små videosnuttar på Twitter när han förklarar olika TypeScript-problem som är skitbra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:52",
+    "line": "Det som också finns är att det finns en gratis del av den här kursen som är intro till TypeScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:59",
+    "line": "Jag har skummat några bitar av den för jag kände att jag kunde ganska mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:04",
+    "line": "Den är också väldigt bra om man vill komma igång med TypeScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:08",
+    "line": "Den är inte jättelång, men den går igenom det mesta man behöver fatta för att faktiskt kunna köra TypeScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:19",
+    "line": "För de flesta delarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:21",
+    "line": "Själva kursen är mer för att bli avancerad i use cases."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:26",
+    "line": "Jag tror också att det finns en gratis kurs för SOD."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:29",
+    "line": "Jag vet inte om du vet vad SOD är, men det är det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:31",
+    "line": "Jo, jag är mycket väl med på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:34",
+    "line": "Formulärvalideringsgrejer, eller det är inte heller det, men det är typ"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:38",
+    "line": "schemavalidering. Man specerar ett schemat och så kan man validera till ett objekt följande schemat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:43",
+    "line": "Ja, det är ju inte valideringen i sig, du får ju fortfarande använda något för att validera upp schemat mot din data."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:51",
+    "line": "Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:52",
+    "line": "Så de två kurserna, de är gratis och jag tycker att han är extremt duktig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:59",
+    "line": "Jag tror säkert att hela kursen kommer att vara svinbra också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:03",
+    "line": "Jag har inte bestämt om jag ska köpa den för den kostar ändå 400 dollar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:08",
+    "line": "Ja, 400 plus dollar. 400 dollar med pre-sale-pris."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:15",
+    "line": "Så den är kanske lite saftig för mig just nu. Det kanske finns andra kurser man vill gå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:23",
+    "line": "Men det var väl allt från idag tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:27",
+    "line": "En disclaimer, det här med SOD säkert är jättebra, men det introducerades för mig på ett sätt som var mardrömsliv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:35",
+    "line": "Så jag har drömt många mardrömmar om SOD, men det är toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:39",
+    "line": "Ja, jag använde det lite grann i fredagslunchen, appen som jag byggde."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:45",
+    "line": "Och tycker det funkar ganska bra faktiskt, just för formuläret där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:49",
+    "line": "Ja, jag ska hitta ett sätt att validera mina formulär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:54",
+    "line": "Men i alla fall, Tatas TypeScript intro. Är det verkligen bara skrapa dig grunden på TypeScript eller är det värt det även fast man jobbar med TypeScript för att få en djupare förståelse?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:04",
+    "line": "Jag har inte gått igenom hela, men om man kollar lite grann på vad det är för något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:10",
+    "line": "Jag slog upp hemsidan precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:13",
+    "line": "Så pratar den om hur man kan... Det är väldigt mycket grund."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:18",
+    "line": "I början det är lite optional parameters, assigning types to variables, constraining value types, passing type arguments."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:26",
+    "line": "Men sen kommer det lite mer avancerade saker som narrowing down union types, inheriting interface properties, combining types, construct types."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:36",
+    "line": "Kommer någon förklara väldigt tydligt vad det är för skillnad på type och interface och varför jag bör använda den ena över den andra?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:41",
+    "line": "Jag tycker det är kul för att han, i och med att jag följer honom på Twitter så ser jag honom ibland."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:44",
+    "line": "Han har liksom svängt fram och tillbaka mellan det där typ fyra gånger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:48",
+    "line": "Och sagt typ såhär \"Nu har jag bestämt mig, jag gillar Interface bättre än Types\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:52",
+    "line": "Och sen bara kommer han tillbaka och bara \"Nej nu, nu har jag bytt Types bättre än Interface\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:57",
+    "line": "Okej, så inga svar där kanske?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:59",
+    "line": "Förmodligen inga svar där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:00",
+    "line": "Vi får väl se, han kanske har landat i något i slut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:03",
+    "line": "Han verkar uppenbarligen ha tänkt på det väldigt mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:07",
+    "line": "Nu gjorde jag en liten sväng tillbaka in i tipset, men nu är vi klara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:11",
+    "line": "Nu är vi klara. Vi stänger lucka 17 och så hörs vi igen imorgon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:15",
+    "line": "Jajamän, hejdå!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:16",
+    "line": "Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:17",
+    "line": "(Jingel)"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:20",
+    "line": "Hej då!"
+  }
+]

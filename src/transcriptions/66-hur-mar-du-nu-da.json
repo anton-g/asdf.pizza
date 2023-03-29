@@ -1,0 +1,2122 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Vad kallas en Python-utvecklare som är out of bounds?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "Jag vet inte. Jo, jag vet visst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:10",
+    "line": "Serväs."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:13",
+    "line": "Det här var bästa skäntet för länge alltså."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:17",
+    "line": "Jag vet. Den här är jag ändå nöjd med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:20",
+    "line": "Ja, det förstår jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:22",
+    "line": "Den är väldigt så... Det är en point in time."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:26",
+    "line": "- Ja, gud, lyssnar man på det här om fem år, då kommer man inte att fatta det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:30",
+    "line": "- Ja, det är redan lite sent nu, men jag var väldigt nöjd när jag kom på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:36",
+    "line": "- Och så att jag kom på svaret när jag höll på att svara. Ja, fan, det var kul. Det var roligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:44",
+    "line": "*skratt*"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:46",
+    "line": "Ja..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:48",
+    "line": "Jag har tänkt länge på att det ska finnas något skämta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:50",
+    "line": "Men det känns för..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:52",
+    "line": "Lätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:54",
+    "line": "Python-orm-grejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:56",
+    "line": "Också att jag såg att det finns en jävla..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:58",
+    "line": "Till... Jag vet inte vad det var."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:00",
+    "line": "Men som heter Anaconda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:02",
+    "line": "Så de började på ormspåret. Kör bara ormspåret."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:04",
+    "line": "Jag kommer aldrig bli Python-utvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:06",
+    "line": "*skratt*"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:08",
+    "line": "Men det är också... Du är ju inte rädd för ordet orm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:12",
+    "line": "- Nej, men vad har de för loggor? Vad händer om man googlar lite fel?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:17",
+    "line": "Jag vill hålla på med den här grejen. Anaconda. Skriver bara Anaconda och tänker inte längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:22",
+    "line": "Det händer ju. Jag har skrivit bara Remix typ hundra gånger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:25",
+    "line": "- Jo, det är sant. Det är sant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:27",
+    "line": "- Ja, sådär. Det är ingen arbetsmiljö."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:30",
+    "line": "- Välkomna till ett nytt avsnitt av ASTF i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:35",
+    "line": "Kanonstart idag känner jag. Jag har haft låg energi hela dagen, men nu är jag på banan igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:41",
+    "line": "- Ja, men nu kan du bara gå ner för... - Exakt. Eller ett av mina favoritordspråk som jag brukar tänka på när man säger sådana saker är att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:51",
+    "line": "\"När man nått botten är det uppförsbacke åt alla håll\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:55",
+    "line": "- Jävla päst. Ja, det jävla pästglaset är halvfullt alltså. - Ja, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:05",
+    "line": "- Okej, vad ska vi prata om idag? Jo, vi tänkte prata om hur vi ska samfatta det här ämnet då. Mentorskap och förebilder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:16",
+    "line": "- Ja. - Något sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:19",
+    "line": "- Ja, det är väl en sammanfattning. Det var, nu är det väldigt länge sedan, men också lyssnade Erik frågade en gång om vi skulle prata om förebilder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:31",
+    "line": "Och det diskuterade vi då. Och så kom vi fram till att vi inte har några förebilder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:36",
+    "line": "Nej, men Tore var det nog. Tvärtom. Mentorskapsgrejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:42",
+    "line": "Så det här har vi fått fundera lite på. Men nu är det dags."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:45",
+    "line": "Exakt. Och vi kan väl börja där. För när man säger mentor, för mig är det så oerhört lätt att man tänker bara"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:53",
+    "line": "att det är en person som man har som hjälper en rent praktiskt med saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:01",
+    "line": "Eller en person man träffar och kör one on one möten med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:05",
+    "line": "Är det också så du tänker på mentor?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:09",
+    "line": "Jag för mig att det var så vi pratade om sist ni pratade om det här, så var det så känner jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:13",
+    "line": "- Ja, jag tror i alla fall att det blev min introduktion till begreppet mentor"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:18",
+    "line": "när jag började jobba med IT, att det var mycket så här, ja men det finns kvinnliga chefernätverk där kvinnliga VDs är mentorer för kvinnliga up and coming och det finns mentorskap för utvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:34",
+    "line": "Så det är nog den väldigt klassiska bilden jag har av det och definitionen som jag tänker på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:40",
+    "line": "Ja, i fakt, jag har också bara sprungit på dig i kontextet. På universitetet så hade vi på vårt program någon mentorskapsprogram där en äldre årskurs var mentor till någon som precis hade börjat plugga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:57",
+    "line": "Och det var ju också samma sak, det var en one-to-one-grej i stort sett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:01",
+    "line": "- Ja, vi hade i och för sig klassmentorer som skulle ha introduktionsavstämningar med klassen som pluggade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:11",
+    "line": "- Ja, okej. Ja, för det känns lite ändå, jag tänker nog nu att det finns ingenting som säger att en mentor måste vara en person som man kör one-on-one-grejer med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:21",
+    "line": "Utan det skulle kunna vara någon gruppgrej eller det skulle kunna vara någon flummigare grej som inte är mer specifikt eller sagt hur det ska funka direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:30",
+    "line": "Ja, men jag tänker också att det finns jättemycket inofficiellt mentorskap."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:35",
+    "line": "För jag vet att när jag började tänka på det, har jag haft någon mentor? Nej, inte på det sättet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:41",
+    "line": "Men om jag började titta på i början när jag var väldigt junior och kunde inte koda överhuvudtaget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:51",
+    "line": "Nej, men att jag tydde mig väldigt mycket till en specifik individ som lärde mig extremt mycket saker och vad den personen lärde mig har suttit kvar också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:07",
+    "line": "Tankar kring, om man tänker kring det här och testning och det här och så vidare. Så det känns ju som att det var någon typ av inofficiellt mentorskap."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:15",
+    "line": "- Ja, jag tänker också att det kanske är den vanligaste formen på det vänster."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:21",
+    "line": "Alltså så här, jag tror att det är vanligare att det blir informellt i att någon i ens team som man sitter och jobbar med"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:29",
+    "line": "som man kanske inte formellt skulle säga \"Det här är min mentor\" men det är den personen som du är inne på"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:35",
+    "line": "lär sig väldigt mycket av och får coaching av på ett annat sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:40",
+    "line": "Och jag tror att det är vanligare än att någon sitter och säger att det här är min mentor rent formellt sett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:46",
+    "line": "Ja det vore jättestyltigt. Finns det också några specifika regler eller grejer som man måste uppfylla för att få kalla sig för mentor?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:59",
+    "line": "Nej, det är väldigt svårt att säga. Det känns som att det handlar väldigt mycket om situationen, eller vilka det är mellan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:11",
+    "line": "Sen är det också lite det här med hur det blir relationen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:19",
+    "line": "För jag tycker det är ganska svårt att säga, man kan ju också ha en coach."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:23",
+    "line": "Vad blir skillnaden på en coach och en mentor?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:29",
+    "line": "Men för mentorn handlar det fortfarande mycket om sig själv som mentor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:39",
+    "line": "Och så lär man sig av den, medan en coach fokuserar på sin coach i mycket mer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:47",
+    "line": "Alltså du menar att om jag var mentor så skulle jag också lära mig saker om jag var din mentor, eller?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:57",
+    "line": "Eller?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:58",
+    "line": "Nej, eller så tänker jag mer att du går runt med din dag och följer din lilla menti."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:04",
+    "line": "Den som du är mentor till bara följer efter och hänger med och kan ställa frågor och ser vad du gör och lever i din dag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:14",
+    "line": "Men coachar så här, \"Tjena Anton, nu ska vi coacha dig att bli ditt bästa jag\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:19",
+    "line": "Ja, exakt. Så skulle det ju kunna vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:22",
+    "line": "Jag vet inte, jag har också en bild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:24",
+    "line": "Jag tror att det är därför det är så svårt att skilja dem åt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:26",
+    "line": "För jag tror att de flyttar ihop ganska mycket för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:28",
+    "line": "Jag tycker att både en coach och en mentor kan sätta sig ner rent praktiskt och prata om typ"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:36",
+    "line": "\"Vart vill du i framtiden?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:38",
+    "line": "Eller \"Vad har du för mål?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:40",
+    "line": "Eller \"Vad har du för saker du vill uppnå?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:42",
+    "line": "Jag tycker att det båda kan vara så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:45",
+    "line": "Men sen kanske att mentor är lite mer som du säger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:49",
+    "line": "Det är att mentor är mer en person som är där jag vill vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:55",
+    "line": "Och att det är så de kan vara en mentor åt en."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:58",
+    "line": "Att de kan visa en väg på ett annat sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:00",
+    "line": "Och att en coach kanske mer är inte lika införstådd."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:05",
+    "line": "Att det mer är att försöka coacha på ett annat sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:08",
+    "line": "Ett utifrån perspektiv mer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:10",
+    "line": "- Jag tänker det här. Det är mer fokus på att stötta dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:13",
+    "line": "Alltså gud, det är så mycket snillen spekulerar här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:17",
+    "line": "(skratt)"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:19",
+    "line": "Jag tänker att en konversation skulle vara, jag säger såhär, jag skulle vilja bli team lead."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:25",
+    "line": "Och så pratar jag med min mentor som är team lead och så säger den såhär,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:29",
+    "line": "\"Ja, jag tog den här vägen för att bli team lead och så fokuserade jag på det här och så tänkte jag såhär.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:36",
+    "line": "Medan en coach skulle vara såhär, \"Ah, intressant, vad får det att vilja bli det? Vilka egenskaper känner du att du har? Hur kan du höja dem? Blablabla.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:44",
+    "line": "Jag tänker att det finns en skillnad där, men igen, gissar hundra procent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:50",
+    "line": "Jo, men jag kan ändå, jag tycker jag känner igen mig lite grann i det där också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:55",
+    "line": "Att jag tycker att det stämmer överens med min världsbild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:58",
+    "line": "Just det, så att en mentor får fortfarande prata om sig själv, men en coach måste prata om den andra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:04",
+    "line": "Nej, jag vet inte, det är inte så förenklat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:06",
+    "line": "Nej, det är absolut en liten svart och vit bild av hela grejen liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:12",
+    "line": "Men jag tycker fortfarande att det definitivt finns någonting där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:18",
+    "line": "Men jag vet inte heller, jag vet inte, jag vet inte. Skulle du vilja ha en mentor?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:22",
+    "line": "Jag vet inte. Alltså, ibland så känner jag mig bara som en douche när jag säger så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:35",
+    "line": "Jag lyssnade en gång, frågade om det inte var ett kodsnackavsnitt där de sa att det fanns någon beskrivning av människor som inte vill ha mentorer för de tror att de inte kan lära dem någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:49",
+    "line": "Det är inte så att jag inte tror att människor inte kan lära mig någonting, men jag har svårt för hela den här grejen att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:57",
+    "line": "okej, men vi har ju inte samma förutsättningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:00",
+    "line": "När jag har blivit coachad eller haft mentorering av män eller vita personer som säger saker som självklarheter och förutsättningar som bara är,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:18",
+    "line": "så kan jag inte alltid sätta mig in i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:21",
+    "line": "Det känns mer som att jag blir förminskad för att jag inte kan lösa sådana saker som beror på strukturella problem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:27",
+    "line": "Så därför har jag blivit lite så här..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:29",
+    "line": "Nä..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:31",
+    "line": "Jag vet inte vad jag ska ha mig till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:33",
+    "line": "Men..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:35",
+    "line": "Jag känner ibland också att det gör mig till en lite sämre människa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:40",
+    "line": "- Ja, jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:44",
+    "line": "Jag förstår ju det ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:47",
+    "line": "För jag har ju lite samma approach."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:52",
+    "line": "Jag känner att, på jobbet har vi infört någon coachningsfunktion eller vad man ska säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:01",
+    "line": "Både som ska kunna coacha en om man behöver det på sitt uppdrag som konsult."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:07",
+    "line": "Men också lite som en individuell coach på längre sikt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:12",
+    "line": "Som är typ såhär, vad vill du i livet?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:16",
+    "line": "Typ, eller inte riktigt så, men liksom i karriären eller vart vill du liksom ta dig?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:20",
+    "line": "Vad vill du utvecklas till inom och har du några mål och sådana saker? Hur ska man uppnå dem?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:25",
+    "line": "Och där är jag väldigt mycket så här att jag inte tycker att jag behöver bli coachad"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:31",
+    "line": "Så det är lite på samma sätt som du är inne på"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:33",
+    "line": "Men det är också för att jag inte riktigt jobbar med mål på samma sätt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:37",
+    "line": "Som jag tänker att man gör när man blir coachad"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:42",
+    "line": "Utan då är det mer så här att man jobbar med riktningar, att säga så här \"jag vill röra mig åt det här hållet\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:52",
+    "line": "Men jag har liksom inget konkret mål att \"ja, jag vill stå på en stor scen inom ett år\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:58",
+    "line": "Utan det är mer så här \"ja, men jag tycker det är kul att hålla presentationer så jag vill hålla fler presentationer\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:02",
+    "line": "Det där har jag också lite problem med, just det här med att sätta specifika mål."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:09",
+    "line": "Jag tror jag har drivit någon chef till vansinne."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:12",
+    "line": "\"Du måste sätta mål!\" Jag bara \"Men varför då?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:15",
+    "line": "\"Annars är det inte mätbart, hur ska vi mäta om du rör dig framåt?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:21",
+    "line": "Jag vet inte, men är det så himla viktigt?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:24",
+    "line": "- Nej, jag tycker inte det. Jag fick en artikel länkad till mig häromdagen som sa just det här låter som det du pratar om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:31",
+    "line": "Och den handlade om att de som övar pilbågsskytte, vad heter det på ett finare ord?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:41",
+    "line": "De som kör pilbågsskytte, när man ska träna på det så tränar man på förberedelserna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:50",
+    "line": "Du ska inte fokusera på om du träffar eller inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:53",
+    "line": "Du ska fokusera på att du kan kontrollera hur du håller pilbågen och hur du släpper pilen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:59",
+    "line": "Hur du gör saker mer än vad resultatet av det blir."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:04",
+    "line": "För att det ska kunna bli bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:06",
+    "line": "Jag länkar den i beskrivningen, jag tyckte den var väldigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:09",
+    "line": "Jag tror att den försökte pitcha någon jävla självutvärderingsmodell i slutet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:14",
+    "line": "Men halvartiken, bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:17",
+    "line": "Men är det inte så med allt?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:19",
+    "line": "Alltså typ som i styrkelyft till exempel som jag håller på med på en extrem mortgonärsnovis-nivå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:27",
+    "line": "Men hela poängen är att du ska kunna lyfta likadant jämt med god teknik."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:34",
+    "line": "Allt sitter i grunden och tekniken som du måste nöta för att lyften ska vara exakt likadan varje gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:44",
+    "line": "Jo, men jag tror definitivt det. Det är klart att det i vissa fall kan finnas någon typ av nytta med att man sätter någon typ av mål och jobbar mot det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:54",
+    "line": "Men för min del så funkar det inte riktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:59",
+    "line": "Jag tycker att det är lite så här att man förbereder sig själv för att misslyckas på något vis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:07",
+    "line": "Man vill ju också sätta optimistiska mål, ambitiösa mål."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:11",
+    "line": "Så man pushar verkligen för att \"ja men vi ska ta det långt\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:15",
+    "line": "Visst, det kanske funkar för vissa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:16",
+    "line": "Men för mig är det bara mer att \"ej då blir jag mer otaggad på att göra det här\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:21",
+    "line": "Då blir jag så här, då orkar jag inte, då kommer jag inte göra det, då kommer jag göra något annat istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:25",
+    "line": "Jag tror att det gör att coaching och sånt inte riktigt funkar för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:32",
+    "line": "För jag tror att det är ganska svårt att komma till en nivå där man kan coachas inom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:37",
+    "line": "Jag blir mer känslodriven, det här är det jag vill göra och det här är det jag känner för att göra och sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:42",
+    "line": "Då tror jag att det är svårt att coacha mig inom det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:46",
+    "line": "Ja, alltså här är vi nog eventuellt lite lika."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:50",
+    "line": "Det är bara att du har lite mer pepp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:53",
+    "line": "Lättillgängligt eller vad man säger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:55",
+    "line": "För att jag kan känna det att jag,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:57",
+    "line": "när jag känner mig tillräckligt utvilad så kan jag bli väldigt sugen på att göra saker och ta mig igenom och göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:03",
+    "line": "Och det är ju också extremt lustdrivet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:05",
+    "line": "Men däremot när jag haft mål som var så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:09",
+    "line": "jag ser dem bara som, ja här är en till sak som jag inte kommer lyckas med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:13",
+    "line": "Det betyder att jag kommer misslyckas och så kommer jag må lite sämre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:16",
+    "line": "Och så kommer jag ligga och gnaga i bakhuvudet och så kanske jag gör saker lite halvdant för att jag måste göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:22",
+    "line": "Men det ger ju ingenting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:24",
+    "line": "Och det ger ju ingen glädje, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:27",
+    "line": "Men jag kan ju vara lite... Nu är det kanske en annan sak, men jag kan ju bli väldigt så tudelad när det handlar om..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:34",
+    "line": "Jag har haft den här diskussionen när man sätter upp mål med till exempel ett team."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:38",
+    "line": "Sprintmål och så vidare och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:41",
+    "line": "För jag är så här, men okej, men måste vi ha ett specifikt mål?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:46",
+    "line": "Ja, men hur ska vi annars fira?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:48",
+    "line": "- Ja, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:50",
+    "line": "- Jo, det har vi ju en poäng i, men det är också så här att vi sitter där nästa sprint och bara så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:55",
+    "line": "nådde vi vårt mål?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:56",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:58",
+    "line": "- Ja, att jag tycker i det här argumentet tycker jag är lite, ah."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:02",
+    "line": "Alltså det är inte värre än att man märker, alltså det är inte så svårt att så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:06",
+    "line": "ja, nu har vi gjort den här grejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:08",
+    "line": "Man behöver inte sätta upp det som ett mål för att säga att vi har gjort den här saken och vi kan fira."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:14",
+    "line": "Det kommer från en ganska konstig plats där det enda de kan fira är mål."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:21",
+    "line": "Ja, och det är för att man ska bli påmind att fira kanske, för man kanske inte är så bra på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:26",
+    "line": "Men det är inte så att man firar. Nådde vi målet? Nej. Det är ändå ingen som firar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:30",
+    "line": "Jag vet inte. Jag är väldigt så kluen för att varje gång någon drar det argumentet"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:36",
+    "line": "så känner jag mig som en jävla bitterjävel som sitter där och bara \"jaha, då kan jag inte argumentera emot det här, för då är jag ju den suraste människan i hela världen\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:48",
+    "line": "- Ja, du får försöka kanske lösa det genom att argumentera att vi ska fira mer oavsett mål."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:59",
+    "line": "Nu är jag ju bara med mig själv och jag firar ingenting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:04",
+    "line": "Underbart, vad du skulle säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:06",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:08",
+    "line": "Nej, men okej, så vi är fullärda douchbags som inte vill ha någon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:17",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:18",
+    "line": "Men om man ska komma in..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:20",
+    "line": "Innan vi går vidare bara, jag tänkte, jag tycker inte riktigt att det vi säger är att vi är fullärda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:26",
+    "line": "Jag tror bara att det är att vi inte gillar den här formella formen av coaching och mentorskap."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:31",
+    "line": "Utan det är mer att jag tror att båda vi är ganska duktiga på att hamna i den här informella,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:37",
+    "line": "alltså att om man hamnar med någon som man tycker är svinduktig,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:40",
+    "line": "så tror jag att båda vi är ganska duktiga på att insupa information och kunskap från den personen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:45",
+    "line": "– Ja, när man är väldigt taggad på det, jag älskar ju att ställa frågor till allas fördärv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:55",
+    "line": "Det är det bästa som finns, att verkligen lära sig av personer som lär ut på ett bra sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:03",
+    "line": "Eller delar med sig av kunskap på ett härligt sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:05",
+    "line": "Det är verkligen top notch."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:08",
+    "line": "Så ja, det har du verkligen en poäng i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:11",
+    "line": "- Ja, jag tror absolut att båda vi är ganska lika där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:16",
+    "line": "Förlåt, nu kan du få fortsätta med det du skulle säga innan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:19",
+    "line": "- Serves."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:21",
+    "line": "- Serves."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:22",
+    "line": "Jag tänkte på det här med förebilder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:33",
+    "line": "För det tycker inte jag nödvändigtvis är samma sak."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:36",
+    "line": "För jag vet att på ditt bolag, mitt för detta bolag,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:41",
+    "line": "så pratar man väldigt mycket om förebilder och att alla är förebilder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:45",
+    "line": "Och jag vet aldrig riktigt vad jag ska göra av den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:53",
+    "line": "För jag kände alltid att jag är fan ingen förebild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:56",
+    "line": "Jag vill inte vara en förebild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:58",
+    "line": "Förebilder för mig är mycket mer så här, de ska vara där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:05",
+    "line": "Finnas, existera, men jag ska inte kunna ta på dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:08",
+    "line": "- Just det. Du tänker att förebilder ska vara på ett långt avstånd till förebilderna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:14",
+    "line": "Ja, precis. Eller typ, de kan finnas på Twitter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:18",
+    "line": "Ja, exakt. De ska vara abstrakta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:20",
+    "line": "Vad är det man säger? \"Never meet your heroes\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:22",
+    "line": "Ja, men typ så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:24",
+    "line": "Alltså, det finns så många kändisar och sånt som man trodde var goda människor, så kommer det ut någon skandal."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:30",
+    "line": "Och så är det över."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:32",
+    "line": "Ja, men jag tycker det där också är svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:36",
+    "line": "För det är ju precis som du säger, vi pratar ju väldigt mycket om förebilder på jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:40",
+    "line": "Men jag identifierar mig kanske inte heller som att jag är en förebild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:46",
+    "line": "Men jag vet inte, är det någon som gör det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:48",
+    "line": "- Jag vet inte, det var många som pratade om att vi är det, och att de är det, och du är det, och jag är det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:58",
+    "line": "- Jo, men jag tänker att det är ganska mycket lättare att säga att du är en förebild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:03",
+    "line": "Men det är inte så lätt att säga att jag är en förebild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:06",
+    "line": "Men det kanske är också för att man inte riktigt kan sätta den stämpeln på sig själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:09",
+    "line": "Nej, det är ju konstigt att sätta den stämpeln på dig själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:14",
+    "line": "Alltså, då måste du inte ha någon typ av följe på att vara en förebild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:18",
+    "line": "Är man en förebild om man säger att man är en förebild?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:21",
+    "line": "Nej, det kan man inte vara såhär. Jag är en förebild, det är bara jag som tycker det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:26",
+    "line": "Nej, det är väldigt, väldigt sant. Det är en mycket mer organisk position att ha."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:35",
+    "line": "att ha liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:37",
+    "line": "Det kommer ju liksom, du kan inte bara kliva in i rollen som förebild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:43",
+    "line": "- Hej, hej, här är jag. Jag köpte Twitter-blumor. Nu kör vi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:50",
+    "line": "- Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:52",
+    "line": "- Men ändå, känner du att du har någon förebild?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:57",
+    "line": "- Jo, men också lite så här längre bort som du säger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:02",
+    "line": "Det är väldigt få som jag skulle kalla förebilder i min närhet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:08",
+    "line": "Sen tycker jag..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:10",
+    "line": "Jag innar mig litegrann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:12",
+    "line": "Vissa personer som är längre bort är förebilder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:15",
+    "line": "Och de känns som att de är förebilder inom allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:17",
+    "line": "Men det tror jag är för att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:21",
+    "line": "Jag får ju inte hela bilden av dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:24",
+    "line": "Utan den bilden jag får är den bilden som jag tänker är förebild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:28",
+    "line": "Medan folk som är i min närhet kanske är förebilder inom vissa områden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:32",
+    "line": "Ja men det är också så att man får nog gränsa det lite."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:40",
+    "line": "Försiktigt är det jäkligt sant. Vi har så jävla höga krav."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:46",
+    "line": "Jag har jättehöga krav på kända människor och hur de ska vara och hela dem ska vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:52",
+    "line": "Och att de inte får göra misstag och sådär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:54",
+    "line": "Och det blir drev och det blir cancel culture och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:58",
+    "line": "För att de bara är människor, men de ska vara på topp hela tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:04",
+    "line": "- Ja, jag tycker det är svårt. - Men vad har du för..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:08",
+    "line": "- Jag skulle ju definitivt klassa dig som en förebild för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:13",
+    "line": "- Nej, men skit i fan. - Jo, men inte inom allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:17",
+    "line": "Nu lugnade jag mig lite. Men typ i att du vågar prata om saker till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:24",
+    "line": "Alltså jobbiga saker eller vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:28",
+    "line": "Alltså där är du en förebild för mig för att du kan ju vara någon jag kan se upp till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:33",
+    "line": "Och liksom sträva efter att vara så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:36",
+    "line": "Nej men det är så konstigt. Nej men sluta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:41",
+    "line": "Det här är obehagligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:43",
+    "line": "Det här är alltid, trycka turn for the worse."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:46",
+    "line": "Ja men det där, jag tycker det är så svårt när man är på den sidan liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:50",
+    "line": "- att du är en förebild. Det blir någon typ av press."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:53",
+    "line": "- Jag hatar det. Om folk säger det till mig, då tänker jag absolut inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:56",
+    "line": "Nu ska jag agera sämre så att ingen säger det till mig igen någonsin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:00",
+    "line": "- Ja, men du är ju en förebild, Anton. För det är ditt tekniska intresse och driv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:05",
+    "line": "En stor förebild. Din glädje inom programmering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:08",
+    "line": "- Mm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:09",
+    "line": "- Ja, hur mår du nu då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:11",
+    "line": "- Lika dåligt som du gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:13",
+    "line": "- Hahaha! Då är vi alla på samma nivå nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:17",
+    "line": "- Ja, absolut. Jag kan förstå det på något plan, för jag gör väldigt mycket saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:26",
+    "line": "Jag kan förstå att någon har inbildat sig där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:30",
+    "line": "Men det går liksom inte att internalisera att jag är det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:35",
+    "line": "Det går liksom inte att säga att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:37",
+    "line": "Jag kommer ju fortfarande aldrig säga att jag är en förebild, även om andra säger det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:41",
+    "line": "Nej, alltså samma. Jag kan väl förstå också att jag pratar om mycket grejer, men det gör jag ju bara av farten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:51",
+    "line": "Däremot så kan man ju känna att jag kanske aldrig skulle gå runt och tycka att jag är en förebild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:58",
+    "line": "Däremot så skulle jag säkert kunna känna att det kommer mera press."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:02",
+    "line": "att okej, i de här situationerna där människor har uttryckt mig som en förebild, att jag är någon typ av förebild, då måste jag börja bete mig och tänka efter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:11",
+    "line": "Och liksom, inte göra fel. Och det hämmar ju ganska mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:16",
+    "line": "Ja, verkligen. Jag tror också att det är nog definitivt en anledning till att jag inte vill tänka att jag är en förebild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:23",
+    "line": "För att det är ju, det är ju som du säger, att så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:25",
+    "line": "om jag är en förebild, då måste jag gå runt och tänka,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:29",
+    "line": "\"Ja, jag är en förebild, kan jag göra det här?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:31",
+    "line": "Medans, är jag ingen förebild, då är det ju skitsamma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:35",
+    "line": "Om ingen ser upp till mig, då spelar det inte så någon roll vad jag gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:38",
+    "line": "- Nej, alltså jag vill nog helst gå runt och bara tycka att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:44",
+    "line": "jag bara"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:45",
+    "line": "pratar ut i vinden och ingen lyssnar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:48",
+    "line": "Jag tycker det är skönt att säga så i en podd,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:51",
+    "line": "som jag egentligen inte vill att någon ska lyssna på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:53",
+    "line": "Men ja, jag tror ändå att det är skönast med mig att ha den världsbilden, att jag pratar för mig själv i ett tomt rum."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:03",
+    "line": "Det kanske inte är det mest friska som har uttalats."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:11",
+    "line": "Nej, så är det mycket möjligt. Men jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:18",
+    "line": "Jag tror fortfarande att om någon person går runt och säger \"Jag är en förebild inom det här\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:25",
+    "line": "då är det väl ingen förebild längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:32",
+    "line": "Nej, det kan vara svårt. Jag tänker på så många sådana här, och det är ju mest i film och serie kanske, eller det är inte det, men det är såhär amerikanska self-help people som har något pyramidspel och framhäver sig goda och att de kan hjälpa alla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:52",
+    "line": "Det är i film och serie säger jag igen, men då tänker jag att det blir så liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:56",
+    "line": "Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:58",
+    "line": "Det är som..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:00",
+    "line": "Någon som går runt och säger att om en förebilden är en krypto, då skulle de ju..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:04",
+    "line": "Oj, vad de skulle sjunka!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:06",
+    "line": "Det här är liksom den värsta konvertionen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:08",
+    "line": "Men det är ju också bara att du har ett sånt extremt hat mot krypto."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:14",
+    "line": "Nej, krypto är säkert jättebra, men allting är pyramidspel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:18",
+    "line": "Jag vet att det är någon..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:20",
+    "line": "Nu blir det helt urspårat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:22",
+    "line": "helt urspårat. Men det är ju någon kryptobörs som heter typ FTX som håller på att krascha totalt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:29",
+    "line": "Så det är spännande. Det går åt helvete, som vanligt med all krypto."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:34",
+    "line": "- Ja, alltså jag kan ingenting om krypto. Jag orkar liksom inte sätta mig in i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:39",
+    "line": "- Nej, det är helt rätt. - Jag låter det vara lite ro."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:43",
+    "line": "Men det här är som vanligt ett stökigt avsnitt. Men jag tänkte ändå att vi skulle, okej,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:50",
+    "line": "Mentorskap, coach, då tänker jag att du inte är så sugen på att vara mentor eller coach heller kanske?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:56",
+    "line": "Nej, alltså mentor tror jag mer skulle kunna vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:59",
+    "line": "Alltså om man har en person som känner att till exempel att jag har pratat på lite meetups,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:04",
+    "line": "jag har pratat på någon dinstaka konferens nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:06",
+    "line": "Om någon skulle vilja göra det så skulle jag kunna vara ett bollplank åt den personen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:11",
+    "line": "Att \"ja men hur gjorde du, hur gör jag, vad kan jag göra för att ta mig dit?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:15",
+    "line": "till exempel. Men att vara en generisk coach som ska coacha folk vet jag inte om jag skulle vara så bra på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:23",
+    "line": "För att folk vill så jävla olika saker och jag kan bara prata utifrån mitt perspektiv och mina erfarenheter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:34",
+    "line": "Vi, för nu, jobbar jag ju med, men alltså, konceptet coachning börjar ju få en liten ny kanske betydelse för mig,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:48",
+    "line": "men på jobbet nu så jobbar jag mycket med att coachning handlar ju mest om att fokusera på den andra personen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:56",
+    "line": "Och min nya definition av coachning är ju också så här att jag ska inte lösa dens problem, jag ska i princip bara lyssna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:04",
+    "line": "Lyssna ordentligt, inte avbryta, låta personen utveckla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:09",
+    "line": "Jag kan inte fråga frågor om det är någonting som jag behöver ha utvecklat, men att det hela handlar om att jag finns till för att lyssna på den andra personen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:18",
+    "line": "Vi har ju varit i några sådana sessioner, både i grupp och person,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:26",
+    "line": "där man sätter typ en timer och så sitter jag och lyssnar på dig"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:29",
+    "line": "och så bytvis sitter du och lyssnar på mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:33",
+    "line": "Jag upplever det som extremt, tänker jag använda ordet, förlösande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:40",
+    "line": "- Absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:43",
+    "line": "Men intensivt och väldigt nytt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:50",
+    "line": "Så jag tycker det är intressant hur det påverkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:54",
+    "line": "Där skulle jag kunna hänga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:56",
+    "line": "- Ja, jag tycker det är en spännande alternativ på något sätt,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:03",
+    "line": "eller till den traditionella coachningen, eller vad fan man ska kalla det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:07",
+    "line": "- Corporate coaching?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:09",
+    "line": "Vad gör man exakt när du bara \"här är din coach, kör\"?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:13",
+    "line": "Ja, jag vet inte. I och med att du faktiskt jobbar med, jag vet inte hur mycket jag ska outa här, men typ lite någon coachningsplattform."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:23",
+    "line": "Så kanske vi får anledning att återkomma till coaching."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:28",
+    "line": "Ja, plattform, nu tog det i från tårna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:35",
+    "line": "Okej, coachnings-community."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:37",
+    "line": "Coachings."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:39",
+    "line": "Jag kan slänga ut fler stora ord om du vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:42",
+    "line": "Åh, det vet jag inte. Vi får se om vi återkommer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:46",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:47",
+    "line": "Men ja, vill du avsluta med att slänga ut lite förebilder?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:54",
+    "line": "Bara lite generella förebilder jag har?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:57",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:58",
+    "line": "Ja, det kan jag väl göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:02",
+    "line": "Det känns som att jag landar på Twitter hela tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:06",
+    "line": "Ja men det är väl där jag landar också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:10",
+    "line": "Det tycker jag är helt valet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:13",
+    "line": "Ja men typ dig igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:18",
+    "line": "Det är för nära, sluta nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:22",
+    "line": "Jag satt och funderade på vem eller vilka jag skulle nämna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:27",
+    "line": "För det är lite också såhär beroende på..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:31",
+    "line": "Beroende på... Vad heter det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:37",
+    "line": "Kontext, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:39",
+    "line": "Och det gör lite svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:43",
+    "line": "Men det jag tänker är väl liksom folk som..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:47",
+    "line": "Det finns en kille på Twitter som heter Kurt Campbell."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:51",
+    "line": "Som har suttit i fängelse i en massa år."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:55",
+    "line": "med sig en massa år och sen har han kommit ut och blivit utvecklare och är liksom"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:59",
+    "line": "svinigt, trevlig och härlig och extremt bra person att följa tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:05",
+    "line": "Nu har han varit lite off på Twitter ett tag men jag tror att han är tillbaka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:08",
+    "line": "Så han är ju definitivt en förebild ur det här perspektivet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:11",
+    "line": "Sen finns det ju andra perspektiv som typ Sara Vieira som har nämnts här i podden"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:18",
+    "line": "några gånger tidigare men det är också för att hon är liksom extremt härlig och öppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:23",
+    "line": "Hon pratar om psykisk ohälsa, hon pratar om koding, hon är bara väldigt rolig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:28",
+    "line": "Och liksom den typen av talare jag skulle vilja vara till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:33",
+    "line": "Och så finns det säkert en massa fler, men du var liksom top of mind."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:38",
+    "line": "På rak arm. Själv då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:42",
+    "line": "Nej, men det är som du säger, det är svårt att bara komma på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:46",
+    "line": "Jag tänker alltid mycket på Dan Abramov."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:51",
+    "line": "Och inte bara för att han gjorde redux och var sjukt duktig tidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:59",
+    "line": "Men jag har ju det fokuset mycket i min liv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:04",
+    "line": "Men jag tycker folk är väldigt fina förebilder när de står upp för andra människor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:11",
+    "line": "Speciellt ur ett strukturellt perspektiv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:14",
+    "line": "Han har ju ganska uttalat så varit på Twitter att han har försökt belysa minoriteter och hur de skulle känna i situationen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:21",
+    "line": "utan att förklara, utan bara \"ni kommer ju lyssna på mig för jag är en vit man men ni lyssnar inte på dem, varför gör ni inte det?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:28",
+    "line": "Och jag har sett många andra exempel som jag inte har just nu men som också står upp för saker och säger ifrån"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:36",
+    "line": "Och det är väl mycket så som jag önskar att jag var, men ofta är jag för trött och lite för rädd för att vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:45",
+    "line": "Ja, men precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:46",
+    "line": "Så jag antar att det är väldigt tydligt att man har farbilder kring den människa man själv ville att man skulle vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:53",
+    "line": "Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:54",
+    "line": "Nej, men jag tänkte också verkligen på den här brann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:57",
+    "line": "Alltså verkligen, han är extremt duktig på sådana saker som du nämner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:02",
+    "line": "och hur han diskuterar saker också, för det går ganska hett till på Twitter ofta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:09",
+    "line": "Och det är inte helt sällan det är någon Twitterkrig mellan någon typ av ramverksförfattare, eller vad heter det, skapare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:18",
+    "line": "Och hans inlägg i debatterna brukar ofta vara extremt sansade och resonabla, tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:26",
+    "line": "Ja, jag är riktigt bra på det. Men ja, det finns många, hon som jag inte kan namnet nu på men som öppnade hela den här Ubersexismen med sin bloggpost och sådana grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:40",
+    "line": "För man vet ju att, okej, men det är på internet och det är text, men det kostar ju människor saker liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:45",
+    "line": "Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:47",
+    "line": "Men ja, vi kanske ska runda av det här otroligt spretiga avsnittet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:56",
+    "line": "Ja, men det är långt och spretigt. Det är så vi vill ha det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:59",
+    "line": "Som servets."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:01",
+    "line": "Exakt, långt och spretig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:03",
+    "line": "Jag ber er försiktigt. Jag var så stolt över det här skämtet. Jag drog det till och med på en AV förra veckan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:11",
+    "line": "Jag gjorde helt rätt i. Jag kommer mycket möjligt att jag snor det och drar det på jobbet imorgon eller något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:16",
+    "line": "Ja, du får göra det. Men ja, tack för att ni lyssnade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:22",
+    "line": "Det är också jättekonstigt att säga. Du får klippa det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:26",
+    "line": "Jag kommer inte klippa någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:28",
+    "line": "Men som sagt, tack för att ni lyssnade. Det är lika kul som vanligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:32",
+    "line": "Om ni vill oss något så finns vi på Twitter bland annat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:35",
+    "line": "Medan Twitter finns kvar, vi får se hur länge det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:38",
+    "line": "Och tills dess så hörs vi om två veckor igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:42",
+    "line": "– Ja, det gör vi. Ha det bra så länge. – Hej då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:44",
+    "line": "– Hej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:45",
+    "line": "[Musik]"
+  }
+]

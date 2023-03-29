@@ -1,0 +1,1902 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Okej, plötsligt händer det. Idag har jag ett skämt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "Och här kommer det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "Är du beredd?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:10",
+    "line": "Jag är beredd."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:12",
+    "line": "Vilka skidåkare är bäst på agil utveckling?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:17",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:20",
+    "line": "De som tävlar i sprint."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:22",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:24",
+    "line": "Det här är bäst skämtet hittills i poddens historia."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:29",
+    "line": "Och det är inte alls bara för att det är mitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:33",
+    "line": "- Nej, okej. Det kan vara så att jag har varit och viftat i samma område i mitt huvud."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:42",
+    "line": "- Ja, jag förstår. Jag hade något möte där någon frågade typ, eller jag sa typ \"Vi tog guld i sprinten\" eller något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:51",
+    "line": "- Guld och silver faktiskt. - Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:53",
+    "line": "Och då frågade någon \"Guld? Vadå, vad gör guld?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:57",
+    "line": "För de trodde att jag pratade om den agila sprintern i vår planering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:03",
+    "line": "Så det var lite förvirring där ett tag och då insåg jag att här finns det ett skämt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:07",
+    "line": "- Ja, samma sak hände mig faktiskt. Min produktägare sa \"Har du koll på sprintern?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:13",
+    "line": "Då trodde jag verkligen att han menade girabården men det gjorde han inte denna gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:18",
+    "line": "Men det känns ändå, jag är nöjd. Nu kan jag ta ett uppehåll på att leverera skämt i en 40-avsnitt till eller vad det var."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:24",
+    "line": "Sen jag drog ett skämt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:26",
+    "line": "- Ja, toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:28",
+    "line": "- Ingen press."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:30",
+    "line": "Jo, vart är vi? Välkommen till ett nytt avsnitt av ASTF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:34",
+    "line": "Jag har jävligt bra energi idag känner jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:36",
+    "line": "Det är högt tempo så jag ska försöka hålla ner det. Jag pratar inte lika fort som jag kanske brukar göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:42",
+    "line": "Ja men vad bra då kanske jag kan levelas lite med mitt extremt låga tempo."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:47",
+    "line": "Så toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:49",
+    "line": "Absolut, det matchar nog."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:51",
+    "line": "Ja men jag funderade lite på, du delade faktiskt en video som jag kollade på i tio minuter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:58",
+    "line": "Vad heter den? History of React eller något sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:01",
+    "line": "Exakt, ja det är från, ja vad heter sidan? UI.dev eller något sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:09",
+    "line": "Som jag vet inte exakt vad sidan gör faktiskt. Jag vet bara att de har det överlägset bästa nyhetsbrevet inom frontend utveckling."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:18",
+    "line": "Alltså det är magiskt bra. Så det kan jag verkligen rekommendera alla att faktiskt prenumerera på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:23",
+    "line": "Det är liksom typ humor blandat med nyheter, blandat med dissar av det som är absurt med hela frontend utvecklingen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:31",
+    "line": "Så det är mycket dissar om att alla frontend ramverk tar in, investerar pengar nuförtiden och sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:37",
+    "line": "Det är väldigt roligt faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:39",
+    "line": "Så det är lite salt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:41",
+    "line": "Det är ganska mycket salt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:43",
+    "line": "Ja, vi säger det mitt i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:45",
+    "line": "Blandat med faktiskt vettiga saker som de delar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:49",
+    "line": "Vi lägger väl en länk dit i beskrivningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:51",
+    "line": "Men de har också någon hemsida där de lägger upp massa..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:55",
+    "line": "Jag vet inte exakt vad det är. Man kan typ betala för att göra någonting på den hemsidan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:59",
+    "line": "Jag har inte tagit upp min och kollat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:01",
+    "line": "Låt oss säga också att vi..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:03",
+    "line": "Ja, förlåt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:05",
+    "line": "Nej, kör på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:07",
+    "line": "- Det är sponsrade. - Nej, not sponsored. Tyvärr, men vill ni sponsra oss då? Hör av er."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:15",
+    "line": "Nej, men de har också börjat producera massa videos och den senaste var den jag kollade på som heter \"State of React\" eller \"The History of React\" heter det väl kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:23",
+    "line": "Och gick då igenom lite grann om historien. Varför? Det är typ så här, \"Thumbnailen\" tror jag var \"Why React Won\" eller något sånt. Vilket kan vara en hot take."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:35",
+    "line": "Ja precis, den var ju liksom bara tio minuter, så den är ju inte en sån långkörare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:41",
+    "line": "Så den var ju väldigt snabbt att kolla igenom och jag tyckte det var väldigt kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:45",
+    "line": "För att, jag menar åren för min del stämmer ju inte riktigt överens."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:49",
+    "line": "Utan det var ju mycket där de pratade om kom tidigare innan jag började med webbutveckling liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:54",
+    "line": "Men eftersom saker ändå ligger lite efter, alltså allting byts ju inte direkt på företag och sådana grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:01",
+    "line": "så kände jag väl ändå att jag kom in någonstans i bytet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:05",
+    "line": "Så att jag kunde verkligen nu, några år senare,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:09",
+    "line": "kunde jag se det de beskriver."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:11",
+    "line": "Det kunde jag inte mitt i det, jag var alldeles för grön."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:14",
+    "line": "Men jag fann det väldigt intressant att tänka tillbaka på"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:19",
+    "line": "vart vi har kommit ifrån och hur långt vi har kommit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:22",
+    "line": "- Ja, exakt. För de pratar liksom, även om videon heter \"The History of React\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:26",
+    "line": "så pratar de ju om väldigt mycket andra ramverk och bibliotek som har funnits."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:30",
+    "line": "från jQuery till Backbone, Angular och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:35",
+    "line": "Så jag tycker att den gav en extremt bra överblick på ett väldigt kort tidsspann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:42",
+    "line": "Ja, men..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:44",
+    "line": "Ja, precis. Jag tänker så här, jag vet inte exakt vart..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:48",
+    "line": "Vi kanske har glidit in på det någon gång förut, men vart i tidslinjen började du?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:56",
+    "line": "- Ja, det där är lite intressant. Jag började väl i, så att säga,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:02",
+    "line": "typ aldrig med native JavaScript, vanilla JavaScript, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:06",
+    "line": "Där satte inte ens jag min fot, utan jag tror att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:11",
+    "line": "Kanske att det var någon labb på universitetet,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:14",
+    "line": "men jag tror att det första mötet egentligen var JQuery."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:18",
+    "line": "För det var ju det stora, liksom, då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:21",
+    "line": "När började jag koda och däbla med webb så att säga, det kan väl ha varit 2013-2014 var första gångerna egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:31",
+    "line": "Då var ju jQuery jättestort och det var det som förenklade att göra alla wowiga saker, fräscha saker i browsern som var logik."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:42",
+    "line": "Så det kändes som att det fanns inget annat alternativ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:47",
+    "line": "Nej, exakt. JQuery kom väl redan 2005-2006, denna gång kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:52",
+    "line": "Sen blev det väl inte superstort direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:55",
+    "line": "Men det här är ju också långt före min tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:59",
+    "line": "Eller kanske inte. Det beror på hur man definierar det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:02",
+    "line": "Säg 2006, då var jag 15."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:04",
+    "line": "Och då hade man ju ändå så här..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:08",
+    "line": "Jag gamade mycket, spelade typ CS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:10",
+    "line": "Då hade man ju så här clan-hemsidor som man skulle bygga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:13",
+    "line": "Det var mycket typ copy-paste på templates som folk hade gjort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:17",
+    "line": "Och sen så försökte man lägga in lite egna saker med JavaScript eller jQuery."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:21",
+    "line": "Så det kanske var där någonstans man själv också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:24",
+    "line": "Men det var ett helt annat landskap jämfört med vad det är idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:29",
+    "line": "Alltså det är så fundamentalt skilt både vad man bygger på webben."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:34",
+    "line": "Men också vad som faktiskt man kan göra, eller hur man skriver koden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:41",
+    "line": "Ja, för det är ju speciellt. Jag kommer ihåg när jag byggde på Labrador, med gränssnitt med Java Swing."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:51",
+    "line": "Mm, redan där är det ju extremt långt bort idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:57",
+    "line": "Ja, verkligen. Men det var ju på något sätt väldigt häftigt att \"ja, det är såhär jag kan bygga någonting att klicka på som funkar\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:06",
+    "line": "Jag menar med jQuery och grejer i början var också så här, okej jag bygger en inputruta, en alert, som säger mig någonting så att jag kan klicka på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:14",
+    "line": "Jag tyckte det var häftigt. Och nu känner jag mig så mycket äldre, eller jag känner mig mycket efter, för jag upptäckte de här sakerna väldigt sent när Sakerverket hade börjat bygga system och grejer i JavaScript och så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:30",
+    "line": "Jag var ju väldigt sent på den bollen, men för min del så hade jag nog ingen relation någonsin till att jag kunde bygga saker som kunde användas och existera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:42",
+    "line": "Så jag var rätt sent på den bollen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:44",
+    "line": "Ja, exakt. Första gången jag kommer i kontakt med lite mer moderna ramverk, om vi ska klassa dem som Angular, kanske jag var tidigt ute och reakt och sen Vue så småningom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:58",
+    "line": "Det är nog första steget in i det moderna för mig. Men sen fanns det väl massa grejer innan. Jag kommer inte ihåg vart typ backbone, vilken plats i tidslinjen den har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:08",
+    "line": "Det måste ha kommit innan Angular antar jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:13",
+    "line": "Ja för Backbone var ju liksom, och det satt jag i, det var väl som någon typ av Model View modell."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:21",
+    "line": "Som förlitade sig på att använda HTML templates och sedan trycka in logik i det som uppdaterades."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:30",
+    "line": "När modellen uppdaterades."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:32",
+    "line": "Men det var ju också mycket jQuery."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:35",
+    "line": "Det var mycket muteringen av templaten gjort med hjälp av jQuery."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:42",
+    "line": "Ja exakt, jag godlade nu. Det kom 2010 till en backbone."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:47",
+    "line": "Då är det ju ändå ganska tätt in på, alltså visst fyra år efter jQuery."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:52",
+    "line": "Men jQuery blev ju inte superstort på en dag direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:56",
+    "line": "Var det en sån här MVVC eller? Model View View Container."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:01",
+    "line": "Ja det skulle kunna vara något sånt. Jag funderar också på vilken av alla de här det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:06",
+    "line": "Men det var väl lite grann också så här. För då var ju också MVC och MVVC, alltså Model View Controller och Model View Container eller Controller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:16",
+    "line": "Control säkert."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:18",
+    "line": "Var ju väldigt poppis alltså redan då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:23",
+    "line": "För det vet jag att 2010 började jag vilja plugga på universitetet och det var ju typ det som lärdes ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:31",
+    "line": "Då var det ASP.net och allting sånt kring det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:35",
+    "line": "Som hade funnits väldigt länge vid det laget och ändå var liksom, det är så man gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:38",
+    "line": "Och då var väl backbone, om jag inte minns fel nu, någon typ av liksom,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:42",
+    "line": "\"ja men vi vet att man kan, model view controller funkar väldigt bra på backenden så vi försöker ta den till fronten också\" typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:49",
+    "line": "Ja, alltså jag kämpade så mycket med det där. Så mycket, så mycket, så mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:57",
+    "line": "För det pratade de om i videon också, att brytet kom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:01",
+    "line": "Folk var hela tiden så här, om modellen uppdateras, då uppdaterar vi alla vyer som beror på den modellen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:06",
+    "line": "Och då menar vi verkligen alla vyer som beror på den modellen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:09",
+    "line": "Det var ju en massa vyer som berodde på samma modell."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:11",
+    "line": "Så det gick jag sönder saker jättelätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:13",
+    "line": "Utan att ha koll på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:15",
+    "line": "Ja, verkligen. Jag klev väl kanske in i det här när Angular kom, eller det var det jag började med när jag gjorde lite mer frontend-grejer än backends som jag gjorde först."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:23",
+    "line": "Och där och då kändes det som att den här two-way data binding som Angular populariserade, om inte annat, var liksom \"fy fan vad smart det här är\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:35",
+    "line": "Alltså det är det bästa som jag har varit med om. Att Angular ska till att lyssna på alla ändringar som sker i domen och uppdatera data beroende på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:42",
+    "line": "Och om datan ändras så uppdaterar den motsvarande plats i domen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:46",
+    "line": "Och det var ju magiskt för mig som inte hade gjort så mycket annat innan, men bara suttit med typ jQuery."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:52",
+    "line": "Att det är jQuery, då synkar man. Man skriver ut saker i domen, bla bla bla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:55",
+    "line": "Och man sitter och lyssnar på saker i domen och sen uppdaterar man datan manuellt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:58",
+    "line": "Att bara kunna slänga på en, jag kan inte vet vad det heter, model direktiv på en element i domen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:06",
+    "line": "Och så helt plötsligt synkar den datan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:08",
+    "line": "Alltså det var ju magi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:10",
+    "line": "Ja, det kan jag fast en förstå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:13",
+    "line": "Men jag tror att jag missar lite av den här magibiten för att jag inte kunde javaskrift."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:21",
+    "line": "Eller programmera i en browser överhuvudtaget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:27",
+    "line": "Jag kommer ihåg att det var någon gång jag fick skit för att jag hade ju i Backbone,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:34",
+    "line": "för att jag skulle behöva lyssna på förändringar så hade jag väl skapat en hel del lyssnare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:39",
+    "line": "Men glömt att ta bort dem också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:45",
+    "line": "Jag fick rätt mycket skit för det, kommer jag ihåg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:50",
+    "line": "Jag fattade inte ens vad de sa när de förklarade vad jag hade gjort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:53",
+    "line": "För jag hade ingen koppling riktigt till events och domen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:58",
+    "line": "För jag kom ju ändå från backendsidan i plugget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:04",
+    "line": "Isolerade små funktioner i sandboxade ytor för labbar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:08",
+    "line": "Logiker, dubbellänkade listor och sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:11",
+    "line": "Jag hade noll koppling egentligen till domen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:13",
+    "line": "Så jag var sjukt förvirrad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:15",
+    "line": "Jag tror inte jag fattade magin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:17",
+    "line": "Jag bara visste att allt var trasigt hela tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:19",
+    "line": "Ja, för det blev ju så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:21",
+    "line": "Man märkte ju det, eller i alla fall jag märkte det, att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:25",
+    "line": "den här tvåvägs-synken var ju nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:30",
+    "line": "Men sen som sagt, helt plötsligt så betyder det att den är uppdaterad på jättemånga olika ställen samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:34",
+    "line": "Så vet man inte riktigt vad som händer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:36",
+    "line": "Och samma sak att när man helt plötsligt har samma data på flera olika platser i domen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:40",
+    "line": "så tog det liksom, i och med att Angular var tvungen att lyssna på"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:44",
+    "line": "alla element som man hade bindat till, eller bundit någon typ av data till"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:50",
+    "line": "så tog det också en liten performanceskada av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:56",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:58",
+    "line": "Så jag vet inte, till slut så blev det liksom litegrann"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:02",
+    "line": "Jag tyckte att Angular gjorde det ganska lätt att skriva spagettikod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:05",
+    "line": "Det kan ju också vara att jag var hyfsat oerfaren när jag skrev ganska mycket Angular."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:11",
+    "line": "Men jag vet inte, jag tycker det var den känslan jag har fortfarande idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:20",
+    "line": "I alla fall om AngularJS och inte Angular 2."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:26",
+    "line": "Jag hängde bara lite med AngularJS och så kikade jag bara på Angular 2 när det kom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:32",
+    "line": "Men sen var det nog alltid React för hela slanten för mig ifrån dess."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:40",
+    "line": "Så det är där jag har rört mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:43",
+    "line": "Och det blev ju..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:44",
+    "line": "Alltså för att jag tror..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:45",
+    "line": "Och nu..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:47",
+    "line": "Nu kanske det kommer..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:51",
+    "line": "Jag kanske inte producerar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:52",
+    "line": "Jag kanske ändrar mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:54",
+    "line": "Jag är så oerhört nyfiken på vad som är på väg här nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:59",
+    "line": "Jag tror att hela den här biten att vi slänger bort allting"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:05",
+    "line": "och renderar nytt som var det som React kom med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:09",
+    "line": "Och inte uppdaterar modeller via eventlyssnare på samma sätt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:13",
+    "line": "att vi bara ändrar data överallt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:17",
+    "line": "Jag tror att det gör det lättare för människor som inte är intresserade"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:21",
+    "line": "programmera browser nära."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:23",
+    "line": "Att kanske göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:25",
+    "line": "För att jag tror att ett stort problem som vi hade när vi satt i backbone och så"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:30",
+    "line": "var nog att det var människor som inte var nödvändigtvis intresserade av frontend-programmering"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:37",
+    "line": "som programmerade mycket av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:39",
+    "line": "Och som du säger, MVC var ett jättegött pattern i backend."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:44",
+    "line": "Och så försökte man applicera det på frontend."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:46",
+    "line": "Men det fick större problem i frontend."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:49",
+    "line": "Men det hade man inte riktigt koll på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:51",
+    "line": "Eller ville, typ orkade veta varför."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:55",
+    "line": "Nej, men exakt. Jag tror vi var in lite grann på tänker också som är relaterat till det här när vi pratade typ fullstack-titeln."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:02",
+    "line": "Alltså så här, förr i tiden tror jag mycket oftare så var det att fullstackare det var lite back-endare som hade lärt sig lite javascript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:10",
+    "line": "Och då blir det ju väldigt lätt att, om man hamnar på backbone till exempel, då vill vi ju ha saker i browsen som är nära det vi kan på backend för att då blir det lättare att bli en fullstärkt utvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:21",
+    "line": "Så jag tror definitivt du har en poäng."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:26",
+    "line": "Det där känner jag också. När jag ska ner i backen, jag tycker det är mycket skönare att köra backen i Node."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:35",
+    "line": "Än C# som jag inte har någon relation till. Node känner jag fortfarande hyfsat hemma. Det funkar bättre så jag förstår absolut den grejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:44",
+    "line": "Ja, exakt. Det blir ju väldigt mycket i den här, man vill ju känna igen sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:49",
+    "line": "Och då blir tröskeln lite mindre att ta steget mellan olika miljöer eller back-end-fronten, eller vad man nu ska ta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:56",
+    "line": "Men sen, jag tror att för min del så var det liksom, jag tyckte det var intressant att du gick all in på React direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:04",
+    "line": "För jag försökte ju ändå lära mig React efter Angular när jag började tröttna lite på det, eller AngularJS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:09",
+    "line": "Men jag började trötta lite på det och gav upp för att jag liksom fattade inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:14",
+    "line": "Jag vet inte vad det var, om det var JSX som gjorde mig så jävla förvirrad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:18",
+    "line": "Efter att jag kom från en Angular-bakgrund som det var vid den tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:23",
+    "line": "Man skriver sin html och lägger på lite saker på dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:28",
+    "line": "Och sen synker man sin data."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:31",
+    "line": "Och så försökte jag lära mig React, det var JSX och allt JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:35",
+    "line": "\"Vad fan är det som händer? Det ser så jävla fult ut med en massa HTM-er blandade i dina returns och det är kaos överallt.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:41",
+    "line": "Så det var ju en ganska stor steg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:45",
+    "line": "Också att React idag är också mycket, mycket bättre än React då, vill jag våga påstå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:50",
+    "line": "I att då var det klassikomponenter och det var lifecycle-metoder och det var hur mycket som helst som var lite mäckigt att hålla reda på, kan jag tycka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:59",
+    "line": "Men då hamnade jag i Vue istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:01",
+    "line": "Som kanske då är liksom samma håll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:05",
+    "line": "Men det var ju istället då att det var väldigt mycket närmare AngularJS i det att du skrev din HTML separat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:11",
+    "line": "Och sen la du på attribut på den för att matcha den med ditt state som du skrev separat från allting annat och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:18",
+    "line": "Och det tyckte jag ju var sjukt nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:21",
+    "line": "Så det var en ganska naturlig steg för mig att ta det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:23",
+    "line": "Det var Angular, Sneak and Devue och deras single file components som de fortfarande kör på är att du kunde skriva HTML, CSS och JavaScript i samma fil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:34",
+    "line": "Bara att det var olika sektioner i den filen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:37",
+    "line": "Det i sin tur gjorde säkert att det blev ett mindre steg när jag började med React också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:43",
+    "line": "Allting ligger i samma fil, det är inte så konstigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:46",
+    "line": "Så länge jag lär mig att JSX är inte djävulens påfund så funkar det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:55",
+    "line": "- Ja, du har en sån där fin, den känns organisk vägen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:03",
+    "line": "Lite mindre trappsteg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:06",
+    "line": "- Ja, exakt. Jag vet inte riktigt varför jag lämnade Vue."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:11",
+    "line": "Kanske att det var lite såhär, ja men React är det coola, hippa grejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:16",
+    "line": "Det är där det är mycket, särskilt i Sverige i alla fall då, för det var väldigt tidigt också för Vues del när jag höll på med Vue."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:23",
+    "line": "Särskilt då var det väldigt få i alla fall i Sverige som körde Vue överhuvudtaget, alltså live."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:31",
+    "line": "- En grupptrycksgrej. - Ja men verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:35",
+    "line": "Och lite såhär, jag tror att vi började köra React på jobbet när jag jobbade och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:39",
+    "line": "och då blir det så här, då ska man ju faktiskt kanske lära sig det ordentligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:45",
+    "line": "Ja, jag fick väl lite mer, alltså jag valde ju inte React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:51",
+    "line": "React valde du?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:53",
+    "line": "Jag hade ju hört, ja, nej verkligen inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:58",
+    "line": "Ja, men jag brukar väl ändå säga så att jag har haft otroligt tur i min karriär, eller vad jag ska säga, för att jag har haft fördelen att hamna på väldigt bra tekniker och projekt och liksom överlag lärt mig, för att jag har ju lärt mig saker via jobbet och det är ju typ jobben som har gett mig riktningen, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:24",
+    "line": "Så att jag hamnade på React var verkligen inte ett eget val."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:29",
+    "line": "Utan det var så här, okej, folk bestämde att nu har vi Backbone."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:34",
+    "line": "Vi tycker inte det funkar. Vi borde refakterera om allting i React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:38",
+    "line": "Och det som hände då var att vi försökte integrera React i Backbone-applikationen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:45",
+    "line": "Och det är ju rätt speciellt också, att vi byggde React-komponenter som renderades ut istället för V-templates."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:53",
+    "line": "Så vi hade ju inte en root egentligen där vi renderade ut React, utan vi renderade ut React-komponenter lite här och var, där det passade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:02",
+    "line": "Och sen så hade vi liksom att vi försökte köra \"create React-backbone class\" tror jag, och vi försökte återanvända våra mixins vi hade också, så att det var verkligen stökigt, eller vad man ska säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:17",
+    "line": "Och sen någonstans där så fanns det väl behov av att någon faktiskt kanske lade tid på att lära sig det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:25",
+    "line": "Så jag vet att jag satte mig ner där på jobbet liksom och började läsa Reacts dokumentation och verkligen förstå vad fasen var jag höll på med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:34",
+    "line": "Och jag förstod ju verkligen inte allt för jag hade alldeles för dålig grund liksom gällande webbkodning överlag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:43",
+    "line": "men det la ju ändå väldigt tydlig grund till vad jag höll på med och vad jag skulle fortsätta med på något sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:50",
+    "line": "Ja, just det. Det har vi ändå pratat om lite grann innan, att du lär dig väldigt mycket saker genom jobbet typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:57",
+    "line": "Och jag kanske lite mer har en utforskande hobbyverksamhet så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:04",
+    "line": "Ja, jag måste ha viss press för att orka göra någonting alls."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:08",
+    "line": "Och så kanske den mest vettiga approachen. Man vill ju gärna bli pressad för att göra saker innan man gör dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:16",
+    "line": "Alltid ha en deadline så man mår lite dåligt hela tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:20",
+    "line": "Exakt. Jag förstår verkligen det. Jag tror ju också att jag hade förmodligen lärt mig React bättre, eller Vue bättre, eller AngularJS bättre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:32",
+    "line": "Om det hade, eller Angular kanske är ett dåligt exempel, men de andra som jag körde lite mer på fritiden"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:36",
+    "line": "hade ju förmodligen lärt mig dem bättre om jag hade suttit i något riktigt projekt med andra som också kodade det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:43",
+    "line": "Och att man kunde diskutera saker och sådana saker mer än att man bara,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:47",
+    "line": "\"Ja, nu ska jag hitta på någonting här som jag ska bygga och så bygger jag det med det här och så får det bli som det blir.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:52",
+    "line": "Även om den friheten är ganska skön."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:57",
+    "line": "- Ja, men jag tycker också att det blir en väldigt speciell sak som jag funderat mycket på på sistone."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:02",
+    "line": "Att om jag sitter med andra personer som kan mycket så kan de lära mig saker som jag inte kan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:08",
+    "line": "Men det kan också bli så, har jag märkt, att jag inte lär mig någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:14",
+    "line": "Eller jag lär mig inte tillräckligt istället för att jag kanske skulle behöva sätta mig ner"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:17",
+    "line": "och verkligen förstå i grunden vad vi håller på med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:20",
+    "line": "Men eftersom andra personer vet vad vi håller på med så kan de bara köra och producera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:26",
+    "line": "Och det var ett sidospår, men var någonting jag tänkt mycket på på sistone."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:33",
+    "line": "- Ja, jag tror att det krävs någon typ av balans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:39",
+    "line": "Och sen beror det lite på vad man är för typ av person eller hur man lär sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:43",
+    "line": "Vill man grotta ner sig lite mer så är det kanske svårare att göra det på arbetstid"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:49",
+    "line": "om man inte är dedikerad till att \"nu ska jag sätta mig här och lära mig den här saken\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:53",
+    "line": "Jämfört med att man ska producera någonting och så ska man få ut den här saken och inte göra det på det mest optimala sättet med just det här omverket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:02",
+    "line": "Ja. Men alltså, om man funderar på vart vi är nu då, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:12",
+    "line": "Man har alltid, alltid pratat om att fronten, det rör sig så himla fort och imorgon så kommer det något nytt och så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:19",
+    "line": "React har ju varit stort så himla länge nu och jag tänker ju ändå lite så, eller jag kanske är naiv och hoppas att React kommer finnas länge nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:31",
+    "line": "Länge nu att det inte kommer något som kanske trövar på det sättet för jag kan ju också tycka att."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:35",
+    "line": "Det har tidigare så har någonting alltid skaffat väldigt mycket det var väldigt svårt att bygga saker och jag upplever ju."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:45",
+    "line": "Kanske inte att vi är där nu och det kanske att jag är naiv igen men just att."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:51",
+    "line": "Reakt känns som att det funkar men jag är ju också extremt bajest."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:57",
+    "line": "Ja, om jag ska filosofera kan jag säga, men om jag ska gissa lite hur det kommer bli i framtiden så tror jag att vi kommer ha ett par stora ramverk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:08",
+    "line": "Typ Vue kommer inte försvinna, Svelte kommer inte försvinna förmodligen, React kommer absolut inte försvinna såvitt jag vet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:15",
+    "line": "Det har blivit så pass stort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:18",
+    "line": "Jag skulle tro att det inte är allt för lång tid till exempel innan Facebook släpper kontrollen över React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:26",
+    "line": "Vilket jag tänker att folk inte tror att de kommer att göra men jag är hyfsat säker på att det kommer att ske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:32",
+    "line": "Alltså jag tror att det kommer att ske mer, det kommer att bli en, liksom som andra open source ramverksförare, jag tappar ordet för just nu, men liksom en styrelse eller en styrgrupp mer som är oberoende av vilket förr"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:46",
+    "line": "Ja exakt, en React working group som kommer styra mer över React. Vi såg det till exempel när Sebastian Markbåge som har varit med jättelänge i Reacts core team på Facebook."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:58",
+    "line": "Han bytte jobb nu till Vercel och han kommer fortsätta vara med i Reacts core team fast han jobbar på Vercel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:08",
+    "line": "Så redan där är det lite uppbrytning av Facebooks kontroll över React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:17",
+    "line": "Och jag tror att det kommer att ta, kanske inte i år, men kanske nästa år, ännu ett steg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:22",
+    "line": "Att de säger att nu är det inte Facebook som äger det, så repot kommer att flytta från Facebooks GitHub-pont."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:28",
+    "line": "Så det tror jag kommer att hända. Och sen tror jag också att vi är precis i början på, jag vet inte vad man ska kalla det,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:34",
+    "line": "Meta-ramverkens tidsålder eller något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:38",
+    "line": "Och med det menar jag då inte meta som i Facebook utan meta som i att de är ramverk som byggs ovanpå andra ramverk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:44",
+    "line": "Och det tycker jag vi ser skittydligt med till exempel Next Remix för React till exempel som är de nya."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:50",
+    "line": "Och typ Nuxt för Vue och så vidare. Och typ Svelte Kit för Svelte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:54",
+    "line": "Jag tror att det kommer bli standarden i framtiden. Att det kommer inte vara jättemånga som istället kör"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:00",
+    "line": "ren React, utan det kommer mer bli att jag väljer mellan Next, Remix, Nuxt, Threadkit och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:07",
+    "line": "Så det tror jag är framtiden, om jag får spekulera fritt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:12",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:14",
+    "line": "Ja, även det... Vilka jävla spekulationer här uppe."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:20",
+    "line": "- Ja, men jag har funderat lite grann på det här ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:24",
+    "line": "Frågan har dykt upp och jag har tänkt på vart vi är och vart vi är på väg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:29",
+    "line": "Vad tänker du kring så här, för att du försöker återgå mycket till att använda eller återgå mycket till native web, web components och sen så pratar, och under många år vill jag säga har man pratat mycket om WebAssembler."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:46",
+    "line": "WebAssembly känns som att det kommer säkert komma mycket mer men jag tycker att det är extremt tidigt än."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:54",
+    "line": "Sen finns det ju kanske vissa som är typ early adopters. Jag tror väl att Figma till exempel är byggt i WebAssembly."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:00",
+    "line": "Eller i alla fall vissa delar av Figma. Just för att de kräver så extremt bra prestanda på grafiska saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:06",
+    "line": "Och där kan jag förstå att man kanske behöver gå en nivå djupare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:12",
+    "line": "Sen går det ju säkert att göra det med JavaScript också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:16",
+    "line": "Men det är förmodligen lite lättare när man kan kompilera det till en lägre nivå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:21",
+    "line": "- Ja, verkligen sådana prestandatunga saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:24",
+    "line": "Mycket kanske om du har jättemycket data du ska visa upp i grafik."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:28",
+    "line": "Och kanske även om du kör spel och bygger det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:31",
+    "line": "Så det är logiskt att det är de som är tidiga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:34",
+    "line": "Men ibland så tänker jag att det är lite som 3D."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:38",
+    "line": "Alltså, i alla fall 3D-TV hemma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:40",
+    "line": "Det kom, hypades lite, sen försvann det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:43",
+    "line": "Jo, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:44",
+    "line": "Jag tror inte alls att det kommer bli lika stort som folk som förespråkade säger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:49",
+    "line": "Att javaskriptet kommer att försvinna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:51",
+    "line": "Alltså, det tror jag aldrig kommer att hända."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:53",
+    "line": "Det är liksom ett för stort monster nu för att man ska kunna ta koll på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:59",
+    "line": "Men sen tror jag definitivt att Web Components finns till lite initiativ som är extremt intressanta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:04",
+    "line": "Det finns ett som heter Block Protocol, och då är det inte någon jävla blockchain-skit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:08",
+    "line": "Utan det är, jag kommer inte ihåg vad han heter nu, men det är en prominent webbutvecklare som ligger bakom det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:19",
+    "line": "Och det handlar om att de vill skapa ett protokoll, alltså en standard för hur man ska kunna definiera olika..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:28",
+    "line": "Det blir väl web-components liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:31",
+    "line": "Men som är för typ, om du tänker dig appar som Notion eller OneNote eller vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:36",
+    "line": "Så att man ska kunna återanvända såna här block som finns där i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:40",
+    "line": "Så att vill du ha ett kalenderblock så ska du kunna hitta det på protokollets repo eller vad man ska säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:46",
+    "line": "Och så ska man återanvända det och då ska man också kunna använda samma block över flera olika typer av appar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:51",
+    "line": "Så det är ju skitambitiöst och det har gjorts extremt många försök tidigare att få det att funka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:56",
+    "line": "Men det är ändå intressant att det är någonting som är på g. Eller som folk jobbar på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:02",
+    "line": "- Ja, jag tycker det är lite spännande att det är så svårt att förutspå vad jag kommer sitta och jobba med om några år."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:13",
+    "line": "- Ja, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:15",
+    "line": "För att saker ändras så fort också. En väldigt trivialt exempel är ju typ Prickier. Det fanns en tid då jag sa \"Vadå Prickier? Ska den formatera min kod fult?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:27",
+    "line": "Det tycker jag inte om. Och nu är det så här, ska jag formatera koden själv? Det kommer ju aldrig hända."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:33",
+    "line": "Så det vände ju så väldigt fort. Webpack var det stora när jag började och nu vill vi bort från det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:41",
+    "line": "Ja, exakt. Jag tror att det kom ganska många små idéer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:47",
+    "line": "De är inte små i sig, men formaterar koden automatiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:50",
+    "line": "Det låter inte som en superstor grej, men det får en stor påverkan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:54",
+    "line": "Samma sak tror jag till exempel att Remix, som jag kommer ihåg om tidigare,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:58",
+    "line": "det är det här nya ramverket från React Router, upphovsmakarna,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:02",
+    "line": "som tar en alternativ approach mot det Next har gjort tidigare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:07",
+    "line": "Då är det ju att allting är serverrenderat i stort sett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:12",
+    "line": "Och så försöker de använda så mycket av webbens inbyggda saker som möjligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:16",
+    "line": "Det ser superintressant ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:18",
+    "line": "Och där finns det garanterat idéer som kommer att sprida sig till andra ramverk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:23",
+    "line": "Och den konkurrensen är ju extremt nyttig att den finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:28",
+    "line": "- Ja, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:31",
+    "line": "Sen vet man inte om browsers kommer att utvecklas heller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:35",
+    "line": "- Fan vad jobbigt om någon bara slängde ut allting och bara \"nu är det här\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:39",
+    "line": "- Ja, exakt. Browsers slutar utvecklas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:42",
+    "line": "Jag såg någon tweet häromdagen, ska se om jag kan hitta den igen och länka den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:45",
+    "line": "Men det var någon som skrev något i stil med att man glömmer lätt att browsers är en 60 frames per second renderingsmotor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:57",
+    "line": "Jag tror att de skrev att det var en 60 fps..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:01",
+    "line": "Vad fan sa de?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:02",
+    "line": "\"First person scroller\" eller nåt sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:04",
+    "line": "Istället för en 60 fps shooter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:07",
+    "line": "Men det är definitivt en sak man glömmer ganska lätt, tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:12",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:14",
+    "line": "Ja, men..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:17",
+    "line": "Vi kanske ska sluta sitta och spekulera och återgå till jobb."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:20",
+    "line": "Jag kan slänga ut en sista spekulation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:22",
+    "line": "Så kan jag bara för att när det väl händer så tänker jag att då kan jag säga att det här sa jag för länge sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:27",
+    "line": "- Alltså har du ju ljudbevis. - Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:30",
+    "line": "Och det är ju då att jag tror att Create React App kommer dö inom de närmsta åren."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:37",
+    "line": "- Ja, jag kommer ju inte säga emot dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:40",
+    "line": "- Nej, jag tror att den kommer dö bland annat för att alla de här meta, de verkligen kommer ta över den rollen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:47",
+    "line": "- Ja, de senaste projekten jag har skapat på hobbynivå har jag ju kört på Create Next App."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:52",
+    "line": "Ja, men exakt. Så jag trodde. Det var min sista spekulation i det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:56",
+    "line": "Det är ett långt avsnitt idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:58",
+    "line": "Men det får det vara ibland."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:02",
+    "line": "Ja, men det är också oklart för det har kantats av tekniska problem på min sida."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:07",
+    "line": "Så vi får se."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:07",
+    "line": "Men det är ingen som har märkt när jag har klippt ihop det här sömnlöst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:13",
+    "line": "Vi får se."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:14",
+    "line": "Går det åt helvete så kommer det ligga en liten pling när vi klipper och bara"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:19",
+    "line": "\"Ja, ja, här gick det fel\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:21",
+    "line": "Tack så mycket för idag. Vi finns på Twitter och iTunes."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:31",
+    "line": "Ha det bra så hörs vi om två veckor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:35",
+    "line": "Det gör vi. Vi ses då. Bye bye."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:37",
+    "line": "[Outromusik]"
+  }
+]

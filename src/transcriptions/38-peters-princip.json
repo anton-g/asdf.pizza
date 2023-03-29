@@ -1,0 +1,1517 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Varför är det så svårt att boka möten med gränssnittsutvecklare?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:04",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:06",
+    "line": "De flexar så mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:09",
+    "line": "Den här gillar jag. Den här är fem plus."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Tack, det är mitt senaste."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:18",
+    "line": "Ja, jag tycker det var ett av de bästa hittills."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:21",
+    "line": "Det bara kom till mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:24",
+    "line": "Ja, jag förstår det. Det var riktigt, riktigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:27",
+    "line": "Toppen. Nu är jag glad. Fan, jag är rädd hela dagen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:31",
+    "line": "Välkomna till ett nytt avsnitt av ASTF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:35",
+    "line": "Idag tänkte jag att vi skulle prata lite om karriär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:43",
+    "line": "Jag har lite tankar, men du kan få börja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:50",
+    "line": "Om du bara hör ordet karriär, vad tänker du på?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:55",
+    "line": "Är det positiva eller negativa konnotationer du får?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:00",
+    "line": "Jag vet inte, jag tror inte att det är enbart det ena eller det andra. Jag tror att jag tänker på att det är väldigt klassiska att ta sig igenom nya roller och röra sig uppåt i bolag känns väldigt mycket som karriär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:22",
+    "line": "eller att välja annan typ av sätt att arbeta på kan också vara en karriär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:30",
+    "line": "Men när jag hör det så tänker jag också väldigt mycket på stress och att jobba väldigt mycket och att det är hetsigt tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:41",
+    "line": "Så att det är en mixad kompott."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:45",
+    "line": "Vad tänker du kring det här?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:50",
+    "line": "Jo, men jag har ändå funderat lite på det sista."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:54",
+    "line": "Anledningen till att jag funderar på det är att jag nu är konsult."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:58",
+    "line": "Så jag har tänkt lite på hur länge jag vill vara konsult."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:01",
+    "line": "Och vill jag göra något annat än att bara skriva kod?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:06",
+    "line": "Vill jag gå vidare och göra något mer?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:09",
+    "line": "Och då börjar jag tänka en massa på hur karriärstägar eller karriärstrappor"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:18",
+    "line": "eller vad det nu brukar liknas med på konsultbolag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:23",
+    "line": "Typ mitt förra konsultbolag så var det en väldigt tydlig steg som man gick upp på i olika nivåer"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:31",
+    "line": "vid utsatta tidpunkter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:33",
+    "line": "Och det var liksom \"ja men jag är på det här steget nu, jag kommer till nästa, jag kommer till det här\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:37",
+    "line": "Och vid en viss nivå var man tvungen att ha personalansvar till exempel, vilket väldigt ofta är fallet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:44",
+    "line": "Och då tänkte jag också så här, ja men okej, som utvecklare, vilka vägar finns det att gå egentligen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:51",
+    "line": "För det känns som att det väldigt ofta, i min bild, är att du är utvecklare och sen kanske du blir,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:57",
+    "line": "ja men nu blir du lite teamlead eller techlead eller något, det är liksom nästa steg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:00",
+    "line": "Och sen helt plötsligt så har du någon managerroll där du liksom kodar mycket mindre än vad du kanske utvecklar,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:05",
+    "line": "även om du vill utveckla mer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:09",
+    "line": "Ja, alltså för min del så tänker jag nog att så fort du tar en roll över bara utvecklare inom situationstecken så kodar du automatiskt mycket mindre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:24",
+    "line": "Och det tycker jag även innefattar team lead och tech lead och arkitekt och CTO och vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:33",
+    "line": "Tech-lead kan såklart vara annorlunda på olika ställen, men jag tycker alltid att det blir så här, nu kommer vi in på det här med möten igen,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:41",
+    "line": "men att det blir liksom mer administrativa saker som faller på de här rollerna, mer av möten, ansvarsområden kring liksom,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:53",
+    "line": "om man håller på med rekrytering, mycket intervjuer och sånt, och arkitektur är ju ofta mycket mer att sitta och tänka och testa saker än det är att faktiskt rent koda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:02",
+    "line": "koda. Så för mig så känner jag att karriär härifrån kommer vara en karriär bort från att sitta nära kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:13",
+    "line": "- Ja, precis. För det är den bilden jag också har som sagt. Jag har insett att jag vill nog alltid koda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:24",
+    "line": "Alltså som jag är nu. Skulle jag bli erbjuden nästa steg i karriären, oavsett vad det skulle vara, så skulle det kännas som att jag vill nog koda mer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:34",
+    "line": "Till exempel rollen jag sitter på nu hos kunden är 50% Scrum Master och gör ganska mycket administrativa grejer som är runt omkring."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:42",
+    "line": "Och sen är 50% ungefär utvecklartid, även om det skiftar väldigt mycket mellan dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:46",
+    "line": "Men det har fått mig in i att vilja ha mer av den här administrativen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:51",
+    "line": "Nej, jag vet inte om jag vill det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:53",
+    "line": "Samtidigt finns det mycket annat som kanske inte är koda som lockar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:59",
+    "line": "Som kanske hålla mer presentationer eller någon typ av utbildningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:05",
+    "line": "Eller att man gör events som är riktade mot utvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:12",
+    "line": "som är lite mjukare saker men som ändå på något sätt blir väldigt utvecklad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:17",
+    "line": "Jag tycker att det är så svårt att definiera någon typ av karriärsväg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:24",
+    "line": "Det har jag alltid tyckt, även när jag var helt ny som utvecklare,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:27",
+    "line": "man kände att man kanske vill bli tech-lead i något team."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:30",
+    "line": "För det låter coolt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:32",
+    "line": "Då tyckte jag fortfarande att det är väldigt oklart hur vägen dit ser ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:37",
+    "line": "Ja, jag är en väldigt, jag vet inte vad jag har för relation till tanken på att göra karriär överhuvudtaget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:48",
+    "line": "Alltså för att det finns ju alltid ett driv på något sätt att röra sig framåt känns det som."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:55",
+    "line": "Men när jag började koda och jag tänkte att jag skulle jobba med det,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:01",
+    "line": "så såg jag mig alltid framför mig att jag skulle vara en väldigt liten kugge i ett stort maskineri."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:08",
+    "line": "Jag ville gärna, så här, okej, men då går jag in på ett stort företag och så sitter jag och så gör jag min grej i ett hörn och så rullar det på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:16",
+    "line": "Och sen så har det inte stannat där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:20",
+    "line": "Och jag vet inte, det är inte som att jag någonsin haft en plan på att jag ska göra en karriär eller röra mig framåt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:28",
+    "line": "Jag tror att det kanske bara är att jag är alldeles för glappkäft, att jag inte kan hålla mig ifrån."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:36",
+    "line": "- Du pratar mycket och får mycket uppmärksamhet av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:39",
+    "line": "- Ja, och liksom ger mig in i saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:44",
+    "line": "Inte för att jag tror att det ger mig karriärsmöjligheter, utan för att jag vill göra saker bättre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:53",
+    "line": "och jag vill att människor ska må bra och de bitarna i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:58",
+    "line": "Men jag börjar väl känna också mycket att jag vill nog inte ha så mycket ansvar"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:05",
+    "line": "och jag vill kanske mera nörda ner mig och vara tekniknära för att en del av mig"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:13",
+    "line": "känner att jag vill verkligen också bara jobba."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:17",
+    "line": "Jag vill inte ge hela min själ och hela mitt känsla och liv och allt det är till jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:24",
+    "line": "Nej men precis, det är en viktig del av det. Tittar man på riktiga karriärister som jag känner så ger de ju extremt mycket för jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:38",
+    "line": "De lägger ner extremt mycket energi, kanske framförallt på jobbet, och även tid som en konsekvens av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:44",
+    "line": "Men, jag tror att min del är också väldigt viktig, som du säger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:50",
+    "line": "Det är mycket utanför jobbet som är viktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:53",
+    "line": "Jag kanske prioriterar andra saker hellre än att ta något steg i någon karriär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:57",
+    "line": "Men, samtidigt ser jag kanske att vissa delar av saker jag skulle kunna,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:04",
+    "line": "som jag pratade om innan, att hålla någon utbildning eller vad som helst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:09",
+    "line": "Kanske kräver att man lägger ner mycket tid för att komma dit, eller energi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:14",
+    "line": "Och då måste man, jag tycker det är svårt att prioritera ibland,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:17",
+    "line": "att jag vill verkligen göra den här grejen, det verkar skitkul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:20",
+    "line": "Men jag vet inte om jag vill lägga ner tiden för att komma dit,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:23",
+    "line": "eller energin för att komma dit och liksom offra andra saker på vägen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:27",
+    "line": "Det är väl, det är det som jag tänker beskriva livet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:29",
+    "line": "Men i vilket fall så tror jag att det kanske är en viktig avvägning att göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:37",
+    "line": "Och för min del så är det väldigt mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:41",
+    "line": "Jag skulle säkert lätt kunna få mer personalansvar eller lidansvar eller vad jag nu skulle vilja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:48",
+    "line": "Om jag nu ville det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:52",
+    "line": "Men jag vet inte heller om jag är den bästa personen för den rollen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:57",
+    "line": "Jag tror kanske att jag är okej på att leda andra, men är jag superbra på det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:02",
+    "line": "Alltså att ha ett ordentligt eller ett konkret personalansvar och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:05",
+    "line": "Kan säkert finna folk bättre än mig på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:08",
+    "line": "– Ja, alltså jag vill absolut inte ha personalansvar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:16",
+    "line": "Det är så himla läskigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:25",
+    "line": "Alltså det är liksom, i frågestil är allting som jag gör, jag tänker mot mig själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:33",
+    "line": "Och sen ska man helt plötsligt ha en påverkan på andra människors liv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:38",
+    "line": "Herregud vad obehagligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:42",
+    "line": "Ja, och det finns ju en forskningsteori från början som heter Peter's principle."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:50",
+    "line": "Det handlar om att folk blir befodrade tills de inte har kompetensen för sin roll längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:58",
+    "line": "Det vill säga att du kanske är utvecklare och så blir du befodrad, nu är du en lidutvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:05",
+    "line": "Och sen blir du befodrad och nu helt plötsligt har du personalansvar, men du har ingen kunskap om att ha personalansvar överhuvudtaget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:10",
+    "line": "Så att man blir befodrad tills man är över sin kompetensnivå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:14",
+    "line": "Jag tror att den här kom på 70-80-talet eller något sånt där och det har forskats om att det här faktiskt händer på riktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:23",
+    "line": "Och den tycker jag är ett tydligt exempel på att det absolut inte ska hända mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:30",
+    "line": "Ja, det är ganska tydligt att det händer, för om man ska vara sådant så har man väl stött på ganska många i ledarpositioner som kanske inte är direkt passade att ha den rollen, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:48",
+    "line": "ur alla fall vissa perspektiv. Vissa kanske har en otroligt tydlig bild av vad de tror att rollen innebär,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:59",
+    "line": "men teori är inte alltid applicerbart på verkligheten, liksom som på så många andra ställen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:08",
+    "line": "- Nej, och jag tror också att det är mycket som saknas på kanske ställen där det här händer,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:13",
+    "line": "att säga att man får personalansvar när man har börjat som utvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:17",
+    "line": "Det händer så känns det också som att i min erfarenhet av det jag har sett"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:22",
+    "line": "så saknas det också väldigt mycket supportstruktur kring personen som ska ha personalansvaret."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:28",
+    "line": "Alltså hur ska man utbilda den personen i ett personalansvar?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:31",
+    "line": "Hur ska man supporta den framåt så till så att den klarar av sitt jobb?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:35",
+    "line": "Det kan ju säga att det har funnits, men jag har inte sett det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:39",
+    "line": "Det jag har sett och tänkt på är att det verkar saknas lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:45",
+    "line": "– Ja. Jag är också lite fascinerad av de här grejerna, om man pratar utvecklare och vilka man vill promota."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:54",
+    "line": "Nu ska jag in och vifta i det här ämnet som vi alla vet att jag gillar att vifta så mycket kring."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:59",
+    "line": "Men just om vi pratar många kvinnliga utvecklare till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:04",
+    "line": "För man pratar mycket om att kvinnor just lämnar de tekniska rollerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:09",
+    "line": "Men många som jag har pratat med, som har jobbat ett antal år också, blir alltid nästan så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:18",
+    "line": "approachade av kanske ledning eller chef eller så här, och mycket så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:25",
+    "line": "men du är så himla bra på det här, jag tror att du skulle passa i den här rollen om det kan vara produktägare"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:31",
+    "line": "eller engineering manager eller vad det är och pushar att \"men du är så bra på det här, du är så bra på att lyssna på människor, du är så bra på att göra det\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:43",
+    "line": "och liksom få dem att lämna de tekniska rollerna också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:48",
+    "line": "Och jag har väl ändå också hamnat lite i den delen gång på gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:59",
+    "line": "Och det som händer är att det är ändå smickrande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:03",
+    "line": "\"Just det, jag kan ta ett karriärsteg, jag kan få mer ansvar, de tycker jag är bra på saker, det är prestigefyllt, jag blir glad av att folk tycker jag gör ett bra jobb.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:19",
+    "line": "Så jag känner mig ändå manad att ta det beslutet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:24",
+    "line": "Men sen så om jag verkligen ska försöka känna vad jag känner så vill jag absolut inte göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:29",
+    "line": "Det är för jobbigt och det tar för mycket av mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:31",
+    "line": "Jag vill ju bli bra tekniskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:33",
+    "line": "Jag vill ju bli supernörd egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:36",
+    "line": "Ja, men verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:39",
+    "line": "Och det är ju garanterat något som händer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:42",
+    "line": "Jag vet inte om det är liksom att icke-män är bättre på att visa upp saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:53",
+    "line": "Eller om det är liksom... Jag har liksom inget svar på varför det händer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:58",
+    "line": "Men jag kan definitivt tänka mig att kvinnor liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:04",
+    "line": "Jag vet inte om du ser det, men det känns som att man får till slut lite uppmärksamhet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:07",
+    "line": "Och man får liksom en möjlighet och man kanske inte känner sig tillräckligt uppskattad"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:12",
+    "line": "vad man borde vara på grund av andra saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:15",
+    "line": "Och då känner man att okej, den här rollen är liksom en möjlighet jag inte ska tacka nej till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:22",
+    "line": "Ja, sen så tror jag också att det finns en väldigt enkel del i det med, det finns forskning som har visat på att mycket i heterosexuella relationer och så, så är kvinnorna de som är bättre på att sätta sig in i partners perspektiv och forma sig efter vad den partnern gör eller behöver."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:41",
+    "line": "Och jag tror att det kanske oftast tas med in på en arbetsplats också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:45",
+    "line": "Så det kanske inte så mycket att kvinnorna är nödvändigtvis bättre på rollen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:51",
+    "line": "Det kanske bara att de lyssnar lite mer eller kommunicerar på ett annat sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:54",
+    "line": "Vilket gör att man tror att då är det automatiskt så att hon är så bra på att ta hand om andra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:00",
+    "line": "Men jag tror att det är väldigt strukturellt egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:03",
+    "line": "Ja, verkligen. Det kan jag absolut tänka mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:09",
+    "line": "Men där behöver vi inte fastna. Men det är bara intressant för att jag har haft så fort jag har, och det händer inte jätteofta, men så fort jag har en"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:21",
+    "line": "har en konversation med mer seniora kvinnor och kvinnliga utvecklare, då är de upplevelserna ganska lika ofta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:32",
+    "line": "Och det är ganska många som, likt jag, känner att jag bara vill bli nörd."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:43",
+    "line": "Jag vet inte, jag tror inte att jag har så mycket mer att säga på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:49",
+    "line": "Men jag tror definitivt som du säger att det finns en skillnad i hur karriär upplevs mellan kvinnor och män."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:59",
+    "line": "Ja, men jag menar sen är det ju, alltså vi, på något sätt känns det ju som att vår roll eller vårt yrke är väldigt speciellt också för att jag, ibland kan jag ju ändå avundas någon som sätter ett tydligt mål för att tidigt i min karriär så hamnade jag på en intern förberedande ledarskapskurs på bolaget liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:22",
+    "line": "Jag har ingen aning om hur jag hamnade där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:25",
+    "line": "Och jag betydde mig säkert inte alls så corporate eller vettigt som jag borde ha gjort där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:34",
+    "line": "Men de jag gick med var väldigt tydliga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:37",
+    "line": "Vi hade alla jobbat mindre än ett år."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:40",
+    "line": "Men det var så här, ja, men jag vill ju bli chef."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:43",
+    "line": "Och det tänker jag inte nu, utan jag tänker att jag måste jobba några år först"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:49",
+    "line": "och känna hur det är att faktiskt jobba med de här delarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:53",
+    "line": "Och sen så vill jag ju gå upp och bli team lead,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:55",
+    "line": "och sen så vill jag bli chef, och sen så vill jag bli högre chef."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:58",
+    "line": "Alltså det är ju tydligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:59",
+    "line": "Alltså de hade så väldigt tydliga liksom"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:03",
+    "line": "mål och utstockat väg för hur de såg sin karriär framför sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:13",
+    "line": "Och de använde verkligen den här ledarskapskursen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:16",
+    "line": "till att försöka, hur kan jag bli en bättre människa?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:21",
+    "line": "Sen ska också sägas att alla var redan så viktiga"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:24",
+    "line": "så att ingen kunde pausa att skicka mejl"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:27",
+    "line": "under hela utbildningen eller kolla sin mobil också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:30",
+    "line": "Jag bara satt där, min kod är väl kvar där borta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:33",
+    "line": "Så det var en helt annan mentalitet och känsla på dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:37",
+    "line": "Jag kände mig verkligen som fisken i vattnet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:42",
+    "line": "Men jag kan på något sätt ändå avundras den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:45",
+    "line": "Det är så här, nu kör vi! Det finns inga alternativ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:51",
+    "line": "- Det är den långsiktiga planen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:53",
+    "line": "Folk jag pluggade med hade samma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:59",
+    "line": "Jag ska vara utvecklare i två, tre år för då lär jag mig hur det funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:02",
+    "line": "Och då kommer jag bli en mycket bättre teamleader eller chef när jag är klar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:08",
+    "line": "\"Okej, kul. Good for you att du har en långsiktig plan.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:13",
+    "line": "Jag knackar lite kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:15",
+    "line": "Men om vi ska prata långsiktiga planer,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:22",
+    "line": "vart ser du dig själv karriärsmässigt om fem år?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:26",
+    "line": "Bara för att jag inte kom på något bättre år."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:28",
+    "line": "Vilket är en klassisk intervjufråga som jag hatar att få."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:32",
+    "line": "Jag vet inte. Jag ser mig själv kvar på samma ställe."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:37",
+    "line": "Det jag verkligen önskar att, och det här kanske inte själv har energi, men orker något att göra,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:50",
+    "line": "men det jag skulle vilja göra är att egentligen kunna släppa lite av..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:56",
+    "line": "För jag har kanske hamnat i lite sådär att jag har lärt mig mer om arbetsmiljölagaren"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:01",
+    "line": "än jag har lärt mig om den senaste tekniken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:03",
+    "line": "Jag önskar att jag kan istället fokusera på att lära mig mer teknik och bli bättre tekniskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:10",
+    "line": "Och om jag ska ta ett annat steg i karriären, och då menar jag verkligen \"om\", uppåt så,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:19",
+    "line": "då vill jag ju nog göra det i en teknisk roll och inte en produkt- eller projektroll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:30",
+    "line": "Så i sådana fall så ser jag mig förhoppningsvis mer åt det tekniska hållet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:35",
+    "line": "Men jag kanske bara harvar på på samma sätt. Jag har ingen aning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:42",
+    "line": "- Ja, det jag tänker också när du pratar om arbetsmiljölagare och allt sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:46",
+    "line": "Lite är det ju för att du brinner för de frågorna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:52",
+    "line": "Sen att du kanske brinner för dem inte av vilja utan av omständigheter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:59",
+    "line": "Det är ju en annan fråga. Men det är lite så därför du blir där och att då kanske det tekniska har blivit lidande av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:07",
+    "line": "Alltså du är typ argare på världen än vad du är taggad på att lära dig om nya objekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:14",
+    "line": "Ja, så är det väl. Så ilskan för världen tar över."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:21",
+    "line": "Också kanske hur tidigare erfarenheter kring händelser har färgat mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:29",
+    "line": "Men det hade varit skönt att kunna släppa det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:33",
+    "line": "Kan vi inte bara fixa världen, tänker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:35",
+    "line": "Då skulle du kunna bli jävligt teknisk sen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:38",
+    "line": "Om du lade all den energin på det tekniska också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:41",
+    "line": "Det här hade jag massa tid över. Men ja, vart ser du dig om fem år?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:47",
+    "line": "Jag tycker också det är en skitsvår fråga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:50",
+    "line": "Lite är det ju, eftersom jag är in på tidighet så vill jag fortfarande skriva kod, jag vill fortfarande göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:57",
+    "line": "Men sen är det så här, ja vill jag göra det hela tiden?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:01",
+    "line": "Jag tycker till exempel att det är väldigt kul att driva projekt i stil med att ta fram nya koncept på student-event som vi håller på bolaget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:13",
+    "line": "Bara för att ta ett trött exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:15",
+    "line": "Sånt är extremt kul, men jag vet inte om jag kan både göra det och knacka kod eller sitta hos kunden 100%."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:27",
+    "line": "Det känns som att min framtid kommer nog att avgöra sig och hur mycket jag vill fortsätta vara konsult tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:35",
+    "line": "Vill jag fortsätta vara konsult tror jag att jag kommer att vara en mer erfaren konsult, eller mer erfaren utvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:44",
+    "line": "Och inte kanske tagen av andra tydliga roller utan mer bara att man kan ta roller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:49",
+    "line": "Och mer tekniska och kanske inte sitta som Scrum Master."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:56",
+    "line": "Inte för att jag inte tycker om mitt jobb just nu, för jag tycker att jag gillar det. Men jag tror att i längden kommer jag tröttna på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:02",
+    "line": "Men egentligen så tänker jag nog också att jag skulle vilja säga att man skriver kod 80% eller 75% eller något i den stilen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:11",
+    "line": "Och sen att man bygger bolag eller att man engagerar sig internt mer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:18",
+    "line": "Om någon vecka här, nästa vecka tror jag, så hostar jag ett Code in the Dark-event på jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:25",
+    "line": "Att kunna göra det lite mer dedikerat och kunna tänka på hur ska vi göra det här?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:31",
+    "line": "Eller hur ska vi jobba med rekrytering?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:35",
+    "line": "Alltså som sagt, jobba lite mer internt är det jag skulle vilja göra nu tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:39",
+    "line": "Så om jag vill göra om fem år är också en jävligt bra fråga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:42",
+    "line": "Om fem år är fan piss lång tid. Det är lika länge sedan jag har varit som utvecklare nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:46",
+    "line": "Jag tycker det är sjukt svårt. Men jag tror som sagt att det beror lite på så här, okej kommer jag vara konsult om fem år då tror jag att jag gör väldigt mycket liknande saker som jag gör nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:00",
+    "line": "Och om jag inte är det då tror jag snarare att jag sitter på ett produktbolag kanske med någon rätt teknisk roll som utvecklare men att man även tar ganska mycket tid och lägger på att hjälpa rekryterarna med tekniska perspektiv"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:15",
+    "line": "eller hostar events eller annat kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:21",
+    "line": "Evangelist kanske, Code in the Dark evangelist."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:24",
+    "line": "Ja, för det är ju också en del."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:26",
+    "line": "Jag tycker det är väldigt kul att hålla presentationer och sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:31",
+    "line": "Men jag är ju extremt dålig på att komma på idéer för presentationer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:36",
+    "line": "Det brukar ju falla på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:37",
+    "line": "Men det är också en grej som jag skulle kunna tänka mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:40",
+    "line": "Det känns också som en grej som kanske är lite..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:44",
+    "line": "Man skulle kunna jobba på ett bolag där man faktiskt jobbar som evangelist."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:49",
+    "line": "Det är så oerhört religiöst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:53",
+    "line": "Vilket ger mig lite negativa vibbar av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:58",
+    "line": "- Men promoter kanske? - Ja, promoter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:01",
+    "line": "Eller vad heter det andra? Developer advocate kanske är det populäraste"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:06",
+    "line": "nu för tiden när man jobbar på något hippt, utvecklare-fokuserat bolag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:12",
+    "line": "Ja, jag är inte så hipp. Jag har tappat det fullständigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:16",
+    "line": "Ja, det är inte lätt alla gånger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:19",
+    "line": "Du hör ju själv hur flummigt jag vill prata om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:24",
+    "line": "Det var därför jag också tyckte att det var kul att prata om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:29",
+    "line": "För det är lite de här tankarna jag har gått och funderat på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:33",
+    "line": "Vad fan är en utvecklarkarriär för en själv och andra?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:38",
+    "line": "Jag tror att så mycket, i alla fall för min del, handlar också om"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:45",
+    "line": "min egen relation till mig själv och hur jag lär mig prioritera hela livet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:56",
+    "line": "Jag tror inte jag är ensam om det, men ju yngre man är, desto mer kanske man bara kör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:04",
+    "line": "Jag har ju under många år bara kört på utan respekt för mitt egna välbefinnande och min egna ork och att jag älskar orket att göra något annat i livet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:20",
+    "line": "Jag har varit väldigt fokuserad på att är jag inte bra på jobbet då är jag ingenting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:26",
+    "line": "Om jag inte presterar då existerar jag inte, då har jag inget värde."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:31",
+    "line": "värde och det här är ju ett extremt ohälsosamt beteende."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:37",
+    "line": "Och det är ju överlag tycker jag är så ohälsosamt idag när man"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:40",
+    "line": "lite skryter om hur mycket man jobbar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:44",
+    "line": "Jag har också varit en del av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:46",
+    "line": "\"Jag har jobbat så här mycket och jag har så här många möten\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:48",
+    "line": "och jag säger \"varför skryter jag om det? Det är inte hälsosamt och det är inte där jag vill vara\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:53",
+    "line": "Så jag hoppas ju att om fem år att jag har en annan relation till det hela också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:58",
+    "line": "att kan ta det lite lugnare och då kanske det finns flera olika roller som jag kan axla som jag inte ens kan tänka mig nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:06",
+    "line": "Jag tror att grunden är att jag måste personligen lära mig att jag kan inte köra på till vilket pris som helst för att det är inte hållbart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:16",
+    "line": "Ja, verkligen. Jag tror också att det är ett extremt vettigt perspektiv att ta på när man pratar karriär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:25",
+    "line": "Som hela vårt senaste halvtimme har varit här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:28",
+    "line": "Vi pratar karriär och då pratar man väldigt konkreta jobbroller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:33",
+    "line": "Men det känns ju lika mycket som att min karriär kan vara att jag mår bättre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:39",
+    "line": "Jag har samma roll men jag mår bättre och hanterar den bättre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:42",
+    "line": "Work-life balance."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:47",
+    "line": "Så jävla uttjatat uttryck alltså."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:50",
+    "line": "Ja, jag vet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:52",
+    "line": "Men jag har inget bättre heller. Jag vet inte riktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:55",
+    "line": "Nej, jag vet inte. Jag vet inte om det finns någon work-life balance."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:00",
+    "line": "Jag tänker så här att man bara har en mer hälsosam relation till arbete."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:06",
+    "line": "Det är ju igen den jag har pratat om förut med, \"What's your dream job?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:12",
+    "line": "\"I don't dream about labor.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:15",
+    "line": "Just att det är okej att inte älska sitt jobb också. Det är okej att du inte lever din dröm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:26",
+    "line": "Sen så är det ju såklart okej att gilla sitt jobb också, men att ha en relation bara gå till jobbet och göra din grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:34",
+    "line": "Det kan vara helt neutralt också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:38",
+    "line": "Ja verkligen. Jag läste en artikel av Sara Dresner som pratade om att förmågan att komma in i flow är mycket viktigare än att ha passion för det man gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:55",
+    "line": "Flow definierade hon som när man kommer in och man känner att man tål frustrationen bättre, man känner att allting går sin väg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:03",
+    "line": "Jag tänker att de flesta utvecklare kan identifiera sig med att man kommer in i flow ibland."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:08",
+    "line": "Oavsett hur kort eller långt det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:10",
+    "line": "Men den artikeln kan jag länka i avsnittsbeskrivningen så kan folk få läsa den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:17",
+    "line": "Jag tyckte den var väldigt bra i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:19",
+    "line": "Ja, den låter nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:21",
+    "line": "Men som vanligt så har vi ju inga svar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:25",
+    "line": "Det hade varit konstigt om vi aldrig haft det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:27",
+    "line": "Det hade också varit lite sensationellt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:29",
+    "line": "Poppis vad det blivit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:31",
+    "line": "(skratt)"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:33",
+    "line": "Ja, men..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:35",
+    "line": "Vi kanske får runda av där helt enkelt och fundera vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:40",
+    "line": "Jag tror det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:42",
+    "line": "Men då så säger vi som vanligt att vi finns på Twitter om det är någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:49",
+    "line": "Speciellt Anton. Hör alltid över till Anton i första hand."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:53",
+    "line": "Skriv en recension på iTunes om ni vill för då blir Anton väldigt glad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:57",
+    "line": "-Och annars hörs vi om två veckor. -Det gör vi. Vi säger så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:01",
+    "line": "-Det gör vi. Hej hej. -Bye bye."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:03",
+    "line": "Hej då!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:05",
+    "line": "[Outromusik]"
+  }
+]

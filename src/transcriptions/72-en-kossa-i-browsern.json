@@ -1,0 +1,2162 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "What programming language does Austin Powers use?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "Ehh..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:09",
+    "line": "Aj, fan jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:11",
+    "line": "Groovy, baby!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:13",
+    "line": "Asså, fuck!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:15",
+    "line": "Fan, det var för länge sedan jag såg de här filmerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:19",
+    "line": "Fan, alltså."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:21",
+    "line": "Och då tänkte jag ändå på det, typ i går, för att det var något \"alla mot alla\"-avsnitt,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:26",
+    "line": "när det var någon fråga om Austin Powers."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:28",
+    "line": "Då tänkte jag, fan man kanske ska kolla om Austin Powers-filmerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:30",
+    "line": "- Jaha."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:32",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:34",
+    "line": "- Jag vet inte, det här var senast jag såg någonting om Groovy flasha förbi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:38",
+    "line": "Och då tänkte jag, jävlar det var länge sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:40",
+    "line": "Och sen direkt så gick det ut till Austin Powers."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:42",
+    "line": "Jag vet inte, jag ber om ursäkt alla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:44",
+    "line": "Det är så här nu. - Det var ju svimbra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:46",
+    "line": "- Varför svimbra?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:48",
+    "line": "Alltså det gjorde mer ont än något annat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:51",
+    "line": "- Nej jag tycker det var ett av de bättre på länge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:54",
+    "line": "- Ja, ja, hörrni. Välkomna till ett nytt avsnitt av ASDF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:00",
+    "line": "Vi tänkte försöka, det var ju något avsnitt sen när jag sa att jag hade tre små notiser vi skulle prata om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:07",
+    "line": "Jag tror att jag sa det i inspelningen också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:09",
+    "line": "Och vi hann igenom en av dem, så vi tänkte att vi fortsätter på den listan och ser hur det går."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:15",
+    "line": "Och nu är det ju så här, inte riktigt lika aktuellt längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:20",
+    "line": "Men så är ju vi, vi är liksom inte de som springer med skopen utan vi kommer helt enkelt lite senare än alla andra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:29",
+    "line": "- Springer med skopen också, ja men vi är inte gen-zis, det kan vi konstatera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:37",
+    "line": "- Men det var ju för några veckor sedan när Twitter eller Elon Musk egentligen kan man väl säga,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:46",
+    "line": "För det känns ju som att det är han som ligger bakom varenda litet beslut där nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:50",
+    "line": "Stängde av API-accessen för tredjepartsappar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:55",
+    "line": "Just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:58",
+    "line": "Och jag vet inte om jag någonsin har sett eller upplevt någon..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:05",
+    "line": "Där ett företag som ändå har ett ekosystem, som är ganska utvecklarnära och driver ganska mycket..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:14",
+    "line": "Det har byggts ganska mycket tjänster ovanpå Twitter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:17",
+    "line": "Och jag vet liksom inte om jag har någonsin sett ett så snabbt, en snabb ändring i att såhär, \"Nu, fuck them all, nu skiter vi i dem.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:27",
+    "line": "Och sen ta ett beslut som gäller åt helt andra hållet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:30",
+    "line": "- Ja, alltså vad hände? Jag kommer ihåg att du sa det där, och sen har jag glömt bort det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:37",
+    "line": "Men vad har hänt efteråt liksom? Vad...?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:39",
+    "line": "De stängde ju av, det har ju alltid funnits en gratis nivå på Twitters API."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:50",
+    "line": "Där du har kunnat göra ganska mycket. Det är därför det finns väldigt mycket bottar som postar automatiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:56",
+    "line": "Och Twitek."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:58",
+    "line": "Ja exakt, tredje parts appar har gått via det här för att de har inte kostat pengar till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:03",
+    "line": "Och de släppte helt sjuka priser va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:05",
+    "line": "Ja, alltså de priserna, jag ska försöka hitta dem för jag har dem inte framför mig nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:10",
+    "line": "Men, alltså det var helt sinnessjukt hur mycket det kostade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:14",
+    "line": "Alltså det var liksom, jag tror det var typ 3000 dollar i månaden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:19",
+    "line": "Eller det var 300 dollar i månaden kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:22",
+    "line": "För typ 500 requests eller något sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:26",
+    "line": "Alltså det var liksom, för mig att det kostade fan mer än en dollar per request eller något sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:35",
+    "line": "Jag har också att det var 500 request. Tänk om du har något som står och pingar den där skiten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:45",
+    "line": "Ja, men det är ju ganska sjukt. För att först det var ju en liten föraning innan när de stängde av vissa tredjepartsappar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:55",
+    "line": "Alltså specifikt bara dem så att API var fortfarande öppet. Men sen så stängde de av vissa tredjepartsappar för att nu ska ni inte få finnas längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:03",
+    "line": "Och det är ganska sjukt för att titta på, är det TweetDeck som är den första, va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:13",
+    "line": "Första, vadå?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:16",
+    "line": "Nej men första tredjepartsappen liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:20",
+    "line": "Ja, jag hade den i skolan. Så det var ju typ 2012, 2013 i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:27",
+    "line": "Jag tror att just Tweetdeck var den första, nej det var Tweetbot kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:35",
+    "line": "Eller var det Twitterific? Ja du ser det finns ju ett gäng."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:39",
+    "line": "Men det som är så kul, det som talar extra tydligt för hur stor del 3D-partsappar och utvecklare och sånt var av Twitter"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:46",
+    "line": "var till exempel att när Twitter lanserades så hade det inte fågeln till Logga till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:52",
+    "line": "Utan det kommer från en, jag tror att det var Twitterific som hade en fågel, en blå fågel som lagade först."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:01",
+    "line": "Ja, jag har ingen aning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:03",
+    "line": "Och jag tror också, nu minns jag inte om det var Twitterific eller om det var någon annan som myntade uttrycket tweet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:15",
+    "line": "Men, okej, men vad hade de som första..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:21",
+    "line": "Ja, okej, men det vi vill säga med det är att Twitter har varit otroligt beroende av sin community, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:27",
+    "line": "Och att folk har fortsatt driva på deras idéer och varit innovativa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:31",
+    "line": "Ja, ja men exakt. Jag googlar bara för att jag skulle vara på rätt sida här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:35",
+    "line": "Ja men precis, det var en utvecklare av Twitterifics, han heter Craig Hockenberry."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:40",
+    "line": "Och han var den första som tyckte att det skulle kallas för tweet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:45",
+    "line": "Alltså där man postade på Twitter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:47",
+    "line": "Vilken namnekonstnär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:51",
+    "line": "Ja, också..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:53",
+    "line": "Det skulle man väl ha på sitt CV ändå?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:55",
+    "line": "Alltså det skulle vara allt som stod på mitt CV."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:58",
+    "line": "Det skulle bara stå \"Webbutvecklare\","
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:01",
+    "line": "kom på namnet \"tweet\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:03",
+    "line": "Att tweeta?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:07",
+    "line": "Det är ganska sjukt hur stor impact det har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:13",
+    "line": "Det gick inte heller ut någon typ av kommunikation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:16",
+    "line": "Inte på Twitter, ingenstans. De bara bröt API-accessen för gratisanvändare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:22",
+    "line": "Och sa ingenting. Det slutade bara funka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:25",
+    "line": "Va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:26",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:27",
+    "line": "Är det så folk fick reda på det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:29",
+    "line": "Ja, och så tog det typ två dagar innan Twitter kommenterade och sa att vi har avbrytt gratisnivån."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:36",
+    "line": "- Ja, det är folk som fick sparken genom att de bara blev utlåsta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:39",
+    "line": "- Ja, det är ganska sjukt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:45",
+    "line": "- Fan vad grovt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:47",
+    "line": "Men alltså, vad har hänt då då efter det här?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:50",
+    "line": "Har saker stängts ner? Har de slutat funka liksom?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:53",
+    "line": "Eller betala folk för det här?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:55",
+    "line": "- Nej, men saker har väl slutat funka liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:01",
+    "line": "Jag försökte hitta vad kostnaden var nu, men det var lite svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:05",
+    "line": "Och det är liksom såhär, Bottar har slutat funka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:09",
+    "line": "Det gick runt, när det här hände så var det väldigt många som postade,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:13",
+    "line": "eller som retweetade Bottars sista meddelandet i världen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:17",
+    "line": "Typ för att alla Bottar skrev ut typ \"Tack för den här tiden, vi hörs aldrig mer\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:23",
+    "line": "Och sen dog de."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:25",
+    "line": "-Fy fan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:28",
+    "line": "Deppigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:29",
+    "line": "-Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:30",
+    "line": "Nej det är ganska sjukt faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:36",
+    "line": "Jag tror att de kanske har ändrat sig lite grann efteråt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:43",
+    "line": "Alltså"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:44",
+    "line": "Att typ för vissa användare att man ska kunna skicka några gratis tweets per månad via API."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:55",
+    "line": "Men jag har liksom inte sett någon bot som har kommit tillbaka eller någon som har sagt att \"ja, det är toppen\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:01",
+    "line": "Utan allt är bara..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:04",
+    "line": "Ehh..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:06",
+    "line": "Nej, det är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:08",
+    "line": "Doom and gloom känns det som."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:11",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:12",
+    "line": "Alltså jag trodde fler skulle ha lämnat Twitter, men det är så många, det är så etablerat, det gör man väl inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:18",
+    "line": "Men det är ändå så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:19",
+    "line": "Jag trodde Twitter skulle vara mer dött."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:23",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:25",
+    "line": "Men det funkar ju aldrig så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:27",
+    "line": "Nej, och jag vet alltså så här, nej exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:32",
+    "line": "Jag har väl blivit mindre aktiv på Twitter, skulle jag våga påstå ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:37",
+    "line": "Och även skaffat Mastodon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:41",
+    "line": "Men har liksom inte riktigt kommit in i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:44",
+    "line": "Alltså jag tycker det är ju, styrka med Twitter är ju att folk hänger där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:48",
+    "line": "Och det är liksom som med allt annat, att det är ett jävla problem att faktiskt få över folk till andra ställen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:54",
+    "line": "Sen tror jag att Mastodons möjlighet att faktiskt lyckas har ökat enormt mycket på grund av vad fan de har gjort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:02",
+    "line": "Annars tror jag att Mastodon hade varit ett sandkorn i en öken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:07",
+    "line": "Men som det är just nu så tror jag ändå att Mastodon kan nog, för nu har vi ändå fått över lite så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:13",
+    "line": "måste nå någon typ av kritisk massa innan folk börjar \"ah men fan jag tar Mastodon istället\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:20",
+    "line": "Gud, alltså jag blir trött för det här betyder att jag måste börja anstränga mig igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:26",
+    "line": "Alltså jag är nästan så att jag har insett att jag måste börja hänga på TikTok istället för Instagram."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:31",
+    "line": "Det är fan jobbigt alltså."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:33",
+    "line": "Ja, det står jag inte bakom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:37",
+    "line": "Nej men om alla content creators som jag följer och som roar mig flyttar över till TikTok för att Instagram dör, då har jag inget kul content att kolla på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:49",
+    "line": "- Ja, nej det är sant. Jag har försökt hålla mig undan TikTok av ett par anledningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:54",
+    "line": "Alltså en är att det känns fett beroendefrånkallande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:57",
+    "line": "Jag tror inte jag har den disciplinen att inte skrolla i en evighet där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:01",
+    "line": "Jag tror att deras algoritm skulle pinpointa mig på en sekund vad jag vill ha fina av."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:06",
+    "line": "- Ja, alltså jag tänker att det är ett djupt hål man aldrig går ner i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:10",
+    "line": "Eller man går ner i hålet så kommer man aldrig upp igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:13",
+    "line": "- Exakt, exakt. Men sen så tänker jag också att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:16",
+    "line": "Jag kanske vill undvika att ge, jag vet inte vilka som gör det, Bike Dance, Kina i alla fall, mer information."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:25",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:28",
+    "line": "Alltså det säger ju ändå någonting om en app, när den liksom blir typ bandlyst bland politiker och riksdagar och sånt runt om i världen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:39",
+    "line": "Jag vet, så här har jag tänkt mycket också. Nu halkade vi in på andra saker, det var inte meningen. Men så här har jag tänkt lite grann också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:48",
+    "line": "Men sen blev det så här, ja, men vad ska jag roa mig med i världen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:53",
+    "line": "Ja, nej, absolut. Absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:56",
+    "line": "Plus att jag har en jävla Xiaomi-damsugare. Jag har två Xiaomi-damsugare. Så jag är redan rakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:03",
+    "line": "Du har liksom en liten kamera som åker runt där hemma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:06",
+    "line": "Du vaknar någon natt och den sitter uppe i sängen och tittar på dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:10",
+    "line": "(skratt)"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:13",
+    "line": "Fan, nu börjar jag dammsuga mitt huvud."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:16",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:18",
+    "line": "Nej men jag vet inte, för att hoppa tillbaka till Twitter så tror jag liksom att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:22",
+    "line": "jag tror väl att Twitter kommer att överleva."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:26",
+    "line": "Nu har ju musken sagt att han ska hitta någon ny vd och grejer också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:30",
+    "line": "Men jag tror ändå att det är en jävla... Jag tror att de har tagit en ordentlig smäll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:39",
+    "line": "Ja, men folk följer efter. Meta Blue."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:44",
+    "line": "Ja, alltså det är inte ganska sjukt ändå att de bara \"ja, vi kör samma sak\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:50",
+    "line": "Jo, men det funkade väl antar jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:53",
+    "line": "Ja, fast jag vet inte. Gör det då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:56",
+    "line": "Nej, jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:58",
+    "line": "Jag har liksom inte sett någonting, allt jag ser på Twitter om folk som har Twitter Blue är ju liksom att de är såhär, \"Aa du har Blue, du är en idiot\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:08",
+    "line": "Aa, men det här med att man får verifierad taggen, de som var verifierade, får de fortfarande vara verifierade utan att köpa Blue?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:18",
+    "line": "Ja, det står typ så här, den här personen var verifierad innan vi startade Twitter Blue."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:23",
+    "line": "Och sen har de väl sagt att de ska ta bort det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:26",
+    "line": "Men det har de sagt i ett år nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:28",
+    "line": "Alltså det är sjukt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:32",
+    "line": "Jag funderar på att man kanske borde gå off-grid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:36",
+    "line": "Ja, det är definitivt lockande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:40",
+    "line": "Men gärna off-grid med en liten dator så man kan sitta och programmera lite ibland."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:43",
+    "line": "Det hade varit perfekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:47",
+    "line": "Nej, men det är ju så jävla sjukt att man är såhär, okej men api har ju hjälpt till att hålla folks intresse, har byggt vår community, har byggt en massa bra features, tagit oss framåt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:01",
+    "line": "Och jag menar, vad? Alltså de måste åka på en sån jävla smäll på det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:06",
+    "line": "Ja, alltså sen nu pratar vi liksom så här, ja men det här är det som händer med ett bolag som"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:12",
+    "line": "där du liksom aljenerar, kan man säga det på svenska?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:18",
+    "line": "Alienate, ja otlart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:20",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:21",
+    "line": "Jo det kan man säga, nu kan man säga det, aljenerar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:23",
+    "line": "Aljenerar?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:24",
+    "line": "Man kan säga aljenerar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:26",
+    "line": "Vad är det? Aljblomning och du försöker bada?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:28",
+    "line": "Va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:29",
+    "line": "Jo men det, okej vänta vänta, alj..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:32",
+    "line": "Alienate Fjärma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:36",
+    "line": "Nej, kolla här. Alienera. Det finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:40",
+    "line": "Ja, det är perfekt. Okej, nu är jag nöjd."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:42",
+    "line": "Ett bolag som alienerar sina användare och sina tredjepartsutvecklare och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:49",
+    "line": "Men samtidigt har vi hoppat över hela biten med att de sparkade 85% av arbetsstyrkan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:57",
+    "line": "- Ja, baserat på statistik över ditt arbete."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:04",
+    "line": "- Ja, och att Elon Musk ville att Tesla, eller om det var SpaceX, jag kommer inte ihåg, utvecklare därifrån skulle komma in och granska kod som du hade skrivit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:14",
+    "line": "Och då fick du lämna in den genom att skriva ut den på papper först."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:17",
+    "line": "Det är så jävla roligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:22",
+    "line": "Det är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:24",
+    "line": "Det är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:26",
+    "line": "Alltså jag kan inte ens..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:28",
+    "line": "Det är så sjukt att tänka på också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:30",
+    "line": "Jag menar, om jag tycker"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:32",
+    "line": "att min arbetsmiljö"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:34",
+    "line": "är inte så trygg..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:36",
+    "line": "Alltså fy fan!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:38",
+    "line": "Om jag skulle jobba i USA, jag skulle bara gråta på toa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:40",
+    "line": "Alltså hela dagarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:42",
+    "line": "Det skulle aldrig ta slut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:44",
+    "line": "Man känner ju att i Sverige det suger ju."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:46",
+    "line": "Men..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:48",
+    "line": "Det kunde vara värre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:50",
+    "line": "Jag tänker att vi lämnar Twitter, nu ska vi fan ta oss igenom min..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:54",
+    "line": "Det är första gången kanske vi pratar om Twoli."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:56",
+    "line": "Okej, överdrivet lite grann. Första gången vi har två ämnen i en podd."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:59",
+    "line": "- Ja, för vi pratar ju om fem miljoner saker. - Ja, men så ska det vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:03",
+    "line": "Det här var inte det jag skulle prata om förra gången, för då tänkte jag prata om Expo för att bygga React Native-appar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:08",
+    "line": "Men vi skiter fan i det. Vi kan prata om det en annan gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:11",
+    "line": "Däremot så fick jag tillgång till Twitter..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:14",
+    "line": "Nej, inte Twitter. Twitter pratade jag om nyss."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:16",
+    "line": "GitHub Blocks. Deras Early Access idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:19",
+    "line": "Vet du vad det är för något?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:21",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:23",
+    "line": "GitHub har ju något"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:25",
+    "line": "de kallar för GitHub Next"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:27",
+    "line": "som finns på"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:29",
+    "line": "typ githubnext.com"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:31",
+    "line": "eller något sånt där tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:33",
+    "line": "Som är typ deras"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:35",
+    "line": "vad ska man säga, experimentella"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:37",
+    "line": "eller typ deras"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:39",
+    "line": "när man får labba lite grann"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:41",
+    "line": "eller utveckla det på GitHub, labba med lite olika saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:43",
+    "line": "Typ GitHub Copilot"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:45",
+    "line": "kommer väl ut därifrån tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:47",
+    "line": "- Så en liten R&D som test skickar ut till användare?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:52",
+    "line": "- Exakt, så är det väl i stort sett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:55",
+    "line": "Och de har lite olika projekt och de har till exempel en som heter HeyGitHub som är"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:00",
+    "line": "de håller på att undersöka och programmera med rösten bara istället för att skriva på temportet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:06",
+    "line": "Vilket känns svinbra tycker jag att något stort bolag vill kolla på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:11",
+    "line": "För att om man inte kan skriva på temportet, det är en vardum ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:16",
+    "line": "Om man som utvecklare bara \"ah men typ, är med i någon olycka\" kan inte se på sig en produkt längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:20",
+    "line": "Lära om sig och köra med röst och ögon typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:25",
+    "line": "Så det håller de på med. De hade ju Copilot som sagt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:29",
+    "line": "De har väl gjort lite olika saker som"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:33",
+    "line": "det finns någonting som heter typ Codespaces är väl det de"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:39",
+    "line": "håller på med. De har liksom någon idé som är typ så här \"ah men hur gör man det\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:43",
+    "line": "Att man kan samarbeta med dem och sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:46",
+    "line": "Och då även den här GitHub Blocks-chauffransen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:49",
+    "line": "Och GitHub Blocks är egentligen ett sätt att göra repositories på GitHub mer interaktiva."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:00",
+    "line": "Eller ja, egentligen readmes på GitHub mer interaktiva."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:04",
+    "line": "- Hä?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:06",
+    "line": "För att förklara det så kan man tänka sig att du går in på ett npm-pakets github."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:15",
+    "line": "Och då kan du i readme se hur npm-paketet funkar. Alltså ett interaktivt exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:23",
+    "line": "- Så du kan? - Nej, kör vad svart du vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:27",
+    "line": "- Alltså hur det skulle funka användarmässigt i applikationen? - Ja, precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:33",
+    "line": "Eller kod?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:34",
+    "line": "Nej, både och kan du visa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:36",
+    "line": "Egentligen så tror jag att det är möjligt att göra vad som helst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:40",
+    "line": "Du skulle kunna ha..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:42",
+    "line": "Något annat exempel tror jag är att du kan göra grafer över hur ditt projekt mår."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:48",
+    "line": "Typ så här, dra in livegrafer som visar hur många stars ditt projekt har eller"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:53",
+    "line": "visar hur många besökare din sajt har eller vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:58",
+    "line": "typ gör din dokumentation sökbar direkt i Readme."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:03",
+    "line": "Så det blir lite som building blocks så du kan bygga typ plugins till din Readme."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:11",
+    "line": "Ja exakt, något annat exempel de har är typ så här, om du öppnar en"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:19",
+    "line": "det är inte bara för Readmes heller utan det kan vara för något annat, det kan vara för alla filtyper egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:25",
+    "line": "Men det skulle kunna vara så här, om du öppnar en GLTF-fil som är ett 3D-filformat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:31",
+    "line": "Då får du en 3D-preview direkt på GitHub."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:34",
+    "line": "Istället för att det bara är ett rått filformat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:38",
+    "line": "Men hur funkar det då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:42",
+    "line": "Säger jag att jag behöver ha en Shader-fil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:45",
+    "line": "Och sen skickar jag upp den till mitt repo."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:47",
+    "line": "Och då kommer repo ta en plugin som fattar att den ska rendera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:50",
+    "line": "Men det kommer egentligen inte göra någonting för mig lokalt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:53",
+    "line": "Det kommer ju vara extra jobbigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:55",
+    "line": "Exakt, alltså det är liksom"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:57",
+    "line": "som det funkar så är det att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:00",
+    "line": "ska jag göra en liten sign in"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:02",
+    "line": "\"with GitHub\" här och det funkar"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:04",
+    "line": "såklart inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:06",
+    "line": "Jo, men som det funkar är liksom att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:08",
+    "line": "man registrerar egentligen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:11",
+    "line": "hur fan ska man förklara det här utan att det blir jättejobbigt att förstå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:14",
+    "line": "Man registrerar egentligen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:17",
+    "line": "ett repo som att det är en GitHub block grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:22",
+    "line": "eller ett GitHub-block."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:24",
+    "line": "Så man kan tagga ett repo som att det här är ett block som man kan använda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:31",
+    "line": "Och när man gör det så kan andra använda det blocket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:37",
+    "line": "Och hur blocket funkar det är att du kan bygga det egentligen hur du vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:43",
+    "line": "Alltså till exempel med typ React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:48",
+    "line": "Men vadå, så då mitt block är ett GitHub-repo, så säg att jag vill ta in en rådata-fil och 3D-visualisera, då bygger jag ett program som kan göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:00",
+    "line": "Och lägger det på ett repo, reglar det som en block och då kan folk dra in det blocket i sina repon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:06",
+    "line": "Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:07",
+    "line": "För att visa upp data."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:08",
+    "line": "Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:09",
+    "line": "Och med de blocken är inte, de reporna är inte block."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:12",
+    "line": "Nej, precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:13",
+    "line": "De bara använder ett blockrepo."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:15",
+    "line": "Exakt, så ett block är egentligen ett sätt att visualisera någon typ av fil på GitHub."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:22",
+    "line": "Eller så här, någon typ av fil eller någon typ av fil eller hierarki."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:27",
+    "line": "För du kan även ha ett block som visualiserar typ en mappstruktur till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:33",
+    "line": "Okej, så då är det smarta i det här då att du aldrig behöver ha någonting lokalt,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:37",
+    "line": "eftersom allting är regat på GitHub så GitHub kommer kunna fatta att dra in det själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:43",
+    "line": "Ja, exakt. Så vill du använda ett block i ett repo, då går man till en ny liten..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:50",
+    "line": "Vad får man säga? Det är en ny liten..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:53",
+    "line": "Store."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:55",
+    "line": "En liten mark... En liten select, typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:59",
+    "line": "Där man kan välja hur man vill, eller vilket block man vill använda för att visualisera en fil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:08",
+    "line": "Och däri kan man då antingen välja någon av de här förbyggda som GitHub har byggt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:12",
+    "line": "Det kan vara en markdown-block, en kodblock, exempel eller så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:17",
+    "line": "De har massa olika grejer som de har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:21",
+    "line": "Eller så kan man bara pasta en url till ett repo."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:27",
+    "line": "Om det är ett blockrepo så kommer den att använda det repot för att visualisera den filen som den stödjer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:37",
+    "line": "Jag ska använda markdown-blocket på min markdown-fil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:41",
+    "line": "Ja, typ så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:43",
+    "line": "Det känns som att det är väldigt early access."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:48",
+    "line": "Men det känns ändå ganska lovande för att GitHub"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:53",
+    "line": "har ju inte stöd för så många olika filtyper."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:58",
+    "line": "Bilder visas ju till exempel om man går in på den filen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:01",
+    "line": "Men i verkligheten så är det ju inte så många filer som stöd."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:07",
+    "line": "Det är typ textfiler och bilder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:09",
+    "line": "Filer men det kanske de har stöd för också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:11",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:13",
+    "line": "Jag är bara så här, en del av mig känner att kommer det här vara som 3D-TV?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:18",
+    "line": "Kommer det liksom låta mer nice och sedan dö?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:21",
+    "line": "Men jag kan ju också se den här, ja men det skulle ju vara nice för det betyder att Readme och exempel och sånt framförallt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:26",
+    "line": "inte ruttnar om den plockades från ren källkod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:30",
+    "line": "Men det betyder att den också måste funka för varje uppdatering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:33",
+    "line": "Och ingen konstighet. Kommer det bli för jobbigt? Kommer det inte bli det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:36",
+    "line": "Är det? Eller är det curved tv hemma?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:40",
+    "line": "- Ja, exakt. - Kommer det bli så?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:42",
+    "line": "Jag är också nyfiken på vart det tar vägen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:45",
+    "line": "Men det känns ändå som att det finns ganska stora möjligheter att komma på ganska roliga block."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:51",
+    "line": "Jag vet att det finns ett block som de har som exempel, tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:57",
+    "line": "Som är att du kan läsa en CSS-fil och visualisera den som att det är en style-guide."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:04",
+    "line": "Så istället för att det bara är en CSS-fil så printar den ut alla fonter du använder, alla färger som finns med i den här CSS-filen och visar exempel på vilka färgskalor du har och sådana grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:17",
+    "line": "- Oh my god, ett storybook där! - Ja, men typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:22",
+    "line": "Det bygger på att din CSS-fil måste formateras på ett visst sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:29",
+    "line": "Men det känns ändå som att det är ganska spännande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:36",
+    "line": "Något annat exempel som jag såg var att de hade någon CSV-fil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:40",
+    "line": "Som de hade byggt en visualisering till där man kunde söka efter den i den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:46",
+    "line": "Man fick några grafer, man kunde filtrera, det var en snyggare formatering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:52",
+    "line": "Sånt känns ju jävligt vettigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:55",
+    "line": "Jag gillar ju då att de bygger ett ekosystem runt det, för jag misstänker ju."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:01",
+    "line": "Om man får gissa vart GitHub är ute efter med det här, så är det ju att de vill kunna ha en marketplace för blocks."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:07",
+    "line": "Där du kan sälja ditt block."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:09",
+    "line": "Då kan GitHub ta en liten procent av det, och så tjänar de pengar på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:13",
+    "line": "Och så måste du skicka upp för review."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:17",
+    "line": "Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:18",
+    "line": "Skicka in ditt block och så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:20",
+    "line": "Så jag misstänker att det är något sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:22",
+    "line": "Men jag tycker ändå det känns ganska spännande på något vis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:31",
+    "line": "Jo, men absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:32",
+    "line": "Men det beror lite på, om man kan bygga block också så att man inte behöver vara väldigt specifik"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:38",
+    "line": "i hur man lägger upp sin kod för att kunna använda ett specifikt block."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:41",
+    "line": "För det kommer ju börja göra ont fort, tänker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:44",
+    "line": "- Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:45",
+    "line": "- Du får ut din style guide här, men du måste, som du sa,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:49",
+    "line": "formatera det på exakt det här sättet, bygga upp det på exakt det här sättet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:52",
+    "line": "Det kommer ju lite så här, då börja kontrollera hur du bygger upp saker i ditt projekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:57",
+    "line": "Men jag menar, jag antar att man bygger block för olika scenarion,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:00",
+    "line": "och att man kan lösa det på ett fiffigt sätt, men det blir ändå lite så..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:04",
+    "line": "\"Ja, det funkar inte exakt på det här sättet jag vill ha.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:08",
+    "line": "Får lägga upp en issue, och så har man 15 issues."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:10",
+    "line": "Ja, men exakt så är det. Men jag tror också att konkurrensen kan vara vettig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:16",
+    "line": "För annars får man ju då lita på att, alltså så här, alternativet är ju att GitHub bygger allting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:20",
+    "line": "Och försöker bygga in stöd för allting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:24",
+    "line": "Ja, sen är det gratis och sen så började det kosta 300 dollar för ett block."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:28",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:30",
+    "line": "Men så tror jag att det är ganska vettigt att bjuda in utvecklarkommunity istället och så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:34",
+    "line": "möjliggöra att man kan liksom, för det är ett ganska coolt sätt att kunna"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:39",
+    "line": "förlänga funktionaliteten på GitHub utan att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:43",
+    "line": "för den delen skulle behöva bygga plugin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:46",
+    "line": "Det är där det är egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:48",
+    "line": "Men att det funkar genom att det är ett repo"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:50",
+    "line": "och du kan vem som helst använda det i stort sett"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:54",
+    "line": "är ju smart, kan man tycka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:57",
+    "line": "Ja. Ja. Absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:02",
+    "line": "Ja. Nu lyckades jag logga in på deras Preview-site."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:06",
+    "line": "Tittar man på de exemplen som har de som exempel att här kan du få ett"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:12",
+    "line": "ett Excalidro diagram."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:18",
+    "line": "Och Excalidro är den här online whiteboarden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:22",
+    "line": "Då har de byggt ett så här om du laddar upp en exporterad Excalidro så är den i"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:29",
+    "line": "i kod ju. Men om du väljer blocket då Excalidro diagram"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:34",
+    "line": "Då kan du se din ritning eller vad du har ritat i GitHub och även redigera den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:42",
+    "line": "För det är också en viktig grej att de här blocksen är inte bara så här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:45",
+    "line": "\"det här är ett sätt att visa information\" utan du kan även skriva tillbaka saker till dina filer med dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:51",
+    "line": "Ja det är ganska skönt. Det måste också vara skönt att man kan via UI fixa det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:58",
+    "line": "Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:00",
+    "line": "Man trycker alltid upp ett litet fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:02",
+    "line": "Okej, inte \"man\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:03",
+    "line": "Jag trycker alltid upp ett litet skitfel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:05",
+    "line": "Så måste man trycka upp ännu mer för det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:07",
+    "line": "Ja, och då att kunna få det..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:09",
+    "line": "Just Exscalibro är ett bra exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:11",
+    "line": "För det råa formatet är helt omöjligt att redigera för hand."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:15",
+    "line": "Och då är det lite trist att säga att du är versionshanterare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:19",
+    "line": "Och sen så ser du att \"ah, fuck, det är ett fel\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:21",
+    "line": "Att då behöver man exportera igen och skriva över den filen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:25",
+    "line": "Det känns som att det är ett bättre sätt att göra det på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:29",
+    "line": "Ja, väldigt specifikt exempel. Alltså jag ser ju framför mig det här. Jag vet inte om det var bernäs eller om det var kött. Eller korv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:40",
+    "line": "Men det var sådana här plugins där man kunde få allting på varje sida man gick in på att bli bernässås."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:49",
+    "line": "Va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:51",
+    "line": "Det var jättelänge sedan. Det var en grej att man kunde ha någon browserplugin eller något så att alla bilder på sidan blev typ kött eller bearnaisesås eller korv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:04",
+    "line": "Ja, det låter ju ändå spännande om inte annat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:09",
+    "line": "Vad har du aldrig sett här?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:11",
+    "line": "Är jag så gammal?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:15",
+    "line": "Så då tänker jag, jag hoppas att det dyker upp många partyblocks."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:20",
+    "line": "Ja, det får man ju hoppas. Alltså så här lite roliga blocks."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:26",
+    "line": "Vilket var det jag försökte komma fram till med mitt exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:32",
+    "line": "Eller den här jävla kossan som gick omkring i browsern också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:37",
+    "line": "Va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:39",
+    "line": "Alltså jag vet inte. Det här är liksom mitt exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:43",
+    "line": "Det här måste vara en väldigt specifik, alltså du är inte så mycket äldre än mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:46",
+    "line": "Men du måste vara väldigt specifik, kort period, när du var aktiv på internet och jag inte hängde för mycket på internet, när det här skedde."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:55",
+    "line": "Jag tror att det här är trean i gymnasiet i it-klassen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:59",
+    "line": "Ja, du ser det kan vara precis den perioden när jag missade någonting och du såg det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:05",
+    "line": "Där jag var som mest informerad av internet, alltså av oss två."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:09",
+    "line": "Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:11",
+    "line": "Ja, det var tider."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:12",
+    "line": "Nu kan jag absolut ingenting. Jävlar vad du har sprungit om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:18",
+    "line": "Jag är så trött."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:20",
+    "line": "Vi ska bygga en sådan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:22",
+    "line": "Ja, men det är spännande. Vi får bygga ett ASDF-block kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:26",
+    "line": "Vad ska det göra?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:29",
+    "line": "Oavsett vad det är för filtyp och oavsett data i filen så visar den bara en bild på oss."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:34",
+    "line": "Eller på benäs, eller på pizza. Nu har du sparat fullständigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:39",
+    "line": "Det har det gjort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:41",
+    "line": "Kul att ni lyssnade hörni. Vi hann i alla fall med att beta av två saker på vår väldigt långa ämneslista."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:48",
+    "line": "Någon gång kommer vi prata om CoPilot. Jag har absolut inte provat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:52",
+    "line": "Inte jag heller. Så vi kanske måste lösa det först."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:57",
+    "line": "Jaja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:59",
+    "line": "Vi säger väl så för den här gången."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:02",
+    "line": "Ja, vi får göra det. Skriv på Twitter eller något. Använd Apeat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:06",
+    "line": "Ja, exakt. Använd Apeat och skriv på Twitter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:09",
+    "line": "Hörs vi igen om två veckor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:11",
+    "line": "Det gör vi. Ha det bra!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:13",
+    "line": "Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:15",
+    "line": "[Outromusik]"
+  }
+]

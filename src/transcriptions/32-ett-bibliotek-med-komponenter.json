@@ -1,0 +1,1682 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Dagens skämt, inspirationen kommer från vår lyssnare Erik men jag har gjort om det lite lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:10",
+    "line": "Vad kallar programmeraren ett misslyckat bankrån?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:15",
+    "line": "Ingen aning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:18",
+    "line": "En cash miss."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:21",
+    "line": "Ja, absolut, absolut. Bra jobbat Erik."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:28",
+    "line": "Tack Erik."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:30",
+    "line": "För att du också fick förklara för mig vad en cash miss är. Men jag lärde mig något nytt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:37",
+    "line": "Ja, men det är ju toppen ändå. Det är ändå alltid något som man säger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:42",
+    "line": "Verkligen. Förfrågar vi inte vad det betyder bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:46",
+    "line": "Nej, det ska vi absolut inte göra. Det lämnar vi till ett annat avsnitt så kan vi bara gå in på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:51",
+    "line": "på det. Välkommen till ett nytt avsnitt av ASTF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:55",
+    "line": "Idag kommer jag i alla fall ihåg att säga välkomna till avsnittet, vilket känns bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:00",
+    "line": "Det glömde jag ju lite förra gången när det var lite exalterat om något ämne."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:04",
+    "line": "Vem vet vad det var. Hur mår du i värmen, Therese?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:10",
+    "line": "Jag är på toppen. Nej, det är väldigt varmt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:16",
+    "line": "Så jag känner mig lite extra långsam."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:21",
+    "line": "Hur mår du?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:23",
+    "line": "Det är så fruktansvärt varmt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:26",
+    "line": "Det har varit ett lite återkommande inslag i det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:29",
+    "line": "När vi spelar in så brukar vi bygga en liten studie och hänga upp lakan och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:33",
+    "line": "Men idag så gick det absolut inte att göra det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:35",
+    "line": "För det är så sinnessjukt varmt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:37",
+    "line": "Så nu sitter jag bara med lite kuddar runt omkring mig och lite allt möjligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:40",
+    "line": "Ljudkvaliteten kanske inte på topp, men det får man stå ut med eftersom det är sommar och varmt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:46",
+    "line": "- Jag har stängt min balkongdörr på första gången på, jag vet inte hur länge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:54",
+    "line": "Det märks, jag känner det så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:57",
+    "line": "- Ja, jag kan verkligen tänka mig det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:00",
+    "line": "Så avsnittet kanske är lite långsammare än vanligt, men det vi tänkte prata om är väl lite så här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:05",
+    "line": "med typ komponentbibliotek eller designsystem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:08",
+    "line": "Det finns ju så jävla många termer och jag har fan inte facit på vad alla betyder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:11",
+    "line": "Men typ ett komponentbibliotek var väl utgångspunkten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:14",
+    "line": "Och jag kom att tänka på det här för att jag satt med ett litet HAL-projekt för ett tag sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:20",
+    "line": "Fick äntligen lite inspiration igen efter allt flyttande och bytt uppdrag och allt möjligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:25",
+    "line": "Men så satt jag med det och drog in ett komponentbibliotek som heter Radix, eller Radix UI."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:34",
+    "line": "Som är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:35",
+    "line": "De har både ett komponentbibliotek, men det var också något som de kallade för primitives."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:39",
+    "line": "Vilket är typ..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:40",
+    "line": "Ostylade, eller headless."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:42",
+    "line": "Det vill säga, du får bara massa komponenter och sen får du styla dem själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:47",
+    "line": "Och annars har de bara default styling."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:48",
+    "line": "Och sen har de väldigt bra stöd för accessibility, eller tillgänglighet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:54",
+    "line": "Och allt annat man egentligen vill ha funktionsmässigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:58",
+    "line": "Men just stylingen får man göra helt själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:00",
+    "line": "Då kom jag på att det här kan jag prata med Therese om och se vad du tycker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:06",
+    "line": "För vi har ju varit in på det lite tidigare att du har suttit med material UI."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:11",
+    "line": "Är det du har suttit med?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:13",
+    "line": "– Ja, på olika ställen faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:18",
+    "line": "Jag har suttit just nu väldigt mycket med material UI."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:24",
+    "line": "Men har även suttit en del på projekt där man valt att bygga egna komponentbibliotek."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:31",
+    "line": "Så att en hel del sådana har det ändå blivit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:36",
+    "line": "Jag har aldrig hört talas om RADx."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:38",
+    "line": "- Nej det känns som att det är ganska nytt faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:41",
+    "line": "Alltså de har liksom så här, det finns inte alla komponenter och de utvecklar nya grejer hela tiden och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:47",
+    "line": "Men jag tycker det verkar riktigt, riktigt nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:51",
+    "line": "Och jag vet inte om vi ska definiera komponentbibliotek."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:54",
+    "line": "Det känns som att man kan dela in en massa olika saker i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:58",
+    "line": "För mig är komponentbibliotek bara en samling med färdigbyggda komponenter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:05",
+    "line": "I varierande grad kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:07",
+    "line": "Som jag var inne på tidigare med de här Headless, där man designar dem själva."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:10",
+    "line": "Men bara en samling komponenter som man kan återanvända och som gör sin lilla grej väldigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:20",
+    "line": "Sen finns det ju en massa andra designsystem som jag nämnde tidigare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:23",
+    "line": "Det är väl kanske mer när man drar in även färger och vilka typsnitt man ska ha och"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:28",
+    "line": "allting sånt och applicerar det på komponenterna så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:34",
+    "line": "Ja, för jag kan ju ha det helt runt om bakfoten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:38",
+    "line": "Men just som du säger designsystem tänker jag är allt som ligger runt omkring."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:44",
+    "line": "Där skulle jag även kanske kunna stoppa in"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:47",
+    "line": "grid-system och även vilka breakpoints man vill jobba med för de olika skärmstorlekarna och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:54",
+    "line": "Så att det verkligen är en komponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:56",
+    "line": "Och här tänker jag att man också ofta kan komma in på atomic design."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:01",
+    "line": "Att en komponent ofta är väldigt små saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:05",
+    "line": "Det börjar med, nu känns som jag har nämnt mycket saker, så först atomic design då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:09",
+    "line": "Det är ett designsystem som är av en person och jag kommer inte ihåg hans namn nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:15",
+    "line": "- Men det kommer säkert att påverka sen. - Kan det vara \"bread frost\" kanske?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:20",
+    "line": "- Ja, det kan det nog vara, ja. Just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:23",
+    "line": "Men i alla fall att det är hur du bygger upp sidor, att du har atomer som är de minsta beståndsdelarna vi kan ha,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:32",
+    "line": "och med hjälp av dem så bygger du ihop molekyler, precis som det funkar i kemin, och all materia som vi har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:38",
+    "line": "Sen kan du använda det av atomer och molekyler för att bygga organismer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:42",
+    "line": "Och sen kan du använda dem för att bygga helasidor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:45",
+    "line": "Så det är verkligen att bryta ner det till de minsta möjliga beståndsdelarna och göra dem återanvändbara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:50",
+    "line": "Så att en atom är till exempel kanske en knapp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:54",
+    "line": "Och den knappen kan du ta och stoppa in var du behöver den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:58",
+    "line": "Men den knappen kommer alltid vara en komponent du kan använda en atom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:03",
+    "line": "Och den ser alltid ut på samma sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:05",
+    "line": "Eller den fungerar på samma sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:07",
+    "line": "och sen kan du välja hur den ska se ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:09",
+    "line": "Jag babblar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:12",
+    "line": "- Nej, men det är så att jag också stött på atomic design lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:17",
+    "line": "Jag tycker det är ett ganska vettigt sätt att tänka på för att det blir väldigt tydligt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:23",
+    "line": "så att det blir tydligt hur komponenterna eller hur de olika strukturerna ska interagera med varandra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:28",
+    "line": "Sen tycker jag alltid att det blir svårt att säga, okej, men vad är en atom?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:32",
+    "line": "Och vad ska vara en molekyl, till exempel?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:36",
+    "line": "och när blir det en organism och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:38",
+    "line": "Så på så sätt tycker jag att det kan vara lite småklurigt ibland."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:42",
+    "line": "Men när det är gjort bra så tycker jag att det funkar väldigt, väldigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:45",
+    "line": "Och det är ett sätt att tänka och prata om sina komponenter på ett sätt som inte är"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:50",
+    "line": "bara \"det här är en knapp\", \"det här är en text\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:55",
+    "line": "– Ja, precis. Men just också att när man pratar om komponentbibliotek"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:02",
+    "line": "då hoppar jag ofta till just den här typen, alltså atomic design i huvudet,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:07",
+    "line": "och jag ser det ofta som att ett komponentbibliotek för mig brukar ofta dra gränser i just atomer och molekyler,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:14",
+    "line": "men egentligen inte så mycket mer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:16",
+    "line": "För att jag tycker att ett komponentbibliotek är som allra bäst när det är simpelt,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:25",
+    "line": "eller så simpelt som det går att göra det,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:26",
+    "line": "När man börjar bygga väldigt komplexa saker så får de ofta väldigt mycket edge case."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:32",
+    "line": "Du vill tillgodose dom edge casen och sen bygger du på det och så blir det mer komplexitet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:38",
+    "line": "Och sen så om någon går in och råddar och ändrar den då kan du förstöra saker på många andra ställen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:43",
+    "line": "Så jag tycker det är svårt att skapa bibliotek som innehåller jättemycket komplexitet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:53",
+    "line": "Ja, verkligen. Det är verkligen en gränsdragning. Vad ska ingå i komponentbiblioteket?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:00",
+    "line": "Jag tycker att Radix, som jag nämnde tidigare, där har jag egentligen bara använt deras primitives."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:06",
+    "line": "Där är det verkligen grundläggande saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:10",
+    "line": "Sedan har de ett extremt stort fokus på just tillgänglighet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:15",
+    "line": "Vilket gör att de har typ såhär, ja men, Radio Group."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:19",
+    "line": "Som är en grupp med radio-knappar som verkligen har bra stöd både för att bli stylade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:29",
+    "line": "För att radio-knappar är ganska notoriskt svåra att styla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:32",
+    "line": "Man måste ju hålla på med en massa ful saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:35",
+    "line": "Men de har både bra stöd för att styla dem och då bra stöd för att det fortfarande stöds av alla guidelines för att tillgängligheten ska vara bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:43",
+    "line": "Det är en grundläggande grej som finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:45",
+    "line": "Sen finns det lika mycket, om vi tar några mer exempel, typ en drop-down-meny."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:51",
+    "line": "Det är definitivt ett steg upp, men jag tycker fortfarande att det passar in."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:57",
+    "line": "Det är fortfarande väldigt komponentbaserat. Det är en komponent och så drar du in fler komponenter i den för att bygga ut den här menyn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:05",
+    "line": "Och då tycker jag också att det ändå passar in i ett komponentbibliotek, även om det är på gränsen till att det är mycket mer interaktivitet och lite mer komplicerad komponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:18",
+    "line": "- Ja, jag har lite... för att hur mycket... jag antar att du bygger all logik själv, eller vad man ska kalla det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:29",
+    "line": "- Nej... - Vad du vill ska hända när man klickar på menyn och sånt, eller får du en..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:34",
+    "line": "- Nej, alltså det beror lite... - ...skickar du in det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:36",
+    "line": "- Ja, exakt. Om vi tar fallet, liksom drop-down-menyn, då är det liksom att du har en komponent som är en root-komponent"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:44",
+    "line": "I den skickar du in en trigger som är själva knappen som ska trigga det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:53",
+    "line": "Sen skickar du också in en som är själva menyroten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:59",
+    "line": "Alltså det som ska visas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:00",
+    "line": "Och i den innehåller varje rad i den här dropdown-menyn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:03",
+    "line": "I och med att det är helt ostajlat så får man ju stajla allting själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:07",
+    "line": "Men det är fortfarande de elementen man förväntar sig att det ska vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:12",
+    "line": "Och sen att du får även med att du kan styra det med tangentbord och att det blir rätt saker som sägs när du kör skärmläsare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:24",
+    "line": "Så all den logiken finns ju där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:28",
+    "line": "Sen såklart att vad som ska hända när du klickar på en specifik val i menyn, det måste man ju kanske styra själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:36",
+    "line": "Men som standard så har de att det är en komponent som heter \"dropdownmenu.trigger\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:42",
+    "line": "Och den kommer att rendera en knapp för dig som öppnar menyn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:48",
+    "line": "Sen kan man såklart köra, för de här komponenterna är \"uncontrolled\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:52",
+    "line": "Som är på samma sätt som du kan köra med formulär till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:55",
+    "line": "Men du kan också skicka in en \"open state\" eller \"open bool\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:00",
+    "line": "Som säger att \"nu vill jag styra om den här ska vara öppen eller stängd\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:03",
+    "line": "Så att du kan göra lite som du vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:05",
+    "line": "av standard så skulle jag säga att de rekommenderar att man kör"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:08",
+    "line": "dem \"uncontrolled\" för att då blir det verkligen rätt med skärmläsare och allt annat sånt runt omkring."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:15",
+    "line": "Det är jäkligt nice att få med det här med accessibility, bra accessibility"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:24",
+    "line": "för det är jäkla lätt att trampa bort från stigen i den djungen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:31",
+    "line": "Ja verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:32",
+    "line": "Och även om man bara tittar på den här radioknapparna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:35",
+    "line": "De är så här, ja det kanske är lite enklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:37",
+    "line": "Men sen ska man börja styla dem själva."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:39",
+    "line": "Så blir det så här, man måste göra några workarounds för att man inte kan styla radioknappar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:42",
+    "line": "Blablabla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:43",
+    "line": "Och då blir det rätt liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:44",
+    "line": "Men samtidigt också de här mer komplexa komponenterna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:46",
+    "line": "Som till exempel en dropdown."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:48",
+    "line": "Att den, eller bara så här okej men jag vet att den här kommer funka om jag kör med tangentbord eller om jag kör med en skärmläsare eller vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:57",
+    "line": "Så att på så sätt är det ju sjukt skönt att använda det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:01",
+    "line": "Och sen älskar jag ju att det är helt ostylat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:03",
+    "line": "För att det känns också som en grej som har kommit mycket på sistone."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:07",
+    "line": "Att förr var det väldigt mycket, liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:10",
+    "line": "Att komponentbibliotekar kom med sin egen styling och sen fick man skriva över den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:15",
+    "line": "Och så blev det ofta lite konflikter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:18",
+    "line": "Man bara \"Åh nej, nu har det blivit så här, här och jag vet inte vart jag är riktigt.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:21",
+    "line": "Medans nu för tiden tror jag att fler och fler erbjuder att det är \"headless\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:26",
+    "line": "Det vill säga att du har inget utseende som bandlas med dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:30",
+    "line": "Jag kan tänka mig att det är väldigt nice att man får styla det själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:36",
+    "line": "Jag kommer ihåg det när man kollar på CSS bootstrap."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:43",
+    "line": "När det här kom så såg man verkligen att det här är en bootstrap app."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:51",
+    "line": "Den har dragit in bootstrap CSS för att alla såg exakt likadana ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:57",
+    "line": "Du kunde välja färg, men utseendena var fortfarande de samma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:03",
+    "line": "Det tänker jag att man vill bortifrån."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:09",
+    "line": "Men därmed känns det som att man fastnar lite för den grejen, just om man kör material UI."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:16",
+    "line": "För det finns ju såklart möjlighet att styla om det, men det är ju väldigt ändå..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:22",
+    "line": "Alltså det ser ju ut på ett visst sätt ändå, speciellt om man inte stylar om det på vägen så har den ju verkligen en stil som man känner igen om man har suttit med det i taget. Eller sa jag bara suttit alldeles för mycket med det? Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:39",
+    "line": "Och det är ju väldigt schysst om man till exempel vill ha ett hobbyprojekt, vill ha upp det fort eller man bryr sig inte om styling eller kanske till och med om det är interna projekt och sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:51",
+    "line": "Men om det är extern webb så finner jag det ändå lite knöligt liksom. För då blir jag mer så här, men om man vill ha ett speciellt utseende och Car faktiskt har i Trumman en hel design, ett designsystem för man vill att saker ska se ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:05",
+    "line": "Då känns det så himla svårt att ta in existerande saker som Material.UI och sedan verkligen lägga tid på att forma om dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:16",
+    "line": "Då tänker jag att det är bättre att göra det från början."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:18",
+    "line": "Nu har jag inte varit i en sån här situation, men jag skulle gärna inte vilja hamna i en sån heller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:23",
+    "line": "- Ja, precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:25",
+    "line": "För att gå in på det här lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:26",
+    "line": "Det var ju en period när det kändes som att alla nya hemsidor som gjordes såg ut som bootstrap."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:34",
+    "line": "Det var verkligen standardutseende från BoosterShop."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:37",
+    "line": "Sen lade de till att man kunde ändra lite färger, så var det folk som gjorde det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:40",
+    "line": "Men jag håller verkligen med dig om att det användningsområde finns fortfarande kvar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:46",
+    "line": "När man verkligen säger att det är en intern grej, vi bryr oss inte hur det ser ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:49",
+    "line": "Eller det är ett litet hobbyprojekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:51",
+    "line": "Jag vill inte hålla på och styla, utan jag vill kanske testa att bygga en backend."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:55",
+    "line": "Då vill jag bara slänga upp en snabb frontend, eller vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:58",
+    "line": "Då finns det definitivt fortfarande nytta av de här färdigstylade biblioteken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:04",
+    "line": "Absolut. Eller också att det här är ett jättestort komplext system som har mycket mer fokus på funktionen på utseende."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:18",
+    "line": "Ja, exakt. Och då vet man ju också att man får saker som är väl testade helt enkelt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:26",
+    "line": "I och med att så många använder dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:27",
+    "line": "Och då kan man också vara säker på att vi inte kommer få några konstiga visuella buggar om vi kör det här rakt upp och ner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:34",
+    "line": "Nej. Men ibland så blir jag ändå lite fundersam på, eller fundersam på, men jag tycker ibland att det känns så blåtat eller vad man ska kalla det, eller stort, när man drar in en hyfsat liten komponent, kanske till och med hyfsat simpel komponent, men som man vet i bakgrunden är enorm för att kunna täcka alla specialfall och alla extra lösningar och du kan skicka in,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:03",
+    "line": "Du har ett enormt API för att skicka in olika proppar om man snackar React-komponenter för att du ska kunna tillgodose alla möjliga scenarion eftersom du är ett publikt komponentbibliotek."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:16",
+    "line": "Då blir det så här, när blir det snarare svårare att jobba med beroende på vad du har för egen,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:23",
+    "line": "vad du vill uppfylla med dina komponenter på det du bygger?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:30",
+    "line": "Var tänker man att den gränsen är?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:33",
+    "line": "Finns det en gräns där det blir jobbigare?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:35",
+    "line": "- Ja, det är ju definitivt en bra fråga för att det känns ju verkligen lite samma sak som,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:41",
+    "line": "alltså det handlar ju oavsett vad man bygger nästan, att man bara bygger på saker"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:46",
+    "line": "och bygger på saker och bygger på saker och till slut så är det så här, oj nu är det ingen som har tänkt på helheten här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:51",
+    "line": "att det blir supersvårt att använda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:53",
+    "line": "Jag vet, det var något bibliotek jag använde som hette typ AG Grid tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:59",
+    "line": "Och API-ytan på den var så oerhört stor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:04",
+    "line": "Det var verkligen en komponent som hette AG Grid som man drog in för alla möjliga användningsområden som fanns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:11",
+    "line": "Det spelar ingen roll vad för typ av tabell eller något sånt skulle det vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:16",
+    "line": "Det var verkligen typ Excel i webbläsaren."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:19",
+    "line": "Och du kunde använda den för allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:23",
+    "line": "Det fanns hur många proppar som helst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:27",
+    "line": "De flesta proppar var att du skickade in ett optionsobjekt som var hur stort som helst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:32",
+    "line": "Det var så sjukt mycket grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:34",
+    "line": "Och där kände jag att där har man misslyckats lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:38",
+    "line": "Det måste vara vettigare att bryta ut det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:40",
+    "line": "\"Okej, men vi har separata komponenter för vissa saker som gör vissa grejer väldigt bra.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:45",
+    "line": "Men det här att man inte behöver fundera på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:47",
+    "line": "\"Okej, behöver jag använda en av de här 150 propparna nu bara för att göra den här grejen jag vill?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:53",
+    "line": "Och vilka proppar är kompatibla med varann och allting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:56",
+    "line": "Så att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:57",
+    "line": "Nej, det måste verkligen vara att man får hålla tillbaka om man gör något externt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:01",
+    "line": "Eller liksom publikt, kanske man ska säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:03",
+    "line": "Som ska användas av många."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:05",
+    "line": "För det gäller att den här komponenten ska bara göra det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:08",
+    "line": "Om det kommer en person som vill ha till use case så kanske de kan bygga det själva."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:12",
+    "line": "Det gäller att man vänder på kontrollen av komponenten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:17",
+    "line": "Det finns många sådana sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:19",
+    "line": "Vi kommer ihåg när vi pratade om det tidigare, men det finns render props eller hooks nu för tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:23",
+    "line": "Eller higher order components förut till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:26",
+    "line": "Som gör att du kan ge användaren av komponenten mer kontroll över vad den gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:32",
+    "line": "utan att på det viset lägga till en till prop som gör det du ska göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:39",
+    "line": "Så jag tror också att precis som du säger, till slut så blir det kanske lite mer för svåranvänt för att det kanske ska vara värt det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:47",
+    "line": "Men det beror ju såklart också på kvaliteten på komponenterna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:52",
+    "line": "- Ja, men just också ibland att vara hur mycket kod drar du in egentligen för att göra en liten sak om du inte tar tillvara på alla de här superkomplexa sakerna dessutom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:06",
+    "line": "- Ja, men verkligen. Det är ju definitivt en ganska svår avvägning tror jag. Jag har inte slutat gjort det här själv någon gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:14",
+    "line": "Men det känns ändå som att det är en väldigt svår avvägning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:17",
+    "line": "Och särskilt, jag tror att det kanske är en ännu svårare avvägning"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:20",
+    "line": "om man sitter internt på ett bolag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:23",
+    "line": "Alltså om du sitter på ett större bolag så ska du utveckla deras komponentbibliotek"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:26",
+    "line": "och så kommer det en massa folk från olika ställen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:29",
+    "line": "och vill använda det här och har lite olika krav på alla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:31",
+    "line": "Och då blir det helt plötsligt liksom så här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:33",
+    "line": "då är det inte någon random på internet som säger åt dig att göra det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:35",
+    "line": "Utan då är det istället, okej det är någon i bolaget som har ett krav som behöver det här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:40",
+    "line": "och det kommer ge oss värde, men hur ska vi hantera det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:44",
+    "line": "- Ja, för det där är jag lite svår också, för jag tycker det är en så otrolig skillnad på något sätt att bygga komponenter i ett komponentbibliotek."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:56",
+    "line": "Man måste verkligen tänka, alltså jag kan ju ofta känna mig väldigt så här, okej, men jag ska bygga det här, jag ska lösa det här problemet, det ska se ut så där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:04",
+    "line": "Och då sätter jag mig ner och sen så börjar jag bygga på ett sätt som kanske inte alltid är så generiskt från början, utan verkligen är gjort för att vara i det kontextet jag tänkte använda det i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:18",
+    "line": "Men när man bygger ett komponent i ett komponentbibliotek så är det snarare så att du ska kunna se, okej, vart skulle det här eventuellt kunna användas?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:27",
+    "line": "Hur ser till att den kan vara helt isolerande och fungerande av sig själv? Hur hanterar jag eventuella edge cases?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:32",
+    "line": "Edge Cases. Man måste verkligen hitta alla eventualiteter innan den på något sätt har börjat användas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:43",
+    "line": "Och det är jättesvårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:45",
+    "line": "Ja, verkligen. Man måste välja, ska vi bygga för att komponenten ska vara så flexibel som möjligt?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:57",
+    "line": "\"Nu förutspår vi att det här use caset kommer komma så vi ska bygga den här komponenten så flexibla att den klarar av det.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:08",
+    "line": "Eller bygger man först och främst \"Okej, vi har det här use caset. Om vi bygger det nu, då funkar komponenten åt nu.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:16",
+    "line": "Men sen om det kommer till use case, då måste vi bygga och lägga på det ytterligare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:22",
+    "line": "Ja, och då kanske man verkligen använder en funktion som man verkligen gjort innan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:25",
+    "line": "Då måste man börja typ versionshantera eller lägga till flera olika proppar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:30",
+    "line": "Sen måste man deprecate den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:31",
+    "line": "Sen helt plötsligt så sitter man verkligen i smeten, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:35",
+    "line": "Eller vad man ska säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:37",
+    "line": "Ja, nämen exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:39",
+    "line": "Och det här är ju liksom också i och för sig,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:41",
+    "line": "alltså det är ju inte ett annorlunda problem mot när man bygger komponenter i en app"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:46",
+    "line": "utan att tänka att det är ett komponentbibliotek."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:48",
+    "line": "Alltså det är liknande fråga man ställer sig,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:50",
+    "line": "även om det kanske är på en mindre skala när man bygger bara lokalt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:55",
+    "line": "– Ja, det beror ju på hur bråttom man har, tänkte jag säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:03",
+    "line": "– Ja, det är i och för sig alltid en bra brasklapp att lägga in."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:06",
+    "line": "\"Okej, det beror lite på hur bråttom det är.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:09",
+    "line": "– Ja, för ibland så kanske man... eller kanske man och man..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:16",
+    "line": "Jag kanske till exempel bara bygger någonting som jag vet är extremt till skräddarsytt i just den situationen som jag bygger det till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:29",
+    "line": "Till exempel att stylingen kanske har en massa extra, om vi nu ska säga att man har styling också, kanske har en massa extra whitespaces som man absolut inte vill ha om det skulle vara en jinglerisk komponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:38",
+    "line": "komponent för det kommer en paja massa andra grejer och man kanske inte gör det super flexibel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:42",
+    "line": "Det kanske inte är att bara lyfta ur den komponenten ibland."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:45",
+    "line": "Alltså det finns ju ganska många sådana genvägar som jag tar speciellt när jag har bråttom som man absolut inte kan göra i ett"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:52",
+    "line": "komponentbibliotek liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:53",
+    "line": "Så det är därför jag känner att det blir, jag är väl kanske en sån som kodar före och tänker sen, men i ett komponentbibliotek så måste man"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:02",
+    "line": "verkligen tänka först."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:04",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:05",
+    "line": "Nej, men absolut. Så är det ju verkligen. Där har du helt rätt i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:10",
+    "line": "Det är nog relativt stora skillnader ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:16",
+    "line": "Även om man kanske tänker samma banor när man har tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:20",
+    "line": "Men jag tänker också, ur ett användarperspektiv,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:26",
+    "line": "så tycker jag också att det är så här extremt skönt när det är så tydliga komponenter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:34",
+    "line": "Jag har varit med några gånger, om man har vissa komponenter i ett bibliotek som man tar upp och så vet man inte riktigt vilken man ska använda till vad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:41",
+    "line": "De har ungefär samma use case, men de har liksom splittats på dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:50",
+    "line": "Det kanske har varit en komponent som de har splittat på för att nu ska den användas på lite olika sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:55",
+    "line": "Men att de är nästan lite för nära varandra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:58",
+    "line": "Då blir det istället åt andra hållet att jag försöker använda den här och bara \"Okej, vilken ska jag använda?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:01",
+    "line": "Jag kommer inte ihåg om det var någon bibliotek eller om det bara var någon fristående komponent som någon hade släppt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:09",
+    "line": "Men det är liksom att man skulle använda en och så fanns det två."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:13",
+    "line": "Och så började man bygga en för det såg rätt ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:15",
+    "line": "Och så kom en halvverk som bara \"Nu funkar inte det där\" och så googlade man lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:18",
+    "line": "\"Ja, men använd den andra\" fast det stod liksom ingenstans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:20",
+    "line": "Eller det förklarades inte riktigt bra och så blev man bara irriterad istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:24",
+    "line": "Och det är också en grej som kanske kommer med att om biblioteket blir för stort eller att man splittar det för mycket"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:32",
+    "line": "och då är det istället ett problem åt andra hållet jämfört med att man har en komponent som är skitstor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:37",
+    "line": "Ja, och om man inte har en tydlig, lättläst dokumentation så kan det ju verkligen vara döden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:46",
+    "line": "Ja, dokumentationen känns ju superviktig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:49",
+    "line": "Just för att där kan man både förklara hur det är tänkt att användas, men även vilka proppar som finns och hur det ska fungera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:56",
+    "line": "Och det är också för att cirkla tillbaka till något tidigare som vi har sagt, komponensbibliotek utan typescript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:02",
+    "line": "Det skulle jag kanske inte använda idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:07",
+    "line": "Det är fan det bästa. Autosjälvdokumenterande, det är en riktig dröm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:15",
+    "line": "Men är allt bara självdokumentation? Är allting så självklart när man bara läser saker? Jag gråter ju ofta inombords på jobbet när jag läser dokumentation eller typescripttyper för att jag förstår ingenting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:34",
+    "line": "sen så känner jag mig jättetrög."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:36",
+    "line": "- Ja, vissa TypeScript-typer kan man verkligen riva sitt hår över."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:41",
+    "line": "Men jag tänker att oftast är det väldigt skönt att bara kunna se att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:45",
+    "line": "okej, det här är de propparna som finns. De förväntar sig det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:48",
+    "line": "Det syns direkt i VS Code och inga konstigheter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:53",
+    "line": "- Ja, som jag har sagt i tidigare avsnitt, jag förstår helt klart poängen med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:02",
+    "line": "mitt inre barn fortfarande lite grinig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:07",
+    "line": "- Jag kanske ska sluta ta upp typeskriften och förstöra stämningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:11",
+    "line": "- Jag orkar inte ens vara upprörd i den här värmen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:16",
+    "line": "- Det är det jag ska passa på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:21",
+    "line": "- Hur generiska är de här biblioteken?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:27",
+    "line": "De kan väl inte vara det, tänker jag. Och då säger jag det som kanske är lite nöjvt, men jag har ju befunnit min React-världen väldigt, väldigt länge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:35",
+    "line": "Så jag har ju egentligen inte stött på komponentbibliotek i andra ramverk. Har du jobbat med det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:44",
+    "line": "- Nej, när du säger det nu så tror jag inte det. Eller undrar om jag kanske använde något när jag satt i Vue för massa år sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:54",
+    "line": "Men inget som jag kan referera till direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:59",
+    "line": "- Vi blir ju lite nischade sådär va? Båda React-nerds."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:07",
+    "line": "- Det är ju verkligen lätt hänt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:09",
+    "line": "Det kanske vi kan prata om i ett avsnitt och vara generalist eller specialist."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:12",
+    "line": "- Ja, det kan vi absolut göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:16",
+    "line": "- Jag tänker att det här avsnittet börjar dra sig mot sitt slut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:21",
+    "line": "utan att ha stenkoll på tiden, men jag tror att vi är uppe i vår vanliga tid ungefär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:27",
+    "line": "Har du något mer kul att tillägga om komponentbibliotek i ditt liv?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:33",
+    "line": "Nej, jag tänker att vi kan bara avsluta på att vi vet ingenting om det utanför React-världen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:40",
+    "line": "och så får vi återkomma helt enkelt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:43",
+    "line": "Om någon har jämförelser så är det superintressant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:46",
+    "line": "Om man har upplevt att det är superstora skillnader mellan View och Reacts komponentbibliotek"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:51",
+    "line": "eller ännu längre ifrån varandra, även om det inte är View och React utan React och P&P."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:57",
+    "line": "Skicka gärna något till oss och berätta hur mycket som skiljer sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:05",
+    "line": "Med det sagt tackar vi för den här gången och hoppas att ni inte har det lika varmt som oss."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:12",
+    "line": "Vi finns som vanligt på Twitter, länkarna ligger i beskrivningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:17",
+    "line": "Och med det så säger vi hej då för den här gången!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:21",
+    "line": "- Hejdå! - Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:23",
+    "line": "[Outromusik]"
+  }
+]

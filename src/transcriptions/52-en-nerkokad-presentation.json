@@ -1,0 +1,2037 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Varför tycker fronten när det är så kul med JavaScript-konferenser?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:07",
+    "line": "För de älskar event."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:09",
+    "line": "[skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:12",
+    "line": "Ja, då var vi igång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:16",
+    "line": "Det är skralt nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:19",
+    "line": "Jag ska göra en insats. Jag lovar att inte till nästa avsnitt, men om två avsnitt, då har jag ett skämt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:25",
+    "line": "Varför de två bara tar det i samband?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:31",
+    "line": "Jag kan inte lova för mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:33",
+    "line": "Var är vi? Jo, vi är i podden ASDF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:39",
+    "line": "I ett nytt avsnitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:41",
+    "line": "Vi tänkte väl idag att vi skulle snacka lite grann om meetups."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:45",
+    "line": "Ja, så jag försökte hålla i ett relaterat skämt här, men det gick ju sådär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:51",
+    "line": "- Ja, men det var ändå bättre än... Nej, det var ungefär där förväntan är, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:56",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:57",
+    "line": "Ja, nej men Meetups."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:01",
+    "line": "Lite för att det kanske är så att det går att dra igång det igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:06",
+    "line": "Och förresten så kanske jag låter lite..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:11",
+    "line": "extra råslig, men jag är lite sjuk så jag ber om ursäkt för det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:15",
+    "line": "Men vi kör ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:16",
+    "line": "- Ja, det tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:17",
+    "line": "Och exakt, det är ju ändå de tidningar..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:19",
+    "line": "Jag har ändå sett att vissa meetups har börjat köra igång fysiska event."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:23",
+    "line": "Det ska ändå sägas att ganska många meetups har hållit igång och kört remote event."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:27",
+    "line": "Men jag tycker inte riktigt att det är samma sak som när det är en fysisk meetup."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:33",
+    "line": "- Nej, jag tycker det är svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:37",
+    "line": "För att det är samma sak med konferens."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:40",
+    "line": "Jag tycker det är mycket, mycket svårare. Jag håller inte fokus."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:43",
+    "line": "Men jag tror det också är för att jag försöker göra det samtidigt som jag försöker göra någonting annat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:47",
+    "line": "Det funkar inte riktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:49",
+    "line": "– Nej, men exakt. Jag tycker också att det brukar vara väldigt svårt att få samma känsla som man sitter på en meetup och träffar folk och får sitta och lyssna och kan ställa lite enklare frågor efteråt och mingla lite sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:01",
+    "line": "Jag vet inte om alla vet vad Meetup är, men en Meetup är väl bara ett event där man träffas och oftast är det någon som presenterar något kodigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:15",
+    "line": "I alla fall när vi pratar utvecklare av Meetups."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:17",
+    "line": "Ja, för det finns väl någon typ av community eller en sida där man samlar olika typer av Meetup-grupper."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:25",
+    "line": "meetup.com heter det väl. Men där finns ju alla möjliga, alltså det finns väldigt många sådana språk, meetups tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:33",
+    "line": "Du vet att jag hade en kollega som återkommande gick på meetups för att prata, ja ryska var det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:42",
+    "line": "Dåligt tajmat här, men ryska är ett språk, det vet vi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:47",
+    "line": "Och sådana saker, och även ta en kaffe med personer som flyttat till stan och sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:53",
+    "line": "Så finns det mycket där. Men kod Meetups är ju en stor grej i alla fall för oss i den här bubblan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:00",
+    "line": "Ja, exakt. Det är en ganska stor del av utvecklarkommunityt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:05",
+    "line": "Eller samtidigt är det en väldigt liten del av utvecklarkommunityt om man tänker på hur många som utvecklar, som inte går på Meetups."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:10",
+    "line": "Men det är lite speciellt för att i 99 procent av fallen så är det helt gratis att gå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:16",
+    "line": "Det bjuds ofta på mat och dryck och man behöver inte betala någonting för att presentera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:22",
+    "line": "Det är en pro bono-idé att det är ofta någon som frivilligt styr meetupen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:32",
+    "line": "Men sen är det ofta företag som går in och sponsrar med lokal och dryck och mat och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:38",
+    "line": "Ja och sen så finns det ju liksom, alltså om vi tar grupperna som nischar ju ännu lite mer, alltså det finns ju, ja men Stockholm GIS den är ju väldigt stor, där är det snarare svårt att få plats,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:49",
+    "line": "liksom om man pratar en grupp i Stockholm, den är generellt så för jag och skript, sen finns det ju lite mer, ja men React-grupp finns ju, och det är ju som namnet säger React,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:59",
+    "line": "Men sen finns ju även sånt som typ Pi-Ladies som är för kvinnor och då kanske också icke-binära Python som vill snacka Python."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:09",
+    "line": "Och sen även Duchess som är den kvinnliga Java-gruppen som bara är till för kvinnor och/eller icke-binära vilket gör det separatistiskt och kanske till och med lite tryggare än de större grupperna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:27",
+    "line": "Ja men exakt. Och även liksom typ det finns säkert någon, jag vet det finns väldigt många små meetups som är typ så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:34",
+    "line": "Vi pratar bara om funktionell programmering i Haskell i storbanksmiljö. Alltså man kan hitta det mesta liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:42",
+    "line": "Och det är väldigt trevligt och majoriteten av dem är ju på den här hemsidan du nämnde, alltså meetup.com."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:48",
+    "line": "Om man vill gå med i någon, not sponsored så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:53",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:54",
+    "line": "Men ja, det är lite vad Meetup är så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:00",
+    "line": "Sen så finns det ju, de är ju inte bara i Stockholm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:02",
+    "line": "Det är bara för att vi befinner oss i Stockholm och pratar bara om Stockholm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:06",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:08",
+    "line": "- Det finns överallt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:10",
+    "line": "Sen så tänker jag att man också alltid ska komma ihåg att det är ju personer som väljer,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:18",
+    "line": "som du nämnde tidigare, att göra det här frivilligt liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:21",
+    "line": "Och på deras egna tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:23",
+    "line": "Och det är ju mer att dra i än vad man kanske tänker att det är, även om man gör det i samband med företag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:31",
+    "line": "Men det är ju rätt mycket att stå i, skulle jag säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:35",
+    "line": "Ja, exakt. Jag kom också på att vi har pratat om Meetups en gång tidigare, men då var det lite annat perspektiv i det att prata på Meetups eller tala på Meetups och konferenser."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:45",
+    "line": "Så det avsnittet ligger väl här i beskrivningen inunder om man vill ha det perspektivet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:50",
+    "line": "Men nu när det här drar igång så funderar vi lite mer på vad krävs för att man ska börja gå på meetups igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:58",
+    "line": "För det känns som att en ganska stor andel människor har blivit lite mer avvärda från de sociala eventen som är på plats."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:07",
+    "line": "Man blir lite mer bekväm under pandemin i att man inte kanske rör sig in till stan lika mycket eller till platsen där eventet är bara för att kunna gå på en meetup."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:17",
+    "line": "Så det ska bli spännande att se hur snabbt det kommer tillbaka till någon typ av normal eller någon ny normal och hur den kommer se ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:27",
+    "line": "Jag är ändå ganska taggad på att gå på meetups, det är för att jag älskar den sociala biten runt omkring. Men jag vet inte hur du känner?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:34",
+    "line": "Jag gick ju på ett företags- event och blev sjuk, fick covid här just nu, inte supertaggad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:43",
+    "line": "Jag vet inte, jag tycker det med meetups är lite svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:50",
+    "line": "När jag flyttade upp till Stockholm var jag mycket på meetups och provade lite olika."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:59",
+    "line": "Jag var ofta själv och gick på dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:03",
+    "line": "Som du nämnde den sociala biten, jag tyckte mest att det var väldigt jobbigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:09",
+    "line": "Och ganska svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:11",
+    "line": "Jag skulle absolut kunna tänka mig att gå på meetups, men jag vill nog inte gå själv igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:17",
+    "line": "Däremot kan jag vara taggad på det, men det ska nog också vara någonting som jag verkligen tänker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:23",
+    "line": "Kul. Jag skulle inte palla gå bara för att gå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:27",
+    "line": "Nej, exakt. Det måste till ett väldigt lockande talk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:34",
+    "line": "Ja, eller kanske någon typ av social gathering. Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:42",
+    "line": "Men vad lockar dig? Är det Minglandet som lockar dig?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:46",
+    "line": "Jag vet inte om det är så. Det kanske är lite att komma tillbaka till som det var innan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:50",
+    "line": "Att man längtar tillbaka till den normalen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:52",
+    "line": "För jag tycker också att det är ganska nice att hänga på kontor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:55",
+    "line": "Även om jag tycker att hybridarbetet är toppen så har jag ändå saknat kontor under pandemin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:03",
+    "line": "Jag tänker att det är lite samma sak med det här. Jag vill ha lite sociala bitar där man kan gå och så kan man snacka lite teknik och hitta folk som förmodligen är intresserade av samma sak."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:12",
+    "line": "Vilket då kan ge ganska intressanta diskussioner. Och sen är det bara ett plus om det är en grym prestation under meetupen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:22",
+    "line": "Och sen är det ju alltså gratis mat och dryck, alltid nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:27",
+    "line": "Nu låter jag extremt snål, men..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:31",
+    "line": "– Men det är ändå någonting med det där. – Det är en bonus, man snipper laga mat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:36",
+    "line": "– Ja, och sen om det finns kul merch så är det också alltid en bonus."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:41",
+    "line": "Jag vet inte varför, jag tror fortfarande, jag vet inte om det sitter i sig sen studenttiden, jag vet inte varför,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:46",
+    "line": "men det är någonting med det som ändå gör mig lite glad inom Bors."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:50",
+    "line": "Ja, men jag håller helt med. Merch är svinkul, fast kanske att man har tröttnat lite på att man får en t-shirt eller att det är det vanliga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:01",
+    "line": "Ja, jag tycker det är skoj med lite mer oväntat merch. Jag är ju också lite, jag känner mig lite som en sellout, mycket speciellt när jag går på gymmet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:12",
+    "line": "för att jag har så himla mycket företagsgrejer på hjulet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:16",
+    "line": "Jag har till och med en sån här hårtofs som är \"brandad\", som jag fick någon gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:23",
+    "line": "- Men då har du med dig lyckats."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:25",
+    "line": "- Ja, men alltså som man ser mig, det är så här t-shirts, det är en hoodie,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:29",
+    "line": "det är hårtofsen, det är vattenflaskorna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:31",
+    "line": "Alltså jag är verkligen en advocate, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:37",
+    "line": "- Ja, det tycker jag ändå är kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:40",
+    "line": "Ofta tänker man ju att allt sånt där aldrig används."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:43",
+    "line": "Och sen är det väl kanske sant att det mesta inte används."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:46",
+    "line": "Men ändå kul att höra att någon har \"embracet\" det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:52",
+    "line": "- Jag tror faktiskt att mitt allra bästa merch någonsin var när jag fick en fidget spinner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:57",
+    "line": "För när det var så inne och jag var så här \"fan, man vill ju bara känna mig liksom\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:01",
+    "line": "Men jag kommer ju inte gå och köpa en fidget spinner, jag har det inte i mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:05",
+    "line": "Men var ändå nyfiken och sen så fick jag en."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:07",
+    "line": "Det var en sån jävla win."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:09",
+    "line": "Jag såg att du kollade på lite merch för jobbet häromdagen, eller till jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:14",
+    "line": "Och såg att man kunde köpa \"blended\"... Vad heter det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:17",
+    "line": "Såna här liksom... slask..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:19",
+    "line": "Alltså som man tar bort skräp ur vasken med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:21",
+    "line": "Alltså en sån här plast... grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:24",
+    "line": "Typ en vaskrensare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:25",
+    "line": "Ja, typ en vaskrensare liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:28",
+    "line": "Och de kunde köpa \"blended\". Det tyckte jag ändå var lite lockande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:31",
+    "line": "För att det var så oväntat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:32",
+    "line": "Ja, men det fanns det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:33",
+    "line": "Ja, men jag tycker det är roligare att vara lite mer oväntat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:35",
+    "line": "Jag menar, pennor..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:37",
+    "line": "Ni skriver ju inte ens saker längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:39",
+    "line": "- Nej, Penno känns som det absolut sämsta. - Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:44",
+    "line": "T-shirts, alltså det är nånting med... Jag kan i och för sig ha den på gymmet, det är toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:49",
+    "line": "Ge mig t-shirts."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:52",
+    "line": "Jag har så oerhört många brändade t-shirts som jag inte använder, men som jag inte kan slänga bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:56",
+    "line": "Jag vet inte, jag ska skänka bort dem kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:00",
+    "line": "Jag älskar när det var någon som hade någon sån där student-grej som var brändad,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:05",
+    "line": "Så att någon lämnar inte i myrorna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:07",
+    "line": "Så får vi nån som köper ett namn på också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:11",
+    "line": "- Ja, det känns lite skevt kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:15",
+    "line": "Men bortsett från merchen så tycker jag att meetups för mig har varit..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:27",
+    "line": "Visst att talksen är viktig, men just det sociala som jag var inne på innan är ju väldigt viktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:33",
+    "line": "-och tycker att det är en bra meetup."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:34",
+    "line": "Sen har det varit väldigt \"hit or miss\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:37",
+    "line": "Det är ganska ofta man har gått på meetups och bara..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:42",
+    "line": "\"Kanske inte riktigt var värt det.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:43",
+    "line": "\"Jag känner att jag inte har klickat riktigt med nån som jag pratat med.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:46",
+    "line": "Då kan man lika gärna dra hem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:47",
+    "line": "Men sen har man varit på andra meetups där man har träffat nån som man har snackat skitlänge med-"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:51",
+    "line": "-och haft supertrevligt med, och som har varit kvar väldigt länge på meetupen istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:54",
+    "line": "Och de gör ju att jag tycker att det är värt att gå på fler sådana meetups."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:59",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:00",
+    "line": "-Vad har du varit på för meetups? Är det en massa olika, eller är det samma typ?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:05",
+    "line": "-Nej, det är väldigt..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:08",
+    "line": "Eller inte väldigt många olika, men en hel del olika i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:11",
+    "line": "Jag vet att Stockholm JIS är den jag har varit på flest gånger, kanske, tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:17",
+    "line": "Men sen höll jag på mycket med .NET innan, och då gick jag till exempel på SveNug,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:22",
+    "line": "som är de som anordnar Svetuggkonferensen, deras meetup också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:28",
+    "line": "Så den har jag gått på. Sen finns det en hel drös med bolag som anordnar egna meetups, så de har jag också varit på en del av."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:36",
+    "line": "Så det har varit ganska blandat. Men sen allt jag har gått på är det man är intresserad av för stunden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:40",
+    "line": "Jag tror inte jag skulle gå på en meetup om jag tycker att presentationen låter trista."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:48",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:50",
+    "line": "Jag gick, eller ja, ibland var det svårt att veta om jag tyckte det lät trist eller inte för att jag inte riktigt kanske visste vad det var."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:58",
+    "line": "Så i början gick jag nog på mycket för att vidga mina byar liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:02",
+    "line": "Jag körde Java i början och då hamnade jag på någon meetup som var, vad mer kan du göra med JVM än?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:08",
+    "line": "Och då var det lite Grails och lite Kotlin och så också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:11",
+    "line": "Och sen är det ju, och jag menar det såklart är det, men det kan ju verkligen vara en hit or miss på föreläsningarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:21",
+    "line": "Och det är ju svårt att veta i förhand. För det är ju också, som det andra perspektivet pratar om,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:28",
+    "line": "människor som kanske vill testa hur det är att tala och gör det för första gången."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:33",
+    "line": "Att prova på lite nya saker så att ibland är det kanske inte alltid jättelätt att hänga med eller hålla fokus."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:44",
+    "line": "Nej, exakt. Det behöver inte alltid vara de mest genomtänkta presentationerna som du tycker är på Meetups."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:49",
+    "line": "Det är väl en lite högre kvalitetsnivå på konferenser till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:54",
+    "line": "Så man kan kanske inte bara gå på Meetups och tänka sig att nu ska jag få konferenspresentationer fast bara på en kväll istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:02",
+    "line": "Ofta är det folk som presenterar för första gången och lite sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:06",
+    "line": "Men jag tycker också att jag lärde mig vilka personer, för det är ju ändå en klick människor ofta,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:13",
+    "line": "som kör flera presentationer, inte på samma kväll, men som återkommer till samma meetups och håller nya presentationer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:19",
+    "line": "Och då kunde man också lära sig att den här personen vet att jag gillar den personens förra talk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:24",
+    "line": "Så då kommer jag nog gilla det här talket också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:27",
+    "line": "- Ja, men så är det absolut. Men, men, jäklar, du måste ha sett så många återkommande eller hängt tillsammans i grupper."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:39",
+    "line": "Jag försökte fundera på om jag var någon som var återkommande, men det var nog inte det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:45",
+    "line": "Men jag kommer ihåg ett meetup jag var på som var liksom inte ett snack så mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:50",
+    "line": "Eller jo, det var en presentation, jag tror de presenterade vad Embry JS är för någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:55",
+    "line": "Det här var på ett Dutchess Java meetup, så det var ny teknik för oss där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:03",
+    "line": "Då var det mer en workshop-grej, vi testade och skrev lite test tillsammans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:08",
+    "line": "Det var nån typ av storgrupps-mobbprogrammering innan vi visste vad mobbprogrammering var."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:15",
+    "line": "- Ja, men det är ändå intressant det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:18",
+    "line": "För det vanligaste formatet är väl just att man kommer till meetupen, får lite mat och dryck"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:28",
+    "line": "och sen sätter man sig och så är det två kortare presentationer, ibland tre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:32",
+    "line": "Och sen lite mingel efteråt för de som vill hänga kvar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:35",
+    "line": "Men jag har också varit på någon som var lite mer alternativ, som du säger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:39",
+    "line": "Det kanske var en liten presentation först, men sen att det också var mobbprogrammering"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:44",
+    "line": "eller att man fick sitta mer workshoppigt och göra saker mer konkret."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:50",
+    "line": "Jag vet inte, man vet ju det på förhand så klart, så man är ju förberedd på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:58",
+    "line": "Men jag vet inte om jag har orken riktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:02",
+    "line": "Att man ska ta med sig sin dator och så ska man sätta sig där,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:06",
+    "line": "eller så ska man försöka sätta upp någon ny miljö kanske, och så ska man hålla på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:10",
+    "line": "- Ja, nej, det skulle jag inte orka. Det här var ju alltså en person som körde och sen så sa andra \"Kan vi inte göra så här? Testa det här!\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:20",
+    "line": "Jag hade nog druckit lite mycket kava, tror jag. - Så du sa väldigt mycket?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:24",
+    "line": "- Ja, jag var ju i farten. - Ja, det är något. Att du väl haft inspelat?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:34",
+    "line": "- Så illa var det inte, men jag tror att det var igen att jag var själv, kände mig lite otrygg och bara visste inte vem det var då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:44",
+    "line": "Då blir det ett glas extra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:46",
+    "line": "- Eller då, visa vad du kan då, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:49",
+    "line": "- Haha, för fan!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:52",
+    "line": "- Vi ska inte älta det här minnet mer, det behöver vi inte göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:55",
+    "line": "- Nej, men man kan ju också tänka att \"fan vad jag inte var nice för sju år sedan, sex år sedan\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:03",
+    "line": "Men får ju hoppas att det alltid går åt det hållet i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:05",
+    "line": "- Ja, det får man göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:07",
+    "line": "Vad var det jag tänkte på?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:09",
+    "line": "Jo, det är intressant när du säger den grejen också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:13",
+    "line": "För jag tänker att nu när jag sitter och tänker på det så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:15",
+    "line": "Ja men meet up det är ganska nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:17",
+    "line": "Men tycker inte att man ska glömma heller att det är efter en arbetsdag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:22",
+    "line": "Ofta, ja så här och du åker in till kontoret."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:25",
+    "line": "Så har du suttit där i åtta timmar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:26",
+    "line": "Sen ska du iväg till något annat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:28",
+    "line": "så ska du vara på ett event där du ska använda hjärnan lite mer och lyssna på saker och ta in information."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:38",
+    "line": "Och det kan ju vara rätt tungt också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:41",
+    "line": "Så därför tycker jag att meetups där de har haft sessioner där de kör lightning talks eller korta talks"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:47",
+    "line": "eller absolut max en halvtimme är trevligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:52",
+    "line": "För då får man ändå lite så här, in lite nytt men man behöver inte sitta jättekoncentrerad jättelång tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:59",
+    "line": "Nej, och när du säger max en halvtimme, det tycker jag gäller för nästan alla presentationer nu för tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:06",
+    "line": "Alltså, när jag planerar mina egna presentationer, då brukar jag sikta på 25 minuter och sedan 5 minuter för frågor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:14",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:15",
+    "line": "Och det tycker jag funkar ganska lagom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:17",
+    "line": "Och samma sak om man kör på en meetup, då kan man köra två sådana med en liten paus, bensträckade emellan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:21",
+    "line": "Och sen funkar det ganska bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:23",
+    "line": "Men också inne på som du säger, Lightning Talks tycker jag är sjukt nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:27",
+    "line": "För då måste man liksom koka ner en presentation till det optimala."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:32",
+    "line": "Oftast är det väldigt trevligt att lyssna på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:35",
+    "line": "Särskilt i meetup-kontexten, som när du pratar om inatt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:38",
+    "line": "Ja, men det kanske inte är så genomtänkta presentationer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:40",
+    "line": "Men det behöver inte vara om det är fem minuter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:42",
+    "line": "För är det katastrof, då har man liksom förlorat fem minuter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:47",
+    "line": "Medans en timmes presentation är svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:50",
+    "line": "Jag är inte en person som går i mitten direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:53",
+    "line": "–Nej, inte jag heller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:56",
+    "line": "Men jag tycker att det inte behöver heller vara fem minuter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:58",
+    "line": "Det behöver inte vara super-lightning. Det kan vara tio minuter, femton minuter max."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:02",
+    "line": "Det tycker jag också är helt fin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:03",
+    "line": "Och så kanske man lär sig något nytt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:05",
+    "line": "Det kan vara väldigt specifika saker också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:08",
+    "line": "Jag kommer ihåg att det var en som pratade om hur de hade löst ett specifikt accessibilityproblem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:13",
+    "line": "ploppade fram någonting i huvudet, och då behövde man sätta en RF för att sätta det föremålet i fokus från accessibility point of view."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:22",
+    "line": "Och det tyckte jag var väldigt nice, för det var så här, varför, hur gjorde vi det, vad ska vi tänka på här näst?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:28",
+    "line": "10 minuter, super nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:31",
+    "line": "- Ja, och de är också väldigt bra de presentationerna för att det är så lätt att ta med sig någonting från dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:36",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:37",
+    "line": "Så jag tycker också att de är svintrevliga att lyssna på, i just kunskapssyftet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:47",
+    "line": "Men har du någon känsla för att, är det några specifika meetups du tycker om mer?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:57",
+    "line": "Eller den sociala biten, är det viktigt att ni har samma teknik som ni vill prata om?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:06",
+    "line": "Finns det några sådana delar för att göra den sociala interaktionen lite mer smooth?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:13",
+    "line": "Jag vet inte riktigt. Det är klart att det hjälper om man pratar om samma teknik."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:19",
+    "line": "Är man två JavaScript-utvecklare så är det lättare att snacka teknik med varandra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:22",
+    "line": "Eller om det är en JavaScript-utvecklare och en Haskell-utvecklare till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:31",
+    "line": "Och det gör ju så att den sociala biten kanske går lite lättare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:34",
+    "line": "Men sen beror det ju på, man har ju tittat på samma presentation till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:38",
+    "line": "är ofta det man pratar om, eller utgår ifrån, och sen tar det iväg någonstans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:43",
+    "line": "Men sen, jag vet inte, det är också lite olika stämning på olika meetups kan jag tycka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:46",
+    "line": "Jag tycker typ Stockholm GIS till exempel, som jag har nämnt några gånger,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:49",
+    "line": "tycker jag oftast att stämningen är skitbra på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:52",
+    "line": "Och jag vet inte liksom vad som gör det, men jag tycker ofta att det är extremt bra stämning där,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:57",
+    "line": "den sociala biten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:59",
+    "line": "Medan andra meetups kan vara lite stelare, och man kommer dit och så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:01",
+    "line": "det är lite svårt att få igång samtal med folk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:03",
+    "line": "Folk är lite med där för bara att titta på presentationen och sen dra typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:07",
+    "line": "Sen vet jag inte vad som gör det. Jag har svårt att sätta fingret på vad skillnaden faktiskt är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:12",
+    "line": "Men det är bara den upplevelsen jag har haft."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:16",
+    "line": "- Ja, men du är alltså en post-snack-minglare och inte en pre-snack-minglare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:22",
+    "line": "- Ja, främst tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:26",
+    "line": "Pre-snack har det ofta blivit på, nu var det länge sedan jag var på fysisk meetup,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:31",
+    "line": "men då var det oftast att man sprang på någon man har träffat förut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:35",
+    "line": "Och så blev det att man sa hej och \"Kul att du är här\" och så hade man typ säga några ord innan man skulle ta mat och dryck."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:42",
+    "line": "- Ja, just det. Det är kanske där jag har missat hela grejen för jag hade alltid så bråttom hem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:48",
+    "line": "- Ja, men jag tycker att det är enklare att snacka efteråt för de som inte vill snacka, de drar ju."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:55",
+    "line": "Eller de som är trötta i ditt fall. - Och inte vill snacka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:00",
+    "line": "Ja, exakt. Sen är det de som är lite mer mingelsugna som stannar kvar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:05",
+    "line": "Då gör det lite lättare att prata med dem, för då vet man varför de är där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:07",
+    "line": "Och just att man kan prata om presentationen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:11",
+    "line": "Just det. Du är sån hela superminglare, du."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:13",
+    "line": "Det är en väldigt bra icebreaker att säga \"Tjena, vad tyckte ni om presentationen?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:17",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:19",
+    "line": "Men vad tänker du om size på meetup-grupper då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:24",
+    "line": "Tänker du på själva meetupsen, alltså hur många som är på plats?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:27",
+    "line": "Ja, finns det en size som är för stor eller en som är för liten?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:32",
+    "line": "Jag vet inte, det känns som att vid någon gräns finns det säkert på hur många det kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:38",
+    "line": "Men jag har inte varit på jättestora, Stockholm GIS är väl de största jag har varit på och då har det kanske mest varit"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:43",
+    "line": "någonstans under hundra personer på de största."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:47",
+    "line": "Men det är samma sak där, efter meetupen så går ju många hem och då är det ändå en mindre andel kvar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:52",
+    "line": "Vilket jag, det är lite lättare att snacka med dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:55",
+    "line": "Det är klart att ju fler det är, man vill ju ha någon gyllen i medelväg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:00",
+    "line": "Är det för få, då sticker man ut väldigt mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:04",
+    "line": "Då känner man sig nästan tvingad att prata."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:06",
+    "line": "Om det är tio personer på en meetup, då måste man nästan hälsa på alla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:09",
+    "line": "Men är det 80 personer, då kanske man bara försvinner i mängden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:13",
+    "line": "Då är det väldigt lätt att stå i ett hörn och inte göra något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:17",
+    "line": "- Okej, men protipet är absolut att om man vill mingla så är det post-mingel som gäller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:24",
+    "line": "- Ja, i alla fall. Sen beror det lite på setupen på strukturen på meetupen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:29",
+    "line": "För de är ju lite olika."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:30",
+    "line": "Jag har ju liksom varit på meetups där det liksom inte har varit så mycket mingel efteråt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:38",
+    "line": "Utan där de hade liksom presentationer lite senare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:40",
+    "line": "Jag tycker inte att det funkar superbra för att det blir liksom att då kommer folk lite senare och sen så blir det inte så mycket mingel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:47",
+    "line": "Och sen så kan man liksom, vill man avbryta när man väl ska se presentationerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:50",
+    "line": "Men då är det mer att det är mingel innan och sen när det är slut efteråt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:54",
+    "line": "Och det är ju lite trist."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:57",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:59",
+    "line": "Ja, jag menar, jag tycker det är knepigt det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:06",
+    "line": "Jag har haft det väldigt högt och lågt på Meetup."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:11",
+    "line": "Jag tror att där jag har trivts bäst än på Meetup,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:15",
+    "line": "det har känt mig väldigt, eller mycket mer psykologiskt trygg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:19",
+    "line": "Och det är ju ofta Meetup som är riktade mot mindre målgrupper."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:30",
+    "line": "Jag vet att jag var på nån... Vad heter den? Den är väl inte under Meetup, men QueerJS?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:36",
+    "line": "- Ja, precis. Nej, de kör väl sin egen..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:38",
+    "line": "För det finns ju Meetup som kör utanför Meetup.com, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:43",
+    "line": "Men exakt, QueerJS... Kanske är det att du var där tillsammans, till och med?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:48",
+    "line": "Ja, det tror jag. Till och med. På Klarna, faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:52",
+    "line": "Det stämmer nog."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:53",
+    "line": "Nej, precis. Den var vi på för strax innan pandemin, kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:59",
+    "line": "Ja, hösten 2019, tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:03",
+    "line": "Ja, kan nog stämma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:05",
+    "line": "Förlåt, jag avrättade också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:07",
+    "line": "Nej, men det var inte så mycket mer än det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:09",
+    "line": "Men att jag kände där..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:12",
+    "line": "Jag tyckte att stämningen där var så himla öppen,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:16",
+    "line": "trygg och välkomnande, så att jag känner mig mycket mer bekväm där än vad jag gjort när jag till exempel gått på"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:23",
+    "line": "start-up meet-up för supertekniska människor där alla kommer och där jag har gått själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:35",
+    "line": "Det har nog absolut inte fungerat, för jag vet i början så blev jag så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:42",
+    "line": "Jag var på nåt meetup, och jag hela tiden blev ifrågasatt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:46",
+    "line": "\"Var är du här? Jobbar du som utvecklare?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:49",
+    "line": "Jag bara, \"Ja, jag jobbar som utvecklare.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:50",
+    "line": "\"Jaha, vadå? Du kodar?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:53",
+    "line": "Jag hade nåt sånt, och blev totalt ifrågasatt om varför jag ens var där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:00",
+    "line": "Då var jag så ny också, så jag var så nervig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:03",
+    "line": "Så det är verkligen olika stämning ibland."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:06",
+    "line": "Ja, då känns det ju..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:09",
+    "line": "Man ska inte säga att det är misslyckande, men det är fel stämning på meetupen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:14",
+    "line": "Det är superviktigt att man har någon typ av \"code of conduct\" på hur man ska bete sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:20",
+    "line": "Sen ska man ju såklart inte sticka under stolen med att \"tech dudes\" ofta inte är de bästa på mångfald och inkluderings..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:31",
+    "line": "Eller på den skalan av kunskap, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:34",
+    "line": "Och jag inkluderar absolut mig själv i den här också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:37",
+    "line": "Även om jag tycker att jag har gjort min bästa för att förbättra det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:41",
+    "line": "Men det gör ju liksom att det krävs liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:44",
+    "line": "Man måste ju ändå som organisatör sätta någon typ av tydlig förväntan på folk i sin kommunikation och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:52",
+    "line": "Att man kanske inte kommunicerar om att \"ja, kom hit alla rockstar-utvecklare\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:59",
+    "line": "Och ta med era ninja-kompisar så ska vi snacka den svåraste koden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:06",
+    "line": "Det kanske inte blir helt optimalt då och man kanske lockar en ganska ensidig typ av publik."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:15",
+    "line": "Ja, det är väldigt sant just det här med vad det finns för förväntningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:20",
+    "line": "Core-contact är ju en väldigt bra sak, inte för att det ska finnas en regelbok eller någonting som du ska ha,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:27",
+    "line": "men för att, just som du säger, du sätter förväntningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:31",
+    "line": "Vi gör det här för er, det finns gratis mat, det finns gratis dryck i någon tappning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:37",
+    "line": "Vad har vi för förväntningar på er då? Det är ett utbyte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:43",
+    "line": "Ja, men exakt. Och också särskilt när meetups är helt gratis. Du har inte ens betalat något för att vara där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:52",
+    "line": "Du har ingen rätt att kräva någonting egentligen, förutom kanske att man ska bli behandlad väl."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:59",
+    "line": "Men du har inte rätt att kräva att \"jag har rätt att vara här fast jag bryter mot er\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:04",
+    "line": "Du har inte betalat en krona för att vara där och få gratis mat och dryck."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:07",
+    "line": "Gillar man inte läget lite så stick."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:11",
+    "line": "Jo, så är det verkligen. Men det tycker jag också är bra att komma ihåg när det varit så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:16",
+    "line": "För jag har ju varit på vissa meetup där jag kunnat komma ut därifrån och bara \"ja det här var ju kass\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:21",
+    "line": "Och sen ska jag komma på det att okej, fast det är någon som har fixat det här själv med ett företagsförsvaret."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:27",
+    "line": "Jag själv ordnade faktiskt ett meetup och hade jättemycket problem med att jag inte förstod hur lokalen fungerade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:34",
+    "line": "För att fläkten stängde av och det blev jättevarmt och lampan släckte efter klockan åtta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:39",
+    "line": "Alltså det var kaos, jag hade inte koll på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:43",
+    "line": "Och jag är ju verkligen inte den första eller den sista som kommer hamna i den situationen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:48",
+    "line": "Så jag tycker att man ska komma ihåg att folk gör nog sitt allra bästa också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:54",
+    "line": "Och det är som sagt att vara gratis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:58",
+    "line": "Så man kanske ska lägga sina förväntningar på rätt nivå också inför ett meetup."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:04",
+    "line": "Ja, men verkligen. Jag tycker att liksom, går man på en konferens då kan man ju verkligen ha en förväntan på att det ska vara bra presentationer och det ska vara bra uppstyr och sådär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:16",
+    "line": "För då har man ofta betalat tusentals kronor för att vara där. Och de som organiserar det går ofta med vinst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:21",
+    "line": "Medans på meetups är det ju liksom att det är något företag som får lite mediautrymme eller vad man ska säga, lite branding eller lite sådär uppmärksamhet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:30",
+    "line": "Och det är allt som går att få i vinst av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:34",
+    "line": "– Ja. Ja, jag håller en liten kort presentation om företaget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:41",
+    "line": "– Exakt. – Det har jag gjort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:44",
+    "line": "– Ja, annars tänker jag också på det här, vi ska väl avrunda strax."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:47",
+    "line": "Men den sista grejen som jag tänkte på är att, har du varit på någon meetup någon gång,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:50",
+    "line": "alltså man kan tänka på en hard-ramps-upplevelse,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:52",
+    "line": "när det var extremt mycket rekryterare från företaget där,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:56",
+    "line": "som liksom, alltså de som hostade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:58",
+    "line": "Det var så tydligt hur mycket rekryteringsförsök de har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:02",
+    "line": "De var så här på hela tiden, skulle prata med alla, fråga var de jobbade, hur länge de hade jobbat, vad de gjorde, vad de ville göra i framtiden, skulle de jobba där länge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:12",
+    "line": "Och det är ju mardröm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:15",
+    "line": "Jag kan säga det, jag gick på ett event en gång där det var riktat till kvinnor som jobbar med tech."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:25",
+    "line": "Där de tänkte väl att det skulle vara konsultande programmerande kvinnor tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:33",
+    "line": "Jag var där och tog med min kompis och så var det en till person som kodade, resten var styrelsemedlemmar, rekryterare, säljare, allting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:43",
+    "line": "Så när snacken var slut så kom folk fram till mig och min kompis och ba \"Jag måste bara få presentera mitt företag\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:50",
+    "line": "Och vi ba \"Aaah, okej\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:53",
+    "line": "Det var bara vi där liksom"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:55",
+    "line": "Ett riktigt hett villebråd så att säga"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:58",
+    "line": "Ja, det gick nog inte precis som de som anordnade villor tror jag"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:03",
+    "line": "Nej, fy fan"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:05",
+    "line": "Det låter också som en marjoram"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:09",
+    "line": "Men med det sagt, jag tycker att Meetups är fint kul, så jag är väldigt taggad på att det ska köra igång igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:15",
+    "line": "Jag såg att Stockholm GIS faktiskt hade någon på G, jag vet inte när den var exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:20",
+    "line": "Så jag ska nog se till att gå på någon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:22",
+    "line": "Jag ska också kanske skicka in ett talk till någon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:26",
+    "line": "Jag tror jag har något på lager som har växt fram under pandemin som jag är sugen på att köra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:30",
+    "line": "– Ja, de hade ju Call for Speakers ute också, Stockholm GIS i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:35",
+    "line": "– Ja, jag såg också det. Vi får se vad det blir av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:38",
+    "line": "Nu är det bara det här att man måste komma ihåg att man måste hetsa sig av fan när de släpper de här platserna för de fyller upp på dirr."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:44",
+    "line": "Ja, Stockholm GIS kan ju vara lugnare nu, det vet vi inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:46",
+    "line": "Post-pandemi liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:48",
+    "line": "Men Stockholm GIS brukar man få hänga på låset för i stort sett för att få se vår plats."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:55",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:57",
+    "line": "Ja, det blir ju kul. Då får vi väl se om vi kan se en Anton hålla snack på Meetup nära dig snart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:04",
+    "line": "Exakt, i sådana fall. Så ska jag försöka göra reklam för dig i podden så att någon poddlystare kan komma och kolla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:10",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:14",
+    "line": "– Du måste tajma väl bara. – Ja, du måste tajma extremt väl. Annars får vi se."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:18",
+    "line": "Med det sagt så är det väl som vanligt att vi finns på lite sociala medier. Det gör vi typ inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:23",
+    "line": "Vi finns på Twitter, på vår personliga konton."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:26",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:28",
+    "line": "Annars får man jättegärna recensera oss lite här och där där vi finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:32",
+    "line": "Med det sagt så hörs vi igen om två veckor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:35",
+    "line": "Det gör vi. Hej då!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:37",
+    "line": "Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:39",
+    "line": "(Skratt)"
+  }
+]

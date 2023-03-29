@@ -1,0 +1,1782 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "How do trees use the internet?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "They log in."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:11",
+    "line": "Det var gul. Jag trodde det skulle komma något med fiber ett tag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:16",
+    "line": "Men den där har nog snott från internet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:19",
+    "line": "Ja, men det är så att vi inte kan förvänta oss att vi ska hitta på 55 skämt till faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:27",
+    "line": "De får du spolar till din stand-up-karriär inom tech."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:32",
+    "line": "Ja, otroligt smalt och nischat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:36",
+    "line": "Gud vad kul att bara gå upp och ställa sig på en stand-up-scen och köra bara de här skämten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:40",
+    "line": "Det är också kul att jag fastnade någonstans i mitt huvud."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:46",
+    "line": "Det är de dagarna man borde ha stand-up och prata om de här blåa tossorna man måste ha på sig på läkarmottagningen när det är blött ute."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:54",
+    "line": "Hur fruktansvärt jobbigt det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:56",
+    "line": "Ungdomstrauma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:58",
+    "line": "Hur som helst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:59",
+    "line": "Hej och välkomna till ASDF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:02",
+    "line": "Avsnitt någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:04",
+    "line": "-58 kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:07",
+    "line": "-Kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:08",
+    "line": "Sa du inte att det var 59 förra gången?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:10",
+    "line": "-Jag vet inte, men vi är där någonstans i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:12",
+    "line": "Snart pensionär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:16",
+    "line": "-Snart pensionär. Det måste vi nog fira tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:19",
+    "line": "-Absolut, det löser vi på något sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:21",
+    "line": "Det blir livepodd."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:23",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:28",
+    "line": "- Ja, okej. - Det vill säga att du och jag poddade i samma rum igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:31",
+    "line": "- Det var ett tag sedan. - Ja, det kan vi väl se här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:33",
+    "line": "- Dricka en cocktail. - Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:35",
+    "line": "Nu ska jag sluta deraila det här avsnittet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:38",
+    "line": "Ja, det är mitt jobb oftast."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:41",
+    "line": "Men idag har jag funderat på en sak."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:45",
+    "line": "Och det är att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:47",
+    "line": "Åh, man ska inte snacka skit om kål."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:50",
+    "line": "Det jag sitter i nu, i en React-app, och nu kommer det bli i React så ledsen alla som inte är intresserade av det, men det är otroligt många ljusmemo och ljuscallback i den appen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:05",
+    "line": "Jag har funderat så himla mycket på det här. Jag har läst en hel del och åsikter om man bör använda det överallt eller inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:15",
+    "line": "Jag känner att jag inte riktigt får någon rätsida på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:19",
+    "line": "Jag har väldigt svårt att se när det är bra och inte bra att använda det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:25",
+    "line": "Så jag tänkte höra lite dina tankar kring det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:28",
+    "line": "Just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:30",
+    "line": "Jag älskar ändå att man inte ska prata skit om kod, men \"here we go\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:34",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:37",
+    "line": "Man ska inte prata skit om andras kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:40",
+    "line": "Nej, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:42",
+    "line": "Och vi kan låtsas att det här är koden som du har skrivit, fast du är förvirrad över varför den är skriven som det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:47",
+    "line": "Precis. Så här, caset är"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:51",
+    "line": "jag har hört att ljusmemo och ljuskålback ska användas för prestandaoptimering,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:55",
+    "line": "så nu har jag lagt in det precis överallt utan eftertanke och nu funderar jag på om jag har gjort rätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:01",
+    "line": "Jag skulle ju spontant säga att du inte har gjort rätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:03",
+    "line": "–men det beror ju lite på hur resten av koden ser ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:09",
+    "line": "Om vi börjar med \"use memo\" kanske, som är ett av världens mest svåra ord att säga på svengelska."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:19",
+    "line": "\"Memoise\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:20",
+    "line": "–Memoisering. –Ja, memoisering. Toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:25",
+    "line": "Det går ut på att du ska ta nånting som gör en uträkning egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:33",
+    "line": "och se till att den uträkningen bara görs när den behöver göras."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:37",
+    "line": "Så om du har en funktion som gör någon komplicerad och tung uträkning"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:42",
+    "line": "så kan man stoppa in den i en ljus memo och så säger du att \"kör bara den här uträkningen när den här variabeln ändras\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:50",
+    "line": "– Ja, för hela poängen med en funktion är att den ska ge exakt samma värde för exakt samma input varenda gång du kör den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:56",
+    "line": "Ja, precis. Så att du vill inte stoppa in en funktion där i som beror på tid, till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:01",
+    "line": "Det är spontant ganska dåligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:03",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:05",
+    "line": "Och det är poängen med den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:07",
+    "line": "Och sen useCallback är ju egentligen samma sak, bara att den ger i React-världen en stabil referens till en funktion."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:16",
+    "line": "Så att när du deklarerar en funktion i en komponent i React,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:19",
+    "line": "om du bara gör det rakt upp och ner i komponenten,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:21",
+    "line": "så kommer den funktionen skapas om varje gång komponenten renderas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:27",
+    "line": "Så varje gång komponenten renderas så får du en ny referens till den här funktionen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:33",
+    "line": "Just Callback är på samma sätt som man skickar in den här funktionen, eller \"wrappar\" den i Just Callback"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:38",
+    "line": "och skickar in vilka beroenden den har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:40",
+    "line": "Då kommer du bara få en ny referens till funktionen när beroendena ändras."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:45",
+    "line": "Och här glider vi också lite in på closures i JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:51",
+    "line": "Men vi kanske kan undvika att prata om det här för det är lite jobbigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:56",
+    "line": "Jag är helt blank. Jag vet ju vad det är men jag vet inte vad det är just nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:02",
+    "line": "Closures är ju när funktioner i JavaScript kan använda data som är definierade eller deklarerade utanför dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:12",
+    "line": "Och att de då \"closes\" över den datan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:15",
+    "line": "Så att när funktionen kör så kommer den ha en referens till den datan som den var när funktionen skapades."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:23",
+    "line": "Vilket gör att du kan få, om du gör en funktion som \"console.loggar\" ett värde som du har definierat utanför funktionen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:34",
+    "line": "Och sen ändrar du variabeln på det värdet utanför funktionen så kommer fortfarande funktionen konsologga det gamla värdet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:43",
+    "line": "Om det har blivit ett closure."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:45",
+    "line": "Det är väl typ ett problem man brukar springa på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:47",
+    "line": "Men closures är meckiga och det finns edge cases och massa grejer med dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:51",
+    "line": "Man behöver inte riktigt veta vad det är för att vi ska förstå just Memo och just Callback tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:57",
+    "line": "Nej, en sak som är bra att veta är att både ljusmemo och ljuscallback har en dependency array som säger att titta på de här värdena och när de ändras är det då du vill göra nya beräkningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:15",
+    "line": "Om jag förstått det korrekt, till skillnad från ljuseffekt, som också har en dependencyarray som säger \"kör den här effekten när de här beroendena förändras\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:26",
+    "line": "Men ljusmemo och ljuscallback som jag förstått det, de fattar faktiskt att det inte är en ny referens till objekt, utan de facto nya värden i objekten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:38",
+    "line": "Men det gör inte ljuseffekt, ljuseffekt går på nya referenser."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:44",
+    "line": "Det kan säkert stämma, jag har faktiskt ingen aning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:46",
+    "line": "Jag tyckte mig läsa det nyligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:49",
+    "line": "En anledning till att jag inte vet är för att jag använder inte UseMemo eller UseCallback så ofta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:55",
+    "line": "Nej precis, jag har ju historiskt sett inte gjort det heller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:00",
+    "line": "Det är som att jag inte har kodat React med React Hooks tidigare, men det har jag nog."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:04",
+    "line": "Men jag har använt det väldigt väldigt sällan och därför blev jag så himla"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:08",
+    "line": "överraskad över att det var"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:12",
+    "line": "Allt var ljusmemo och ljuskålbär. De är inte små."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:16",
+    "line": "De är ju 100-200 rader långa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:20",
+    "line": "Ja, alltså de användningsområdena som jag har använt till dig då,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:26",
+    "line": "om vi pratar ljusmemo först, då är det ju till att just"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:29",
+    "line": "begränsa att tunga uträkningar körs på varje rendering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:34",
+    "line": "Annars, om det inte är en tung uträkning så tycker inte jag det finns någon idé"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:39",
+    "line": "att slänga in den i en ljus memo förrän man får performanceproblem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:43",
+    "line": "– Nej. För det är det också de säger överallt, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:48",
+    "line": "Att så här, ja, absolut, prestanda. Men prestanda har sitt pris."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:53",
+    "line": "För att hela poängen med det här är att det kostar minne."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:56",
+    "line": "För att, jag menar, okej om du har en jättekomplex uträkning i en ljus memo,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:00",
+    "line": "men om du har typ, dependar på fem variabler,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:05",
+    "line": "Då kommer det att kosta en massa minne för att den ska hålla reda på de olika states för de här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:10",
+    "line": "Så jag vet inte om du vinner på det i slutändan ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:13",
+    "line": "Nej, precis. Det ska ju till att det ändå är något ganska pressant och krävande för att jag ska wrappa den i en just memo."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:24",
+    "line": "För jag tycker inte att att wrappa allting i just memo, det kanske känns bättre om man inte tänker på vad den faktiskt gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:33",
+    "line": "Då begränsar vi antal renderingar på den här komponenten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:39",
+    "line": "Men i verkligheten är det som du säger, att det kommer med en kostnad att använda en funktion till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:44",
+    "line": "Och den är ju oftare mer prestandakrävande än vad det blir att räkna ut siffran från de här tre variablerna några gånger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:56",
+    "line": "Ja, men vad snackar vi som tunga uträkningar? För det är ganska många som har så här, ja det är stora switchar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:03",
+    "line": "Men de är inte så jäkla, jag vill slänga in Ordo här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:08",
+    "line": "Ja exakt, nu förlåter Ordo och, eller vad heter det på engelska, Big O heter det väl."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:14",
+    "line": "Då är det en throwback till universitetstiden, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:19",
+    "line": "Algoritmer och datafrikturer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:22",
+    "line": "100% har inte använt Ordo i jobbet en enda gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:27",
+    "line": "Nej, vi kan länka Ordo i beskrivningen och sen kan vi gå vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:31",
+    "line": "Men det är väl egentligen ett sätt att beskriva hur prestanda är krävande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:35",
+    "line": "Eller hur många gånger någonting måste köras för att göra uträkningar baserat på dess input."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:40",
+    "line": "Ja, det är mycket så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:42",
+    "line": "Om man ska ta in det, att göra platta saker kostar inte så jävla mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:48",
+    "line": "För platta saker så menar jag ju, alltså typ som if-satser är ju platta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:53",
+    "line": "Switchar är ju också platta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:55",
+    "line": "Det är liksom en check på värde du får in och sen har du ett resultat från det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:00",
+    "line": "Om du inte gör en massa komplicerade uträkningar i dem då såklart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:03",
+    "line": "Men att göra själva checken kostar ju inte så mycket egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:07",
+    "line": "Det är mer så här, börjar du lopa och göra recursiva anrop och så, då kan du ju få en exponentiell ökning i vad det kostar att köra de här och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:17",
+    "line": "Ja, exakt. Har man en loop i en loop, då kommer den ju ofta öka exponentiellt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:24",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:26",
+    "line": "Det är precis ett sätt att göra det på som aldrig har fått användning för efter universitetet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:33",
+    "line": "Men jag vet inte riktigt vad man ska definiera som tunga uträkningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:39",
+    "line": "Jag tror att det handlar mer om, för mig handlar det om att när jag märker att prestandan påverkas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:45",
+    "line": "Man kan göra väldigt tunga uträkningar för att transformera massa data för att du vill rendera det på ett annat sätt än vad datan är strukturerad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:56",
+    "line": "Och strukturerar om den och då blir det lite loopar i loopar eller att du kör Map och Reduce eller Filter och allting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:03",
+    "line": "Oftast så behövs det inte ens det att göra. Men är det väldigt mycket data, då kanske man ska sträcka sig efter JustMemo."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:12",
+    "line": "Men då blir det istället så här..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:15",
+    "line": "Då kanske lösningen egentligen är att virtualisera en lista till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:20",
+    "line": "Istället för att vi ska rendera all den här datan, då kanske vi bara kan ta ett subsätt av den datan och rendera samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:26",
+    "line": "Och så har vi virtualiserade listor som renderas när man scrollar till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:30",
+    "line": "Så ofta finns det andra lösningar än att man ska \"wrappa\" de ljus mem och hoppas att det funkar i längden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:35",
+    "line": "Jag tänker om du ska sortera en massa och sånt också, men det vill man väl också göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:42",
+    "line": "Virtualisera, vad säger du egentligen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:45",
+    "line": "Det heter virtualisera tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:48",
+    "line": "Det finns en bibliotek som heter React Virtualized."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:54",
+    "line": "Som är ett tabellbibliotek som är byggt specifikt för att du inte ska rendera hela tabellen utan att det renderas de tio raderna du ser."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:03",
+    "line": "Är det någon typ av paginering eller \"lazy loading\"?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:07",
+    "line": "Ja, typ \"lazy loading\", fast du kastar också bort där du scrollar ut ur bild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:15",
+    "line": "Jaha, \"today I learned\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:18",
+    "line": "Ja, det är ett väldigt bra uttäckte. Det finns väldigt många bra bibliotek för det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:21",
+    "line": "För det är lite mäckigt att implementera själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:23",
+    "line": "Men om man har väldigt mycket data så är det väldigt vettigt att virtualisera sina taveller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:28",
+    "line": "för att slippa rendera allting samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:30",
+    "line": "Så renderar du bara det som du vill visa upp samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:33",
+    "line": "Det är någon som har så jävla bra koll på Ordo som har byggt om där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:37",
+    "line": "Ja, det är det garanterat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:39",
+    "line": "Jävlar i havet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:41",
+    "line": "Det tycker jag är ett bra tips."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:44",
+    "line": "Att sträcka in det efter just memo först, för den kanske stoppar problemet just nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:50",
+    "line": "Men sen blir det mer data ändå så kommer inte heller det funka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:52",
+    "line": "Eller om datan börjar ändras oftare, eller vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:55",
+    "line": "Nej, alltså jag menar det där känns ju ganska vettigt såhär, att plocka in det när du känner att det finns behov."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:02",
+    "line": "För jag är ju fortfarande lite i chock av att folk hela tiden lägger saker vid ljusmemo för att jag är, men varför? Varför håller du på med det här?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:11",
+    "line": "Och den här barnen till exempel borde ju inte rendera om, ens om propparna inte ändras."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:18",
+    "line": "Jag förstår inte vad som händer, riktigt, vissa gånger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:23",
+    "line": "Men det är ju inte så att jag bara rakt vågar gå in i en central chock i appen som har en hundra rader lång ljusmemo och bara yrka den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:36",
+    "line": "Nej, det kan jag förstå faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:40",
+    "line": "Jag tycker det är så svårt när det är så långa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:44",
+    "line": "Att innehållet i Just Memo eller Just Callback blir så väldigt långt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:48",
+    "line": "Då blir det ju helt plötsligt lite mäckigare att ändra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:53",
+    "line": "Det finns ju vissa fall när det kan vara värt det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:56",
+    "line": "Som sagt, när det tar väldigt lång tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:58",
+    "line": "Eller som också är ljusgriset för Just Callback."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:02",
+    "line": "att du vill inte att det värdet eller den funktionen förändras för att du skickar den som en prop till en annan komponent, alltså en barnkomponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:14",
+    "line": "Du vill förhindra att säga att den barnkomponenten har det här värdet eller den proppen i en useEffect dependency array till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:23",
+    "line": "Då vill du inte att den ska köras om varje år i den här funktionen, eller varje gång föräldrar funktionen renderas till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:29",
+    "line": "Då kan det vara vettigt att använda useCallback eller useMem"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:32",
+    "line": "beroende på vad man gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:33",
+    "line": "Men det är ett av få vettiga use-case som jag tycker att det finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:37",
+    "line": "Men vad är det då för vettiga use-case det handlar om?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:42",
+    "line": "Vi har en föräldrakomponent som definierar en"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:50",
+    "line": "\"handleChildUpdate\" som är en funktion."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:56",
+    "line": "Och den funktionen tar emot någon typ av data och gör någonting med den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:00",
+    "line": "Det spelar inte så stor roll vad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:01",
+    "line": "Men den lever i föräldern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:02",
+    "line": "Den skickas ner till barnkomponenten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:06",
+    "line": "Den har en use-effekt som körs på grund av någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:10",
+    "line": "Och då vill den köra den här proppen som skickas ner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:14",
+    "line": "Alltså den här HandleChildUpdate-funktionen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:16",
+    "line": "Ska man följa de här hookreglerna som finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:21",
+    "line": "ska ju även HandleChildUpdate-funktionen ligga med i barnets UseEffectDependencyArray."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:28",
+    "line": "Ja, det här är också någonting som vi bör diskutera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:33",
+    "line": "Och om man då lägger med HandleChildUpdate, alltså den proppen, i dependencyarrayen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:41",
+    "line": "Det som skulle hända då är att den useffekten skulle köras om varje gång"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:45",
+    "line": "för att då har HandleChildUpdate-funktionen också förändrats."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:51",
+    "line": "Alltså det är en ny HandleChildUpdate varje gång det renderas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:54",
+    "line": "Så skickar man den som en prop till barnet så kommer ljuseffekten köras om i barnet varje gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:02",
+    "line": "Då kan det vara vettigt att man \"wrappar\" HandleChildUpdate-funktionen i föräldern i en ljus callback."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:08",
+    "line": "Ja, det där makar känslan. Jag tänkte att det var någon mer specifik case, men det handlar mer om alla handlers så länge det är något som behöver hanteras i en side effect."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:21",
+    "line": "Ja, sen ska det ju sägas att jag har ju mer och mer, och mycket tack vare den nya React-dokumentationen, proppsat för att man inte ska använda use-effect."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:32",
+    "line": "Eller att man ska använda useeffect så lite som möjligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:36",
+    "line": "Och det finns en svinbra sida i den nya React-dokumentationen, den som ligger på beta.react.org"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:42",
+    "line": "Som bara pratar om att du kanske behöver inte använda useeffect."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:48",
+    "line": "Och den är så jävla bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:54",
+    "line": "När den nya dokumentationen landar skarpt så kommer den att göra stor skillnad för hur folk skriver React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:00",
+    "line": "Den pratar mycket om att man inte ska lägga saker i ljuseffekt som är på de här fem-sex olika fallen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:07",
+    "line": "Det är väldigt vanliga fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:09",
+    "line": "Du ska inte använda ljuseffekt för att uppdatera state beroende på props."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:15",
+    "line": "Det är ett vanligt fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:17",
+    "line": "Du har något state som du vill använda när props ändras och då kör du en ljuseffekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:22",
+    "line": "Men det ska man inte göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:24",
+    "line": "–Vad ska man göra då? –Du kan göra det i rendermetoden istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:28",
+    "line": "Render ska bara köras när propsen ändras."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:33",
+    "line": "Sen beror det lite på vad man gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:35",
+    "line": "Men du kan också köra den till exempel om det bara ska ske en gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:38",
+    "line": "Då kan du stoppa in det som en initializer till useState."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:42",
+    "line": "Du kanske inte ens behöver ha en state-variabel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:45",
+    "line": "Alltså en useState."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:48",
+    "line": "Du kanske bara kan ta propsen och sen konvertera dem och göra om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:51",
+    "line": "Det finns massor av alternativ på hur man kan lösa det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:54",
+    "line": "Men jag tycker den är svinbra, så den kan jag rekommendera att läsa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:57",
+    "line": "Vi länkar väl den också i beskrivningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:59",
+    "line": "- Alltså det här är lite intressant för att jag har ju känt mig helt i alla off."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:04",
+    "line": "Eller, helt off."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:06",
+    "line": "Med lite off i den här appen för att jag är så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:07",
+    "line": "okej, men det är ljusmemma överallt, det är ljuskålbark överallt,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:10",
+    "line": "det är ljuseffekt överallt,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:11",
+    "line": "det är ljuseffekt med dependency array som saknar alla typer av dependencies."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:18",
+    "line": "Det är också en eskildintregel som är avstängt för att man inte vill att den ska klaga på att man inte har mätt i dependency arrayen för att man hamnar i fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:26",
+    "line": "Kodar jag React fel?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:28",
+    "line": "För att jag är ju extremt sparsmakad med allt det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:34",
+    "line": "Jag bygger en komponent genom att göra en render."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:42",
+    "line": "Behöver jag det här så kollar jag hur jag får tag på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:44",
+    "line": "Jag gör ju inte funktioner i render. Jag lägger konstanter tills jag behöver göra nya uträkningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:50",
+    "line": "Jag försöker göra så lite trixiga saker som möjligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:56",
+    "line": "Ibland är jag väldigt rädd för att jag är så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:58",
+    "line": "Men är det för att jag är lite korkad?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:01",
+    "line": "Att jag inte fattar de här coola sakerna?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:03",
+    "line": "Eller varför måste det vara så komplext?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:06",
+    "line": "För jag tycker inte det behöver vara så komplext alltid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:09",
+    "line": "Och då känner jag mig lite dum."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:11",
+    "line": "Jag tror definitivt att ditt sätt är mer rätt, om man ska säga så, än motsatsen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:19",
+    "line": "Jag tror också att det har varit lite problem sen Hooks kom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:24",
+    "line": "Det var väldigt mycket \"vi måste förklara hur de här Hooksen funkar\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:27",
+    "line": "och se lite grann hur de ska användas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:31",
+    "line": "Och även att React-teamet själva inte riktigt hade koll på vad som var best practices."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:36",
+    "line": "Jag tror det är lite målet med den här nya dokumentationen att skriva om den här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:40",
+    "line": "så att man kan lära sig en \"Hooks first\" approach i dokumentationen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:44",
+    "line": "Vilket den nuvarande live-dokumentationen inte gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:46",
+    "line": "Och att man får lära sig hur man ska tänka i hooks och allting sånt mer än bara så här, det här är hooksen, här är hur den funkar, använd dem hur du vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:55",
+    "line": "Vilket jag skulle säga leder till att man så här, liksom spiller lite ljus memo och ljus callback här och där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:04",
+    "line": "Ja, alltså jag hade ju, vi ska inte prata skit om andra skål. Jag ber om försikt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:14",
+    "line": "Men det här är på svenska och de är inte svensktalande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:20",
+    "line": "Jag hade lite pet-peeves när jag kom in i applikationen för det var ganska många ställen där de hade if-satser i början på komponenten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:29",
+    "line": "Och liksom hooks under."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:32",
+    "line": "Och jag var så här, allting klagade på det och jag är det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:34",
+    "line": "Om det finns en regel i React-hooks så är det ju att de ska användas unconditionally."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:41",
+    "line": "Så det var lite en grej, jag måste ändra på det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:43",
+    "line": "Det var lite \"scary\" att bara komma in i en ny app. Jag vet inte vad som hände, men bara rycka lite saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:48",
+    "line": "Och sen hade jag en annan grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:49",
+    "line": "Och det var att i ett antal ljuseffekter så gjordes Async-anrop i self-invoking functions."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:59",
+    "line": "Jag har inte sett en self-invoking JavaScript-function sen 2015."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:05",
+    "line": "–Typ. –Ja, just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:07",
+    "line": "Nej, och jag antar att det är gjort för att React skriker på dig om du gör async-grejer i en ljuseffekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:17",
+    "line": "–Ja, precis. Ljuseffekt-callbacken får ju inte vara async, så det du får göra är att skapa en funktion i asynken och sen så kalla på den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:27",
+    "line": "Så det är samma sak, förutom att när du kör \"prettier\" får du ett semicolon framför self-invoking-funktionen som är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:35",
+    "line": "...ohyggligt fult."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:36",
+    "line": "Men de hade ju också tagit bort \"prettier\", så att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:38",
+    "line": "Det hade de. Men det var inte samma..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:41",
+    "line": "För det här var ju också... Det är ju lite både och."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:44",
+    "line": "Det är ju typ en byrå som man byggt och sen..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:46",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:47",
+    "line": "Absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:50",
+    "line": "Nej, men det är exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:51",
+    "line": "Och jag tror att det är väl nånting React-världen lider lite av."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:56",
+    "line": "Särskilt när det kommer in nya React och folk ska förklara Hux och alla Hux förklaras som att de är som livscykelmetoderna i gamla React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:08",
+    "line": "Det inte riktigt stämmer gör att koden kanske inte blir toppen jämt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:14",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:17",
+    "line": "Det är kul, en sak som jag tänkte på som var från React Conf 2021 tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:23",
+    "line": "Om jag minns rätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:25",
+    "line": "Så var det en presentation som var av någon..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:33",
+    "line": "Jag kommer inte ihåg vem det var som höll den nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:35",
+    "line": "Men det är strunt samma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:37",
+    "line": "Den hette i alla fall React Without Memo."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:39",
+    "line": "Om jag minns rätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:41",
+    "line": "Det som presenterades där var ett litet experiment som de håller på med i React-teamet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:47",
+    "line": "Där de har gjort typ en compiler som lägger på useEffect och useMemo och useCallback på alla ställen där det behövs utan att du behöver göra det själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:58",
+    "line": "- Jasså, jasså. - Och de kallar det för React Forget, tror jag, om jag minns rätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:05",
+    "line": "Alltså projektet. Bara för att det var liksom så här \"Nu kan du glömma att göra det, för vi gör det åt dig\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:11",
+    "line": "Det var väldigt spännande. Presentationen i sig var extremt bra. Kanske den konferensens absolut bästa presentation skulle jag säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:19",
+    "line": "Så den är väl värd att titta på om man vill. Men det är det som de presenterade i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:24",
+    "line": "Vi håller på att arbeta på att vi ska kunna göra de här optimeringarna, eller många av dem, automatiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:31",
+    "line": "Ja, det vore ganska skönt att kunna släppa det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:35",
+    "line": "Men på tal om det, var det inte så att de håller på med att skapa en ny hook som skapar upp handlers utan att skapa nya på varje render?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:47",
+    "line": "Det är sant, den heter UseEvent tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:50",
+    "line": "Den löser ju hela det problemet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:52",
+    "line": "Ja, exakt. Så där behöver du inte just callback-wrappa saker utan den gör typ det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:56",
+    "line": "Och den saknar också dependency array, men de gör magi i bakgrunden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:03",
+    "line": "Som gör att värdena i den är alltid uppdaterade med den rendering den körs på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:10",
+    "line": "Så det här vi pratar om är lite tillbaka på closures och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:14",
+    "line": "Men det är väl typ en ljus callback i bakgrunden fast med lite syntaktiskt socker ovanpå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:22",
+    "line": "Det jag tar med mig från det här avsnittet är att jag måste läsa på \"closures\" igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:27",
+    "line": "Och jag vet inte hur många gånger jag läst på om \"closures\", men det bara försvinner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:31",
+    "line": "Jag tycker också att det är väldigt svårt. Jag kanske har förklarat det lite halvförenklat också tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:37",
+    "line": "Men jag tror att folk fattar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:40",
+    "line": "Det är väl hela grejen med den här lexikala scope och grejer och gamla grejer med \"this\" och vad den refererar till och hejsan och fejsan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:47",
+    "line": "Så det är hela balen och balunsen med det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:53",
+    "line": "Ja, det finns ju väldigt mycket saker i bakgrunden som hör ihop."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:00",
+    "line": "Men känner du dig tryggare nu? Kommer du gå tillbaka och riva bort alla just memo och just callback?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:07",
+    "line": "Nej, jag känner mig ju lite duschigare för att jag sitter här och snackar skit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:14",
+    "line": "Det är bara att jag har suttit så mycket i mitt egna huvud och varje gång jag lyfter frågan så säger de \"How do you mean? Why?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:20",
+    "line": "Och då säger jag \"I don't know exactly\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:23",
+    "line": "Och så läser jag en till bloggpost från någon som tycker någonting"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:28",
+    "line": "Det är som att jag är fast i någon snurra och kommer inte ur den"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:35",
+    "line": "Nej jag kommer inte rycka, alltså speciellt, jag har ryckt några"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:38",
+    "line": "Det har jag faktiskt. Samma har varit väldigt små som jag inte tycker tjänar någonting till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:44",
+    "line": "Jag har flyttat bort alla conditionals och lagt dem under alla hooks."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:49",
+    "line": "Det var ju mycket så att det var conditionals för GraphQL, Unroop och sådana grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:55",
+    "line": "Men jag har faktiskt också tagit bort Self-Invoken Functions."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:01",
+    "line": "Mest för att jag tycker att de är fula men också för att det kändes som att det var ett gammalt sätt att skriva JavaScript på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:06",
+    "line": "Men det är väl inte fel?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:09",
+    "line": "Nej, men det blir lite mer lättläst om man inte skriver så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:12",
+    "line": "Alltså det är väldigt argumentemått."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:14",
+    "line": "Det är också så att jag har gjort en konstant som en \"arrow function\" mitt i och sen kallar jag på den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:19",
+    "line": "Det är inte supertydligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:21",
+    "line": "Nej, absolut. Men jag tycker ändå att det är tydligare än en \"iffy\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:25",
+    "line": "Ja, men det är väl liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:29",
+    "line": "Det är nog mer att jag hela tiden tvivlar på om jag är lite korkad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:35",
+    "line": "Det tror jag faktiskt inte. Det tror jag absolut inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:39",
+    "line": "Hade du varit lite lite korkad tror jag att vi hade kommit till 58 avsnitt. Eller vad fan vi är på nu?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:45",
+    "line": "Vadå? Jag snackar ju bara. Vad är problemet?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:49",
+    "line": "En sak jag tänkte på som kan vara en rekommendation som jag tänkte vara på också generellt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:55",
+    "line": "När du sa att den här ES-Lint-regeln var disabled. Har du enablat den igen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:01",
+    "line": "Nej, vi satte den på \"warning\", men sen fick jag en fråga igen om mina PR."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:06",
+    "line": "\"Do you know why all these complaints about this?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:10",
+    "line": "\"Kan du kolla dem?\" Då orkar jag inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:13",
+    "line": "Ja, jag fattar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:14",
+    "line": "Jag tänker att det är bra, särskilt när man kommer in i en sån här lite kodbas som man inte har suttit med själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:20",
+    "line": "Jag skulle ju sätta igång regeringen, men sen ignora alla befintliga fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:25",
+    "line": "Jo, jag vill också göra det, men då finns det de som är av den fasta ståndpunkten, även efter argumentation om att det är ett anti-pattern att stoppa in allting i dependency-arrayen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:40",
+    "line": "För vissa gånger vill man bara köra det on mount och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:44",
+    "line": "Ja, det är kriget. Den dagen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:50",
+    "line": "Jag vet. Jag laddar. Min senaste laddning kommer att vara för att försöka att inte deploya automatiskt till production on Merge to Master."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:59",
+    "line": "Eller Merge to Main."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:01",
+    "line": "Ja, den skulle vi också kunna prata om. Men vi har lite slut på tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:06",
+    "line": "Jag tycker det var superkul. Det här är sån här detaljer och nitty gritty details som ändå är jävligt kul att prata om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:15",
+    "line": "Det är också för att jag behövde lufta tankar från mitt jobb och gjorde det i en podd."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:23",
+    "line": "– Ja, det är perfekt. Det är därför jag sitter här med dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:26",
+    "line": "– Ja, toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:28",
+    "line": "– Tack till alla som lyssnar. Hoppas ni också har en trevlig sommar, för det har vi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:35",
+    "line": "Och så hörs vi om två veckor igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:38",
+    "line": "– Det gör vi. Ha det gött. – Bye bye."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:40",
+    "line": "– Bye."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:42",
+    "line": "[Musik spelas]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:44",
+    "line": "[Musik spelas]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:49",
+    "line": "Tack!"
+  }
+]

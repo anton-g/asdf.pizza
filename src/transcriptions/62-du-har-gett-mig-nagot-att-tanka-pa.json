@@ -1,0 +1,2107 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "\"Varför ser du aldrig Lucifers program?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:04",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "\"Han använder bara dämoner.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:12",
+    "line": "Det var kul. Jag tycker det var roligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:16",
+    "line": "Jag blev så mindfuckad när jag skämtade på engelska och jag trodde att det skulle komma på svenska."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:22",
+    "line": "Och sen säger jag ändå \"jag vet inte på svenska\" och då kände jag mig så jävla dum."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:28",
+    "line": "Det hade också varit jättekonstigt om du började prata engelska."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:32",
+    "line": "Jag håller med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:34",
+    "line": "På tal om Lucifer och Demons såg jag någon som hade gjort en dal i den här OpenAI-modellen som spottade ut såna här bilder som alla använder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:46",
+    "line": "Han hade skrivit någon prompt som hade med \"show me what it looks like to program a demon\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:55",
+    "line": "Och då var det verkligen typ en demon som satt vid en dator."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:58",
+    "line": "Väldigt kul!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:00",
+    "line": "Välkomna till ett nytt avsnitt av ASTF!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:03",
+    "line": "Varmt välkomna!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:07",
+    "line": "Gud, idag är det mitt ämne känner jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:13",
+    "line": "Vi ska prata om mitt senaste sidoprojekt som som alltid när det kommer till mina sidoprojekt så känns det just nu som att fan vad bra det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:24",
+    "line": "Helvete vad kul det är att bygga. Och sen får vi väl se hur länge den här hypen håller i sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:29",
+    "line": "Men det som jag tänkte på, och det är värt att prata om, är att det är byggt i React-ramverket, som heter Remix."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:40",
+    "line": "Som ändå är ganska nytt. Det släpptes väl, det har funnits bakom betalvägg förra året, och sen släpptes det väl open source i våras, eller lite längre?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:53",
+    "line": "Något sånt, tio år kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:58",
+    "line": "Någonstans där i alla fall. Så det har inte funnits jättelänge för allmänheten att köra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:03",
+    "line": "Trots den bilden folk kanske har av mig, att jag är en person som testar allt nytt och hoppar på nya saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:10",
+    "line": "Så har jag ändå varit så här \"Äh, jag orkar inte testa remix\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:14",
+    "line": "Jag vet inte riktigt vart det kommer ifrån. Jag tror att det kommer lite ifrån att de har haft en liten sån här \"skriva dig på näsan\"-attityd i sin marknadsföring."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:24",
+    "line": "Om du förstår vad jag menar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:27",
+    "line": "Ja, är det typ, jag har varit inne i en blogg som var så här \"Den här bloggposten var skriven innan Remix fanns och Remix borde du använda för det löser alla dina problem\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:38",
+    "line": "Och verkligen så att marknadsföringar var det. Men vi är liksom det bästa sen skivat bröd och allting kommer bättre när du kör remix och hokus pokus fram och tillbaka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:47",
+    "line": "Typiskt osvenskt. Så alla svenskar blir såhär \"Ooooh\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:51",
+    "line": "Exakt. Och det har då gjort att jag inte riktigt orkat köra remix."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:56",
+    "line": "remix. Men sen fick jag den här idén när jag började på ett nytt uppdrag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:00",
+    "line": "Väldigt kort bakgrundsstory till vad det här är för något är att det kallas"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:07",
+    "line": "för fredagslunchen. Den här appen som jag byggt och det kommer från att när jag var på ett uppdrag för massa år sedan så hade"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:12",
+    "line": "vi ett avancerat Excel ark där vi förde in."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:17",
+    "line": "Vi gick ut och käkade lunch varje fredag tillsammans och då förde vi in då de här lunchen i det här Excel arket och"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:22",
+    "line": "och satte betyg på dem och lite sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:24",
+    "line": "Det i sin tur ledde till att Excel-arket spottade ur sig"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:27",
+    "line": "\"Vems tur är det att välja lunch?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:29",
+    "line": "För vi hade ett problem med att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:31",
+    "line": "\"Vart ska vi gå och äta idag?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:33",
+    "line": "Och så var det ingen som visste riktigt vart vi skulle gå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:36",
+    "line": "Det blev liksom kaos."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:38",
+    "line": "Så det här avancerade Excel-arket löste det problemet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:40",
+    "line": "Men då började jag på ett nytt uppdrag i våras"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:43",
+    "line": "med en kollega från det där gamla uppdraget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:45",
+    "line": "Då kom jag ifrån att \"Ska vi inte bygga den här appen nu?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:50",
+    "line": "-från det här Excel-arket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:51",
+    "line": "Vi har pratat om att vi gjort det flera år tidigare, men aldrig blev av."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:54",
+    "line": "Och nu sa vi \"ja, men vi gör det tillsammans\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:56",
+    "line": "Och sen byggde jag den på semestern själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:00",
+    "line": "Vilket är ett dåligt exempel på hur man ska göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:04",
+    "line": "Men det var då för att jag testade Remix-"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:07",
+    "line": "-och tyckte att det funkade så jävla bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:11",
+    "line": "Om jag ska vara ärlig, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:13",
+    "line": "-För... -Är det det bästa sen skivat bröd?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:16",
+    "line": "Nej, jag vet inte om det är det bästa sen skivat bröd."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:18",
+    "line": "Men det passade extremt bra till den här typen av hemsida eller den här typen av applikation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:26",
+    "line": "Jag kan försöka förklara lite grann vad Remix är för dig så får vi se om du fattar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:31",
+    "line": "Och du fattar förhoppningsvis de som lyssnar också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:35",
+    "line": "Men om man liksom... vänta jag ska ta upp Remix-dokumentation framför mig så jag kan få pitchen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:43",
+    "line": "Men jag tänker först, min grundtanke kring Remix är att det väldigt mycket går tillbaka till att använda native-grejer i browsern och är extremt bra egentligen för formulär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:58",
+    "line": "Exakt. Det är i stort sett idén bakom att vi vill använda så mycket som finns inbyggt i JavaScript, browsern och HTML som möjligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:11",
+    "line": "Utan att lägga på massa lager ovanpå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:16",
+    "line": "Läser man på deras hemsida så står det typ så här \"Focused on web standards and modern web app UX. You're simply going to build better websites.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:25",
+    "line": "Och det här är också så här \"Aaah, det är lite säljigt.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:27",
+    "line": "\"Remix is a full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick and resilient user experience. People are gonna love using your stuff.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:40",
+    "line": "Och det är som du säger, de har en ganska stor fokus på att man ska använda de byggstena som finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:51",
+    "line": "Väldigt mycket är att du skickar FormData-objekt istället för JSON"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:59",
+    "line": "när du gör anrop."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:02",
+    "line": "Det var den stora grejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:06",
+    "line": "Istället för att du gör en onClick-handler på din knapp"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:09",
+    "line": "och sen så har du ditt state i någon useState-hook"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:14",
+    "line": "som fångar upp allt från ditt formulär med onChange-grejer"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:17",
+    "line": "Istället för det har du en \"form\"-komponent som kommer från Remix."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:21",
+    "line": "Det den gör är att rendera ett formulär, alltså ett form-element."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:26",
+    "line": "Sen lägger den på lite magi och så har du en \"Submit\"-knapp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:30",
+    "line": "Istället för att ha allt det här manuellt, att du skickar nåt och kör \"fetch\" och ett request med din data och allt sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:38",
+    "line": "Så har du bara att du submittar ditt formulär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:40",
+    "line": "Det här finns inbyggt, och det känns som att många har glömt bort det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:46",
+    "line": "Du kan submitta ett formulär, du kan köra en post request från ett formulär, du kan köra ett get request från ett formulär och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:53",
+    "line": "– Men det är väldigt mycket då kör de liksom uncontrolled components. – Ja, precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:59",
+    "line": "– Men det är mer som inbyggt React-hooks form då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:04",
+    "line": "– Ja, exakt. Du skulle lätt kunna köra React-hooks form"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:08",
+    "line": "ovanpå det här, bara att skita i"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:11",
+    "line": "submit-vitarna eller \"wrappa\" Remix Submit i React Hook Form."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:18",
+    "line": "Så att när du submitar så submittar du formuläret."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:20",
+    "line": "Det finns ju lite hooks för att när man bygger applikationer idag så blir de ju till slut väldigt interaktiva."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:25",
+    "line": "Det går ju att göra det i Remix också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:27",
+    "line": "Så att det finns hooks för att \"use form\" och så kan du få ut en submit-funktion som du kan anropa för att submita formuläret istället för att klicka på knappen till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:37",
+    "line": "Då skulle man kunna använda React Hook Form för att köra avancerad validering eller logik på vilka fält man skulle visa och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:44",
+    "line": "Men hittills har jag inte utgjort det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:47",
+    "line": "Jag tänker att om någon lyssnar på det här och vill gå in och titta på den här sajten så finns den på fredagslunchen.club."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:52",
+    "line": "Den ligger också i beskrivningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:53",
+    "line": "Men då kan man gå in och titta lite grann och klicka runt om man vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:55",
+    "line": "Medans vi pratar så kanske man fattar hur den ser ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:00",
+    "line": "Just det. Men för någonting, för jag vet att när jag tittar på det här så var det fortfarande så att någonting som man tänkte att det kanske skulle lösa men inte riktigt löste var formvalidering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:11",
+    "line": "Ja, precis. Det gör det ju inte. Alltså server-side kan du göra, för det är en viktig grej här att Remix är liksom ett fullstack ramverk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:20",
+    "line": "Så det är inte bara ett frontend-ramverk, utan du får även en server-side med handlers för de här endpoints som du skapar upp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:29",
+    "line": "Eller formulär-postningarna egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:32",
+    "line": "Men det finns ju ingen inbyggd client-side-validering för formulär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:40",
+    "line": "Men däremot finns det inbyggt i browsern ganska mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:43",
+    "line": "Det finns ju det här formulär-constraints, jag kommer inte ihåg exakt vad det heter, men form-constraints tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:48",
+    "line": "som är när du sätter en \"required\" attribut på ett element, eller på en input-element till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:54",
+    "line": "Eller du sätter min och max på ett \"type number\" element, och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:00",
+    "line": "Så de kör jag i stort sett bara i Fredagslunchen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:05",
+    "line": "Och sen har jag \"server-side-validering\" då, som när den skickar tillbaka fel och då renderar man dem vid rätt element."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:11",
+    "line": "Ja, alltså det var länge sedan jag satt med formulär innan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:19",
+    "line": "Alltså det var ett stort glapp liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:21",
+    "line": "För då hade jag nog när jag kom tillbaka till formulär igen, notoriskt svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:26",
+    "line": "Men hade glömt bort valideringen och hur extra notoriskt svårt det var."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:31",
+    "line": "Alltså det var som en kall dusch att komma tillbaka till det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:34",
+    "line": "Jag håller med, men det känns som att det här formulär constraint API räcker väldigt långt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:42",
+    "line": "Det funkar väldigt bra för de flesta grejerna jag gör just nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:48",
+    "line": "Sen är det vissa saker som kanske inte riktigt kontrolleras."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:52",
+    "line": "Jag har ingen avancerad logik på att du ska ha ett telefonnummer input till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:59",
+    "line": "Det har jag inte att jag gör någon validering på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:02",
+    "line": "Kan du styla?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:04",
+    "line": "I sådana fall skulle jag bara göra det server-side som det är just nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:08",
+    "line": "Just det, men kan du styla det som du vill eller blir det alltid bara browser-native?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:13",
+    "line": "Ja, de är väl browser-native bara. Jag har inte ens tänkt på hur jag skulle styla dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:18",
+    "line": "Faktiskt, om jag ska vara helt ärlig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:20",
+    "line": "Vi funderar på om man kunde göra det på något per attribut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:23",
+    "line": "Du vet när man kan säga om det här attributet har det här värdet så vill jag styla det så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:28",
+    "line": "Det kanske man kan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:29",
+    "line": "Jo, jag undrar om det inte finns..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:31",
+    "line": "Jag tror att de slänger på om det är något data-attribut eller om det är något liknande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:36",
+    "line": "När ett element har något fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:38",
+    "line": "Så att du skulle kunna rendera att borden blir röd eller bakgrunden blir röd."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:41",
+    "line": "Eller vad man nu vill göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:44",
+    "line": "Så det är det som jag känner igen när jag var inne och läste om det här form-constraints-apiet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:50",
+    "line": "Just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:51",
+    "line": "Och sen det är ju som du säger, formulär i sig är ju lite mäckiga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:55",
+    "line": "Det blir ju också lite mecket \"vad händer när man klickar på save i formuläret?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:01",
+    "line": "Och så ska det skickas till någon endpoint och sen blir det en redirect av sig själv när man håller på med formulär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:07",
+    "line": "Men det är här en remix-magi kommer in som ligger ovanpå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:13",
+    "line": "För det som händer är att om jag gör en ny route, för de använder också routingen i hela appen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:22",
+    "line": "baseras på React Router."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:25",
+    "line": "Det är samma skapare bakom React Router som har skapat Remix."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:28",
+    "line": "De har tagit React Router-idéerna och gjort ett fullstäckt ramverk av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:33",
+    "line": "Jag vet också att de håller på att portar ganska mycket av den här dataladdningslogiken"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:38",
+    "line": "in i React Router."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:40",
+    "line": "Så om du inte vill använda hela Remix-ramverket så ska du kunna köra"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:45",
+    "line": "bara dataladdningen och routingen via React Router v6 eller v7."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:52",
+    "line": "Så det de har gjort egentligen är att du har en fil, eller så här konventionen ska säga, så det går det på flera sätt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:03",
+    "line": "Men konventionen är att du har en filbaserad routing, så att baserat på vilka filer du skapar och i vilken mappstruktur du lägger dem så får du en routing"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:13",
+    "line": "Då kan det till exempel vara att du har en fil eller på Frihetslunchen kan man skapa en grupp"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:20",
+    "line": "och i den gruppen kan du gå in på en massa olika saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:23",
+    "line": "Du kan titta på en specifik lunch som du har lagt upp eller en specifik användare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:27",
+    "line": "Då är det en mappstruktur."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:30",
+    "line": "Du har en GroupID-mapp till exempel som mappar till GroupID-delen av URLen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:38",
+    "line": "som sedan används för att hämta upp gruppens data från databasen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:42",
+    "line": "Det i sin tur. Sen kan man ha en undermapp till den som är en till del av Pathenson."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:48",
+    "line": "Du går på \"groups/groupid/lunch\" till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:55",
+    "line": "Då ligger \"lunchrouten\" som är en fil som ligger under den i mappstrukturen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:02",
+    "line": "Med \"nest\" ladd ner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:04",
+    "line": "Och så skapas allt det där upp automatiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:06",
+    "line": "Och sen gör de massa magi här för att man ska slippa det här som kallas för \"request vattenfall\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:16",
+    "line": "Så att om du laddar in flera komponenter på en sida, du har en föräldrakomponent som gör någon datanrop och sen så har du något barnkomponent som gör någon datanrop och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:27",
+    "line": "Då blir det ofta att du väntar först på att föräldern ska rendera och gör klart sitt datanrop, sen kommer barnet göra sina datanrop och rendera och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:35",
+    "line": "Och här gör de en massa saker som de smart räknar ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:40",
+    "line": "\"Vilka andra ska vi göra?\" Och så gör de alla de parallellt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:43",
+    "line": "Och det gör ju att sajterna känns väldigt, väldigt snabba."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:47",
+    "line": "Och sen är det ju också server-sider underat såklart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:50",
+    "line": "Men det tänkte jag vara det som alla råvaror är förfri."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:54",
+    "line": "– Blir det längre tid till time to paint då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:59",
+    "line": "– Nej, det borde det inte bli."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:01",
+    "line": "Men innan man ser något?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:06",
+    "line": "Nej, utan den gör ju liksom alla de här anropena."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:09",
+    "line": "Om du skulle server-side-rendera, det spelar alltså så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:12",
+    "line": "om du skulle server-side-rendera med ett andra exempel,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:14",
+    "line": "så tar det längre tid att göra fler anrop sekventiellt än om du gör dem parallellt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:19",
+    "line": "Just det, gör de parallellt, ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:23",
+    "line": "Ja, men jag tänker att innan du ens ser någonting så skulle det kunna ta längre tid,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:27",
+    "line": "För att om barnets anrop tar längre tid än förälderns anrop."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:33",
+    "line": "Ja, precis. Säg att det kommer ta lika lång tid som det längsta anropet tar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:39",
+    "line": "Precis. Så om du då har ett barn som har ett jävla monsteranrop utan anledning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:45",
+    "line": "Men säg det. Då kommer du kanske få en väldigt tydlig skillnad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:50",
+    "line": "Ja, så skulle det kunna vara. Men det beror ju också lite på hur det är uppsatt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:53",
+    "line": "Nu finns det ju halvfärdig support för suspens i React och server-side suspens är väl..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:03",
+    "line": "Jag vågar inte säga om det är implementerat eller inte för jag kommer inte ihåg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:06",
+    "line": "Men där du kan säga att den här biten ska vara wrappad i suspens och då kan vi server-side-rendera allting fram tills den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:12",
+    "line": "Om vi vet att den är långsam. Och sen så skickar vi in den biten när den är klar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:16",
+    "line": "Vet inte hur supporten i Remix ser ut för det här, för jag har inte haft någon anledning att testa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:22",
+    "line": "Men det är ju liksom en del av framtiden, React i stort sett, när du ska kunna streama in vissa delar och"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:29",
+    "line": "rappa saker i Suspend Serverside och sen skicka tillbaka den utan att du behöver skicka all data igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:34",
+    "line": "Men sen då, det som jag tycker gör det så jävla lätt att jobba med det här sen är att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:44",
+    "line": "När du har skapat upp en route, alltså en fil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:47",
+    "line": "Det kan vara till exempel att den heter \"groups.tsx\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:52",
+    "line": "för jag kör TypeScript och tycker det är jävligt nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:55",
+    "line": "Så då har man skapat upp en \"groups.tsx\", man skapar upp en komponent som är det som renderas och allt sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:01",
+    "line": "Och sen så kanske man behöver någon typ av data i den där routen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:05",
+    "line": "Och det man gör då är att i samma fil som du har definierat din route så skapar du en \"loader\" som man kallar det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:11",
+    "line": "Det är egentligen bara en funktion som du exporterar och kallar för Loader."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:17",
+    "line": "Då kommer Remix köra den när du laddar den routen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:23",
+    "line": "Den skickas till din komponent genom en liten hook som heter UseLoaderData."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:28",
+    "line": "Vad du nu returnerar från din Loader får du ut ur den här UseLoaderData-hucken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:35",
+    "line": "Det här är lite likt om man har Next som exempel där du har GetServerSideProps."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:40",
+    "line": "Det är samma tanke i stort sett, bara att istället för att det skickas som props så skickas det genom en hook."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:45",
+    "line": "Det som också är på det här spåret att de använder väldigt mycket native, eller inbyggda funktionalitet, är att du kan returnera ett request-objekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:57",
+    "line": "Som är det som browsern använder för att visa ett request, eller server-side i Node använder för att visa ett request."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:05",
+    "line": "Det kan vara att du returnerar ett request och sätter vilken statuskod du vill ha."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:09",
+    "line": "Till exempel 200 och såna grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:11",
+    "line": "Det funkar extremt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:16",
+    "line": "Sen har de visst att de laddar om de här lite grann i klienten också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:21",
+    "line": "För det är klientnavigering när du väl har laddat in sidan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:24",
+    "line": "Så om du går mellan olika routes så kommer den automatiskt köra din loader och ladda in datan till den routen som du går till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:32",
+    "line": "Och det är liksom så man spesar det. Och det är ganska likt hur det funkar i Next."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:37",
+    "line": "I att du spesar din loader eller du spesar din getServerSideProps och så kan du matcha data från servern med din route-komponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:45",
+    "line": "Om det låter vettigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:49",
+    "line": "– Ja, men alltså för att det där... Jag kommer ihåg att jag läste lite om det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:53",
+    "line": "Och det var som att de sa att vi till andra håller vårt egna API, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:58",
+    "line": "Men jag fick nog aldrig riktigt någon fjong på det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:00",
+    "line": "För du säger att jag då väljer vilka egna statiskkoder jag vill returnera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:06",
+    "line": "Men vad är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:08",
+    "line": "Säg att jag behöver koppla ihop det här med en databas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:10",
+    "line": "Är det den delen som gör det då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:12",
+    "line": "Eller snackar vi fortfarande att jag har det till backen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:14",
+    "line": "Nej, den körs ju på servern, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:18",
+    "line": "Sen beror det ju på lite grann vad du har för databas och sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:21",
+    "line": "Alltså, pratar vi i fredagslunchen till exempel, då har jag bara en SQLite-databas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:25",
+    "line": "som ligger bredvid servern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:28",
+    "line": "Och sen kör jag Prisma som är ett ORM för att hantera den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:33",
+    "line": "Så jag har egentligen bara skapat upp några filer för att prata med databasen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:38",
+    "line": "För att ha det lite separerat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:40",
+    "line": "Och då anropar jag bara några funktioner som jag har i dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:43",
+    "line": "Och då läser de och skriver från databasen direkt i loader-funktionen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:47",
+    "line": "Men du skulle ju kunna ha att \"här gör jag ett anrop till min databas som ligger någon annanstans\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:52",
+    "line": "- Ja, du skulle också kunna ha någon typ av back-end API som ligger och kör för att hantera större saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:58",
+    "line": "- Ja, precis. Skulle du ha ett separat API, då skulle du kunna anropa vad du vill därifrån."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:05",
+    "line": "- Ja, men då blir det... Säg att du har ett API som vill pussla ihop flera olika tjänster och databaskopplingar och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:10",
+    "line": "Då skulle du ändå då... Är det då servern som kommer göra anropan och sen skicka ett nytt request upp till klienten?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:20",
+    "line": "Ja, om du lägger i loader-funktionen, för de kör ju alltid på servern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:26",
+    "line": "Just det, men jag skulle kunna göra det direkt från klientkod också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:29",
+    "line": "Ja, du skulle kunna lägga det i komponenten som du vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:31",
+    "line": "Alltså skriva det som att det var ett spa, så kan du lägga det i en ljuseffekthook och göra ett androp därifrån."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:38",
+    "line": "Några gånger missar jag allt det göttiga när vi..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:41",
+    "line": "Man missar lite av det göttiga, det gör man absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:43",
+    "line": "Det som är nice sen är att när det kommer till formulären."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:49",
+    "line": "Så om man skapar en sådan här form eller man importerar den här formkomponenten som de har och så kör man den"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:55",
+    "line": "som sitt formulär och så specerar man sin data som vanligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:58",
+    "line": "Du har inputs med names på som du sätter till det värde du vill ha och"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:04",
+    "line": "med alla typer du vill ha och sedan har du en submit-knapp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:07",
+    "line": "När du då klickar submit på den, då kan du på samma sätt skapa upp en funktion och"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:13",
+    "line": "exportera den i din route-komponent som då heter Action istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:18",
+    "line": "Så du gör Export Const Action och det är då en funktion som tar emot"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:21",
+    "line": "requestet och all information på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:24",
+    "line": "Och det är den funktionen som kommer att köras när du submittar ditt formulär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:28",
+    "line": "Och då kommer den hantera den informationen som kommer därifrån."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:33",
+    "line": "Så då kan du plocka ut från det här formdata-objektet som skickas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:36",
+    "line": "Så kan du plocka ut all information och göra om du vill göra någon"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:38",
+    "line": "-som för exempel side-validering, och svara tillbaka med om du vill skicka tillbaka felkoder-"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:43",
+    "line": "-eller om du vill redirekta till en annan sida, eller vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:48",
+    "line": "Allt sånt görs ur action-funktionen, som också ligger i samma fil som hela routern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:57",
+    "line": "-Men kör den också bara på servern? -Ja, den kör också bara på servern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:01",
+    "line": "Så man kan jämföra med att action-funktionen skulle kunna jämföras med en API-endpoint."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:06",
+    "line": "Bara att den är hårt knuten, eller inte hårt knuten, men den är knuten till ditt formulär som du har i din route."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:18",
+    "line": "–Okej, men det gäller bara formulär, eller?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:20",
+    "line": "–Ja, det går att göra. Du kan ju skapa upp API-routes, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:26",
+    "line": "Skillnaden blir att du skapar inte upp någon loader eller komponent i din fil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:33",
+    "line": "Du exporterar bara den här action-grejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:35",
+    "line": "Då kan du anropa den som vanligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:37",
+    "line": "Du skulle kunna skicka JSON till den om du vill, och du kan skicka formdata och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:41",
+    "line": "Då blir det mer en API-route än något annat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:45",
+    "line": "- Men ponerar att jag ska bygga en applikation som inte har ett enda form."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:51",
+    "line": "Är det värt att använda Remix?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:54",
+    "line": "Det beror ju på vad den ska ha i stället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:59",
+    "line": "Alltså vad du ska göra för information och sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:03",
+    "line": "Det kan vara värt det, för en grej som är med Frihetslunchen till exempel är att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:09",
+    "line": "hela applikationen funkar nästan, det är väldigt nära, utan JavaScript som det är just nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:15",
+    "line": "Och det är utan att jag har försökt göra det så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:18",
+    "line": "Anledningen till att det inte funkar är att jag kör några komponenter som inte har en fin fallback."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:23",
+    "line": "Jag har lite avancerade typ Select, Dropdance med Autocomplete och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:29",
+    "line": "Och de har ingen bra fallback till när du har JavaScript avstängt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:33",
+    "line": "Men annars funkar i stort sett hela min applikation utan JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:36",
+    "line": "Alltså även att skapa nya grupper och logga in och registrera sig och allting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:41",
+    "line": "Och det är ju väldigt trevligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:42",
+    "line": "Och det beror ju då på att jag använder formulären istället för JavaScript för allting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:48",
+    "line": "Och då menar du att det är för att allting är serverenderat?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:51",
+    "line": "Ja, precis. För allting serverenderas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:52",
+    "line": "Och formulären används för att skicka data."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:54",
+    "line": "Så du behöver ingen JavaScript i klienten för att ett formulär ska skicka sin data."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:59",
+    "line": "- Ja, det är det nya som är det gamla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:04",
+    "line": "- Så är det verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:06",
+    "line": "Många pratar om att det är en pendel, allting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:10",
+    "line": "Nu har vi svingat ganska långt till client-siden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:14",
+    "line": "Det är att allt ska vara ett spa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:16",
+    "line": "Och nu håller pendeln på att svinga tillbaka lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:19",
+    "line": "Och sen får man väl se hur långt det tar vägen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:22",
+    "line": "Men förhoppningsvis kan man hitta det här väldigt svåra ordet \"Equilibrium\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:27",
+    "line": "Alltså ett nollläge, eller vad fan det är, när den står still."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:30",
+    "line": "Där det liksom är toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:33",
+    "line": "Equilibrium?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:35",
+    "line": "Equilibrium, så kanske heter det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:37",
+    "line": "Är det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:38",
+    "line": "Jag har ingen aning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:39",
+    "line": "Det är nog samma sak."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:41",
+    "line": "Det är ett klassiskt ord som känns här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:43",
+    "line": "Det heter nog så här på engelska, det borde heta så här på svenska."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:46",
+    "line": "Ja, jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:48",
+    "line": "Men en fråga då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:52",
+    "line": "Om man som till exempel jag skulle sitta och vela mellan Next och Remix."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:58",
+    "line": "Vad har du för tankar där?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:00",
+    "line": "Jag tycker det är svårt att avgöra för att jag inte har kört tillräckligt mycket Remix som det är just nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:14",
+    "line": "Jag tycker att för det här ljusgreset jag pratar om, där det är väldigt mycket formulär och datavisning och sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:21",
+    "line": "Där tycker jag att Remix är magiskt bra hittills."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:25",
+    "line": "Jag har jobbat kanske två månader på det här till och från."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:28",
+    "line": "Och tycker att det funkar skitbra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:30",
+    "line": "Det är sällan jag har byggt en applikation som jag har känt två månader senare att \"fan vad enkelt det är att lägga till nya features\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:37",
+    "line": "\"Fan vad enkelt det går att ändra saker och uppdatera saker och bygga om hur routern funkar och allting sånt\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:43",
+    "line": "Där tycker jag det är väldigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:45",
+    "line": "Jag vet att för nästa del så har de en RFC ute för att de ska uppdatera hur routerna funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:55",
+    "line": "Då kommer det komma väldigt mycket av det som Remix har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:58",
+    "line": "Alltså att du har den här nästladde routstrukturen där det beror på vilka mappar du har så kan du få olika."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:06",
+    "line": "Det finns också en sak i React Router som jag inte tror att jag nämnde."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:12",
+    "line": "Du kan ha en outlet-komponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:14",
+    "line": "Om du har en index-route eller en groups-route."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:19",
+    "line": "Den listar en vänstermeny med alla grupper i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:27",
+    "line": "Den kan också rendera en outlet som är resten av skärmen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:31",
+    "line": "När du då klickar på en av de här länkarna i menyn, då kanske den går till \"groups/id\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:43",
+    "line": "Id kommer att renderas i den här outlet-komponenten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:51",
+    "line": "Då kan du ha flera routes som renderar nästlade grejer på olika ställen på skärmen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:58",
+    "line": "Det är väldigt svårt att förklara utan att visa det visuellt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:00",
+    "line": "Men kolla på Remix eller på React Router så förstår man hur det funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:04",
+    "line": "Och de bitarna kommer att komma till Next också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:07",
+    "line": "Och jag tycker det är ett väldigt bra sätt att strukturera sina routes på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:14",
+    "line": "Det blir väldigt tydligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:16",
+    "line": "Så svarta frågan är... Jag vet inte riktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:20",
+    "line": "Okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:24",
+    "line": "Nej, bara den här outlet-grejen, jag visste inte om det. Det är ganska coolt egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:29",
+    "line": "För att jag har tidigare så här att vi byggde en sidodrawer som hade ett eget routing-system."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:38",
+    "line": "Till skillnad mot resten av skärmen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:40",
+    "line": "Och då blev det så att man fick ha två history-objekt istället för att köra en memory-router och en browser-router."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:47",
+    "line": "Då skulle man slippa göra det i det här fallet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:49",
+    "line": "Ja, precis. Jag har sprungit på den här outlet-idén några gånger tidigare och det har aldrig riktigt fastnat för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:58",
+    "line": "Men nu tycker jag att det funkar väldigt bra, även om jag inte använder det supermycket i Frihetslunch-nappen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:03",
+    "line": "Jag tycker att det är en väldigt bra idé, särskilt när man har den här tydliga hierarkin på sitt innehåll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:11",
+    "line": "Jag tror att Remix skulle vara en dröm för att bygga en dashboard."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:17",
+    "line": "Då skulle du kunna ha outlets på lite olika ställen som baserat på vad du väljer i undermenyer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:24",
+    "line": "Rendera saker på olika ställen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:26",
+    "line": "Det tror jag den passar extremt bra för."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:30",
+    "line": "Du har gett mig lite att tänka på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:35",
+    "line": "Ja, det är bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:37",
+    "line": "En annan grej som jag tycker är jättebra med Remix, som inte är hur ramverket funkar, men ur dokumentationsperspektiv och utvecklar DX-perspektiv, som vi pratade om innan, är att de har något som de kallar för stacks, som egentligen är bara ett annat namn för templates."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:56",
+    "line": "Men de har väldigt väl utbyggda templates på hur saker skulle kunna funka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:02",
+    "line": "Så att Fredagslunch är baserat på något som kallas \"The Indie Stack\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:05",
+    "line": "Och jag tror att de döper efter musikgenrer av någon anledning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:09",
+    "line": "Så det finns ett metal stack och ett pop stack och allting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:12",
+    "line": "Men det här var liksom \"The Indie Stack\" om jag minns rätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:14",
+    "line": "Och då fick jag med en väldigt bra boilerplate med en SQLite databas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:19",
+    "line": "Med ganska basic användarlig loggning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:22",
+    "line": "med TypeScript support och allt man vill ha runt omkring."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:27",
+    "line": "Det gör att det är väldigt lätt att komma igång och testa hur man känner kring Remix"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:32",
+    "line": "utan att behöva sitta och tänka \"Fy fan vad jobbigt det är att sätta upp det här\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:35",
+    "line": "\"Och hur skulle det funka om jag kör en databas?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:38",
+    "line": "\"Och hur skulle det funka med det här?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:39",
+    "line": "Du kan testa Remix ganska lätt utan att behöva kommitta så mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:44",
+    "line": "Hur är det med att bygga sida?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:50",
+    "line": "För i Next så kan man välja om man vill ha ett serverbygge static eller en klientbara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:59",
+    "line": "Finns det möjlighet till remix eller är allting server?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:01",
+    "line": "Allting är server."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:02",
+    "line": "Och om jag minns rätt så är det ett väldigt medvetet val att de som har gjort det inte tror på statiskt genererat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:08",
+    "line": "De tror att serverkraft är så pass billigt idag att du kan lika gärna server side-rendera än att statiskt generera någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:20",
+    "line": "Ja, det kan jag väl känna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:23",
+    "line": "Jag har liksom ingen riktigt åsikt. Jag tänker mig att statusgenererade saker kan ju också vara väldigt trevligt att slippa ha en server."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:30",
+    "line": "För att nu jag hostar den här på något som heter fly.io med en docker, container och sådär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:35",
+    "line": "Och det funkar ju bra, men jag vet ju också att det skulle kunna strula."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:40",
+    "line": "Och jag hatar ju att gå ner i någon jävla infrastruktur och gräva utan att veta vad jag håller på med riktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:49",
+    "line": "Känner du dig träffad? Jag vet att du har exakt det här du sitter med just nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:53",
+    "line": "Ja, jag är i ett sånt djupt aveshål."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:57",
+    "line": "Men det kan man ju spara till en annan gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:02",
+    "line": "Det känns som att jag har rantat i 30 minuter om Remix och att det är väldigt trevligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:09",
+    "line": "Funderar du på något mer? Det känns som att det är en perfekt tillfälle för dig att göra en fråga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:15",
+    "line": "Nej, jag är lite mer fascinerad över att du har lyckats andas samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:23",
+    "line": "Jag vet inte om jag har gjort det, jag kände att det är lite anfådd."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:26",
+    "line": "Ja, det har gått undan, men jag tycker det har varit extremt matnyttig information."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:32",
+    "line": "Jag vet inte, jag har varit lite sugen på att prova Remix, men sen gick jag in och började läsa och fastnade också lite för den här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:39",
+    "line": "\"Bäst sen skivat bröd, vi löser alla problem.\" Då kände jag lite..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:44",
+    "line": "Och så la jag ner. Men du har fått mig lite taggad än."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:48",
+    "line": "Jag funderar på om jag kanske ska välja det över Next nästa gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:51",
+    "line": "Jag tycker definitivt att det är värt att testa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:54",
+    "line": "För jag tycker utvecklarupplevelsen är väldigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:59",
+    "line": "Och jag tycker idéerna bakom är väldigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:03",
+    "line": "Jag tror jag skrev någon tweet när jag började testa det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:05",
+    "line": "Jag tänkte inte hoppa på Remix-tåget, men det är väldigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:11",
+    "line": "Jag är väldigt glad att jag gjorde det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:12",
+    "line": "För att det är väldigt lätt att lägga på nya features och bygga nya saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:18",
+    "line": "Sen kanske det spricker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:19",
+    "line": "Frihetslunchen-appen är inte jättestor, men den är inte jätteliten heller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:23",
+    "line": "Jag har ändå hunnit bygga ett gäng features som jag inte trodde skulle hinna bygga så här snabbt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:29",
+    "line": "Det är ganska stora namn bakom det. Eller det är ganska bra grejer bakom det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:36",
+    "line": "Det är Rec Router, Testing Library."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:39",
+    "line": "Ja, det är Kenzie Dodds, Ryan Florens, Michael Jackson och lite sådana folk om man känner igen dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:47",
+    "line": "Ja, så det känns som beprövade. Eller de har gjort mycket också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:52",
+    "line": "De har extremt mycket erfarenhet kring många av de här grejbitarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:56",
+    "line": "Ja, verkligen. Jag tycker att man ska ge det ett försök."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:03",
+    "line": "Nu var det ett tag sedan, men jag testade ju Astro också som är ett mycket mindre moget ramverk för ett tag sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:10",
+    "line": "Jag nämnde det kort i podden någon gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:13",
+    "line": "Men det fastnade jag inte alls för på samma sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:16",
+    "line": "Det kanske är superbra också, men här var det verkligen så här att \"oj, vad enkelt det är\" var min upplevelse."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:21",
+    "line": "Och det tycker jag är ett gott betyg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:25",
+    "line": "Hur är communityn och grejerna? Finns det hjälp att få när man hamnar i trubbel?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:31",
+    "line": "Jag har med mig någon Discord community, vilket uppenbarligen är en nya heta för alla saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:37",
+    "line": "Men de har en Discord community där folk är väldigt hjälpsamma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:41",
+    "line": "Och det är extremt hög aktivitet. Men det kanske inte riktigt finns det här ekosystemet runt omkring det som det finns för Next."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:50",
+    "line": "Next, där finns det i stort sett plugins och extensions för allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:55",
+    "line": "Och på samma sätt mycket fler frågor och svar på Stack Overflow."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:59",
+    "line": "Men det är inte obefintligt heller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:01",
+    "line": "Det är ganska många som kör Remix redan och tycker att det funkar väldigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:06",
+    "line": "Ja, det är nice. Där vill jag ha statisk information."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:12",
+    "line": "Jag vill ju inte behöva prata med människor direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:15",
+    "line": "Nej, exakt. Du vill inte behöva skriva i någon jävla chatt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:17",
+    "line": "Nej, för fan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:19",
+    "line": "Nej, men det håller jag med dig om. Att behöva leta efter saker i någon Discord är helt värtlöst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:26",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:28",
+    "line": "Men ja, det kanske ska runda av remix-resan för den där gången."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:35",
+    "line": "Vi kanske får göra det. Jag kan andas litegrann igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:38",
+    "line": "Ja, så att du inte drunknar i luften."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:43",
+    "line": "Men ja, annars då? Vi finns på samma gamla vanliga ställen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:53",
+    "line": "Exakt vad det är. Vi finns där vi finns. Vi hörs igen om två veckor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:59",
+    "line": "Ha det bra, hej då!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:02",
+    "line": "Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:03",
+    "line": "[Outromusik]"
+  }
+]
