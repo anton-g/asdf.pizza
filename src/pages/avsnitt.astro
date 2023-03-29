@@ -14,15 +14,13 @@ import magnifyingGlass from '../images/magnifying-glass.png'
 
 const episodes = await getCollection('episodes')
 
-const sortedEpisodes = episodes
-  .slice()
-  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+const sortedEpisodes = episodes.slice().sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
 
 const firstThirtyEpisodes = sortedEpisodes.slice(0, 30)
 const restEpisodes = sortedEpisodes.slice(30)
 ---
 
-<Layout title="avsnitt">
+<Layout title="avsnitt - asdf">
   <main class="main">
     <section class="content">
       <h1 class="title">våra avsnitt</h1>
@@ -30,12 +28,7 @@ const restEpisodes = sortedEpisodes.slice(30)
       <a href="/hitta-avsnitt" class="search-link">
         <Image src={magnifyingGlass} alt="" />
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 33 48">
-          <g
-            fill="#393939"
-            stroke="#393939"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-          >
+          <g fill="#393939" stroke="#393939" stroke-linecap="round" stroke-linejoin="round">
             <path
               d="M1.5 42.5c.2.8 1 1.5 2.3 2.1 1.3.7 2.7.8 4.3.4a8 8 0 0 0 3.3-1.5 24.4 24.4 0 0 0 7-10.5 45.2 45.2 0 0 0 2.4-7.7 6724 6724 0 0 1 1.9-7A50.9 50.9 0 0 0 24 8.7s0 0 0 0V9s0 0 0 0V9s0 0 0 0 0 0 0 0v.1h-.1s0 0 0 0 0 0 0 0h-.1V9s0 0 0 0v-.1s0 0 0 0 0 0 0 0v-.1h.1s0 0 0 0h.1s0 0 0 0V9c.1 0 .1 0 0 0V9a27.2 27.2 0 0 1-1 12.7A243 243 0 0 1 18.4 37c-.4 1-1 2-1.7 3a40 40 0 0 1-2 2.5c-.8.9-1.6 1.6-2.5 2.2l-2.7 1.5c-.8.3-2.1.4-3.8.3-1.8-.2-3-.7-3.7-1.5-.7-.8-1-1.4-1-1.9l.1-.6s0 0 0 0v-.1c.1 0 .1 0 0 0h.1s.1 0 0 0c0-.1 0-.1.1 0 0 0 .1 0 0 0 0-.1 0-.1.1 0 0 0 .1 0 0 0h.1s0 0 0 0 0 0 0 0v.1Z"
             ></path>

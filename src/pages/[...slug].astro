@@ -56,7 +56,7 @@ const formatTimestamp = (timestamp: string) => {
 }
 ---
 
-<Layout title={entry.data.title}>
+<Layout title={`avsnitt ${entry.data.number}. ${entry.data.title} - asdf`}>
   <main class="main" style={{ position: 'relative', marginTop: '40px', minHeight: '800px' }} id="top">
     <GreenBlob class="green-blob" />
     <section class="section top-section">
@@ -160,8 +160,8 @@ const formatTimestamp = (timestamp: string) => {
                 />
               </svg>
               <span>
-                Transkriberingen är gjord av nån <span>"AI-grej"</span>. Du kan förbättra den genom att{' '}
-                <UnderlinedLink href="">klicka precis här :)</UnderlinedLink>
+                Transkriberingen är gjord av nån <span class="ai">"AI-grej"</span>. Du kan förbättra den genom
+                att <UnderlinedLink href="">klicka precis här :)</UnderlinedLink>
               </span>
             </div>
             <div class="transcription">
@@ -362,6 +362,12 @@ const formatTimestamp = (timestamp: string) => {
     top: 100px;
     display: flex;
     flex-direction: column;
+  }
+  .improve-transcription > span {
+    transform: rotateZ(2deg);
+  }
+  .improve-transcription .ai {
+    font-variation-settings: 'ital' 1, 'wght' 500;
   }
   .improve-transcription svg {
     width: 80px;
