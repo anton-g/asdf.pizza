@@ -1,13 +1,15 @@
 ---
 export interface Props {
   href: string
+  class?: string
+  id?: string
 }
 
-const { href } = Astro.props
+const { href, class: className, id } = Astro.props
 const randomSvgHeight = () => 6 + Math.floor(Math.random() * 6) - 3
 ---
 
-<a class="link" href={href}>
+<a class:list={['link', className]} href={href} id={id}>
   <span><slot /></span>
   <svg
     width="100%"

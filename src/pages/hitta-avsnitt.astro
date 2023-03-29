@@ -7,13 +7,15 @@ import keysEnter from '../images/keys-enter.png'
 import keysHeart from '../images/keys-heart.png'
 import keysHome from '../images/keys-home.png'
 import { Image } from '@astrojs/image/components'
+import UnderlinedLink from '../components/UnderlinedLink.astro'
 ---
 
 <Layout title="hitta avsnitt - asdf">
   <main class="main">
-    <h1>hitta avsnitt</h1>
-    <input id="searchInput" class="doodle" />
+    <h1>Hitta avsnitt</h1>
+    <input id="searchInput" class="doodle" placeholder="Skriv nått du vill hitta här" />
     <div id="episodeList"></div>
+    <button class="load-more doodle hidden">Ladda fler</button>
     <Footer />
     <GreenBlob class="green-blob" />
     <Image src={keysEnter} alt="" class="keys-enter bg-image" />
@@ -23,10 +25,13 @@ import { Image } from '@astrojs/image/components'
   <div class="yellow-blob-wrapper">
     <YellowBlob class="yellow-blob" />
   </div>
+  <UnderlinedLink href="#" class="hidden" id="underlined-link" />
 </Layout>
 
 <script>
   import algoliasearch from 'algoliasearch/lite'
+
+  const intl = new Intl.DateTimeFormat('sv-SE', { dateStyle: 'long' })
 
   const debounce = (func: Function, delay: number) => {
     let timer: ReturnType<typeof setTimeout>
@@ -40,6 +45,17 @@ import { Image } from '@astrojs/image/components'
 
   const removeLinksInBrackets = (content: string) => {
     return content.replace(/\[.*?\]/g, '')
+  }
+
+  const createUnderlinedLink = () => {
+    var elem = document.querySelector('#underlined-link') as HTMLAnchorElement
+    if (!elem) throw new Error('Underlined link not found')
+
+    var clone = elem.cloneNode(true) as HTMLAnchorElement
+    clone.id = ''
+    clone.classList.remove('hidden')
+
+    return clone
   }
 
   interface Episode {
@@ -58,9 +74,26 @@ import { Image } from '@astrojs/image/components'
   if (!input || !output) throw new Error('Input or output element not found')
 
   const client = algoliasearch('B59YEH9ZES', 'bdda85ef25daee6621cead0f549b5a1e')
+  let data: Awaited<ReturnType<typeof search>>['hits'] = []
+  let page = 0
+
+  const loadMoreButton = document.querySelector('.load-more') as HTMLButtonElement
+  loadMoreButton.onclick = async (ev) => {
+    ev.preventDefault()
+    page++
+    const { hits, total } = await search(input.value)
+    data = data.concat(hits)
+    render()
+
+    if (total > data.length) {
+      loadMoreButton.classList.remove('hidden')
+    } else {
+      loadMoreButton.classList.add('hidden')
+    }
+  }
 
   const search = async (query: string) => {
-    if (!query) return []
+    if (!query) return { hits: [], total: 0 }
 
     const { results } = await client.search<Episode>([
       {
@@ -68,18 +101,25 @@ import { Image } from '@astrojs/image/components'
         query,
         params: {
           hitsPerPage: 10,
+          page,
         },
       },
     ])
-    return results[0].hits
+
+    return { hits: results[0].hits, total: results[0].nbHits }
   }
 
-  const debouncedSearch = debounce(async (value: string) => {
-    const results = await search(value)
+  const clear = () => {
+    output.innerHTML = ''
+    data = []
+    page = 0
+    loadMoreButton.classList.add('hidden')
+  }
 
+  const render = () => {
     output.innerHTML = ''
 
-    results.forEach((episodeData) => {
+    data.forEach((episodeData) => {
       if (!episodeData) return
 
       const episode = document.createElement('div')
@@ -88,11 +128,17 @@ import { Image } from '@astrojs/image/components'
       const title = episodeData._highlightResult?.title?.value || episodeData.title
       const titleLink = document.createElement('a')
       titleLink.classList.add('episode__title')
-      titleLink.href = episodeData.slug
+      titleLink.href = '/' + episodeData.slug
       const titleEl = document.createElement('h3')
       titleEl.innerHTML = title
       titleLink.appendChild(titleEl)
       episode.appendChild(titleLink)
+
+      const date = episodeData.date
+      const dateEl = document.createElement('span')
+      dateEl.classList.add('episode__date')
+      dateEl.innerHTML = intl.format(new Date(date))
+      episode.appendChild(dateEl)
 
       const contentEl = document.createElement('p')
       contentEl.classList.add('episode__content')
@@ -132,9 +178,10 @@ import { Image } from '@astrojs/image/components'
         })
         if (lineSnippets.length > 5) {
           const moreHits = lineSnippets.length - 5
-          const moreEl = document.createElement('span')
+          const moreEl = createUnderlinedLink()
+          moreEl.href = '/' + episodeData.slug
           moreEl.classList.add('episode__more')
-          moreEl.innerHTML = `...och ${moreHits} ${
+          moreEl.querySelector('span')!.innerHTML = `...och ${moreHits} ${
             moreHits === 1 ? 'träff' : `träffar`
           } till i transkriptionen`
           episode.appendChild(moreEl)
@@ -143,12 +190,26 @@ import { Image } from '@astrojs/image/components'
 
       output.appendChild(episode)
     })
+  }
+
+  const debouncedSearch = debounce(async (value: string) => {
+    const { hits, total } = await search(value)
+
+    data = hits
+
+    render()
+
+    if (total > data.length) {
+      loadMoreButton.classList.remove('hidden')
+    } else {
+      loadMoreButton.classList.add('hidden')
+    }
   }, 200)
 
   input.addEventListener('input', (e) => {
     const value = (e.target as HTMLInputElement).value
     if (!value) {
-      output.innerHTML = ''
+      clear()
       return
     }
     debouncedSearch(value)
@@ -159,6 +220,9 @@ import { Image } from '@astrojs/image/components'
   .main {
     position: relative;
   }
+  .main * {
+    overflow-anchor: none;
+  }
 
   h1 {
     font-size: 3rem;
@@ -168,12 +232,17 @@ import { Image } from '@astrojs/image/components'
 
   #searchInput {
     margin-bottom: 36px;
+    font-family: 'Shantell Sans', system-ui, sans-serif;
   }
 
   #episodeList {
     display: flex;
     flex-direction: column;
     gap: 24px;
+  }
+
+  :global(*) {
+    overflow-anchor: none;
   }
 
   #episodeList :global(em) {
@@ -190,6 +259,14 @@ import { Image } from '@astrojs/image/components'
 
   #episodeList :global(.episode__title h3) {
     font-variation-settings: 'BNCE' 0, 'wght' 600;
+    margin-bottom: 0;
+  }
+
+  #episodeList :global(.episode__date) {
+    opacity: 0.6;
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+    font-size: 14px;
+    margin-bottom: 8px;
   }
 
   #episodeList :global(.episode) {
@@ -211,6 +288,15 @@ import { Image } from '@astrojs/image/components'
   }
   #episodeList :global(.episode__more) {
     margin-left: auto;
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+    margin-top: 8px;
+  }
+  .load-more {
+    background-color: transparent;
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+    margin: 0 auto;
+    cursor: pointer;
+    margin-top: 36px;
   }
 
   .yellow-blob-wrapper {
@@ -220,6 +306,7 @@ import { Image } from '@astrojs/image/components'
     position: absolute;
     right: 0;
     bottom: 0;
+    z-index: -1;
   }
   .yellow-blob {
     right: -250px;
@@ -244,5 +331,8 @@ import { Image } from '@astrojs/image/components'
   .keys-home {
     right: -400px;
     width: 300px;
+  }
+  .hidden {
+    display: none;
   }
 </style>
