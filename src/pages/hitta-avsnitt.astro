@@ -3,17 +3,183 @@ import Footer from '../components/Footer.astro'
 import Layout from '../layouts/Layout.astro'
 ---
 
-<Layout title="asdf - hitta avsnitt">
+<Layout title="hitta avsnitt - asdf">
   <main class="main">
     <h1>hitta avsnitt</h1>
+    <input id="searchInput" class="doodle" />
+    <div id="episodeList"></div>
     <Footer />
   </main>
 </Layout>
+
+<script>
+  import algoliasearch from 'algoliasearch/lite'
+
+  const debounce = (func: Function, delay: number) => {
+    let timer: ReturnType<typeof setTimeout>
+    return (...args: any) => {
+      clearTimeout(timer)
+      timer = setTimeout(() => {
+        func(...args)
+      }, delay)
+    }
+  }
+
+  const removeLinksInBrackets = (content: string) => {
+    return content.replace(/\[.*?\]/g, '')
+  }
+
+  interface Episode {
+    slug: string
+    title: string
+    content: string
+    date: string
+    number: number
+    joke: { setup: string; punchline: string }
+    transcription: { author: string | null; timestamp: string; line: string }[]
+  }
+
+  const input = document.getElementById('searchInput') as HTMLInputElement
+  const output = document.getElementById('episodeList')
+
+  if (!input || !output) throw new Error('Input or output element not found')
+
+  const client = algoliasearch('B59YEH9ZES', 'bdda85ef25daee6621cead0f549b5a1e')
+
+  const search = async (query: string) => {
+    if (!query) return []
+
+    const { results } = await client.search<Episode>([
+      {
+        indexName: 'episodes',
+        query,
+        params: {
+          hitsPerPage: 10,
+        },
+      },
+    ])
+    return results[0].hits
+  }
+
+  const debouncedSearch = debounce(async (value: string) => {
+    const results = await search(value)
+
+    console.log(results)
+
+    output.innerHTML = ''
+
+    results.forEach((episodeData) => {
+      if (!episodeData) return
+
+      const episode = document.createElement('div')
+      episode.classList.add('episode')
+
+      const title = episodeData._highlightResult?.title?.value || episodeData.title
+      const titleLink = document.createElement('a')
+      titleLink.href = episodeData.slug
+      const titleEl = document.createElement('h3')
+      titleEl.classList.add('episode__title')
+      titleEl.innerHTML = title
+      titleLink.appendChild(titleEl)
+      episode.appendChild(titleLink)
+
+      const contentSnippet = episodeData._snippetResult?.content
+      if (contentSnippet && contentSnippet.matchLevel !== 'none') {
+        const contentEl = document.createElement('p')
+        contentEl.classList.add('episode__content')
+        const content = episodeData._snippetResult?.content.value || episodeData.content
+        contentEl.innerHTML = removeLinksInBrackets(content)
+        episode.appendChild(contentEl)
+      }
+
+      const lineSnippets = episodeData._highlightResult?.transcription?.filter(
+        (x) => x && x.line && x.line.matchLevel !== 'none'
+      )
+      if (lineSnippets && lineSnippets.length > 0) {
+        const firstFive = lineSnippets.slice(0, 5)
+        firstFive.forEach((lineSnippet) => {
+          if (!lineSnippet || !lineSnippet.line) return
+
+          const lineEl = document.createElement('div')
+          lineEl.classList.add('episode__line')
+
+          const timeStampEl = document.createElement('span')
+          timeStampEl.classList.add('episode__timestamp')
+          timeStampEl.innerHTML = lineSnippet.timestamp?.value || 'N/A'
+
+          const textEl = document.createElement('span')
+          textEl.innerHTML = lineSnippet.line.value
+
+          lineEl.appendChild(timeStampEl)
+          lineEl.appendChild(textEl)
+
+          episode.appendChild(lineEl)
+        })
+        if (lineSnippets.length > 5) {
+          const moreHits = lineSnippets.length - 5
+          const moreEl = document.createElement('span')
+          moreEl.classList.add('episode__more')
+          moreEl.innerHTML = `...och ${moreHits} ${
+            moreHits === 1 ? 'träff' : `träffar`
+          } till i transkriptionen`
+          episode.appendChild(moreEl)
+        }
+      }
+
+      output.appendChild(episode)
+    })
+  }, 200)
+
+  input.addEventListener('input', (e) => {
+    const value = (e.target as HTMLInputElement).value
+    if (!value) {
+      output.innerHTML = ''
+      return
+    }
+    debouncedSearch(value)
+  })
+</script>
 
 <style>
   h1 {
     font-size: 3rem;
     font-weight: 800;
     margin: 0;
+  }
+
+  #searchInput {
+    margin-bottom: 64px;
+  }
+
+  #episodeList {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  #episodeList :global(em) {
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  #episodeList :global(.episode) {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #episodeList :global(.episode__content) {
+    white-space: pre-wrap;
+    margin-bottom: 16px;
+  }
+  #episodeList :global(.episode__line) {
+    white-space: pre-wrap;
+    display: flex;
+    gap: 16px;
+  }
+  #episodeList :global(.episode__timestamp) {
+    opacity: 0.6;
+  }
+  #episodeList :global(.episode__more) {
+    margin-left: auto;
   }
 </style>
