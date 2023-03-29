@@ -34,7 +34,7 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
 >
   <main class="main" style={{ position: 'relative' }}>
     <div class="logo">
-      <Image src={logo} alt="asdf logo" />
+      <Image src={logo} alt="asdf logo" loading="eager" decoding="sync" />
       <PinkBlob class="pink-blob" />
     </div>
     <section class="section">
