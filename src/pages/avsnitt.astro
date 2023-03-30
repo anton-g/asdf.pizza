@@ -11,6 +11,7 @@ import keysLV from '../images/keys-lv.png'
 import keysHome from '../images/keys-home.png'
 import Footer from '../components/Footer.astro'
 import magnifyingGlass from '../images/magnifying-glass.png'
+import HomeLink from '../components/HomeLink.astro'
 
 const episodes = await getCollection('episodes')
 
@@ -21,6 +22,7 @@ const restEpisodes = sortedEpisodes.slice(30)
 ---
 
 <Layout title="avsnitt - asdf">
+  <HomeLink class="back-link" />
   <main class="main">
     <section class="content">
       <h1 class="title">våra avsnitt</h1>
@@ -132,6 +134,11 @@ const restEpisodes = sortedEpisodes.slice(30)
     margin-right: -48px;
   }
 
+  .back-link {
+    left: 16px;
+    top: 16px;
+  }
+
   @media (max-width: 1230px) {
     .search-link {
       position: static;
@@ -154,6 +161,11 @@ const restEpisodes = sortedEpisodes.slice(30)
   }
 
   @media (max-width: 720px) {
+    .back-link {
+      width: 60px;
+      right: 16px;
+      left: unset;
+    }
     .main {
       align-items: center;
     }

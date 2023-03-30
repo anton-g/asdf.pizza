@@ -9,9 +9,11 @@ import keysHome from '../images/keys-home.png'
 import sad from '../images/sad.png'
 import { Image } from '@astrojs/image/components'
 import UnderlinedLink from '../components/UnderlinedLink.astro'
+import HomeLink from '../components/HomeLink.astro'
 ---
 
 <Layout title="hitta avsnitt - asdf">
+  <HomeLink class="back-link" />
   <main class="main">
     <h1>Hitta avsnitt</h1>
     <input id="searchInput" class="doodle" placeholder="Skriv nått du vill hitta här" />
@@ -415,4 +417,25 @@ import UnderlinedLink from '../components/UnderlinedLink.astro'
   .hidden {
     display: none;
   }
+  .back-link {
+    top: 16px;
+    left: 16px;
+  }
+
+  @media (max-width: 840px) {
+    .back-link {
+      width: 60px;
+      left: unset;
+      right: 16px;
+    }
+  }
+
+  @media (max-width: 512px) {
+    .clean-state {
+      margin-top: 0;
+    }
+    .clean-state svg {
+      display: none;
+    }
+  
 </style>

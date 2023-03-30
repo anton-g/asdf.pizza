@@ -10,9 +10,11 @@ import { Image } from '@astrojs/image/components'
 import GreenBlob from '../components/GreenBlob.astro'
 import PinkBlob from '../components/PinkBlob.astro'
 import BlueBlob from '../components/BlueBlob.astro'
+import HomeLink from '../components/HomeLink.astro'
 ---
 
 <Layout title="om oss - asdf">
+  <HomeLink class="back-link" />
   <main class="main">
     <div class="logo">
       <a href="/">
@@ -128,5 +130,15 @@ import BlueBlob from '../components/BlueBlob.astro'
     top: 600px;
     right: -520px;
     width: 200px;
+  }
+  .back-link {
+    left: 16px;
+    top: 16px;
+  }
+
+  @media (max-width: 720px) {
+    .back-link {
+      display: none;
+    }
   }
 </style>
