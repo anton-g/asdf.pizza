@@ -13,4 +13,4 @@ joke:
 
 Dags att snacka kompetensutveckling! Vi pratar kurser, bloggläsande, videotittande, att ta eget ansvar, att bli motiverad att lära sig av andra och att praktiskt öva för att komma ihåg saker. Dessutom en del om att inte lära sig saker på konferenser, en ö i Nya Zeeland och det snabbaste sättet att få svar på StackOverflow.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3

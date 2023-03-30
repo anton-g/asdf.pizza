@@ -13,7 +13,7 @@ joke:
 
 Poddens populäraste följetång fortsätter! Hur går det för Therése i hennes startupresa? Vi behandlar kapitalstopp, produktbyggande, visioner och UX-hjältar till att gå på 50%, sitta själv och sunk cost fallacy. Dessutom en hel del om röster i huvudet, att bli (interim) CTO av misstag och två veckor som blev till fyra månader.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

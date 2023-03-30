@@ -13,7 +13,7 @@ joke:
 
 Vi pratar om att lära sig saker samt om vi vill vara generalister eller specialister. Det leder in på diskussioner om att välja spår, att (inte) sätta mål, lite konsultperspektiv samt att man kan specialisera sig på smalare områden än "frontend" eller "backend". Dessutom en hel del om att göra saker medvetet (eller ej) och att vara bra på kontextswitchande men att det ändå är svårt.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

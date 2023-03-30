@@ -10,7 +10,7 @@ itunesId: '1000476157313'
 
 Anton har släppt sitt hobbyprojekt [draw.wtf](http://draw.wtf) vilket leder in på diskussioner kring programmering som kreativt utlopp, att släppa saker innan det är "perfekt" och hur det är att jobba med TypeScript på både frontend och backend. Dessutom en hel del om Therése ångestdrivna utveckling och liten historia om en minnesläcka.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

@@ -13,7 +13,7 @@ joke:
 
 Vi pratar mobbprogrammering och allt vad det innebär. Det blir tankar kring vad det faktiskt är, hur en gör det på bästa sätt, varför det är bra (eller dåligt?) samt hur det funkar att köra remote jämfört med IRL. Dessutom en hel del om verktyg, kunskapssilos, svengelska uttryck och att lära sig vim i en mobb.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

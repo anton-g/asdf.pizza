@@ -13,7 +13,7 @@ joke:
 
 Mer och mer av världen öppnar upp och med det kommer även meetups tillbaka! Vi snackar om gratis mat och dryck, att merch är kul trots allt, vidga sina vyer, hantera sina förväntningar och alternativ till den traditionella meetupstrukturen. Dessutom en hel del om att dricka lite för mycket cava och visa vad en kan samt den perfekta längden på en presentation.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

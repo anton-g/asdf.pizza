@@ -15,7 +15,7 @@ Vi snackar om helgens debakel där utvecklaren bakom faker.js och colours.js bes
 
 Dessutom en hel del om log4j och säkerhetsluckan log4shell, Mozillas “bad guy moment” samt korthuset som vi kallar npm-paket.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

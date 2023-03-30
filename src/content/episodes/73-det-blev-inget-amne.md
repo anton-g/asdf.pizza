@@ -15,7 +15,7 @@ Några utvecklare från Stockholm tänkte podda lite under kvällskvisten. Men �
 
 Efter den referensen så tar vi dagens “ämnen”: Rebase, —force-with-lease, navigera i text, en deja vu, terminalfönster och -paneler, quake mode, det självgoda i vim, det coola i touch typing, aggressivt klickande, att inte använda AI samt en liten förfrågan.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

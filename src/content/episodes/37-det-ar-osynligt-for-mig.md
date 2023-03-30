@@ -13,7 +13,7 @@ joke:
 
 Med utgång i rapporterna om rätt kass kultur på vissa spelbolag och i deras spel på sistone så pratar vi om osynliga privilegier och privilegier en oftast inte tänker på, vikten av att utbilda sig själv, att kunskap inte är svårt att hitta idag och att våga säga ifrån.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

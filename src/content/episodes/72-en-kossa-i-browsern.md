@@ -13,7 +13,7 @@ joke:
 
 Idag blir det en resa från Austin Powers genom två små notiser om Twitters API och GitHub Blocks till att korta ner sitt CV, vakna av en dammsugare i sängen, kina och ordet alienera. Dessutom en hel del om en kossa i browsern, kött, bea, korv, en aversion mot TikTok och att nå kritisk massa.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

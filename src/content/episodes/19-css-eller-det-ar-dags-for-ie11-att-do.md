@@ -13,7 +13,7 @@ joke:
 
 Efter den långsammaste inledningen någonsin pratar vi om allt kring CSS i kanske det ospretigaste avsnittet hittills. Vi snackar grundläggande CSS såsom flex vs block, px vs em, att använda CSS Grid i produktion och att det verkligen är dags för IE 11 att dö. Dessutom fotorealistisk CSS, animerade SVGer och frustrationen bakom en konfettikanon.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

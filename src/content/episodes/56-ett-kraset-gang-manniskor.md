@@ -14,7 +14,7 @@ joke:
 Glad midsommar säger vi med ett gott snack om att arrangera meetups. Det blir en hel del om fokuset på community och branding snarare än rekrytering, att tejpa upp sin telefon i taket, mat, dryck samt att göra saker för utvecklare av utvecklare.
 Dessutom en hel del om ett fiasko till meetup, en kräsen publik och skillnaden i skala mellan 50 eller 1200 personer.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

@@ -13,7 +13,7 @@ joke:
 
 Vi pratar om biblioteket Recoil för att hantera state i React. Therése tycker det hittills känns väldigt bra och lär oss allt om atomer, träd och selektorer. Dessutom Antons relation till ordet "ortagonalt" och en diskussion om innovationstakten inom JavaScript-communityt.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

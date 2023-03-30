@@ -13,7 +13,7 @@ joke:
 
 Vi följer upp en lyssnarfråga på vårt tidigare avsnitt Pakeldebakel med att snacka om Javascripts ekosystem och allt vad det innebär. Det blir NPM-paket, drag-n-drop-bibliotek, pengar inom open source, att stoppa huvudet i sandet och en idé på ett nytt licenstroll. Dessutom en hel del om ansvarsfulla beroenden och en liten teaser inför ett kommande avsnitt.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

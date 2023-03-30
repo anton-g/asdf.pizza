@@ -13,7 +13,7 @@ joke:
 
 I det första avsnittet inspelat 2021 ventilerar vi först lite om ångesten över semesterslut och långa startsträckor, men sen hoppar vi in på dagens huvudsakliga ämne: React Server Components. Ett nytt sätt att skriva Reactapplikationer där du kan välja vilka komponenter som körs i webbläsaren och vilka som renderar på servern. Anton har testat och är (som vanligt) rätt pepp!
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

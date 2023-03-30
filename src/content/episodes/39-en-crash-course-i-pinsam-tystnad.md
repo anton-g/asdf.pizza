@@ -15,7 +15,7 @@ Som svar på en lyssnarfråga så pratar vi om hur en kan komma igång med att h
 
 PS. Det krafsande ljudet i bakgrunden är hundvalpen Maggan som gästspelar genom att mörda sin nallebjörn. Hon är gullig nog för att vara ursäktad <3
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

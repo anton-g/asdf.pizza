@@ -13,7 +13,7 @@ joke:
 
 Efter att Anton för en gångs skull är den som levererar dagens skämt så snackar vi lite om frontendutvecklingens historia med utgångspunkt i en intressant youtubevideo. Det blir en hel del om magin i att använda ett ramverk, backendare som kan lite frontend, resan från tvåvägsdatabindning till den virtuella DOMen och att hamna på React utan att välja det själv. Dessutom lite smått och gott om att lära sig under press, Facebooks kontroll av React och lite framtidsspaningar om meta-ramverk.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

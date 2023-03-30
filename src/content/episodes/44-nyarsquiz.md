@@ -15,7 +15,7 @@ Vi rundar av året med att ställa varandra frågor inom diverse kategorier frå
 
 Mest av allt vill vi tacka alla som lyssnat, kommenterat, frågat och stöttat. Utan er vore vi ingenting. Vi ses igen 2022!
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

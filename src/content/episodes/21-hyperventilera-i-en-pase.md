@@ -13,7 +13,7 @@ joke:
 
 Therése har läst boken Technically Wrong av Sara Wachter-Boettcher och med den som utgångspunkt diskuterar vi bland annat problemet att utveckling i mångt och mycket utförs av vita män, varför mikroaggressioner är som buggar, vad intersektionalitet är och att anpassa sig för att inte hamna i ett fack. Dessutom en hel del om Antons privilegier och icke-risker samt att vidga sitt nätverk för att få ett bredare perspektiv, även om det inte alltid är bekvämt.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

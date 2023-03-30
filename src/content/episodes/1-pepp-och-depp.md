@@ -10,7 +10,7 @@ itunesId: '1000470324467'
 
 I det första trevande premiäravsnittet av Asdf snackar vi bland annat om vilka vi är och vad vi gjort tidigare, strategier för att få klappa hundar, att (inte) hata EpiServer, Sveriges högsta McDonaldsskylt och att drunkna i prestandaträsket. Dessutom hinner vi prata om att övertänka saker, att inte bry sig om andras åsikter och att bry sig för mycket om andras åsikter.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

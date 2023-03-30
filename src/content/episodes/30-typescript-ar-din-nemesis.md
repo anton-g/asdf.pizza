@@ -13,7 +13,7 @@ joke:
 
 Vi börjar med att prata om att Anton längtar tillbaka till kontoret av en väldigt specifik anledning, innan vi hoppar in på dagens huvudämne: TypeScript. Allt om disciplinen som krävs för att skriva TS, att Therése tror hon aldrig kommer komma överens med TS och att misstag med sina typer kan kosta mycket. Dessutom en del om att använda TS utan att skriva typer och ett dåligt exempel på Discriminated Unions.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

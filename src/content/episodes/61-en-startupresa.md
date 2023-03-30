@@ -13,7 +13,7 @@ joke:
 
 Vi fortsätter där vi slutade i avsnitt 53 genom att prata om Therése startupresa. Det blir massor om skillnaden mellan konsult- och produktbolag, känslan av att ta ägandeskap, att rulla pitor, göra något nyttigt för världen och att jobba för ett bolag utomlands. Dessutom en ordentligt TWIST, så det här vill ni inte missa!
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

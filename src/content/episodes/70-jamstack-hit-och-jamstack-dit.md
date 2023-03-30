@@ -13,7 +13,7 @@ joke:
 
 Vi utgår från Netlifys köp av Gatsby och det leder till ett härligt spretigt samtal om allt från att GraphQL är överskattat, att delat ägandeskap inte är något ägandeskap, Jamstack, WAMP, MAMP, MERN och andra stackar inklusive myrstackar. Dessutom en hel del om att ursäkta influencers, att företag alltid kommer se till sig själv i första hand och lite lite alkoholhets.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 PS. Anton spelade in på en ny plats och det gick väl _sådär._ Vi löser bakgrundsljudet tills nästa gång. Förhoppningsvis.
 

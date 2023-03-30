@@ -13,7 +13,7 @@ joke:
 
 Vi pratar om den årliga undersökning State of JS. Demografier, bias, 200 svenskar, javascriptbibliotek, att karriärsbyta till utvecklare, en förvånansvärt stor del WebAssembly-användare och en eventuell förvirring kring nullish coalescing. Dessutom en del om att ett fallande intresse inte nödvändigtvis är negativt, en oväntat hög Angularanvändning och mycket annat.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

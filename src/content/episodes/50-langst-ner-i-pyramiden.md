@@ -13,7 +13,7 @@ joke:
 
 Med utgångspunkt i Gunnar Morlings visuella kodgranskningspyramid snackar vi var fokus under en kodgranskning bör ligga, sårbarheten, att kodgranskning är en färdighet som måste tränas och hur vissa delar behöver hårdare granskning för att de är svårare att ändra i efterhand. Dessutom en hel del sidospår om bland annat dokumentation, mobbprogrammering och mycket annat.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

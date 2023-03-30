@@ -13,7 +13,7 @@ joke:
 
 För variationens skull börjar vi med ett riktigt riktigt svagt skämt vilket snabbt leder oss in på utvecklarupplevelse, eller “developer experience”, eller DX som det också kallas. Det blir en massa snack om hur trist det är att confa saker, att få motfrågor av sin miljö, vad som är ett bra CLI och kortkommandot shift + shift. Dessutom en hel del om WebStorm vs VS Code, en liten rant om odds och några tips på bra tillägg till Code.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

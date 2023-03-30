@@ -13,7 +13,7 @@ joke:
 
 Anton är så taggad på att komma igång att han helt missar introt, men så snart det är avklarat så diskuteras främst manuella, automatiserade, avsiktliga, onödiga, värdefulla och mänskliga processer. Dessutom en del om likheter med att bygga vägar och broar samt naiviteten att tro att allt kan automatiseras.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

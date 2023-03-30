@@ -13,7 +13,7 @@ joke:
 
 Vi pratar om ReactEuropes rebranding till ReactEurasia, dess beslut att förlägga konferensen i Dubai och varför det är ett jäkligt dumt val. Det blir en hel del om Twitter-dramat som följde, whataboutism, Reacts community jämfört med andra och att bryta mot sin egen Code of Conduct. Till sist en del om att gå i försvarsställning och lite lite snack om animationer.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

@@ -13,7 +13,7 @@ joke:
 
 Vi har besökt konferensen Nordic.js och snackar oss igenom vår upplevelse. Det blir favoritpresentationer, vad för konferenser vi föredrar, Antons upplevelse av att hålla ett lightning talk, underhållningsvärde vs innehåll och att få nackspärr. Dessutom en hel del om att tävla i Code in the Dark, ångesten som följde med och vad som är en bra publik.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

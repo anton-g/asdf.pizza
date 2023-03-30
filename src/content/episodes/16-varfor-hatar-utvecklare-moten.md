@@ -14,7 +14,7 @@ joke:
 Vi pratar om den vedertagna sanningen att utvecklare hatar möten och om den verkligen stämmer.
 Det leder till diskussioner om det värdefulla med möten, när möten är kassa och vilka som går på möten. Dessutom en hel del snack om hur utvecklares produktivitet påverkas av avbrott, om det är en myt vi själva matar och ifall en generalisering lutar åt fel åt.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

@@ -13,7 +13,7 @@ joke:
 
 Efter en liten brasklapp snackar vi fiaskokonferensen Modern Frontends Live. Det blir massor av exempel på saker en absolut inte ska göra när det arrangeras konferens. Allt från liveströmmar utan videoutrustning, det bästa upplägget för att gå vilse, uppsåt vs inkompetens, till att göra sig ovän med utvecklarcommunityn och att inte plocka bort sina bord.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

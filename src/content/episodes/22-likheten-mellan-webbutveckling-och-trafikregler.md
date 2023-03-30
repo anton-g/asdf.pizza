@@ -13,7 +13,7 @@ joke:
 
 Med utgångspunkt i en diskussion Anton haft hos poddkollegorna i Kodsnack så pratar vi om vi tycker att webbutveckling har blivit för komplicerat. Är det lättare att komma igång idag eller ser vi tillbaka på tiden där en skrev HTML-sidor helt för hand med ett rosa skimmer? Dessutom en hel del om saker man förstår att man inte förstår, att Therése tillhör en egen kategori av utvecklare och att CSS för mail-klienter inte är superhärligt.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

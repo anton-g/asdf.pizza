@@ -13,7 +13,7 @@ joke:
 
 Anton har bytt uppdrag och har i sin reflektion insett hur mycket han älskar Prettier. Med det som utgångspunkt diskuterar vi “developer experience” (DX), trailing commas, copy paste-utvecklings styrka och att automatisera så mycket som möjligt. Dessutom lite snack om en djup kris i Therése relation, för tidiga abstraktioner och den skavande känslan när React-importen ej är överst.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

@@ -13,7 +13,7 @@ joke:
 
 I dagens avsnitt snackar vi om de sex senaste månaderna i Therése liv, att vara sjukskriven med utmattning, stressen under sjukskrivningen, att (inte) bli ifrågasatt, hur "gå in i väggen" är en halvdan metafor samt att komma tillbaka men inte jobba 100%.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

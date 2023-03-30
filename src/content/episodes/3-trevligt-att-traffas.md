@@ -10,7 +10,7 @@ itunesId: '1000474347129'
 
 Vi snackar om hur det är att arbeta hemifrån. Anton längtar efter kontor men Therése har istället börjat tycka mer och mer om hemmajobbandet. Vi hinner bland annat beta av olika verktyg för remote-arbete, att börja på nytt uppdrag, att presentera sig själv över video, att undvika titta på sig själv i alla videomöten och svårigheterna i att välja videotjänst till AWn.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

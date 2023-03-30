@@ -13,7 +13,7 @@ joke:
 
 Vi pratar om Basecamp och hur bilden av bolaget förändrats radikalt på bara några dagar. Att annonsera policy-förändringar utan att prata med bolagets anställda kanske inte är den bästa vägen att gå, hur en kan hantera upprörda möten genom att ligga i sängen med kameran avstängd och hur det inte är ett positivt betyg att bli hyllad av högerextremister.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

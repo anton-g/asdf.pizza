@@ -13,4 +13,4 @@ joke:
 
 I veckans avsnitt snackas det om hur vi tar oss an uppgiften att bygga ett nytt projekt från scratch. Vi hinner röra vid allt från diverse olika approacher, hur gamla erfarenheter spelar in, värdet i oanvändbara projekt till skillnader mellan hobby- och jobbprojekt samt varför man ens skriver kod på fritiden ibland. Dessutom en kort repetition av Ohms lag och som vanligt ett högkvalitativt skämt från Therése!
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3

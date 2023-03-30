@@ -13,7 +13,7 @@ joke:
 
 Årets undersökning om JavaScript, State of JS, har släppt sina resultat så utifrån det blir det snack om datum, bubblor, att jobba gratis, vita män i USA, att avsluta saker och åldrande utvecklare. Dessutom en del om en framtida kampanj, ett fyra år gammalt mysterium och vad som egentligen rimmar på l33t.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

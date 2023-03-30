@@ -14,7 +14,7 @@ joke:
 I dagens avsnitt pratas det om att komma in i ett nytt team, både under pandemi och något normalare omständigheter. Vi kommer in på det obefintliga kallpratet i digitala möten, om det krävs aktiviteter utanför arbetstid för att lära känna varandra och att ändra sig själv för att passa in.
 Dessutom en avstickare om den skeva alkoholkulturen bland Stockholms IT-bolag och att behöva brasklappa avsaknaden av öl.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

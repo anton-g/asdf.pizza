@@ -15,4 +15,4 @@ Vi diskuterar den ständigt återkommande pressen att vara och fortsätta vara r
 
 Dessutom en diskussion om att inte lägga sin fritid på att koda borde vara det normala, hur det ändå kan leda till innovation och att det är uppfriskande med folk som odlar tomater.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3

@@ -15,7 +15,7 @@ I dagens avsnitt snackar vi om komponentbibliotek. Vad det är för något, hur 
 
 Dessutom en hel del om Atomic Design, att hitta ett gemensamt språk, koda först och tänka sen samt såklart en liten liten parantes om TypeScript.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

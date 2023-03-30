@@ -13,7 +13,7 @@ joke:
 
 Therése är förkyld, Anton har fyllt 30 och med det i ryggen snackar vi om nyheter i React 18 som nyligen gått in i sin betaperiod. Allt från att den här releasen är mer spännande än den tråkiga React 17-releasen, concurrent mode vs concurrent features, automatisk batching, lite nya hooks och mycket annat kul.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

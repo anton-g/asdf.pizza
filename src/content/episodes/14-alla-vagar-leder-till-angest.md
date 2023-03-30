@@ -13,4 +13,4 @@ joke:
 
 Anton inleder avsnittet med kanske det bästa skämtet hittills innan vi går in på dagens ämne, att hålla presentationer. Therése har hållit en digital inspirationsföreläsning om React och delar med sig av den erfarenheten. Dessutom hinner vi beta igenom rädslan för att ha fel, personen i publiken som man hatar, motivationer, lightningtalks och memefyllda slides.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3

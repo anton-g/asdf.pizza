@@ -13,4 +13,4 @@ joke:
 
 Therése har bytt uppdrag och därmed varit på en del konsultintervjuer. Vi snackar skillnader mellan konsultintervjuer och anställningsintervjuer, olika intervjutyper, hur man ska förhålla sig till att man representerar både ett konsultbolag och sig själv samt hur vi förbereder oss inför intervjuer. Dessutom kanoncitatet "Do as I say, not as I do" och att gömma sig bakom humor.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3

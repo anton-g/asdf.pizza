@@ -14,7 +14,7 @@ joke:
 Anton går i rasande tempo igenom en frustrerande resa med prestandaproblem i sitt nya hobbyprojekt. Det leder till prat om att sortera i objekt istället för arrayer, vikten av dokumentation, att lära sig mer än API specifikationer och Reacts senaste framgångsfaktor.
 Dessutom en del om att smidigt återskapa problem, lite elitism och att fastna i att det ska bli bra.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

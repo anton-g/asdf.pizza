@@ -13,4 +13,4 @@ joke:
 
 Mitt i något av ett gemensamt värmeslag i en alldeles för varm lägenhet pratar vi kodkonventioner. Allt från semikolons existensberättigande, om vi föredrar dubbel- eller enkelfnuttar samt starka åsikter om hur filer ska döpas. Dessutom ett skämt om varför Therése inte kan ha en abstraktion på sina SQL-frågor och ett ordentligt missförstånd.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3

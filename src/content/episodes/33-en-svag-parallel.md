@@ -13,7 +13,7 @@ joke:
 
 I ett avsnitt med klassiskt sommarlåg energi plockar vi upp bollen från ungefär ett år sen och snackar strukturell terminologi inom tech. Vi hinner in på allowlist vs whitelist, att kalla sina brancher för main istället för master och medias roll i ord och uttrycks betydelse. Dessutom en del om buggar och mikroaggressioner, att vår branch borde vara lite mer mottaglig och en OERHÖRT svag parallel mellan att hata möten och att hata kvinnor.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

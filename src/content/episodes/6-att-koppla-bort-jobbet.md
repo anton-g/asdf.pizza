@@ -10,4 +10,4 @@ itunesId: '1000484029852'
 
 Vi pratar om att koppla bort från jobbet på kvällar och helger, vikten av att ta ordentliga pauser och att inte ge fokus till varenda notis man får. Dessutom (av)saknaden av kontor, att ha en skärm i badrummet och hur ens tidsuppfattning inte längre är vad den varit.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3

@@ -13,7 +13,7 @@ joke:
 
 Vi pratar om olika sätt att skriva CSS. Allt från en gammal klassisk index.css till BEM till preprocessors till CSS-in-JS och CSS modules. Mycket om att undvika "kaskaden", specificitet och att namnge saker. Vi diskuterar att det fortfarande är viktigt att skriva CSS "som det egentligen ser ut" för att inte abstrahera för långt även om en skriver CSS i JS. Dessutom en del om filstruktur, separation of concerns och att skriva kod utan sina verktyg.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes, prenumeration på Spotify eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 

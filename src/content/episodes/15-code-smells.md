@@ -13,7 +13,7 @@ joke:
 
 Anton har blivit med bloggpost om "code smells" i React så vi pratar bland annat om hur man kan tänka för att förhindra för stora useEffects, useReducers okändhet, att få perspektiv på sin egen kunskap och att skriva för att lära sig. Dessutom är Anton exalterad över möjligheten av bygga egna "renderers" för React och det leder in på en diskussion om motivation för att nörda ner sig och skillnaden på att bygga produkter eller lära sig detaljer. Till sist en gemensam liten rant om att inte alla utvecklare bloggar, poddar eller producerar andra saker "utanför jobbet", och att det är 100% OK.
 
-Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller om du säger hej på Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) <3
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
 
 ### Länkar
 
