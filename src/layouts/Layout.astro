@@ -6,6 +6,9 @@ export interface Props {
   description?: string
 }
 
+const defaultDescription =
+  'Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata ofiltrerat om kod, livet och allt däremellan.'
+
 const { title, description } = Astro.props
 ---
 
@@ -17,19 +20,15 @@ const { title, description } = Astro.props
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <meta name="generator" content={Astro.generator} />
-    {description && <meta name="description" content={description} />}
-    <meta name="twitter:description" content="Antons home on the world wide web" />
-    <meta property="og:description" content="Antons home on the world wide web" />
-    <meta name="twitter:title" content="home" />
-    <meta name="twitter:creator" content="Anton Gunnarsson" />
+    <meta name="twitter:creator" content="asdf med Anton & Therése" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="og:type" content="website" />
-    <meta property="og:title" content="home" />
-    <meta
-      name="og:image"
-      content="https://res.cloudinary.com/anton-g/image/upload/w_1280,h_669,c_fill,q_auto,f_auto/w_760,c_fit,co_rgb:000000,g_south_west,x_480,y_254,l_text:roboto_94bold:Software%20development%20is%20a%20social%20profession/w_760,c_fit,co_rgb:000000,g_north_west,x_480,y_445,l_text:roboto_48:Let's%20start%20thinking%20about%20The%20Real%20Problems%E2%84%A2%20of%20tech/social-card-template_jphyku"
-      data-react-helmet="true"
-    />
+    <meta name="og:image" content="/social.png" />
+    <meta name="twitter:description" content={description || defaultDescription} />
+    <meta property="og:description" content={description || defaultDescription} />
+    <meta name="description" content={description || defaultDescription} />
+    <meta name="twitter:title" content={title} />
+    <meta property="og:title" content={title} />
     <title>{title}</title>
   </head>
   <body>

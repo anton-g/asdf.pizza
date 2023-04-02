@@ -28,10 +28,7 @@ const [latestEpisode, ...restEpisodes] = sortedEpisodes
 const { Content: LatestEpisodeContent } = await latestEpisode.render()
 ---
 
-<Layout
-  title="asdf - med Therése & Anton"
-  description={'Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata ofiltrerat om kod, livet och allt däremellan.'}
->
+<Layout title="asdf - med Therése & Anton">
   <main class="main" style={{ position: 'relative' }}>
     <div class="logo">
       <Image src={logo} alt="asdf logo" loading="eager" decoding="sync" />
