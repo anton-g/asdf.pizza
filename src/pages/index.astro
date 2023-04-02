@@ -31,7 +31,12 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
 <Layout title="asdf - med Therése & Anton">
   <main class="main" style={{ position: 'relative' }}>
     <div class="logo">
-      <Image src={logo} alt="asdf logo" loading="eager" decoding="sync" />
+      <Image
+        src={logo}
+        alt="asdfs logga: En handritad bild föreställande texten asdf ovanpå ett virrvarr av tangentbordstangenter"
+        loading="eager"
+        decoding="sync"
+      />
       <PinkBlob class="pink-blob" />
     </div>
     <section class="section">
@@ -138,7 +143,7 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
     </section>
     <section class="search-section">
       <a href="/hitta-avsnitt" class="search-link">
-        <Image src={magnifyingGlass} alt="" />
+        <Image src={magnifyingGlass} alt="ett handritat förstoringsglas" />
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 33 48">
           <g fill="#393939" stroke="#393939" stroke-linecap="round" stroke-linejoin="round">
             <path
@@ -160,13 +165,13 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
       Prenumunemerera här:
       <div style={{ display: 'flex', gap: '8px' }}>
         <a href="https://open.spotify.com/show/48pKe510caxiFkvxtoXJge?si=394f0c14012b4d6d">
-          <Image src={spotify} alt="listen on Spotify" />
+          <Image src={spotify} alt="Lyssna på Spotify" />
         </a>
         <a href="https://podcasts.apple.com/se/podcast/asdf/id1506059489">
-          <Image src={itunes} alt="listen on itunes" />
+          <Image src={itunes} alt="Lyssna på iTunes" />
         </a>
         <a href="https://pinecast.com/feed/asdfpod">
-          <Image src={rss} alt="listen with rss" />
+          <Image src={rss} alt="Lyssna med RSS" />
         </a>
       </div>
     </section>
