@@ -10,6 +10,7 @@ import sad from '../images/sad.png'
 import { Image } from '@astrojs/image/components'
 import UnderlinedLink from '../components/UnderlinedLink.astro'
 import HomeLink from '../components/HomeLink.astro'
+import Button from '../components/Button.astro'
 ---
 
 <Layout title="hitta avsnitt - asdf">
@@ -46,7 +47,7 @@ import HomeLink from '../components/HomeLink.astro'
       <span>Inga träffar..</span>
     </div>
     <div id="episodeList"></div>
-    <button class="load-more doodle hidden">Ladda fler</button>
+    <Button class="load-more doodle hidden">Ladda fler</Button>
     <Footer />
     <GreenBlob class="green-blob" />
     <Image src={keysEnter} alt="" class="keys-enter bg-image" />

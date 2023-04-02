@@ -1,4 +1,6 @@
 ---
+import Button from './Button.astro'
+
 export interface Props {}
 
 const {} = Astro.props
@@ -6,12 +8,7 @@ const {} = Astro.props
 
 <!-- TODO success page -->
 <h2>Bidra med ett skämt vettja</h2>
-<form
-  class="joke-form"
-  name="jokes"
-  data-netlify="true"
-  netlify-honeypot="honungslåda"
->
+<form class="joke-form" name="jokes" data-netlify="true" netlify-honeypot="honungslåda">
   <label style={{ visibility: 'hidden', height: '1px', width: '1px' }}
     >Don't fill this out if you're human
     <input type="text" class="doodle" name="honungslåda" />
@@ -24,7 +21,7 @@ const {} = Astro.props
     Ditt skämt (eller något annat kul du vill berätta):
     <textarea class="doodle" rows="3" name="joke" required></textarea>
   </label>
-  <button type="submit" class="submit-joke-button doodle">Skicka :)</button>
+  <Button type="submit" class="submit-joke-button">Skicka :)</Button>
 </form>
 
 <style>

@@ -1,0 +1,47 @@
+---
+import type { HTMLAttributes } from 'astro/types'
+
+export type Props = HTMLAttributes<'button'>
+
+const { class: className } = Astro.props
+---
+
+<button class:list={['doodle button', className]}>
+  <slot />
+  <svg viewBox="0 0 145 54" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+    <path
+      d="M4 46C4 46 8.42302 32.5557 12.5 24.5C16.7807 16.0418 25 4.00024 25.5 4C26 3.99976 24.3479 15.3353 23 22.5C21.6253 29.8072 17.5 39.5002 18.5 41C19.5 42.4997 43.5 6 44.5 6.5C45.5 7 40.1115 18.342 37.5 26C35.0486 33.1887 30.5 43.5 31.5 44.5C32.5 45.5 39.366 34.314 44 27.5C48.5393 20.8251 54.5 9 55 10C55.5 11 50.0524 22.6741 47.5 31C45.2512 38.3356 41.5 48.5 42.5 50C43.5 51.5 50.19 37.8548 55 30C59.7567 22.2322 66.5 9.5 67 10C67.5 10.5 64.3129 19.7675 62.5 26C60.7918 31.8724 57.5 40.5 58 41C58.5 41.5 64.6761 30.6984 69.5 24.5C74.0918 18.6 80 10 81.5 11C83 12 78.4417 22.1357 76.5 30C74.7739 36.991 71.5 47.5 72.5 48C73.5 48.5 80.7751 38.5939 86 32.5C91.3214 26.2935 98.5 16 99.5 16.5C100.5 17 94.372 26.0197 92 32.5C89.7042 38.772 86.5 48.5 87.5 49C88.5 49.5 94.3441 36.8054 99.5 29.5C104.705 22.1252 113 11 114 11.5C115 12 111.357 19.0576 110 24C108.884 28.0646 106.5 34 107.5 34.5C108.5 35 113.976 27.7957 117.5 23C121.03 18.1965 125.5 9 126.5 9.5C127.5 10 123.788 19.1667 122.5 25C121.244 30.6882 118 39 119 39.5C120 40 126.186 30.1804 130.5 24C134.778 17.8717 141 8 141 8"
+      stroke="#EBBB38"
+      stroke-width="7"
+      stroke-linecap="round"></path>
+  </svg>
+</button>
+
+<style>
+  .button {
+    border: none;
+    background: unset;
+    font-size: 24px;
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+    cursor: pointer;
+    position: relative;
+    width: fit-content;
+  }
+
+  .button svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    stroke-dasharray: 680;
+    stroke-dashoffset: 680;
+
+    transition: stroke-dashoffset 700ms;
+  }
+
+  .button:hover svg {
+    stroke-dashoffset: 0;
+  }
+</style>
