@@ -11,6 +11,9 @@ import GreenBlob from '../components/GreenBlob.astro'
 import PinkBlob from '../components/PinkBlob.astro'
 import BlueBlob from '../components/BlueBlob.astro'
 import HomeLink from '../components/HomeLink.astro'
+import anton from '../images/anton.png'
+import therese from '../images/therese.png'
+import maggan from '../images/maggan.png'
 ---
 
 <Layout title="om oss - asdf">
@@ -22,37 +25,40 @@ import HomeLink from '../components/HomeLink.astro'
       </a>
     </div>
     <h1>Om oss</h1>
-    <section>
+    <section class="section intro-section">
       <p>
         Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata
         ofiltrerat om kod, livet och allt däremellan.
       </p>
     </section>
-    <section>
+    <section class="section">
       <h2>Therése</h2>
-      <p>
-        Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata
-        ofiltrerat om kod, livet och allt däremellan.
-      </p>
-      <p>
-        Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata
-        ofiltrerat om kod, livet och allt däremellan.
-      </p>
+      <div class="therese">
+        <p>
+          Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata
+          ofiltrerat om kod, livet och allt däremellan. Som en liten parentes i cyberrymden spenderar Therése
+          & Anton en halvtimme då och då med att prata ofiltrerat om kod, livet och allt däremellan.
+        </p>
+        <Image src={therese} alt="" />
+      </div>
     </section>
-    <section>
+    <section class="section">
       <h2>Anton</h2>
-      <p>
-        Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata
-        ofiltrerat om kod, livet och allt däremellan.
-      </p>
-      <p>
-        Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata
-        ofiltrerat om kod, livet och allt däremellan.
-      </p>
+      <div class="anton">
+        <Image src={anton} alt="" />
+        <p>
+          Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata
+          ofiltrerat om kod, livet och allt däremellan. Som en liten parentes i cyberrymden spenderar Therése
+          & Anton en halvtimme då och då med att prata ofiltrerat om kod, livet och allt däremellan.
+        </p>
+      </div>
     </section>
-    <section>
+    <section class="section maggan-section">
       <h2>Maggan</h2>
-      <p>voff</p>
+      <div class="maggan">
+        <p>Poddens enda gäst, oavsett om hon fått en inbjudan eller inte.<br /><br /> Voff.</p>
+        <Image src={maggan} alt="" />
+      </div>
     </section>
     <Footer />
     <Image src={keysArrows} alt="" class="keys-arrows bg-image" />
@@ -86,9 +92,57 @@ import HomeLink from '../components/HomeLink.astro'
     font-weight: 800;
     margin: 0;
   }
+  h2 {
+    font-size: 2rem;
+    font-variation-settings: 'wght' 600;
+  }
 
-  section {
+  .section {
     margin-bottom: 24px;
+  }
+  .intro-section {
+    margin-bottom: 48px;
+  }
+  .anton img,
+  .therese img {
+    object-fit: contain;
+    max-width: 100%;
+    max-height: 100%;
+    width: 280px;
+    height: auto;
+    transform: rotateZ(-1deg);
+  }
+  .anton,
+  .therese,
+  .maggan {
+    display: flex;
+    gap: 24px;
+    margin-top: 16px;
+  }
+  .anton {
+    margin-left: -128px;
+  }
+  .therese {
+    margin-right: -128px;
+    margin-bottom: -40px;
+  }
+  .therese img {
+    margin-top: -64px;
+  }
+  .maggan-section {
+    margin-top: 36px;
+  }
+  .maggan {
+    gap: 16px;
+  }
+  .maggan img {
+    object-fit: contain;
+    max-width: 100%;
+    max-height: 100%;
+    width: 350px;
+    height: auto;
+    margin-top: -36px;
+    margin-right: -36px;
   }
 
   .main {
@@ -134,6 +188,25 @@ import HomeLink from '../components/HomeLink.astro'
   .back-link {
     left: 16px;
     top: 16px;
+  }
+
+  @media (max-width: 820px) {
+    .therese,
+    .anton,
+    .maggan {
+      flex-direction: column;
+      margin: 0;
+    }
+    .anton {
+      flex-direction: column-reverse;
+    }
+    .therese img {
+      margin: 0;
+    }
+
+    .maggan img {
+      margin: 0;
+    }
   }
 
   @media (max-width: 720px) {
