@@ -4,8 +4,8 @@ date: 2023-01-20T07:00:00.000Z
 description: 'Avsnitt 69: Årets undersökning om JavaScript, State of JS, har släppt sina resultat så utifrån det blir det snack om datum, bubblor, att jobba gratis, vita män i USA, att avsluta saker och åldrande utvecklare. Dessutom en del om en framtida kampanj, ett fyra år gammalt mysterium och vad som egentligen rimmar på l33t.'
 number: 69
 pinecastId: '9e8d0144-b05f-40e1-b24c-0a685d16c046'
-spotifyId: ''
-itunesId: ''
+spotifyId: '5lzuPyRGbhfgDh5zGMoIgs'
+itunesId: '1000595590813'
 joke:
   setup: Why do developers hate Tinder?
   punchline: Because they can’t handle dates.

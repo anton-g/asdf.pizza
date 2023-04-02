@@ -4,8 +4,8 @@ date: 2023-03-03T07:00:00.000Z
 description: 'Avsnitt 72: Austin Powers, Twitters API, GitHub Blocks och deras RnD-avdelning, kina, ordet alienera och mycket annat.'
 number: 72
 pinecastId: '03a25bd0-05d9-4eb2-88a3-b4d2be090890'
-spotifyId: ''
-itunesId: ''
+spotifyId: '4sItSz3CvIfSfABUC8N2P8'
+itunesId: '1000602588655'
 joke:
   setup: What programming language does Austin Powers use?
   punchline: Groovy, baby!

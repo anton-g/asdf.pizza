@@ -4,8 +4,8 @@ date: 2022-11-11T07:00:00.000Z
 description: 'Avsnitt 66: Poddens bästa skämt nånsin?! Sen mentorsskap, coachning, förebilder och mycket annat!'
 number: 66
 pinecastId: '39d5789f-8484-4688-b6a4-2f933030a5bc'
-spotifyId: ''
-itunesId: ''
+spotifyId: '7LmNV8ClRqhoEOuFiXLSEg'
+itunesId: '1000585839280'
 joke:
   setup: Vad kallas en pythonutvecklare som är out of bounds?
   punchline: Sir Väs

@@ -4,8 +4,8 @@ date: 2023-03-31T07:00:00.000Z
 description: 'Avsnitt 74: Ett skämt sätter hela avsnittet ur balans, men sen blir det snack om demos, heta tagningar, att bli uttråkad på fyra minuter och mycket annat.'
 number: 74
 pinecastId: 'eedab2d7-857a-446d-a5d7-f27f887d1d3c'
-spotifyId: ''
-itunesId: ''
+spotifyId: '4ePZEDaf2FQTDoiba5hq95'
+itunesId: '1000606697648'
 joke:
   setup: Vilken är frontendarnas favoritdessert?
   punchline: Chokladpadding

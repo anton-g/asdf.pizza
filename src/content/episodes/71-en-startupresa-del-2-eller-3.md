@@ -4,8 +4,8 @@ date: 2023-02-17T07:00:00.000Z
 description: 'Avsnitt 71: Hur går det för Therése i hennes startupresa? Kapitalstopp, (interim) CTO av misstag, sunk cost fallacy, röster i huvudet och mycket annat.'
 number: 71
 pinecastId: '4555b96c-d019-4f88-9fc0-784e93455ce8'
-spotifyId: ''
-itunesId: ''
+spotifyId: '3nCAlFH7R6L6OCoNvd8pEo'
+itunesId: '1000600104549'
 joke:
   setup: Hur vet du att en frontendare är en så kass kriminell?
   punchline: Den har så många DOMar

@@ -4,8 +4,8 @@ date: 2023-03-16T07:00:00.000Z
 description: 'Avsnitt 73: Några utvecklare från Stockholm tänkte podda lite under kvällskvisten. Men ämnet de skulle prata om hanns inte med.'
 number: 73
 pinecastId: '4f3ded9e-f432-4eda-a864-dd01dcdb1799'
-spotifyId: ''
-itunesId: ''
+spotifyId: '3NK2JOSellOesw4IO5aYKn'
+itunesId: '1000604604141'
 joke:
   setup: Why was the developer single?
   punchline: They had commitment issues

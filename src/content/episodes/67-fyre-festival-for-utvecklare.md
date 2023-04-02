@@ -4,8 +4,8 @@ date: 2022-11-25T07:00:00.000Z
 description: 'Avsnitt 67: Fiaskokonferensen Modern Frontends Live och massor av exempel på vad en verkligen inte ska göra när en anordnar utvecklarkonferens.'
 number: 67
 pinecastId: 'e12778d0-4328-4857-83b2-a0eb56341a11'
-spotifyId: ''
-itunesId: ''
+spotifyId: '73vvV2nHl6E26RX2Uwh2zc'
+itunesId: '1000587450083'
 joke:
   setup: Vilken biltyp vill mellanchefen alltid att du ska köra?
   punchline: Hybrid

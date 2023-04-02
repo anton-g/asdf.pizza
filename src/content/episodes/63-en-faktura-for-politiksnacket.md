@@ -4,8 +4,8 @@ date: 2022-09-30T07:00:00.000Z
 description: 'Avsnitt 63: En faktura för politiksnacket'
 number: 63
 pinecastId: '686c60bb-956e-403e-8683-bb8397c54700'
-spotifyId: ''
-itunesId: ''
+spotifyId: '1qCXW2MCJ4cEiLXC6lMsUH'
+itunesId: '1000581112157'
 joke:
   setup: How do you comfort a JavaScript bug?
   punchline: You console it.

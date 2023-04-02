@@ -4,8 +4,8 @@ date: 2023-01-06T07:00:00.000Z
 description: 'Avsnitt 68: Det är 2023 och vi är tillbaka och det blir snack om att starta nytt, visionärer, att ta produktmänniskor för givet, vilka roller som är viktiga i en startup, att vara CTO, pengar, feedbackloopar, att skita i backendare samt att få saker att fungera innan de är rätt. '
 number: 68
 pinecastId: '74da125a-02f7-41a6-9779-21efd8f674c6'
-spotifyId: ''
-itunesId: ''
+spotifyId: '2Mv3KqnWLrQffz7bVQrXf3'
+itunesId: '1000592808607'
 joke:
   setup: Varför finns det så många säkerhetsexperter i Amsterdam?
   punchline: För de gillar att hascha saker
