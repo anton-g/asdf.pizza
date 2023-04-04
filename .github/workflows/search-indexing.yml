@@ -17,6 +17,8 @@ jobs:
       - name: Get changed files
         uses: tj-actions/changed-files@v35
         id: get-changed-files
+        with:
+          files: src/transcriptions
 
       - name: Install Node.js
         uses: actions/setup-node@v3
@@ -28,4 +30,4 @@ jobs:
 
       - name: Run Node script
         run: |
-          node scripts/reindex-transcriptions.js ${{ steps.get-changed-files.outputs.files }}
+          node scripts/reindex-transcriptions.js ${{ steps.get-changed-files.outputs.all_changed_files }}

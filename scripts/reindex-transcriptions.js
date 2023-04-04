@@ -20,37 +20,40 @@ const removeDuplicateNewLines = (content) => {
 
 const reindexTranscriptions = async () => {
   const input = process.argv.slice(2)
-  console.log(input)
-  // const episodesFilenames = input.map((x) => x.split('.')[0])
-  // const episodes = fs
-  //   .readdirSync('./src/content/episodes')
-  //   .filter((file) => file.endsWith('.md') && episodesFilenames.includes(file.split('.')[0]))
+  const episodesFilenames = input.map((x) => x.split('.')[0].split('/').at(-1))
+  const episodes = fs
+    .readdirSync('./src/content/episodes')
+    .filter((file) => file.endsWith('.md') && episodesFilenames.includes(file.split('.')[0]))
 
-  // const episodesWithTranscriptions = episodes.map((episode) => {
-  //   const episodeContent = fs.readFileSync(`./src/content/episodes/${episode}`, 'utf8')
-  //   const episodeData = matter(episodeContent)
-  //   const transcriptionFileName = episode.replace('.md', '.json')
-  //   const transcription = JSON.parse(fs.readFileSync(`./src/transcriptions/${transcriptionFileName}`))
-  //   episodeData.transcription = transcription
-  //   episodeData.slug = episode.replace('.md', '')
+  const episodesWithTranscriptions = episodes.map((episode) => {
+    const episodeContent = fs.readFileSync(`./src/content/episodes/${episode}`, 'utf8')
+    const episodeData = matter(episodeContent)
+    const transcriptionFileName = episode.replace('.md', '.json')
+    const transcription = JSON.parse(fs.readFileSync(`./src/transcriptions/${transcriptionFileName}`))
+    episodeData.transcription = transcription
+    episodeData.slug = episode.replace('.md', '')
 
-  //   return episodeData
-  // })
+    return episodeData
+  })
 
-  // const formattedEpisodes = episodesWithTranscriptions.map((episode) => {
-  //   return {
-  //     slug: episode.slug,
-  //     objectID: episode.data.pinecastId,
-  //     title: episode.data.title,
-  //     content: removeDuplicateNewLines(convert(marked(episode.content), { wordwrap: 9999 })),
-  //     date: episode.data.date,
-  //     number: episode.data.number,
-  //     joke: episode.data.joke,
-  //     transcription: episode.transcription,
-  //   }
-  // })
+  const formattedEpisodes = episodesWithTranscriptions.map((episode) => {
+    return {
+      slug: episode.slug,
+      objectID: episode.data.pinecastId,
+      title: episode.data.title,
+      content: removeDuplicateNewLines(convert(marked(episode.content), { wordwrap: 9999 })),
+      date: episode.data.date,
+      number: episode.data.number,
+      joke: episode.data.joke,
+      transcription: episode.transcription,
+    }
+  })
 
-  // await index.saveObjects(formattedEpisodes).catch((err) => console.error(err))
+  await index.saveObjects(formattedEpisodes).catch((err) => console.error(err))
+  console.log(
+    'Indexed episodes',
+    formattedEpisodes.map((x) => x.slug)
+  )
 }
 
 reindexTranscriptions()
