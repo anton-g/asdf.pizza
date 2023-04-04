@@ -15,6 +15,7 @@ import keysHeart from '../images/keys-heart.png'
 import keysSpace from '../images/keys-space.png'
 import Footer from '../components/Footer.astro'
 import UnderlinedLink from '../components/UnderlinedLink.astro'
+import HomeLink from '../components/HomeLink.astro'
 
 type TranscriptionItem = { speaker?: string; timestamp: string; line: string }
 
@@ -54,9 +55,12 @@ const formatTimestamp = (timestamp: string) => {
   const withoutMilliseconds = first.split('.')[0]
   return withoutMilliseconds
 }
+
+const transcriptionUrl = `https://github.com/anton-g/asdf.pizza/blob/master/src/transcriptions/${entry.slug}.json`
 ---
 
 <Layout title={`avsnitt ${entry.data.number}. ${entry.data.title} - asdf`}>
+  <HomeLink class="back-link" />
   <main class="main" style={{ position: 'relative', marginTop: '40px', minHeight: '800px' }} id="top">
     <GreenBlob class="green-blob" />
     <section class="section top-section">
@@ -161,7 +165,7 @@ const formatTimestamp = (timestamp: string) => {
               </svg>
               <span>
                 Transkriberingen är gjord av nån <span class="ai">"AI-grej"</span>. Du kan förbättra den genom
-                att <UnderlinedLink href="">klicka precis här :)</UnderlinedLink>
+                att <UnderlinedLink href={transcriptionUrl}>klicka precis här :)</UnderlinedLink>
               </span>
             </div>
             <div class="transcription">
@@ -387,6 +391,11 @@ const formatTimestamp = (timestamp: string) => {
 
   .transcription-section {
     margin-top: 64px;
+  }
+
+  .back-link {
+    left: 16px;
+    top: 16px;
   }
 
   @media (max-width: 1300px) {
