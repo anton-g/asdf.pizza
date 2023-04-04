@@ -31,3 +31,6 @@ jobs:
       - name: Run Node script
         run: |
           node scripts/reindex-transcriptions.js ${{ steps.get-changed-files.outputs.all_changed_files }}
+        env:
+          ALGOLIA_ADMIN_KEY: ${{ secrets.ALGOLIA_ADMIN_KEY }}
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
