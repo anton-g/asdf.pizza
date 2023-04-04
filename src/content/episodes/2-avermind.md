@@ -1,6 +1,6 @@
 ---
 title: Åvermind
-date: 2020-04-17T08:00:00.000Z
+date: 2020-04-17T08:00:01.000Z
 description: 'Avsnitt 2: Statehantering i React, problemlösning, abstraktioner och att vara klyftig.'
 number: 2
 pinecastId: '02d4d9e2-b649-4cf4-94f2-67e3959dedc2'

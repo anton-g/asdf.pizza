@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'src/transcriptions/**'
+      - 'src/content/episodes/**'
 
 jobs:
   build:
@@ -18,7 +19,9 @@ jobs:
         uses: tj-actions/changed-files@v35
         id: get-changed-files
         with:
-          files: src/transcriptions
+          files: |
+            src/transcriptions
+            src/content/episodes
 
       - name: Install Node.js
         uses: actions/setup-node@v3
