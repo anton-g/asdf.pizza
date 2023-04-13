@@ -3,7 +3,7 @@ title: 'Att säga att VanillaJS är bra är att ljuga'
 date: 2023-04-14T07:00:00.000Z
 description: 'Avsnitt 75: Tre år av asdf! Lyssnarskämt, vår nya hemsida byggd med Astro, en lång rant om VanillaJS och mycket annat!'
 number: 75
-pinecastId: ''
+pinecastId: 'c88e2c95-43d8-46f6-8bbd-92535b3587d6'
 spotifyId: ''
 itunesId: ''
 joke:
