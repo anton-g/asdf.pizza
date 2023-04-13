@@ -1,0 +1,507 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "\"Where do Santa's reindeers stop for coffee?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:04",
+    "line": "Inte den blekaste."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:06",
+    "line": "\"Starbucks.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "Alltså..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:10",
+    "line": "Ja, det gillar jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Det är bara roligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:16",
+    "line": "Varför då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:18",
+    "line": "Jag vet inte. Jag kan inte förklara humor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:20",
+    "line": "Nej, men man vet aldrig riktigt hur du ska reagera på skämtet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:26",
+    "line": "Nej, det är sant. Det är lite upp och ner det ska det vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:30",
+    "line": "Men så får det väl vara tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:32",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:34",
+    "line": "Skulle vi ha inlett det här avsnittet med att sjunga \"Sankta Lucia\" kanske i och med att det är Lucia idag?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:40",
+    "line": "Ja, eller \"Bör den här natten gå tunga fjät\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:44",
+    "line": "Ja, exakt. Då hade vi för sig tappat alla lyssnare om jag hade sjungit här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:48",
+    "line": "Men så kan det kanske vara lika bra att det inte blev av."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:54",
+    "line": "På tal om det så borde alla hugga Anton och köra karaoke någon gång, för det är en av hans toppgrenar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:00",
+    "line": "Det är en upplevelse om inte annat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:03",
+    "line": "Vi är då på lucka 13 som de flesta kanske har förstått."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:09",
+    "line": "Och i dagens lucka så tänkte jag tipsa om någonting som jag ändå har pratat en del om i podden förut men som tål att upprepas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:17",
+    "line": "Och det är den här lilla CSS-selektorn som heter Hass."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:22",
+    "line": "Som väl börjar bli redo att kunna användas i produktion."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:28",
+    "line": "Lite beroende på vilka browsers man stödjer och hur användarna ser ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:31",
+    "line": "Vi kör en produktionskunder nu men vi har bara Chrome användare tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:36",
+    "line": "Och den, man skulle kunna beskriva den som att det är den här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:41",
+    "line": "Parent selectorn eller föräldraselectorn som det har liksom"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:45",
+    "line": "Smutslats om i flera år att det är den man vill ha i CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:50",
+    "line": "Den går ut på att du kan \"targeta\" eller du kan \"selecta\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:57",
+    "line": "Säga att du har en div och om den diven \"has\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:01",
+    "line": "Säg vilken selector som helst, till exempel om den har ett direkt barn som är en p-tag"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:08",
+    "line": "Eller vad fan det nu kan vara, ett p-element"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:10",
+    "line": "Då kan du \"styla\" diven"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:13",
+    "line": "Det är det som är skillnaden jämfört med andra selektorer"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:15",
+    "line": "Här kan du \"styla\" föräldern eller vad det nu skulle kunna vara"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:18",
+    "line": "Det är inte bara en föräldraselektor, det finns massor av grejer man kan göra med den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:20",
+    "line": "Men det är typ det enklaste use-caset."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:22",
+    "line": "Så att du kan liksom, i normala fall när du kör CSS,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:26",
+    "line": "i och med att det är Cascading så går du hela tiden nedåt i trädet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:30",
+    "line": "Så att om du säger <div> <p> då stylar du <p>-taggen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:33",
+    "line": "Men i det här fallet kan du säga <div> <has> <p> och då stylar du <div>-taggen istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:37",
+    "line": "Och det är jäkligt trevligt alltså."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:40",
+    "line": "Det är lite som det här som man i"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:44",
+    "line": "Vad det SAS eller LES kunde göra att man la ampersanden efter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:51",
+    "line": "Nej för då blev det om den här har den här föräldern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:56",
+    "line": "Ja just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:58",
+    "line": "Ja det blev fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:00",
+    "line": "Ja precis för det här är ändå något som inte riktigt har gått i CSS innan tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:05",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:07",
+    "line": "Så det är liksom en helt ny grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:09",
+    "line": "Och webbläsarstödet är väl ganska bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:12",
+    "line": "Jag tror att det är Firefox som ligger kvar på fortfarande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:16",
+    "line": "Jag tror att man måste ena elen bakom en flagga i Firefox just nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:20",
+    "line": "Men annars tror jag att alla har stöd för det, även Safari som brukar få skit nu för tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:26",
+    "line": "- Men är det här ett helt nytt sätt att börja tänka med CSS?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:29",
+    "line": "Alltså man börjar tänka åt andra hållet nu?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:31",
+    "line": "- Nej, det är inte alltid att man behöver det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:34",
+    "line": "Man har ju kunnat bygga det mesta sakerna förut i CSS också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:39",
+    "line": "Men det blir lite enklare nu att kunna säga så här att om den här har det här barnet så stajlar den så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:44",
+    "line": "Och det gör ju liksom att du kan bygga mer eller flexiblare eller mer dynamiska komponenter till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:51",
+    "line": "Som säger så här, om den här har en bild i sig så ska den stajlas så här till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:56",
+    "line": "Om du har typ ett card och sen om den har en bild i sig, ta bort margin till exempel eller vad det nu kan vara, eller padding."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:02",
+    "line": "För att bilden ska gå ut i kanten eller något liknande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:06",
+    "line": "Mm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:09",
+    "line": "Ibland blir jag så här..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:11",
+    "line": "\"Är det en ny häftig grej så vill jag försöka använda den\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:14",
+    "line": "och så trycker jag in det på alla möjliga konstigställen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:16",
+    "line": "Egentligen är det bara fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:18",
+    "line": "Jo, men det känns som att den här kan ersätta lite grann när man har gjort lite fulhacks förut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:23",
+    "line": "Man har typ lagt \"negativ margin\" på saker för att de ska anpassa sig efter föräldern och såna saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:31",
+    "line": "Och det kommer man inte behöva lite längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:34",
+    "line": "Negativ margin?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:38",
+    "line": "Det är väldigt bra att kunna göra tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:42",
+    "line": "Det sjukaste jag har hört så ofta, gör du det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:45",
+    "line": "Nej, det är det inte ofta. Men det är det jag säger. Det är lite ful hack."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:47",
+    "line": "Men det kan ju vara om du vill att den ska bryta sig ut ur sin container."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:50",
+    "line": "Alltså så här, du har en..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:52",
+    "line": "Jag vet inte, vad kan det vara?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:53",
+    "line": "Ja, men typ på min hemsida så har jag en bloggposter med kodblock på, eller kodexempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:58",
+    "line": "Och då vill jag att de kodexempelna ska vara bredare än vad textcontainern är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:04",
+    "line": "fast de ligger i textcontainern så att de sticker ut lite på kanten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:07",
+    "line": "Och då tror jag att jag har en negativ margin på dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:10",
+    "line": "- Ja, det går. Jag har faktiskt en just case."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:13",
+    "line": "Jag har börjat bli mer så här att,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:15",
+    "line": "\"Ja, men det är bara en negativ margin och det är så det funkar så låt oss jobba med det.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:19",
+    "line": "Typ att jag skulle göra något någon gång där man skulle uspa lite"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:24",
+    "line": "så att man skulle lägga som en hål över grafiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:27",
+    "line": "Då blir det en negativ margin. Nu gick vi in på andra saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:30",
+    "line": "- Ja, men det är ändå vettigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:32",
+    "line": "Och som sagt, då kanske man inte behöver det lika mycket om man kör HASS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:36",
+    "line": "Det beror på just caset."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:38",
+    "line": "Men jag tycker man ska testa och läsa på lite grann, för den är väldigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:40",
+    "line": "Och det finns extremt mycket roliga exempel där ute nu hur man kan använda den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:44",
+    "line": "Cool."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:46",
+    "line": "Kom igen då Firefox, så kör vi!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:47",
+    "line": "Jajamän!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:48",
+    "line": "Med det så hörs vi igen imorgon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:51",
+    "line": "Ha en glad lusia hörni!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:53",
+    "line": "Ja, ät en lussebulle."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:55",
+    "line": "Hej då!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:56",
+    "line": "Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:57",
+    "line": "(Jingel)"
+  }
+]

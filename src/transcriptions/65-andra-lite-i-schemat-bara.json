@@ -1,0 +1,1922 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "\"Varför är C++-utvecklare så bra på diskussioner?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:06",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "\"De har alltid så bra poäng.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:11",
+    "line": "Ja, den var bra tycker jag. Den gillar jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Jag tyckte den var lite lång när jag klämde ur den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:19",
+    "line": "Du känner att du tappar Anna på vägen liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:21",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:23",
+    "line": "Man måste artikulera och ha sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:26",
+    "line": "Jaja, välkomna till ett nytt avsnitt av ASDF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:32",
+    "line": "–Jaha, så varmt välkomna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:36",
+    "line": "–Vi, vad tänkte jag säga, det känns som att jag fortfarande håller på att återhämta mig från Norges, fast på ett positivt sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:45",
+    "line": "Alltså att inte att jag är trött, utan jag är trött fysiskt. Det var samma sak."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:51",
+    "line": "Jag har fortfarande fått massa energi därifrån och inspiration, men jag är lite trött fysiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:55",
+    "line": "- Just det. Du är inte trött, men du är trött. - Exakt, det var det jag skulle säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:00",
+    "line": "- Jag är mer överkörd av livet tror jag, hösten. - Ja, fy fan, det börjar bli så jävla mörkt nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:07",
+    "line": "- Ja, och det är också blött och lerigt. Så fan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:12",
+    "line": "Jag har liksom någon helt orimlig rädsla från att halka på löv när jag går runt ute nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:18",
+    "line": "Alltså jag tänker att varenda löv kommer liksom glida iväg som en jävla isbit under foten på mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:23",
+    "line": "- Alltså jag har varit så jävla nära på att skrota fullständigt på blöta löv, så jag förstår dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:29",
+    "line": "- Ja, det är bra. Då är jag inte helt ensam i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:31",
+    "line": "- Nej, nej. Går så här lite i en backe på bara blöta löv och så min hund som bara drar iväg efter någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:37",
+    "line": "Alltså det är... Jag lever ju verkligen på gränsen nu, det känner jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:40",
+    "line": "Exakt, men det är inte blöta län vi ska prata om. Vi tänkte väl prata om, vad är det för något? Ett verktyg?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:49",
+    "line": "Hur man i fysikens värld får fram ett spektrum då använder man sig av en prisma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:56",
+    "line": "Exakt, det var en referens som inte så många tog. Men vi ska prata om något som heter prisma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:03",
+    "line": "som vi skulle säga är ett verktyg. Det är typ ett ORM, som jag inte riktigt kommer ihåg vad det står för just nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:09",
+    "line": "- Object... - Relational Mapper? Model?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:17",
+    "line": "- Model. - Jag måste googla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:19",
+    "line": "- Det här kunde jag... Alltså jag har kollat upp det här så många gånger. Ja, skitsamma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:23",
+    "line": "- Vi har ju... Object Relational Mapping får jag upp som första träff."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:30",
+    "line": "Det finns väl något gammalt ormskämt i början av poddens historia tror jag?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:35",
+    "line": "- Ja precis, att jag inte kan använda mig av det för jag har ormfobi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:42",
+    "line": "- Exakt. - Det har aldrig varit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:44",
+    "line": "- Det har vi löst nu. - Vilken jävla tight öppning!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:48",
+    "line": "- Gud ja. - Alltså det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:50",
+    "line": "- Nu, nu... - Vänta, låt mig bara säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:52",
+    "line": "Vet du varför jag inte kan en abstraktion på mina SQL-frågor?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:55",
+    "line": "Ormfobi. - Just det, just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:57",
+    "line": "Där har vi det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:58",
+    "line": "Och vi ska prata om abstraktioner på SQL frågor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:00",
+    "line": "Det var det vi skulle komma till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:01",
+    "line": "Det hade varit perfekt att ha det skämtet nu istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:03",
+    "line": "Skitsamma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:04",
+    "line": "Nu är vi igång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:05",
+    "line": "Men Prisma i alla fall är ju ett ORM som för typescript och JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:13",
+    "line": "Och jag har väl använt det ganska länge till lite olika projekt här och där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:20",
+    "line": "Och tycker att det är svinbra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:22",
+    "line": "Du köpte väl också Indepore nu när du började bygga din nya Remix-app?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:28",
+    "line": "Jajamän."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:29",
+    "line": "Och vi har väl testat lite olika."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:31",
+    "line": "Har du kört något annat ORM innan?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:35",
+    "line": "Nej, absolut inte på SQL-databaser."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:42",
+    "line": "Jag tror att jag var inne någonsin i Mongoose."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:45",
+    "line": "Ja, precis. För det är väl också lite liknande för Mongo, även om det inte är en relationsdatabas på samma sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:51",
+    "line": "Ja, men sen är det ju, alltså Mongo i sig är ju rätt snällt så det är inte alltid man behöver ett ORM kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:59",
+    "line": "Det är bara att slänga in saker och plocka ut igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:03",
+    "line": "Ja typ, jag tror väl det är det din nuvarande kollega, min gamla kollega, alltid säger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:08",
+    "line": "Ja men, du måste ju gilla Prisma. Du körde ju Mongo Aggregation Pipelines, det är ju typ samma sak."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:13",
+    "line": "Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:15",
+    "line": "Prisma är ett TypeScript-ORM, eller det är byggt på TypeScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:21",
+    "line": "Och för mig, jag vet inte, man kan ju använda det utan TypeScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:26",
+    "line": "Du kan ju köra ditt javaska projekt, men jag vet inte riktigt om jag ser..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:29",
+    "line": "Där tror inte jag att det är en stor anytan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:31",
+    "line": "Men jag vet inte riktigt vilken ände vi ska börja i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:35",
+    "line": "Men så här då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:37",
+    "line": "Det Prisma gör till att börja med är att de har en del som kallas för deras schema."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:43",
+    "line": "Och det är typ där du specificerar hur din databas ska se ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:46",
+    "line": "Så att du skriver en modellobjekt och så kan man döpa den till någonting som blir namnet på tavellen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:54",
+    "line": "Och sen kan du stoppa in där vilka kolumner eller fält du vill ha på den modellen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:59",
+    "line": "Lite likt tanken bakom typ ett ERD-diagram."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:05",
+    "line": "Entity Relationship Diagram."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:07",
+    "line": "Man kan ju generera upp ett sånt baserat på den här schemat till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:11",
+    "line": "Nu är jag långt tillbaka i universitetet och har helt en port human."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:16",
+    "line": "Hur det funkar. Men, Julian, måste man ut och vifta lite grann?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:20",
+    "line": "– Ja, pass på alla de här grejerna. – Perfekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:25",
+    "line": "Då kan jag stå oemotsagd och tro att jag har rätt i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:30",
+    "line": "Så man spelsar det här schemat. Och då spelsar man liksom så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:34",
+    "line": "gå mot en Postgres-databas till exempel, eller en SQLite-databas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:40",
+    "line": "Och sen bygger man upp sitt schema och relationerna mellan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:46",
+    "line": "Jag kör EBS Code och har deras extension och då får man väldigt mycket gratis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:50",
+    "line": "Så skapar man upp en relation och då stoppar den in massa så här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:53",
+    "line": "\"Det är den här som vi vill ha som primary key, den här som vi vill ha som foreign key\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:57",
+    "line": "\"Hur ska relationen se ut?\" och allting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:59",
+    "line": "Jag gissar bara att du köper samma också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:01",
+    "line": "Ja, jag kan inte påminna mig om att jag har lagt till ett extension, men det antar jag att jag har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:06",
+    "line": "Jag får också väldigt mycket hjälp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:08",
+    "line": "Ja, precis. Man får också syntax-highlightning och grejer från extensionet tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:12",
+    "line": "Det kan ju också sägas att du behöver inte använda en relationsdatabas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:15",
+    "line": "Du kan ju fortfarande använda en dokumentdatabas om du vill det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:18",
+    "line": "Det kan man, absolut. Så den stödjer Mongo också, så vitt jag vet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:23",
+    "line": "Och kanske, jag vet inte, dokumentdb kanske också, om jag inte minns fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:26",
+    "line": "Ja, det kan vara DynamoDB också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:28",
+    "line": "Ja, så kan det säkert vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:30",
+    "line": "Men i alla fall, man spesar det här schemat, och det är egentligen det schemat som allting utgår ifrån."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:34",
+    "line": "Så att när man sen ska göra operationer mot sin databas så finns det två saker man gör egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:44",
+    "line": "Det ena är att man har ett CLI där du säger typ så här \"ja men jag vill skjuta in de här uppdateringarna i databasen som jag har hört\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:52",
+    "line": "i schemat. Då kan man antingen bara uppdatera databasen så att den matchar schemat"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:57",
+    "line": "eller så kan man generera en migrering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:59",
+    "line": "Och med migrering, om man inte har stött på det tidigare, så är det en SQL-fil som kör SQL-queries för att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:07",
+    "line": "databasen ska matcha ditt schema egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:09",
+    "line": "Och det är ganska likt till exempel Entity Framework som finns till .NET."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:12",
+    "line": "Där kör man också migreringar, så man genererar upp och sen sköter den matchningen mellan databasen och"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:19",
+    "line": "de här migreringsfilerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:21",
+    "line": "Fly away är också ganska vanligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:25",
+    "line": "Just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:27",
+    "line": "Och sen den andra biten är att du har en klient, och då är det en TypeScript-klient."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:34",
+    "line": "Och det som jag tycker, det är här min stora kärlek till Prisma kommer ifrån egentligen,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:38",
+    "line": "för att det här Prisma-skinen för mig är att den här klienten, den genereras upp med typer baserat på ditt schema."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:47",
+    "line": "Så du får alla typer som matchar ditt databasschema."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:52",
+    "line": "Out of the box, så fort du har spesat den här schemafilen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:55",
+    "line": "Och även då klienten, när du gör anropande, du skriver till exempel en update, då får du det typ att allt matchar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:05",
+    "line": "Och det är där jag känner att Prisma verkligen skiner för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:09",
+    "line": "att man slipper sitta med det här att, just det, hur såg databasen ut nu när jag ska skriva den här manuella SQL-queryn och se hur det såg ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:17",
+    "line": "Vad hette det här fältet eller vad hette den här kolumnen och så vidare och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:22",
+    "line": "Ja, det är lite kul det där, för jag har ju försökt hålla mig ganska långt borta från databaser och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:27",
+    "line": "Jag är fortfarande arg på vissa saker, men någonting jag absolut inte har behövt oroa mig över så är det ju typerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:33",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:34",
+    "line": "Så ja, det får jag nog bara hålla med och vara lyckligt ovetandes om hur illa det kan gå. Eller, jag är inte lyckligt ovetandes, jag vet också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:45",
+    "line": "Men det är nog inte ens någonting jag har registrerat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:49",
+    "line": "Nej, men exakt. För jag har ju ändå sålt in det här på det nuvarande projektet jag sitter på också. Så vi har börjat köra Prisma där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:56",
+    "line": "Jag jobbar ju med lite folk som är SQL-frälsta, alltså de gillar ju verkligen SQL."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:02",
+    "line": "Och tycker att man tappar kontrollen över databasen och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:05",
+    "line": "Men även de har blivit lite konverterade när de väl har märkt det här man får runt omkring."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:09",
+    "line": "De kanske inte bryr sig så mycket om hur man ställer frågorna eller så där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:13",
+    "line": "Men just att du får en autocomplete, out of the box, du får alla typescript-typer och allting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:18",
+    "line": "Har gjort att de också \"ah, det är ju ganska trevligt\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:20",
+    "line": "- Ja, det är stort! - Ja, det är stort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:24",
+    "line": "Det är också lite så här att vi också märkte nu, för nu har vi byggt en ny feature som har varit väldigt databastung i det här att vi inte riktigt visste hur modellen skulle se ut när vi började bygga den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:36",
+    "line": "Vi har varit tvungna att göra väldigt många ändringar på databasschemarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:40",
+    "line": "Det har också varit väldigt smidigt, för det är så snabbt att ändra i Prisma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:46",
+    "line": "Man ändrar bara schematfilen och så kör man några CLI-kommandos och så helt plötsligt har du genererat upp en ny databas med det nya schemat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:53",
+    "line": "Och även sidat data kan ju Prisma hjälpa till med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:56",
+    "line": "Jag tycker att det har hjälpt extremt mycket just under den tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:01",
+    "line": "Vi kanske tjänar mindre på det så småningom när vi inte gör lika mycket databasändringar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:05",
+    "line": "Men vi har sparat så sjukt mycket tid ur mitt perspektiv på att vi har den här autogenererade typningen och allting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:12",
+    "line": "Men då är det väl att man inte behöver bry sig om datan som finns nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:18",
+    "line": "Alltså för att jag lever ju så här, nu har jag en psyko-lite-databas för tillfället då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:24",
+    "line": "Det är så här, \"Delete data-file\", \"Push up en ny\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:28",
+    "line": "Alltså det är hela mitt utvecklingsflöde."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:31",
+    "line": "Det är så här, ändra lite schemat, \"Deleta databasen\", \"Push up en ny\", \"Sida in data\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:37",
+    "line": "Ja, verkligen. Och så fredagslunchen som jag pratade om förra avsnittet, den byggde jag också så att jag bara tog bort. Jag kör också SQLite där och den tog vi bort för databasfilen hela tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:50",
+    "line": "Och sen tycker jag att det funkar väldigt bra med migrations också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:54",
+    "line": "Vi har ju ändå Prisma i produktion hos mitt riktiga projekt som inte är ett tidigare projekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:02",
+    "line": "Och där kör vi migreringar och det funkar också väldigt smidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:08",
+    "line": "Det är väl ibland när vi har gjort någonting och bara \"ah just det, nu behöver vi röja data till den här tabellen\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:14",
+    "line": "och då får man göra lite manuellt arbete."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:16",
+    "line": "Men det hade ju varit samma sak om man skulle göra ändringen utanför Prisma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:20",
+    "line": "Jo, men alltså vet jag ju så här, det enda jag ibland känner är"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:25",
+    "line": "hur många migreringsfilar det är för många migreringsfilar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:29",
+    "line": "När tar det slut?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:31",
+    "line": "Alltså det känns ju inte som att det borde finnas någon gräns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:33",
+    "line": "Jag har liksom inte sprungit på att jag har hört något om att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:36",
+    "line": "du kan hundra migreringar, då är det slut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:39",
+    "line": "Det beror bara på hur länge man har arbetat och hur atomiska förändringar man gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:45",
+    "line": "Jag vet, men jag tycker att det känns som ett jävla waste om du har suttit där skitlänge och sen ska du ha en miljard migreringsbilar som ska tuggas igenom varje gång man ska skicka ut något nytt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:57",
+    "line": "Ja, men den är ju smart nog i alla fall att bara köra de migreringar som inte har gjorts."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:02",
+    "line": "Den är det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:04",
+    "line": "Jag tror kanske Entity Framework funkar på samma sätt, men den skapar upp en liten tabell i databasen som heter Prisma Migrations, om jag inte minns fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:15",
+    "line": "Den håller koll på vilka migreringar som har körts och vilken timestamp det var på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:21",
+    "line": "Då vet den när den applicerar dina migrations vilka som har körts tidigare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:27",
+    "line": "Jag har så många problem med allting. Jag vet inte vad jag håller på med. Jag har någon tanke om att ingenting är produktionssätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:43",
+    "line": "Så innan man ska gå live så tänker jag att jag bara droppar databasen i produktion och sen dödar alla migreringsfiler och skapar upp en enda ny migreringsfil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:52",
+    "line": "Så det börjar se fräscht."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:54",
+    "line": "Absolut, det kan du göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:56",
+    "line": "Jag tror kanske att, vi jobbar ju väldigt mycket, för i Prisma finns ju ett command som heter Prisma db push, alltså deras CLI."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:03",
+    "line": "Och den pushar ju liksom då dina schemaändringar till databasen, utan att göra en migrering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:08",
+    "line": "Så att när vi kör lokalt så kör vi bara den, och så skapar vi liksom inte en migrering direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:13",
+    "line": "Utan vi skapar en migrering när vi känner att nu är vi klara med den här featuren, och så skapar vi en migrering då liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:17",
+    "line": "Och det fungerar ändå väldigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:19",
+    "line": "Men så gör jag ju också, hela tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:21",
+    "line": "Men sen är det något så här att, \"Ja men du får gärna skicka ut det senaste du har.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:25",
+    "line": "Ja men det är typ halvklart och jag kommer ändra massa i de här schemarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:28",
+    "line": "Men okej, okej, okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:30",
+    "line": "Jag vet inte. Jag hade någon grej nu där jag satt och bara så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:34",
+    "line": "\"Men varför har jag en egen tabell för lösenord? Varför ligger inte lösenordet bara på användaren?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:38",
+    "line": "Och så gjorde jag om. För det var nödvändigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:40",
+    "line": "Men nu, alltså sånt håller jag på med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:43",
+    "line": "Det är jätteonödigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:45",
+    "line": "Jag tycker det är svårt, jag är ju verkligen inte någon expert på databasmodellering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:52",
+    "line": "Kanske också därför jag känner att det är skönt att man kan göra många ändringar på ett lätt sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:58",
+    "line": "Och att jag slipper sitta och titta i en databas för att fatta hur schemat ser ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:02",
+    "line": "Utan bara kan titta i den här Prisma-schema-filen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:06",
+    "line": "Ja, alltså samma. Och sen är det någonting som är så otroligt skönt med att de har ju det här Prisma Studio."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:12",
+    "line": "Och så startar man upp den, och så får man upp det lokalt, och då får man i browsern på \"localhost\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:21",
+    "line": "så får man ett gränssnitt över hela ens databas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:26",
+    "line": "Typ Excel, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:28",
+    "line": "Ja, och relationerna. Den stoppar även in relationerna i den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:32",
+    "line": "Så att du liksom får en översikt. Alltså du kan klicka dig runt och kolla på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:37",
+    "line": "Och det är så jäkla nice!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:39",
+    "line": "Ja, jag tycker den är väldigt trevlig också. Jag glömmer ofta bort den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:42",
+    "line": "Och kör liksom något verktyg utanför. Jag kör Beekeeper nu, det är min senaste, som är en SQL editor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:49",
+    "line": "Där man kan ansluta sig till databasen och köra lite queries och sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:51",
+    "line": "Men Prisma Studio är så smidig, för man kör Prisma Studio i CLI och så är man ansluten redan. Och så är det klart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:57",
+    "line": "Och jag håller med, det är väldigt trevligt. Och att du faktiskt kan göra ändringar i den är ju väldigt nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:03",
+    "line": "Så om man bara vill ändra på den här lilla grejen, du behöver inte skriva någon SQL query, du kan bara gå in och klicka runt där och så är det klart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:08",
+    "line": "Ja, jag skulle behöva dig i produktion också. Det vore toppen om vi kunde gå in och trampa omkring ett gränssnitt i produktionstatabas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:16",
+    "line": "Nej, men jag har ju så himla mycket problem. Jag har inte hållit på med så mycket SQL överhuvudtaget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:26",
+    "line": "Jag har alltid, tanken har väl varit att jag ska lära mig saker men så har det aldrig blivit det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:33",
+    "line": "Jag har kämpat såhär, när jag SSOade in på databasen i produktion och jag bara"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:39",
+    "line": "\"Hur tar jag bort den rad?\" och så börjar jag googla över något såhär,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:42",
+    "line": "för det är ju något databas-CLI, jag bara \"Jag fattar inte, jag fattar inte\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:45",
+    "line": "\"Ja, man ska göra en SQL query\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:47",
+    "line": "\"Okej, ja det är rimligt, hur fan gör man det då?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:50",
+    "line": "\"Delete row where\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:53",
+    "line": "Alltså, det tar så lång tid för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:57",
+    "line": "Det är sjukt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:58",
+    "line": "Så ibland känner jag väl lite att med Prisma så kommer jag ännu längre bort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:03",
+    "line": "Och jag vet inte om det är ett problem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:05",
+    "line": "Men jag skulle ju inte kunna göra en join för att rädda mitt liv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:12",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:13",
+    "line": "Och jag förstår, union och vändiagram, och det finns någon grund där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:19",
+    "line": "Men jag menar de här jävla outer, inner, left joints."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:23",
+    "line": "Vad fan? Nej!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:24",
+    "line": "Har du sett den här bilden på pumporna och SQL joints?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:32",
+    "line": "Ja, kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:34",
+    "line": "Jag kan ta fram den här så lägger vi den i kommentaren också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:39",
+    "line": "Men här skickar jag den till dig nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:44",
+    "line": "Jag tycker det är en superbra exempel på hur det funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:48",
+    "line": "Det är liksom ett vändiagram över, fast det är en Halloween-pumpa som försöker förklara hur alla de här jointsen fungerar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:59",
+    "line": "Vi lägger en länk till den i beskrivningen så kan folk gå in och kolla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:01",
+    "line": "Men jag fattar inte heller det. Och då har jag ändå skrivit ganska mycket SQL i mina dagar, även om det var ett tag sedan nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:08",
+    "line": "Jag har läst någon typ av logikmatte som är grunden och det är samlingstabeller och det är unions och allt sånt men det är ändå såhär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:18",
+    "line": "Det är fan inte alltid lätt, men då måste ju du uppskatta prisma-querysen av extremt mycket istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:28",
+    "line": "Ja, men jag hade problem där med. Jag bara, vadå en relation? Är det här en riktig relation?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:32",
+    "line": "Alltså, ja, jag har suttit i mitt egna huvud så jävla mycket och det är en skrämmande plats att vara på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:40",
+    "line": "Sen har jag också fastnat jättemycket på, jag bara, men alltså det är ju SKL."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:44",
+    "line": "Ska det inte vara Snake Case?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:46",
+    "line": "För nu är alla mina modeller som är motsvarande Tables, de är ju Pascal Case."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:51",
+    "line": "Och sen kör jag Camel Case för allting i tabellen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:56",
+    "line": "Och då fastnade jag bara på att säga, men nu brukar jag ha Snake Case."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:00",
+    "line": "Det här funkar inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:02",
+    "line": "Ja, det där är lite intressant. För det går ju att styra på jobbet så var det väldigt för så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:11",
+    "line": "i påskrest då måste man ha Snake Case, med Anders Gård."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:16",
+    "line": "Då måste man ha Snake Case som tavellerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:20",
+    "line": "Och så visar jag priset på dem, hur sätter man Snake Case?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:24",
+    "line": "Vi kan lösa det. Du kan ju ställa in i ditt schema så att du får olika i klienten och i databasen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:32",
+    "line": "Du skriver på en kolumn \"@map\" och sen skickar du in en sträng och då blir det namnet i databasen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:40",
+    "line": "Medan namnet du sätter på själva raden i Prisma-schemat blir namnet i klienten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:46",
+    "line": "Och sen kan man sätta \"@@map\" på hela modellen och då blir det namnet på tabellen i databasen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:51",
+    "line": "Så att vi har liksom, jag tycker att det är lite onödigt för att vem fan bryr sig om det är Snake Case i datavasen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:57",
+    "line": "Men jag kände också att när jag skulle sälja in Prisma så då är det mitt minsta problem att övertyga dem om att det ska vara rätt i datavasen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:08",
+    "line": "Så att det går, jag har inte sprungit in i något fall när jag känner att nu måste jag nog sträcka mig efter SQL"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:18",
+    "line": "Inte hittills i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:20",
+    "line": "- Herregud, kan det komma? Jag är inte beredd i livet att få hand om en sån situation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:28",
+    "line": "- Jag har inte gjort det än i alla fall, så jag vet inte riktigt när det skulle kunna dyka upp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:32",
+    "line": "- Jag blev bara så avsjuk när jag hörde att det var andra människor att diskutera med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:40",
+    "line": "Jag saknade så himla mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:44",
+    "line": "Jag håller på att driva mig själv till vansinne."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:49",
+    "line": "Du sitter på din kammare och undviker att skriva SQL."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:52",
+    "line": "Ja, och jag bara \"Hur ska det vara så här idag?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:56",
+    "line": "\"Ska jag ha en tabell för det här?\" \"Hur jojnar jag ihop dem?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:58",
+    "line": "\"Får man göra så här?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:00",
+    "line": "Alltså det är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:02",
+    "line": "Ja, det kan jag förstå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:05",
+    "line": "Du får väl gå med i något Discord-community och hitta din gemenskap."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:12",
+    "line": "Specifikt för folk som ensamt bygger produkter när de databasmodellerar massa utan att veta hur man databasmodellerar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:23",
+    "line": "Exakt, exakt. Det finns ju en app som jag tycker är ganska trevlig som heter, heter den Centered kanske?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:30",
+    "line": "Ja det heter den. Som är liksom en produktivitetsapp. Det är väl en liten glorifierad pomodoro timer om du vet vad det är?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:37",
+    "line": "Åh nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:39",
+    "line": "Att man jobbar 25 minuter, pausar 5 minuter, jobbar 25 minuter, pausar 5 minuter och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:44",
+    "line": "Men det den gör är också att den lägger till en massa community-grejer och att man kan ha sin to-do-lista i den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:53",
+    "line": "Och då kan man sätta sig i rum med folk och ha sin kamera på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:57",
+    "line": "Och så kan man sitta där och jobba tillsammans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:59",
+    "line": "Så att det känns som att man sitter tillsammans och jobbar, fast man inte gör det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:03",
+    "line": "Så att det kanske också är något för dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:05",
+    "line": "Fast jag känner ju också att du skulle tycka att det var ännu värre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:09",
+    "line": "- Ja, mardröm. Alltså fy fan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:12",
+    "line": "Alltså för att jag också är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:15",
+    "line": "Vi ska tillbaka till prisma strax, men för att jag också inte..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:19",
+    "line": "Det går inte att jobba med mig i närheten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:21",
+    "line": "För att jag satt i liksom en timme idag och fick inte ordning på min jävla..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:26",
+    "line": "Jag skulle hascha någonting och satt och liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:29",
+    "line": "Jaha, det funkar inte. Så fick jag bara så här..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:33",
+    "line": "Och sen till slut inser jag att jag har skrivit \"tja265\" istället för \"tja256\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:39",
+    "line": "Och då är det så här..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:41",
+    "line": "Och så sitter jag där och sen är jag plötsligt..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:43",
+    "line": "AAAAAAAAHHHHH!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:46",
+    "line": "Ut i världen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:48",
+    "line": "Och jag tänker att det inte är ett Coworking Space-beteende."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:54",
+    "line": "Ja, fast jag tänker att det kanske är det som är Coworking Space-beteende."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:58",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:01",
+    "line": "Jag tror det var någon gammal kollega till mig som sa under någon sån här feedback-session, han bara \"Det är så kul, du sitter där borta i ditt hörn och typ pustar och stonkar och ojar massa vid Java, det är jätteutdralande\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:10",
+    "line": "Jag bara \"Ja, vad bra\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:12",
+    "line": "Toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:14",
+    "line": "Ja, det är ändå perfekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:16",
+    "line": "Jag förstår dig, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:18",
+    "line": "Men, jag vet inte, vi får hitta någon den gillande mellanvägen så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:23",
+    "line": "Kollegor kanske?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:25",
+    "line": "Ja, exakt. Det är ett absolut bra intervju."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:28",
+    "line": "Jag skulle vilja säga något om Prisma där som jag totalt glömde bort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:36",
+    "line": "Har du kollat på de SQL-queries som Prisma genererar? Jag gissar på nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:44",
+    "line": "Det har vi tänkt att vi ska göra litegrann i mitt team för att vi är lite nyfikna mest."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:50",
+    "line": "Men det är också ganska kul att veta att Prisma ändå spottar ut sig i SQL-queries."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:55",
+    "line": "Men det skulle vara intressant att se hur de ser ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:57",
+    "line": "Det ska finnas att man sätter en debug-flagga i klienten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:00",
+    "line": "Och då kommer den bara konsollogga SQL-queries när den kör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:05",
+    "line": "Men som jag har förstått det, utan att ha så mycket belägg för det, så ska de vara väldigt optimerade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:11",
+    "line": "Så att det ska vara att man undviker att den gör 15 queries istället för en som den kunde ha gjort med Join."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:17",
+    "line": "Så jag har högt förtroende."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:21",
+    "line": "När du säger klienten, vad menar du ens då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:25",
+    "line": "Alltså när du kör new Prisma eller vad fan det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:27",
+    "line": "Alltså den du kör prisma.databasnamn eller tabellnamn.find eller vad fan det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:33",
+    "line": "Ah, okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:35",
+    "line": "Det är Prisma Client."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:38",
+    "line": "Det som jag känner är lite svårt med Prisma, det är att jag inser ibland att jag vill göra saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:45",
+    "line": "Men jag förstår ju absolut inte hur jag ens gör dem i SQL."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:48",
+    "line": "Alltså jag vet inte vad som går att göra i SQL och vad som inte går att göra i SQL."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:52",
+    "line": "Så det gör det ganska svårt för mig också att hitta vad i Prisma det är jag vill göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:56",
+    "line": "Och det är ju snarare en bristande kunskap för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:59",
+    "line": "Men det har inte varit så jäkla lätt att bara hoppa in i Prisma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:05",
+    "line": "Alltså det känns som att jag ändå behöver ha lite grundläggande basic-kunskaper."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:10",
+    "line": "Alltså typ som vi pratade här innan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:12",
+    "line": "att jag pratade om hur man gör när man vill kunna låsa databasen för att kunna göra transaktions och sen \"committa\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:19",
+    "line": "Just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:20",
+    "line": "Ja, och då sa du att det finns dollartecken transactions och så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:23",
+    "line": "Det hade ju antagligen tagit mig ganska lång tid att ens hitta fram till vad det är jag försöker göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:30",
+    "line": "Ja, men exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:31",
+    "line": "Nej, för det är ju verkligen så att mappningen mellan Prisma och SQL är ändå ganska ett till ett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:37",
+    "line": "Du skriver fortfarande \"where\" och du skriver \"update\" och du skriver vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:43",
+    "line": "Men det blir ju svårare att skriva prisma grejer om man inte kan SQL, så är det ju absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:50",
+    "line": "Sen kollade jag bort mig massa på det här med \"relation one to one, one to many, many to many\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:57",
+    "line": "-Just det. -Oh my god."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:00",
+    "line": "Sen försökte jag tydligen göra en sån här relation där jag får två olika idén."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:04",
+    "line": "Försökte relatera till den andra av samma typ två gånger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:08",
+    "line": "Och då hade jag center hela tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:13",
+    "line": "Men det kan hända. Det händer det bästa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:17",
+    "line": "Men sen finns det ju också..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:19",
+    "line": "Jag tycker ändå att det är skönt att man inte blir totalt invagad i trea."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:22",
+    "line": "Jag har hittat en del saker som att den här typen finns inte i en SQLite."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:27",
+    "line": "Så den kan du inte lägga in i med att du kör en SQLite."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:30",
+    "line": "Det är ju bra så att man inte tror att det sker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:35",
+    "line": "Man har någon falsk trygghet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:37",
+    "line": "Ja, exakt. Och du är också väldigt duktig på att när man genererar upp de här migreringsfilerna"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:41",
+    "line": "så är du väldigt duktig på att varna i dem om man gör någonting som kan leda till dataförlust."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:45",
+    "line": "Eller saker som man inte kan göra. Om du försöker byta namn på den här tabellen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:50",
+    "line": "Eller du försöker lägga till någonting som är \"required\" fast du kanske har rader i tabellen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:56",
+    "line": "Och då kommer det inte att gå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:57",
+    "line": "Och det är den också väldigt duktig på att varna för."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:59",
+    "line": "- Ja, vad händer om man ändå bara kör på och sen pushar till produktion?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:04",
+    "line": "För jag har ju bara hållit på så här i lokalt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:08",
+    "line": "- Ja, din migrering lär väl \"faila\" tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:11",
+    "line": "Om det är så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:12",
+    "line": "Alltså själva migreringen kör ju fortfarande bara SQL rakt upp och ner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:17",
+    "line": "Och då kommer ju den SQL-queryn man skriver faila."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:21",
+    "line": "-Vad fan gör man då då? -Oftast får man göra någon egen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:25",
+    "line": "Du kan ju redigera migreringsfilerna efter att du har skapat dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:29",
+    "line": "Och då får man skriva SQL-manuellt istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:33",
+    "line": "-Det här pratade vi lite om i min ångest-session där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:39",
+    "line": "Det är väl att jag ska behöva göra en migrering som jag inte kan göra i livet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:43",
+    "line": "Jag är så rädd för att migrera data. Det är skrämmande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:48",
+    "line": "Du kan bara säga till mig så tar vi dig live i podden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:52",
+    "line": "Ja, det får vi göra. Det kommer den dagen jag känner mig någorlunda så här, okej nu ska vi få ut här någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:58",
+    "line": "Då kommer jag behöva gå in i produktion, googla i fem timmar om hur jag droppar min db."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:04",
+    "line": "Och sen droppar den och så kör vi allt från början."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:07",
+    "line": "Ja, jag med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:08",
+    "line": "Herregud."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:10",
+    "line": "Ja, det blir spännande. Det blir ju en anledning till att återkommas helt enkelt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:14",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:17",
+    "line": "Det är liksom att alla alltid måste följa med på min ångestresa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:22",
+    "line": "Perfekt. Det är det bästa innehållet i podden tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:25",
+    "line": "Vad vi än pratar om så handlar det alltid om min ångest."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:29",
+    "line": "Det är bara lite, vi går på lite sidospår, men det är den röda tråden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:33",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:35",
+    "line": "Nej, nu ska vi inte tänka för mycket på ångest tycker jag. Jag tycker att det var ett roligt avsnitt. Kul att prata lite Prisma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:45",
+    "line": "Ja, men jag måste säga att jag tycker att det har varit väldigt trevligt att jobba med. Jag känner mig väldigt hemma. Nu sitter jag i Remixnode Prisma och det är väldigt seamless."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:56",
+    "line": "Det är ju så att jag är lite rädd för att jag inte ska hålla koll på att saker inte körs i klienten. Det känns för lätt att det bara är där och lirar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:04",
+    "line": "Jo, och just sista poängen där kanske är att du kan använda de Prisma-genererade typerna i klientkoden till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:14",
+    "line": "Det gör jag typ hela tiden. Alltså som du spesar att den här ska vara den här proppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:18",
+    "line": "Den ska vara den här typen. Och då kommer den från Prisma. Och så kan man bara skicka in den från sitt databasanrop genom någon loader eller någon get-server-side-prop."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:26",
+    "line": "Och så är det typat från databasen till servern till klienten. Och det är ju extremt trevligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:34",
+    "line": "Ja, jag kör ju sådana svinmånga \"awaited return type\" typ av funktionen som jag kallar det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:42",
+    "line": "Ditt databasanrop."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:44",
+    "line": "Liksom rätt djurvärde."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:46",
+    "line": "Precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:48",
+    "line": "Och så blev jag så skrajd för det var någon som sa"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:50",
+    "line": "\"Man borde verkligen inte göra databasanrop från klienten. Det är inte bra.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:54",
+    "line": "Jag bara \"Nej, men det är ju en serverkod eller har jag fuckat upp allt? Jag vet inte.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:59",
+    "line": "Med tanke på att Prisma inte kör i browsern så är det ganska lugnt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:04",
+    "line": "Jag vet, men jag mår ändå piss för jag har som sagt bara mig själv att diskutera med sen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:10",
+    "line": "Toppen! Kul att ni lyssnade hörni. Vi är väl tillbaka igen om två veckor. Så hörs vi då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:17",
+    "line": "Det gör vi. Ha det gött så länge. Vi ses då. Bye bye."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:21",
+    "line": "Hej då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:22",
+    "line": "[Outromusik]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:30",
+    "line": "Hej då!"
+  }
+]

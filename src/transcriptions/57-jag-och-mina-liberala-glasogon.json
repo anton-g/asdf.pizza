@@ -1,0 +1,2087 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Jo, alltså det här skämtet kanske inte riktigt följer tema va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:06",
+    "line": "Men det är så att min gamla kollega Ella berättar det för mig och det försvinner inte så jag måste."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Så här kommer det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:16",
+    "line": "What do you call a man with a rubber toe?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:20",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:23",
+    "line": "Roberto."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:25",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:27",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:29",
+    "line": "Det här är kanske det genuinaste skrattet hittills ska jag erkänna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:33",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:35",
+    "line": "Det var kul, det var roligt, det var 0% på temat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:39",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:41",
+    "line": "Men hon liksom drog det, och så drog vi det så många gånger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:45",
+    "line": "Det är så dåligt egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:47",
+    "line": "Men nu har jag fått ur mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:51",
+    "line": "Japp, det är perfekt också med ett sommaravsnitt. Då sjunker nivån."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:57",
+    "line": "I alla fall på skämtet, till en inte tidigare sett nivå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:01",
+    "line": "Eller så höjs den, fast vi bryr oss inte om att ni fattar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:04",
+    "line": "I vilket fall, välkomna till ett nytt avsnitt av asdf."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:08",
+    "line": "Det är juli. Vi har massa roliga idéer för vad vi ska prata om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:14",
+    "line": "Men idag tänkte vi prata om mobbprogrammering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:17",
+    "line": "Herregud, är det juli? Jag var inte ens beredd. Jag blev så stressad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:21",
+    "line": "Förlåt, det var inte meningen att traumatisera dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:25",
+    "line": "Ja, men det är juli. Vi rullar på som vanligt varannan vecka hela sommaren."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:30",
+    "line": "Det är inte så jävla många avsnitt, så det låter inte..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:33",
+    "line": "Det är en mindre uppoffring än vad det låter som, men ta gärna emot den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:38",
+    "line": "Alltså, nej. Det har jag spårat redan. Det är juli, vi har spårat. Hej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:42",
+    "line": "Ja, men vi tänkte i alla fall att vi, alltså det kanske vi konkret stämde på länge innan vi ska prata mobbprogrammering"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:48",
+    "line": "och både du och jag har ju mobbprogrammerat ganska mycket ändå, får man säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:53",
+    "line": "Jag kanske lite mer än dig, men det är inte så att vi är oerfarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:57",
+    "line": "Nej, du kanske lite mer strukturerat än mig också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:01",
+    "line": "Ja, precis. Jag tänkte vi kanske kan börja i att jag försöker göra någon typ av beskrivning på vad mobbprogrammering faktiskt är för något för de som inte vet det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:12",
+    "line": "Och det är ju i korta drag egentligen parprogrammering fast med fler personer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:18",
+    "line": "Det är liksom det det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:20",
+    "line": "Och att man sitter vid en dator eller det är en person som skriver koden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:25",
+    "line": "De andra är det som kallas navigator, som man pratar i termer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:31",
+    "line": "Men det är liksom att de andra kommer med input på vad som ska skrivas, ofta är det en person som skriver koden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:36",
+    "line": "Och sen roterar man relativt ofta vem som skriver."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:40",
+    "line": "Jag körde var sjätte eller var åttonde minut, lite beroende på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:44",
+    "line": "Och det är väl i stort sett det hela."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:48",
+    "line": "Alltså att du sitter i en grupp framför en editor och skriver en kod tillsammans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:54",
+    "line": "Vi grejer ser det också i och med att du slängde in ordet \"navigator\" där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:58",
+    "line": "Den som skriver koden är ju driver också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:01",
+    "line": "Ja, exakt. Och tittar man på de superformella, inte reglerna, men riktlinjerna för mobbprogrammering"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:07",
+    "line": "Då är det att man har en driver, en navigator och sen har det ett x-antal mobbers"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:13",
+    "line": "Så att då ska drivern bara lyssna på den som är navigator, medan navigatorn lyssnar på de andra personerna"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:18",
+    "line": "Jag har i stort sett aldrig kört det så strikt, förutom när jag har gjort mobbprogrammeringsövningar"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:26",
+    "line": "Men oftast för min del så är det att man har en driver och sen är resten mobber, så alla lyssnar på varandra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:35",
+    "line": "Ja, det är lite intressant det där. Jag tror att vi båda har kört workshop från samma person och det är upphovspersonen till mobbprogrammering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:45",
+    "line": "Och det är Woody. Vad heter han nu?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:49",
+    "line": "Z-U-I-L-L."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:52",
+    "line": "- Swill. - Swill. Svåruttalat. Jag har aldrig riktigt lärt mig, fast jag har försökt komma ihåg det flera gånger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:59",
+    "line": "Men precis, han uppfann ju, eller uppfann, men hittade på mobbprogrammering för en tio år sedan, tror jag att det är, faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:08",
+    "line": "Och då var det typ att han... Jag vet den här storyn bara för att jag höll en presentation om mobbprogrammering, och då var det en väldigt bra intro."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:17",
+    "line": "Men det var väl typ att han blev intagen till nåt team för att hjälpa dem att bli mer produktiva när de satt med jättestora projekt som hade fastnat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:24",
+    "line": "Han tvingade alla att stanna, alla fick lära sig hur man skriver bättre kod, vilka mönster som finns och sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:34",
+    "line": "När han skulle sätta igång det här igen så blev det bara så att någon frågade om hjälp, de hamnade i ett mötesrum och sen började de koda tillsammans för att lösa det här problemet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:42",
+    "line": "Jag har plötsligt satt dem och jobbat tillsammans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:44",
+    "line": "Det är väl bakgrunden till mobbeprogrammering i sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:48",
+    "line": "Sen har han tagit det vidare till ett mer ordentligt arbetssätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:53",
+    "line": "Ja, verkligen rest land och rike runt och hållit i workshops för företag"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:59",
+    "line": "för att lära ut mobbprogrammering och evangelista det"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:05",
+    "line": "och visa på produktiviteten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:07",
+    "line": "För det är ju inte bara utvecklare utan det är även"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:10",
+    "line": "Att du kan ha product managers, product owners, designers som sitter med och kan hoppa in i kontexten och ge hjälp när det behövs och sådana grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:21",
+    "line": "Ja, och det tycker jag är en sjuk föredragning att man bara kan slänga in folk i mobben, oavsett vad de har för kompetens."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:29",
+    "line": "Men jag tänker också, innan jag börjar baula på alltför mycket, för jag tycker ju att mobbprogrammering är väldigt kul, men vad tycker du om mobbprogrammering generellt?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:38",
+    "line": "Ja, mobbprogrammering får mig ju alltid hamna lite efter mina egna personliga meddelanden så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:44",
+    "line": "Man måste ju hålla fokus, det är ju jobbigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:46",
+    "line": "Så är det ju."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:48",
+    "line": "Nej, men jag vet inte, jag har ju gjort workshop-grejen och jag förstår ju principen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:00",
+    "line": "Och jag har ju kört mest digital mobbprogrammering, jag har ju kört mobbprogrammering lite här och lite där tidigare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:07",
+    "line": "Men jag tycker det är lite stressigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:10",
+    "line": "Jag blir stressad och jag blir hävdig och jag har imposter-syndrom upp till skyarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:17",
+    "line": "Så jag finner det inte riktigt så angenämt som du tror."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:22",
+    "line": "Nej, det tror inte jag heller. För jag tycker ju att det är sjukt nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:29",
+    "line": "Och jag började ju med mobbprämering, nu är det några år sedan, det är väl ett år innan pandemin, så 2019 då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:36",
+    "line": "Då körde jag mobprogrammering på plats och vi körde 100% av tiden, eller 99% av tiden körde vi mobprogrammering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:44",
+    "line": "Så vi satt egentligen fyra personer hela dagarna runt en dator och roterade var åttonde minut, vem som satt vid datorn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:52",
+    "line": "I början kom jag ihåg att jag var så sjukt trött när jag kom hem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:57",
+    "line": "Det var helt sinnessjukt hur utmattad jag var när jag kom hem från kvällarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:02",
+    "line": "Bara för att man hade suttit och pratat kod konstant i sju-åtta timmar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:07",
+    "line": "Det var det inte jag var van med sen innan, för då hade jag suttit väldigt mycket själv och man körde alla sina grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:12",
+    "line": "Men sen när jag väl började köra det så kom man in i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:17",
+    "line": "Så efter tre-fyra veckor eller något då kände jag att det här är så jag vill jobba i stort sett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:24",
+    "line": "Men det är ju för att du är socialt djur, höll jag på att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:28",
+    "line": "Så är det definitivt. Jag tror ju inte att mobbprogrammering är för alla egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:32",
+    "line": "Även om jag tycker att det är skitkul och jag tror kanske att majoriteten skulle kunna hitta ett team där de trivs att mobbprogrammera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:39",
+    "line": "För det handlar ju också väldigt mycket om vem man gör det med, hur kontexten ser ut, hur väl man känner varandra, hur mycket man vågar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:46",
+    "line": "För det handlar ju också om att man ska kunna säga att det är ganska sårbart att sitta i en grupp människor och bara"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:51",
+    "line": "\"Ursäkta, jag förstår inte vad vi gör just nu.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:54",
+    "line": "Eller \"Ursäkta, kan vi ta det här lite långsammare?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:56",
+    "line": "Eller \"Kan ni upprepa vad vi precis gjorde?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:58",
+    "line": "Ja, alltså så är det definitivt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:00",
+    "line": "Och det som jag tycker är jobbigast, för det tar ju ett tag innan man kommer in i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:04",
+    "line": "Det är väl därför jag har gjort de här små korta grejerna, där man inte kommer in i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:08",
+    "line": "Och då får man aldrig flow."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:10",
+    "line": "Det är alltid några eller någon som är så här hetsig och liksom lite skrikig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:14",
+    "line": "Och så här nästan sliter tangentbordet ur händerna på en för att de bara vill komma framåt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:20",
+    "line": "Där måste man ifrån."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:23",
+    "line": "Men jag kommer ihåg, bland de första gångerna jag satt med det,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:26",
+    "line": "det var ju en otrolig fördel med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:30",
+    "line": "Jag tror att vi behövde merja en väldigt stor feature,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:34",
+    "line": "som flera personer varit inne och jobbat på,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:36",
+    "line": "och koldbasen hade rört sig i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:38",
+    "line": "Då var ju hela teamet som satt och merjade det tillsammans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:42",
+    "line": "Där kunde man tydligt se fördelarna med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:46",
+    "line": "Ja, exakt. För min del handlar det om att man tar bort så mycket kunskapsluckor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:52",
+    "line": "I alla fall det man gör i en stor del av tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:54",
+    "line": "Det blir inte att den här featuren, Therese har koll på den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:58",
+    "line": "Då måste vi gå på Therese, eller så väntar vi på att Therese kan svara på den här frågan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:02",
+    "line": "Det blir snarare att hela teamet har byggt featuren, hela teamet har ungefär likhåll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:07",
+    "line": "Det är såklart att det blir lite skillnader."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:09",
+    "line": "Men det blir ändå den här kunskapssilusen som kan uppstå när man sitter själv och bygger saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:15",
+    "line": "och bygger saker eller man är den personen som folk frågar om saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:18",
+    "line": "De försvinner ju i stort sett hela hållet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:20",
+    "line": "- Ja, men alltså fast ja det där har jag lite problem också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:25",
+    "line": "Men jag tror att det handlar om en strikt man är att drivern inte bara får köra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:29",
+    "line": "För att jag är suttit rätt mycket där drivern är den som kan det liksom området och bara kör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:35",
+    "line": "Och resten sitter och kollar på typ och försöker hänga med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:38",
+    "line": "Och sen i slutändan är det ändå bara samma person som kan allting typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:42",
+    "line": "Ja, exakt. Jag tror att lite av det där kan man avhjälpa genom att köra ganska korta rotationer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:49",
+    "line": "För som sagt, när jag körde på plats senast, det är lite skillnad när man kör remote eller digitalt,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:55",
+    "line": "men när jag körde på plats körde vi 6 minuter eller 8 minuter rotationer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:59",
+    "line": "Då hinner inte en enskild person bara köra så mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:03",
+    "line": "Utan ser man att fyra personer är i mobben, då är det tre fjärdedelar av tiden kommer det inte vara den personen som kan saker som sitter vid temporet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:13",
+    "line": "Sen blir det ju fortfarande lite grann så att någon kan sitta och säga exakt vad man ska skriva."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:18",
+    "line": "Men där handlar det också om att ha lite ansvar själv, att om jag är driver så behöver jag inte skriva saker jag inte förstår."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:23",
+    "line": "Ja, men det där är spännande för jag kan tänka mig att själva snabba bitarna gör ganska stor skillnad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:30",
+    "line": "Jag har inte suttit så strukturerat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:33",
+    "line": "Men det är ju för att majoriteten av den erfarenhet jag har är digital."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:38",
+    "line": "Det är krångligare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:40",
+    "line": "Ja, exakt. Det är min upplevelse också att när man går från att sitta på plats framför en stor skärm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:46",
+    "line": "När vi har haft det här har vi haft en 75-tums-tv som skärm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:50",
+    "line": "Vi har haft ett tangentbord, en mus, en dator."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:53",
+    "line": "Och sen har man bara slutat rotera på stolarna framför den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:56",
+    "line": "Men att gå till digitalt gör det ju..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:00",
+    "line": "Vissa saker är bättre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:02",
+    "line": "Men just det här med rotationer och allting kring det här är mycket meckigare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:07",
+    "line": "Nu när vi gör remote så sitter vi ofta och säger"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:11",
+    "line": "\"Okej, men då gör man en liten feature som kanske tar en halvtimme, 45 minuter max och sen försöker vi rotera.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:19",
+    "line": "Ibland blir det längre, ibland blir det kortare, men det är någon typ av målbild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:25",
+    "line": "Och det är ju definitivt för länge egentligen, tycker jag i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:29",
+    "line": "För jag tycker att de här korta rotationerna är en stor del av det som gör det bra och att man får med sig allting, alla vinster eller alla fördelar med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:40",
+    "line": "Ja, då har ni ändå blivit bättre på det, för vi kan sitta halva dagen här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:45",
+    "line": "Det händer absolut fortfarande. Jag vet inte om vi har sagt det i podden, att jag har tagit din gamla roll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:53",
+    "line": "Mitt gamla uppdrag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:55",
+    "line": "Exakt, ditt gamla uppdrag. Om vi refererar till saker som att jag gör någonting till det som du gjorde förut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:01",
+    "line": "Jag tror vi kanske nämnde det i förra, men det är bra att klargöra det igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:07",
+    "line": "Jo, för det går ju att hantera sånt också om man till exempel använder VS Code så kan man köra det här live share."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:14",
+    "line": "Det är som att skriva i Google Docs, alla kan skriva i samma dokument tillsammans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:19",
+    "line": "Och det funkar ju, det är bara att jag har aldrig riktigt fått någon sväng på det där för att jag saknar hela bilden när jag går där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:27",
+    "line": "Jag vill ju se lokala bygget, jag vill ju se när någon kollar loggarna, jag vill alltså följa med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:34",
+    "line": "så fick vi aldrig till själva den här local host-delningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:37",
+    "line": "Då har man screen share på ena och live share på andra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:40",
+    "line": "Det blev så himla mäckigt, men det är ju egentligen ett mycket bättre sätt att byta ofta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:45",
+    "line": "Sen att det är en person som kan checka en kod, men det spelar inte så stor roll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:49",
+    "line": "Nej, exakt. Jag håller med. Vi har också kört det, inte på sistone, men innan jag bytte uppdrag så gjorde vi det lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:57",
+    "line": "Det funkar ju bra när det väl funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:01",
+    "line": "Vi fick ändå till att du kan dela portar så du kan surfa in på sajten själv på din dator om du vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:06",
+    "line": "Du kan se terminalen och allt sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:08",
+    "line": "Men sen kommer man till en situation som \"nu har det slutat funka för mig\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:12",
+    "line": "Då blir det en sån jävla avbrott som stör så oerhört mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:16",
+    "line": "Så vi gleder ofta tillbaka på att vi skärmdelar bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:20",
+    "line": "Sen tycker jag att vi kör något som heter POP nu, till exempel, för skärmdelningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:25",
+    "line": "Jag har kört Microsoft Teams tidigare och sådana saker och Slack."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:30",
+    "line": "Men det som jag upptäckte är sjukt viktigt för remote är också att man ska kunna rita på skärmen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:35",
+    "line": "För det gör så extremt mycket. Då kan man peka på den här filen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:39",
+    "line": "Eller man kan peka på ett kodstycke och säga \"det här kan vi ta bort\" eller \"ska vi refakturera den här bitarna?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:47",
+    "line": "Och det kan jag till och med sakna lite grann när man gör det på plats."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:52",
+    "line": "Alltså framför en gemensam skärm istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:54",
+    "line": "Så när vi gjorde det på plats sist så satt jag med min dator bredvid bara för att kunna rita."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:00",
+    "line": "Så att jag skulle kunna rita litegrann ibland."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:04",
+    "line": "Och så ritar man någonting annat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:07",
+    "line": "Typ idag när min tjej ville dammsuga så satt jag och ritade dammsugare på skärmen bara för att folk skulle ha fattat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:12",
+    "line": "Det var dammsugare bakgrunden. Kanske inte det mest produktiva, men det var kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:15",
+    "line": "Nej, jag råkade inte till douchemovet och rita ett pass en gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:19",
+    "line": "Jag ville säga pass. Och då blev det så att alla började rita som en bok på skärmen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:24",
+    "line": "Så när det kom in nya, de ställde en fråga och så fick de till huset en bokritad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:29",
+    "line": "Vad fan hände? Jag har inte mening att det var inte mening."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:34",
+    "line": "Men just ritbiten, jag tycker den är sjukt viktig när man kör remote."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:40",
+    "line": "För det gör det så oerhört mycket enklare att diskutera saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:43",
+    "line": "Jag har på min nya ställe provat något som heter Drawview."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:50",
+    "line": "Det är väl kanske som popp då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:52",
+    "line": "Ja okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:53",
+    "line": "Eller jag vet inte men det är skärmdelning och då är det så att jag tror att man kan rita, jag har inte hittat det än."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:58",
+    "line": "Men det är så att jag kan också ta över den som delar skärm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:01",
+    "line": "Så att jag kan fortfarande skriva. Så det är väl någon typ av live share fast det är en skärmdelning liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:06",
+    "line": "Ja men precis, jag tror att popp har också fast vi använder ytterst sällan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:11",
+    "line": "Ja, för jag provade det med någon och det var en annan som delade skärmen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:16",
+    "line": "\"Ja, men du kan ju skriva.\" Jag bara \"Absolut, det är bara det att jag kan skriva en bokstav\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:23",
+    "line": "\"och sen så ska det från mig tillbaka till skärmdelningen, tillbaka till mig igen.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:26",
+    "line": "Så det var så jävla långsamt, plus att det är i Berlin kontra Stockholm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:30",
+    "line": "Så det går inte fort, det gör det inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:35",
+    "line": "Nej, det är ändå spännande. Vi har inte använt det så aktivt, men man kan ställa in om man vill köra kontroll eller rita."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:45",
+    "line": "Man behöver inte be om kontroll, utan det är bara att du har kontroll samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:50",
+    "line": "Jag var inställd på att jag skulle köra kontroll någon gång, men jag trodde att det skulle rita, så jag började rita och dra över skärmen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:57",
+    "line": "Inte helt likat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:59",
+    "line": "Om man själv sitter och delar och så vill någon annan göra någonting så är man bara såhär..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:03",
+    "line": "Det är min! Det är som någon digital dragkamp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:07",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:09",
+    "line": "Ja, nej. Jag tycker ju att remote funkar mycket sämre för mobbprogrammering än vad det gör om man sitter på plats."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:17",
+    "line": "Men sen har det ju såklart sina fördelar som är allt annat med remote."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:21",
+    "line": "Och just det här med rita biten tycker jag är sjukt nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:25",
+    "line": "Den har jag börjat köra lite grann. Jag sitter med min data som en ritpadda och ritar på skärmen på folk när vi kör tillsammans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:32",
+    "line": "Sluta prata bara, bara rita nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:35",
+    "line": "Jag skriver bara på skärmen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:38",
+    "line": "Det går väl i alla fall snabbare om du skulle ha en iPad med en penna eller nånting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:43",
+    "line": "För det är så jävla svårt att skriva med trackpad. Det blir en hel del skift."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:47",
+    "line": "Det är väldigt sant. Jag har ju en iPad med penna, men jag har inte tänkt på att jag skulle kunna använda den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:52",
+    "line": "Jag började skriva skrivstil igen. Plocka upp lågstadiekunskaperna bara för att det går så mycket snabbare att skriva det på skärmen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:58",
+    "line": "Ja, jag har typ aldrig lärt mig skrivstil. Men när jag skriver ser det ut som en ful skrivstil ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:05",
+    "line": "Toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:07",
+    "line": "Det är väldigt toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:09",
+    "line": "En annan sak jag tänkte på när det kommer till remote on-site, just det här med rotationerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:16",
+    "line": "När vi har kört på plats, nu har inte vi börjat med det i mitt nuvarande team och ditt gamla team."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:21",
+    "line": "Då körde vi med en aktiv timer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:25",
+    "line": "Vi körde ändå ganska hårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:27",
+    "line": "Det finns en massa mobbprogrammerings-timer-applikationer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:30",
+    "line": "Där man fyller i vilka namn man har och sköter rotationerna åt den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:34",
+    "line": "Och så ställer man in \"Vi kör sex minuter\" och så var det sjätte minuter och så säger den till att \"Nu är det dags att byta, nu är det den här personens tur\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:39",
+    "line": "Och så vidare. Och sen kan den också säga till att \"Nu ska ni ta en paus\" till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:43",
+    "line": "Det tycker jag också är lättare, för det är svårt att ha en gemensam timer när man kör remote."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:50",
+    "line": "Så jag tycker ändå, när man väl får till det, då är det extremt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:57",
+    "line": "Jo, men en fördel som jag tycker är digitalt, det är ju att alla får ha det de vill ha."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:04",
+    "line": "Annars måste man komma överens om någonting eller hitta bra sätt att switcha."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:08",
+    "line": "Om man till exempel i teamet råkar ha någon som har jävla Vim bindings i sin VSCode."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:14",
+    "line": "Absolut, det här är ju en struggle varje dag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:20",
+    "line": "Att någon ska köra Vim, det är någon som kör Windows, några kör Mac."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:24",
+    "line": "Alltså det är ju liksom ett potpuri av teknikval som gör att det är ganska svårt att switcha på en dator."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:32",
+    "line": "Det lättaste att läsa är engelsk-svenskt tangentbord."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:38",
+    "line": "Ja, precis. Det kan man ju bara byta på en shortcut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:41",
+    "line": "Ja, för jag får typ lära mig vart saker sitter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:45",
+    "line": "Men det är så jävla guld när man får ett engelskt tangentbord."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:49",
+    "line": "[skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:51",
+    "line": "Ja, men det förstår jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:52",
+    "line": "Men där... Ja, jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:54",
+    "line": "Jag är ju liksom så här... Jag kan både Windows, Mac, Layouts..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:59",
+    "line": "Jag kan köra vilket som helst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:01",
+    "line": "Men Vim, jag kommer aldrig lära mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:03",
+    "line": "Ja, jag kan grunderna typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:05",
+    "line": "Jag kan typ I och sen colon write quit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:09",
+    "line": "Jag kan typ flytta till slutet och få insert, så att det är shift A."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:13",
+    "line": "Sen kan jag dubbel D för delete och så röra mig upp och ner i någon G-variant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:18",
+    "line": "Så att grunderna..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:19",
+    "line": "Ja, du hör ju. Du hör ju, du hör ju. Du kan alltihopa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:22",
+    "line": "Ja, eller hur? Men jag har ju också..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:24",
+    "line": "Du slappjer den när en person i vårt team, mitt gamla team, ditt nuvarande team"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:30",
+    "line": "-då skulle lära sig vimpa i mobb."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:35",
+    "line": "-Det... Alltså jag vet inte om jag hade orkat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:40",
+    "line": "Jag vet inte om jag har det tålamodet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:43",
+    "line": "-Det var en kamp. Eller jag tror att jag kanske precis-"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:47",
+    "line": "-efter det hade börjat blev sjukskriven så att jag liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:51",
+    "line": "-Jag trodde du kunde säga att det var därför du bytte jobb."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:54",
+    "line": "-Eller det var därför jag blev sjukskriven. Nej. Så var det inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:58",
+    "line": "Jag tror jag missade själva inlärningen, men det var där i början. Det gick ju inte fort, det gjorde det inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:05",
+    "line": "Så sitter man bara och tittar på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:07",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:10",
+    "line": "Ja, det där är ju definitivt en utmaning med att mobbprogrammera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:17",
+    "line": "Alltså, att använda teknikvalen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:19",
+    "line": "Som sagt, när jag har kört det förut, då har vi haft en gemensam mobbprogrammeringsdator."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:23",
+    "line": "Och då var det bara så här, vi kommer överens om vad vi kör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:26",
+    "line": "Och sen så kör man det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:27",
+    "line": "Jag tror vi hade någon som bytte till engelsk layout, men annars var det liksom inga konstigheter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:33",
+    "line": "Och det var ju extremt skönt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:35",
+    "line": "Men annars tänker jag, det här känns som en grej som går att lösa, man kan komma överens."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:42",
+    "line": "Men jag tänker att de stora utmaningarna annars är ju liksom hur man får det att funka bra teammässigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:49",
+    "line": "För som du var inne på tidigare, det är lätt att någon tar över lite grann,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:54",
+    "line": "eller att någon kör på lite för snabbt utan att man vågar fråga, eller att man får stämningen i teamet eller kulturen av att man kan säga \"stopp, jag hänger inte med\" och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:05",
+    "line": "Och det är ju definitivt utmaningar som är något man måste jobba på typ hela tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:11",
+    "line": "Ja, och det där är ju liksom för alltid, vare sig det är partprogrammering eller mobbprogrammering,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:17",
+    "line": "Men det är så häftigt när man får till det här flowet, för då kör man bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:22",
+    "line": "Det bara rullar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:24",
+    "line": "Ja, exakt. En av mina stora fördelar som jag brukar prata om är att man fastnar typ aldrig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:32",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:34",
+    "line": "När du väl fastnar så är det mer typ så här produktfrågor, att så här, okej men ska det funka så här?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:38",
+    "line": "Det är ytterst sällan jag fastnar och så är det en teknisk grej, eller man fastnar på en bugg,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:43",
+    "line": "Det är ingen som bara \"så här löser vi den\" eller \"så här kan vi komma vidare\" eller \"så här gör vi för att arbeta runt det\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:50",
+    "line": "Det är så extremt skönt, för då kommer man in i ett ganska bra flow, även om det inte är det här flowet när man sitter själv och kommer in i ett mentalt läge där man bara skriver kod som bara den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:01",
+    "line": "Men i ett flow där du producerar bra kvalitativ kod hela tiden utan att behöva tänka så mycket på \"ja, nej, den här buggen, nej, nu fastnar vi, ja, fan, nu måste jag byta lite kontext här och göra den här grejen\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:12",
+    "line": "Och det är ju väldigt skönt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:14",
+    "line": "Ja, alltså kvalitativ kod i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:16",
+    "line": "Det skulle jag säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:18",
+    "line": "Jag tänker att man skriver ju den lägsta nivån"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:23",
+    "line": "teamet är okej med istället för den lägsta nivån du själv är okej med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:27",
+    "line": "Det är sant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:28",
+    "line": "Men det är kul för det var ju..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:30",
+    "line": "Jag partprogrammerade ganska mycket också under den perioden där med vimpersonen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:35",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:37",
+    "line": "Och det var ju ganska bra just för att det var..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:40",
+    "line": "Vi satt ju fullstack, och han hade mer åt backhand hållet och jag mer åt fronthand hållet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:46",
+    "line": "Då hade vi en hel fullstack-profil som kunde fortsätta köra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:51",
+    "line": "Man kom in i flow, men man kunde också känna att någon kom tillbaka dagen efter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:55",
+    "line": "\"Jag satt med det här själv och funderade på det och hade förbättrat det.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:59",
+    "line": "För att man tillsammans ändå hade kört fast och suttit i samma kontext och inte kommit ur det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:05",
+    "line": "Så det känns som att det ändå går att gruppen, i alla fall paret i det här, fastnar ihop."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:21",
+    "line": "Ja, exakt. Jag tycker att man definitivt ska testa om man inte har gjort det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:28",
+    "line": "Sen behöver man kanske inte slänga sig på och göra det 100 procent av tiden, eller göra det superkomplex för sig själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:33",
+    "line": "Det är väldigt lätt att man bara tar en eftermiddag och mobbprogrammerar den här featuren som vi håller på med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:40",
+    "line": "Eller vad det kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:42",
+    "line": "Sen finns det lite övningar. Jag har gjort en övning som heter \"Mobb Programming Role Playing Game\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:47",
+    "line": "Den är faktiskt svinrolig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:51",
+    "line": "Det går ut på att man har en som är facilitator."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:55",
+    "line": "Sen får alla personer som är med i den här mobben roller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:59",
+    "line": "Rollerna är driver, navigator och mobber till att börja med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:03",
+    "line": "Och på de här pappren finns det en massa olika uppgifter man ska uppfylla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:09",
+    "line": "Och när man gör de här uppgifterna får man poäng, och sen får man mer och mer poäng."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:13",
+    "line": "Och som navigator kanske det är att förmedla information till driver."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:17",
+    "line": "Men som driver kan det vara att fråga förtydligande frågor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:21",
+    "line": "Och sen finns det en massa fler roller utöver de här som är \"the archivist\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:25",
+    "line": "som är för att dokumentera saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:27",
+    "line": "Och sen \"the visualizer\" för att man ska visualisera saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:30",
+    "line": "Typ \"The Learner\" för att man ska lära sig saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:33",
+    "line": "Och jag tycker det här spelet är väldigt bra, eller den här övningen är väldigt bra på att visa att mobbprogrammering inte bara går ut på att skriva kod heller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:40",
+    "line": "Utan att det är också ganska mycket så här att man kan vara med i en mobb för att lära sig saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:45",
+    "line": "Eller man kan vara med i en mobb för att bidra med annat än koden, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:48",
+    "line": "Ja, alltså jag kan lite sluta tänka på det här gamla spelet \"Mafia Lore\", där det är någon som ska mörda alla andra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:54",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:55",
+    "line": "Nästa stora grejen är en mobbprogrammerings-maffiaspel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:01",
+    "line": "Man sitter i en mobb och så blir det bara färre och färre för att man vill mördas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:05",
+    "line": "Ja, men det är ändå en sån gamification. Den gillar man ju."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:09",
+    "line": "Gud, ja. Jag tycker den är svinbra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:12",
+    "line": "Och då kör man rotationer på två minuter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:15",
+    "line": "Bara för att det ska gå snabbt och för att man ska fokusera på mobbprogrammerande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:18",
+    "line": "Jag brukar köra när jag har arrangerat den, den här Fizzbuzz-uppgiften."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:22",
+    "line": "Som är den gamla klassiska."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:23",
+    "line": "Och den är ju liksom en superenkel uppgift egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:27",
+    "line": "Men jag tror inte en enda gång att någon har lyckats bygga den och bli klar med den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:31",
+    "line": "På en timme typ, eller en och en halv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:34",
+    "line": "Man måste ha bra rullhjul på stolarna för att kunna svänga om fort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:39",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:42",
+    "line": "Nej, men så den tycker jag är definitivt en rekommendation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:44",
+    "line": "Annars tycker jag också att småprogrammeringar, alltså att få det att funka bra som vi var inne på tidigare,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:50",
+    "line": "handlar ju mycket om att få en bra stämning i teamet, att alla känner sig trygga och att alla vågar säga där de känner eller tycker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:58",
+    "line": "Ja, men jag tycker att det här är bra tips att testa, och göra det någon eftermiddag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:04",
+    "line": "Men jag tänker också att man ska komma ihåg att det kommer antagligen skava lite, och det kommer vara jobbigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:09",
+    "line": "Så jag tror att man måste se till att komma över den pucken också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:12",
+    "line": "För jag har pratat med ganska många som har varit så här \"Det där är inte för mig, vi testade men det var inte för oss\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:18",
+    "line": "Det är nog för att man gav upp för att det inte var lätt från början."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:25",
+    "line": "Nej, det är faktiskt en jättebra poäng."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:28",
+    "line": "Det är inte säkert att man testar en promering första gången och allting flyter på toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:32",
+    "line": "Det kan vara att man behöver investera lite tid i att få det att funka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:36",
+    "line": "Men jag tror att man kan investera den tiden i en eftermiddag i veckan istället för att gå 100 procent direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:45",
+    "line": "Sen tror jag fortfarande att man får ganska mycket vinning av att göra det 100% för att då,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:49",
+    "line": "som sagt, allt det här med kunskapssilos och allt som vi pratade om tidigare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:53",
+    "line": "Men jag håller verkligen med dig om att man kanske inte kan förvänta sig att mobbprogrammering är någon superlösning som direkt när man testar den funkar toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:00",
+    "line": "Nej. Sen skulle jag också vilja slå ett slag för att inte göra det på eftermiddagarna utan göra det på morgonen när alla är lite pigga och glada."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:06",
+    "line": "Det är en bra poäng."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:08",
+    "line": "Precis efter lunch eller precis innan lunch när alla är lite griniga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:12",
+    "line": "Precis efter lunch när man har lite matkål. Man sitter inte och skriver inte till en bordet. Man glider lite längre ner i stolen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:20",
+    "line": "Man är trött. Hälften ska på toa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:23",
+    "line": "Det är kanske inte den givna vägen till succé."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:29",
+    "line": "Jag är ju lite kluen. Jag ser ju fördelarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:36",
+    "line": "Jag trivdes jättebra i teamet och jag trivdes jättebra med, jag hade kul verkligen på jobbet genom att sitta och snacka hela dagarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:45",
+    "line": "Men jag märkte det också när jag slutade med det, att det är ändå rätt skönt att inte ha andra människor i öronen åtta timmar om dagen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:56",
+    "line": "Alltså för att det är jobbigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:58",
+    "line": "Just det här, jag tror att det ska man komma ihåg också, för vi var jättedåliga på det, att ta pauser."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:03",
+    "line": "pauser. Vi gjorde liksom inte det. Så man måste verkligen se till att göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:08",
+    "line": "Så om man inte sätter en bytetimer så borde man åtminstone sätta en paustimer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:13",
+    "line": "Ja, verkligen. Det håller jag helt av och med om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:17",
+    "line": "I alla fall när man kör remote tycker jag det är mycket lättare att glömma bort att ta pauser."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:23",
+    "line": "När jag körde på plats var vi ändå ganska duktiga i teamet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:25",
+    "line": "Vi tog både gemensamma pauser, men också att man som individ kunde ställa sig upp och"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:30",
+    "line": "Det ställdes upp \"hörni, jag ska bara ta fem minuters paus här, jag måste ta en bensträckare\" och så gjorde man det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:35",
+    "line": "Och det kändes ju lite lättare när man körde på plats för då kunde man säga det och gå och sedan komma tillbaka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:42",
+    "line": "För då kunde man gå någonstans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:43",
+    "line": "När man är remote är det fortfarande såhär \"ja, datorn är ju här\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:46",
+    "line": "Den står ju där, det är lätt om man bara sitter kvar och fortsätter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:50",
+    "line": "Ja, jag har gjort det några gånger när man går iväg och hämtar vatten med lurarna i och så säger någon något och börjar springa tillbaka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:57",
+    "line": "\"Hallå, Therese? Therese? Therese?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:58",
+    "line": "\"Ja, ja, jag hör. Jag hör.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:00",
+    "line": "Typiskt dålig paus och ta det med hörlurarna i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:06",
+    "line": "Ja, men det är bara det man tänker sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:08",
+    "line": "Men jag hinner gå och hämta lite vatten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:09",
+    "line": "Ja, ja, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:11",
+    "line": "Ja, men sen tycker jag en annan grej jag tänker på som sista grej här kanske"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:17",
+    "line": "när man kör remote är ju att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:20",
+    "line": "det är ganska nice att ha kamerorna på"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:22",
+    "line": "för att man kan se folks fokus och hur liksom att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:26",
+    "line": "Det är lättare att märka om man behöver ta en paus–"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:29",
+    "line": "–om man ser hur de andra mår, rent kroppsspråksmässigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:34",
+    "line": "Men jag vet också att det är ganska taxerande–"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:40",
+    "line": "–det kanske är ett svängelstord–"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:42",
+    "line": "–men det är ganska taxerande att ha kameran på hela tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:45",
+    "line": "För då sitter man hela tiden och tänker på hur man själv ser ut också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:47",
+    "line": "Jag vet inte ens vad du menar med taxerande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:51",
+    "line": "Alltså att det är ganska..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:54",
+    "line": "Att det drar lite, lite energi hela tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:59",
+    "line": "-Taxan går? Taxameten? -Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:04",
+    "line": "Jag tror att det heter \"taxing\" på engelska."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:08",
+    "line": "Jag försökte bara översätta det och då blev det \"taxerande\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:11",
+    "line": "Det var som när jag framför native English speakers försökte kalla progressiva glasögon för \"progressive glasses\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:20",
+    "line": "Det är ändå väldigt kul. Det hade jag också lätt kunnat göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:23",
+    "line": "Det här är jag och mina liberala glasögon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:26",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:31",
+    "line": "Där har vi avsnittstiteln."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:35",
+    "line": "Jag tänker att vi kanske avrundar där, om inte du har något mer du vill tillägga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:41",
+    "line": "Ehh..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:43",
+    "line": "Nej, jag tror inte det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:45",
+    "line": "Jag menar, det är ju du som är mobbprogrammerings-experten av oss två också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:51",
+    "line": "Ja, det vet jag fan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:53",
+    "line": "Men jag kan ta den titeln för tillfället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:55",
+    "line": "Ja, jag var sådär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:57",
+    "line": "Jag gick till den här workshopen med mobbprogrammering och fick bara höra hur dålig jag var på att köra TDD."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:02",
+    "line": "Det var liksom det jag tog med mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:04",
+    "line": "Så det är på dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:06",
+    "line": "Ja, men TDD är också överskattat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:09",
+    "line": "Ja, jag vet. Det är ett annat avsnitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:12",
+    "line": "Det är ett annat avsnitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:14",
+    "line": "Toppen! Tack för att ni lyssnar som vanligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:17",
+    "line": "Hoppas ni har en fin sommar och lyssnar på oss ute i solen hellre än framför datorn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:24",
+    "line": "Vilken inte stolpig avslutning det var."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:28",
+    "line": "Men budskapet är detsamma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:30",
+    "line": "Ha det toppen så hörs vi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:32",
+    "line": "Det gör vi. Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:34",
+    "line": "Tja!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:35",
+    "line": "[Outromusik]"
+  }
+]

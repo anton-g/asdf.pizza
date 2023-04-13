@@ -1,0 +1,18 @@
+---
+export interface Props {
+  pinecastId: string
+  class?: string
+}
+
+const { pinecastId, class: className } = Astro.props
+---
+
+<iframe
+  src={`https://pinecast.com/player/${pinecastId}?theme=slim`}
+  seamless
+  height="20"
+  style={{ border: 0 }}
+  frame-border="0"
+  width="100%"
+  title="audio player for episode"
+  class={className}></iframe>

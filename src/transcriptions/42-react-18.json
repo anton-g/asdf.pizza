@@ -1,0 +1,1842 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Varför känns det så tråkigt att spara persondata som Jason?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:04",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:06",
+    "line": "Jag gillar inte att objektifiera människor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:09",
+    "line": "Det var kul. Det gillar jag. Bra. Jag skrattar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:15",
+    "line": "Nu är vi igång. Nytt avsnitt av ASD. Det känns som om det var jättelänge sen jag spelade in."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:19",
+    "line": "Men det var det nog inte. Det var nog två veckor sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:22",
+    "line": "Ja, det känns som en evighet i förkylningsår för min del sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:28",
+    "line": "Ja, exakt. Du är förkyld. Jag har hunnit kliva in i 30-talet, eller 30-årsåldern i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:36",
+    "line": "Välkommen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:37",
+    "line": "Tack, tack. Det känns väldigt bra. Känner mig gammal?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:40",
+    "line": "Ja, det där får man inte alltid säga. För då säger någon \"Du som är så ung!\" och så blir man så här ageist."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:48",
+    "line": "Det är tråkigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:51",
+    "line": "Ja, men jag sa ju bara att jag känner mig gammal."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:54",
+    "line": "Jag vet, men det är för att jag alltid säger att jag känner mig gammal, men min kropp är typ 80."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:58",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:59",
+    "line": "Jag är allowed."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:01",
+    "line": "Det lovar ju inte gott för framtiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:03",
+    "line": "Men, vad tänkte vi prata om idag?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:07",
+    "line": "Jo, vi tänkte prata lite grann om React 18, tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:11",
+    "line": "Kanske prata om lite grejer som kommer efter React 18 också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:13",
+    "line": "Men vi kan väl börja där i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:16",
+    "line": "För det släpptes ju beta för kanske tre veckor sedan, tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:20",
+    "line": "Om jag inte minns helt fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:22",
+    "line": "Vilket då skulle betyda att det är ungefär ett par månader bort så det släpps efter kanske januari, februari om jag får kill i sig lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:32",
+    "line": "Det ska väl komma ut någon release candidate och grejer innan det är klart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:35",
+    "line": "Men efter det, om det inte dyker upp något väldigt mycket fel så kommer React 18 komma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:41",
+    "line": "Och det känns ändå, jag är taggad. Det känns kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:45",
+    "line": "Ja, det gör det ju. För att 17 var ju hela den här, det har hänt massor under ytan för att förbereda för nästa major men det har inte hänt så mycket för användaren."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:58",
+    "line": "Exakt, för den var ju svidtråkig egentligen. Det var exakt som du säger, man sa \"vi preppar så att man kan uppdatera till 18\" eller \"preppa till 17\" så ligger man på 17 så ska det vara en lätt väg att gå till 18."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:13",
+    "line": "Men det är kul för jag tänkte inte alls att det var någonting som skulle påverka mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:18",
+    "line": "Men sen upptäckte jag att jag hade massa problem med att jag inte fick med mig eventvärdet in i mina setstate callbacks."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:27",
+    "line": "Men det läste de."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:29",
+    "line": "- Ah, i 2018 pratar vi om?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:32",
+    "line": "- Nej, i 2017."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:34",
+    "line": "Så i 2016 hade jag problem med det och sen kom jag på att de skulle fixa det i 2017."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:39",
+    "line": "Så det var faktiskt en liten ändring. Plus att man inte behöver importera React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:42",
+    "line": "Ja, den var i och för sig trevlig. Även om min VS Code fortfarande inte har lärt sig det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:49",
+    "line": "Jag vet inte varför. Men den typ ger mig inte autocomplete på komponenter om jag inte har import React högst upp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:58",
+    "line": "Först så föreslår den alltid \"Vill du importera React?\" och så måste jag klicka ja på den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:04",
+    "line": "Och sen får jag förslag på \"Den här komponenten är inte använd, vill du importera den också?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:07",
+    "line": "Den ligger precis i filen här bredvid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:09",
+    "line": "Det kan vara något som är fel-configurat i min VS Code."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:15",
+    "line": "- Jag har inte stött på det där. Min verkar snällare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:18",
+    "line": "Eller så har jag bara inte byggt något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:20",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:22",
+    "line": "- Vi får väl säga att jag borde ta tag i att kolla det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:26",
+    "line": "Men det har aldrig blivit av. Det är inte ett så stort problem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:29",
+    "line": "När den märker att det är en unjuiced import så tar den ju bort den också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:33",
+    "line": "Den håller på lite där fram och tillbaka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:34",
+    "line": "Lägg till React, ta bort React, lägg till React och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:37",
+    "line": "Så den får extra jobba?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:39",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:41",
+    "line": "Men React 18 då"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:44",
+    "line": "kommer med lite mer grejer tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:48",
+    "line": "Det är lite saker som är ganska kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:51",
+    "line": "Lite saker som är så här, ja, det låter väl nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:54",
+    "line": "Men kanske inte tänkt på så mycket innan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:57",
+    "line": "Men har du nåt så här som du är, fan det där låter skit nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:02",
+    "line": "Så här helt fruktansvärt för att jag läste igenom saker igår och det är så blankt i huvudet just nu så att du förstår inte. Jag kan inte frammana någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:11",
+    "line": "Vi kan skylla på en förkylnings hjärna kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:15",
+    "line": "Ja och fortfarande lite utbränt så att jag kommer leva på den vågen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:21",
+    "line": "Det är ändå en våg du kan leva på. Så lite, det är kombinationen helt enkelt nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:27",
+    "line": "Jag har inte det men jag tänker att du har det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:33",
+    "line": "Jo men jag har några grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:36",
+    "line": "Det finns ju två saker som jag tycker verkar jävligt..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:41",
+    "line": "Den stora grejen som jag tycker är nice är att de har gått bort från det här med att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:45",
+    "line": "Concurrent mode inte finns riktigt längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:48",
+    "line": "Alltså att de har bytt från att det är ett mode till att det är Concurrent features typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:52",
+    "line": "För förut var ju Concurrent Mode, när det presenterades, jag vet inte hur länge sen det var, tre år sedan kanske"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:58",
+    "line": "Har ju alltid varit att det är ett läge du sätter din app i"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:02",
+    "line": "Så att du kan antingen köra typ Blocking som ska vara där man kör idag"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:05",
+    "line": "Eller så ska det vara något mittemellanläge, eller så är det Concurrent Mode"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:09",
+    "line": "Och att när du upptäcker 18 så får du tvungen att välja vilket läge du vill köra din app i"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:13",
+    "line": "Och hela appen måste stödja det, vilket då inkluderar typ 3D-parts-libs och allting sånt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:19",
+    "line": "Men då har de gått bort från det nu till 2018 och sagt att vi har \"concurrent features\" istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:27",
+    "line": "Så när du använder en \"concurrent feature\" då optar du in den biten av trädet som du använder den på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:35",
+    "line": "Vilket gör att man kan välja var man vill använda den och om man märker att det inte funkar på ett ställe så kan man skita i att använda det just där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:41",
+    "line": "Just det. Jag kom på nu också vad jag tycker är nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:46",
+    "line": "Att de batchar fler state updates."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:49",
+    "line": "Ja, exakt. Det är ju faktiskt kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:51",
+    "line": "Jag tycker det är trevligt att de gör det, men jag har inte stött på det supermånga gånger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:56",
+    "line": "Att jag har märkt varför min komponent renderar två gånger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:59",
+    "line": "Mycket för att jag kanske inte bryr mig om hur många gånger min komponent renderar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:02",
+    "line": "Men det är ju trevligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:05",
+    "line": "Jag kan ju störa mig väldigt mycket på extra renderingar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:10",
+    "line": "Sedan är det också att jag har jobbat en del med performance."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:17",
+    "line": "Jag har inte alltid varit jättebra på det här med performance."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:20",
+    "line": "Så när man får lite bättre performance, bara out of the box, det tycker jag är väldigt skönt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:25",
+    "line": "Problem blir lösta åt den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:28",
+    "line": "Ja, det är väl därför man använder ramverk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:32",
+    "line": "Det kan jag väl påstå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:34",
+    "line": "Det är skitnice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:36",
+    "line": "Och den skillnaden mot tidigare, nu tror jag om jag minns rätt, är väl att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:41",
+    "line": "tidigare har ju event handlers, om du har en onclick och skickar in en funktion i den"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:51",
+    "line": "och så kör man två set states, så batchade vi den tidigare så att det blev en omrendering bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:57",
+    "line": "Men istället då om det var typ att du gjorde ett API-anrop och sen hade du ett promise som resolvade och i den resolven för det promise satte två states då fick du två renderingar för då visste React inte hur den skulle batcha det typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:18",
+    "line": "Nu ska den klara av att batcha alla sådana grejer tillsammans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:24",
+    "line": "Exakt, så nu ska det inte spela någon roll om React inte vet vad som händer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:30",
+    "line": "Om det är en clickhandler eller något utanför så ska den batcha."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:34",
+    "line": "Sen finns det en funktion, eller en hooker för att man ska kunna wrappa den om man vill ha specifikt en stateuppdatering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:42",
+    "line": "Så det går alltid att komma runt den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:44",
+    "line": "Ja, jag tror kanske att det är en funktion rakt upp och ner på React DOM, om jag inte minns fel, som heter typ \"Flush\" eller något i den stilen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:53",
+    "line": "Ja, just det, för jag kommer ihåg också att det stod \"Observera\" att det är från React DOM och inte från React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:59",
+    "line": "Ja, för tidigare fanns ju ett sätt att jobba runt det här problemet, som var typ \"Unstable_batchedupdates\" eller något sånt som också kom från React DOM om jag minns rätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:09",
+    "line": "Där man kunde liksom satt i din resolver för ditt promise i vårt exempel så kunde du liksom wrappa dina set states i den istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:18",
+    "line": "Och då batchade Reacten för att du satte den och gör det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:21",
+    "line": "Men den är ju borta nu istället. Så nu blir det åt andra hållet att den batchar by default och sen får du opta ut från batchningen om du har någon anledning att göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:31",
+    "line": "Jag vet inte till vart man skulle vilja göra det, men ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:34",
+    "line": "Jo men här sitter jag nu och så tycker jag att det är trevligt men jag bara, alltså om jag ändå ska sia om mig själv i framtiden så kommer det dyka upp ett tillfälle där man sitter såhär"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:43",
+    "line": "Men varför sätter den båda staten samtidigt? Jag vill ju att den här ska sättas och sen ska den här sättas. Vad är det här om? Varför gör de såhär?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:51",
+    "line": "Och så måste jag komma ihåg, vilket jag inte kommer göra och hitta den här flashfunktionen och använda den. Jag kommer ju vara upprörd på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:58",
+    "line": "För att jag kommer ju inte ihåg saker, visligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:01",
+    "line": "- Uppenbarligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:02",
+    "line": "Men jag ser fram emot det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:06",
+    "line": "- Det ska bli spännande. Vi kanske återkommer till en liten callback till avsnittet någon gång i framtiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:14",
+    "line": "När du berättar att du skriker över att React batchar saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:18",
+    "line": "- Ja, jag hoppas det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:22",
+    "line": "Jo, och sen den andra grejen som jag tänkte på, det är väl två grejer egentligen, men är ju då två nya hooks."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:30",
+    "line": "Den ena heter Use Transition och den andra heter Use Deferred Value."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:34",
+    "line": "Just det, och båda sätter igång Concurrent Mode."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:38",
+    "line": "Ja, precis, båda är Concurrent Features."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:42",
+    "line": "Och det är jävligt svårt än så länge att förstå riktigt när man ska använda den ena och när man ska använda den andra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:50",
+    "line": "Och ett litet sidospår här innan jag går in på de här huxen är att en annan grej som de har gjort nu inför React 18"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:58",
+    "line": "i React Core-teamet är att de har bjudit in ganska mycket till diskussion kring de här featuresen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:06",
+    "line": "medan det har varit tidig alfa och så fort det kom där. Sen i somras någon gång tror jag"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:11",
+    "line": "och haft ett repo på GitHub som heter React Working Group där de har bjudit in alla som har bidragit till React"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:18",
+    "line": "har kunnat kommentera till det. Och så har de kört discussions-fliken på GitHub."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:23",
+    "line": "Och där har folk kunnat ställa frågor om saker och hur det funkar och fått förklaringar från core-teamet"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:29",
+    "line": "eller andra som kan det. Och det tycker jag har varit sjukt nice. Särskilt för mig som är väldigt intresserad"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:35",
+    "line": "av vart jag är på väg och vad som kommer att hända och hur folk tänker kring det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:39",
+    "line": "Att bara kunna gå in där och titta lite grann. Och det finns vissa poster som är skitbra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:43",
+    "line": "Det finns en som heter..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:45",
+    "line": "Jag ska se, jag tror till och med att jag har den öppen på en flik."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:50",
+    "line": "Den heter så mycket som \"Glossary + Explain Like I'm 5\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:55",
+    "line": "Och då är det någon som heter Sylvia Vargas som har skrivit och gjort en tråd på det här React Working Group."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:02",
+    "line": "Varje inlägg under den här tråden är att hon ber folk förklara som att hon är fem år gammal olika termer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:13",
+    "line": "Och vad det är för något. Så typ \"concurrency\" har en egen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:15",
+    "line": "Där de försöker förklara vad concurrency är på ett så enkelt sätt som möjligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:19",
+    "line": "Och sen finns det typ, om jag skojar här så har vi \"batching\" och \"automatic batching\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:22",
+    "line": "Vi har \"hydration\", \"SSR\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:26",
+    "line": "Det finns mer \"passive effects\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:28",
+    "line": "\"Discrete events\", \"promise tick\", \"flush sync\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:32",
+    "line": "Vad var det du undrade om jag pratade om nyss?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:33",
+    "line": "Typ \"code splitting\", \"debouncing\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:36",
+    "line": "Alltså det är skitmycket grejer som förklaras på extremt bra och pedagogiska sätt i kommentarerna bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:42",
+    "line": "Och mycket är Dan Abramov som går in och svarar, medan vissa andra går in på andra saker som de kan bättre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:49",
+    "line": "Men vi länkar såklart den i beskrivningen också. Men jag kan verkligen rekommendera att gå in på den och kolla på den om man är lite nyfiken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:54",
+    "line": "Och särskilt typ såhär \"Vad fan är concurrency för något?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:56",
+    "line": "Så finns det liksom en väldigt pedagogisk förklaring där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:59",
+    "line": "[Therése] Jag blev bara såhär... Jag förstår ju begreppet. Och alla förstår vad det innebär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:05",
+    "line": "Men jag är såhär \"Vilken jävla brainig femåring alltså!\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:08",
+    "line": "- Ja, det ska erkännas. Jag kanske inte hade fattat det som en riktig femåring."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:18",
+    "line": "- Nej, men sånt där gillar jag verkligen. Det är så mycket antaganden om att alla fattar vad det här är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:24",
+    "line": "Nej, för det är inte alltid lätt att komma in i det tekniska vokableret samt när det inte ens är native language, eller modersmål heter det på svenska."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:34",
+    "line": "Svenska och sådana saker. Så där är det alltid jätteuppskattat tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:39",
+    "line": "Jag uppskattar det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:40",
+    "line": "Ja, men verkligen. Samma här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:42",
+    "line": "Och kan också nämna att, jag tror kanske vi nämnt det i en tidigare avsnitt, men de håller"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:47",
+    "line": "också på skriver om hela React-dokumentationen från grunden upp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:51",
+    "line": "Och man kan väl nästan räkna med att den förmodligen kommer liksom"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:56",
+    "line": "sammanstråla lite grann med React 18 och innehålla saker om concurrency till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:00",
+    "line": "Där är det också mycket mer fokus på hur man ska tänka i React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:05",
+    "line": "Till exempel finns det jättemycket om i ny dokumentationen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:08",
+    "line": "Den ligger också uppe på beta.react.org."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:11",
+    "line": "Reactjs.org. Kommer aldrig ha vilken sida där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:14",
+    "line": "Men den ligger också uppe där, så man kan gå in och titta och läsa den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:19",
+    "line": "Den är inte helt färdig än, men också extremt mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:21",
+    "line": "Och att den är \"hooks first\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:23",
+    "line": "Så att de pratar inte om klasskomponenter längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:26",
+    "line": "Vilket de fortfarande gör i den nuvarande dokumentationen, vilket är ändå lite sjukt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:29",
+    "line": "Gud vad jag inte visste det när jag pekade på den personen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:36",
+    "line": "Fel av mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:38",
+    "line": "Men ja, Concurrency, jag tycker det är svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:45",
+    "line": "Men jag tänker att du har lite bättre koll, så prata om de nya hookarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:50",
+    "line": "Jag kan väl nämna något om concurrency först också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:58",
+    "line": "Jag tror att det är lite svårt att bara förklara \"top of mind\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:05",
+    "line": "Men det handlar egentligen om att det är som concurrency."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:09",
+    "line": "Om man vet vad ordet betyder så handlar det om att man kan köra flera saker samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:12",
+    "line": "Eller att saker kan överlappa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:14",
+    "line": "Det det handlar om i React är att React blir smartare så att det kan hantera att om det kommer flera set states så kan de få lite olika prioritet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:33",
+    "line": "I stort sett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:34",
+    "line": "Och de här hooksen väger vi in lite i det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:37",
+    "line": "Men den kan avbryta rendering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:41",
+    "line": "Alltså att den håller på att rendera något och så kommer det något som ska renderas igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:44",
+    "line": "Då kan den bara \"ja men då avbryter jag den och sen så fortsätter jag att rendera\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:46",
+    "line": "\"och sen om jag behöver börja omrendera så kan jag göra det.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:48",
+    "line": "Väldigt förenklad förklaring."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:50",
+    "line": "Jag skulle verkligen rekommendera att man går in och läser några artiklar eller den här förklaringen som vi pratade om nyss."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:56",
+    "line": "För att förstå vad det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:58",
+    "line": "Men i React 18 så kommer de här hooksen som vi pratade om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:02",
+    "line": "Den ena heter Use Transition och den andra heter Use Deferred Value."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:05",
+    "line": "Och det är inte helt solklart hur de skiljer sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:12",
+    "line": "Det är ganska solklart rent tekniskt hur de funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:17",
+    "line": "Men det är inte helt solklart vart man ska använda vilken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:21",
+    "line": "För syftet är i stort sett samma sak."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:25",
+    "line": "Och de har liksom demat väldigt mycket i Start Transition eller Use Transition-hucken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:30",
+    "line": "Det den gör är att du får tillbaka en funktion som kan kallas för start transition."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:36",
+    "line": "Och en boolean som är typ \"is pending\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:39",
+    "line": "Vilket betyder då om den här transitionen är pågående."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:44",
+    "line": "Det man kan göra sen är att du kan wrappa dina set states i start transition."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:50",
+    "line": "För att säga till React att den här state-uppdateringen är inte akut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:58",
+    "line": "Utan med den här statenplateringen så kan det bli så här \"ja, vi sätter den när det hinner\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:05",
+    "line": "Och det gör ju att React kan anpassa sig. Så är det på en långsam dator så kommer kanske inte den där staten sättas på ett tag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:11",
+    "line": "Men är det på en snabb dator så kanske det sätts direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:13",
+    "line": "Och exemplet de har använt för att visa det här är typ någon open source app som de har använt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:21",
+    "line": "Den renderar en typ av bubbelgraf med massa medicinsk information, typ om DNA tror jag det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:28",
+    "line": "Och sen finns det en slider man kan dra i för att filtrera den här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:32",
+    "line": "By default då när du kör som React 17 idag, och drar i den här så sker det en set state på varje on change på den här sliden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:41",
+    "line": "Och när den sätter statet så hänger sig i GUI-t."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:47",
+    "line": "Så både slidern hänger sig, det hoppar till i den här bubbelgrafen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:52",
+    "line": "Och man märker verkligen att det känns som att datorn jobbar hårt när man drar i den så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:57",
+    "line": "Men sen så visar den då i det här demot att man kan wrappa den här set-staten bara med start transition."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:05",
+    "line": "Och helt plötsligt så är Slider-uppdateringen helt smooth."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:12",
+    "line": "Så att du kan dra i Slidern fram och tillbaka hur mycket du vill och den hänger sig aldrig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:15",
+    "line": "Det som händer är att när React hinner köra en rendering av det värdet som du står på, då kommer den rendera om den här bubbelgrafen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:25",
+    "line": "Men om inte annat så att Slidern kommer fortfarande vara smooth oavsett hur mycket det laggar i den här bubbelgrafen för att det tar tid att rendera den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:34",
+    "line": "Och det är jäkligt coolt faktiskt. Det är så extremt lite förändring som sker men det får ett extremt hög påverkan för användarupplevelsen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:48",
+    "line": "Det är ett extremt bra use case också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:52",
+    "line": "För just den här med att man bara drar in slider ibland."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:55",
+    "line": "Lite okinnigensdrar i en slider för att se vad som händer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:59",
+    "line": "Den är smooth fortfarande men att den per automatik väntar tills användaren har lugnat ner sig innan den ens uppdaterar allting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:07",
+    "line": "Det är snyggt alltså."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:09",
+    "line": "Man ska också skilja på det här att det inte är en debounce till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:16",
+    "line": "För där är det typ att då spelar det ingen roll hur snabb dator du har, utan säg att man har sett en debounce på 250 millisekunder"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:23",
+    "line": "Då kommer du alltid behöva vänta då minst 250 millisekunder från att du slutat dra slidern till att det uppdateras"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:31",
+    "line": "Men i det här fallet så kommer den då anpassa sig så att kör du på en extremt långsam data, man kan ju liksom simulera det här i browsern"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:37",
+    "line": "Då kommer det ta lite längre tid för att du släpper den, men är du på en snabb dator då kommer den liksom uppdatera"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:42",
+    "line": "Eftersom med att du drar sliden behöver du inte släppa sliden för att den ska uppdateras utan den uppdateras för att den hinner göra det utan att GUI hänger sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:50",
+    "line": "- Ja, det här är ändå så stort. För det är liksom när man pratar så mycket om, vad ska man säga, ekonomisk skillnad i världen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:05",
+    "line": "I världen, även när man pratar om IT och ojämlikheten, det handlar ju alltid om prestandan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:11",
+    "line": "För att det är det som är den stora skillnaden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:13",
+    "line": "Så att ta steg där vi i möjliga mån jämnar ut det här, det känns stort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:21",
+    "line": "Verkligen. Nej, jag tycker det är väldigt spännande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:26",
+    "line": "Sen kommer det här som gör mig förvirrad och väldigt många andra enligt internet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:31",
+    "line": "När de har pratat om den här start-transition eller use-transition-hucken så har de sagt att här har vi visat hur man ska göra det"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:39",
+    "line": "Men det är förmodligen inte här ni kommer att använda use-transition, utan den kommer att ligga på en högre nivå egentligen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:45",
+    "line": "Alltså typ på routernivå, när du byter mellan routes till exempel"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:51",
+    "line": "Eller liknande, och på en lokal nivå eller vad man ska kalla det här i den här komponenten"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:55",
+    "line": "Så ska man istället använda den här use-deferred-value"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:58",
+    "line": "Och den har liksom aldrig demats egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:02",
+    "line": "Jag tänkte att jag skulle testa det här i samma demo som de körde det här med DNA-bubbelgrafen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:09",
+    "line": "Men det visade sig att de som har gjort den har typ paywallat den datan som laddas in i den bubbelgrafen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:16",
+    "line": "Undrar de det för att det här demopresset är populärt? Förmodligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:19",
+    "line": "Men så gick inte att testa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:22",
+    "line": "Men som jag förstår det så ska den hooken, det den gör är att den tar bara in ett, liksom en parameter eller ett argument i när du anropar hooken"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:34",
+    "line": "Och det ska vara det state värdet, så att i det här fallet då så är det typ da eller slider värdet som blir"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:41",
+    "line": "Deferred, nej det blir såklart värdet på bubbelgrafen som den renderar"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:46",
+    "line": "Så den stoppas in i just deferred hook och sen parenteras det och det här värdet som ska stoppas in"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:52",
+    "line": "Och sen spottar den ut sig då ett annat värde som ska vara \"deferred\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:58",
+    "line": "Det vill säga att det är ett värde som React vet att det här värdet är inte akut att det uppdateras"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:06",
+    "line": "Och då ska det funka egentligen på exakt samma sätt som vi pratade om med start transition"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:12",
+    "line": "Men det ska liksom bara vara en hook som du stoppar in ett värde i, får ut ett värde som kommer uppdateras när den hinner"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:18",
+    "line": "Så att man som användare sätter det från olika håll?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:23",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:24",
+    "line": "För att Transition prioriterar alltid det här?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:27",
+    "line": "Nej vänta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:28",
+    "line": "Nej, båda gör exakt samma sak egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:31",
+    "line": "Start Transition är att du säger att det här inte är en akut stateuppdatering."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:34",
+    "line": "Men juste for the value."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:36",
+    "line": "Jag tror att en skillnad de pratade om var att start Transition så måste ju du ha access till där du sätter ditt state."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:44",
+    "line": "För det är ju \"setState\"-anropet. Du skickar in en funktion som sätter ditt state."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:52",
+    "line": "Då måste du ha tillgång till den funktionen som sätter ditt state."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:55",
+    "line": "Medan med \"useTheFurredValue\" behöver du bara ha tillgång till värdet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:58",
+    "line": "Så den skulle kunna komma från en props till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:01",
+    "line": "Och sen skickar du in den i din hook för att du vet att om den har uppdaterats så kommer det ta väldigt lång tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:05",
+    "line": "Men då skickar den genom Use Deferred Value som spottar ur sig ett värde som React vet att det är inte akut att det renderas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:14",
+    "line": "Just det, just det. Så det är därför man skulle använda Use Transition på en mer överskådlig nivå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:21",
+    "line": "Medans Deferred Value är till för att använda i barn och grejer som kanske är Prop Drillade Nersaker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:27",
+    "line": "Man ska ju inte Prop Drilla. Jag vet, jag vet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:29",
+    "line": "Prop Drill är ganska nice. Jag gillar Prop Drill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:31",
+    "line": "Har inte opinionen svängt kring det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:34",
+    "line": "Jag vet inte. Jag känner att jag är alldeles för \"out\". Jag har fortfarande inte lärt mig att använda just memo, just callback och just state-korrekten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:42",
+    "line": "Nej, men det är sånt som kommer. När man springer in i ett problem och man måste göra det så lär man sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:48",
+    "line": "Jo, precis. Men det är ju att jag har gjort det och fortfarande inte \"nailed\" det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:54",
+    "line": "- Absolut. Det känns väl ändå som att det \"make a sense\" liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:58",
+    "line": "Att du behöver inte ha tillgång till att kontrollera staten. Du behöver bara hantera värdet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:03",
+    "line": "- Mm. - Ja, jag fattar det. Jag fattar det nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:06",
+    "line": "Kommer du inte att fatta det om jag sitter där?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:08",
+    "line": "- Det är så det brukar vara. - Ja, förstår du. Det är teorin så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:13",
+    "line": "- Ja, och en grej vi kanske skulle ha nämnt i början, men som jag helt glömde bort,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:18",
+    "line": "För att opta in i React-daten måste man byta hur man skapar upp sin root-node."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:26",
+    "line": "- Jag vet inte vad det var, create... - Root."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:31",
+    "line": "- Create root. - Förut körde man render-metoden på React DOM direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:38",
+    "line": "Eller från React DOM så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:41",
+    "line": "Men nu kommer det istället vara en funktion som heter create root."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:44",
+    "line": "Och sen så har den här roten som skapas har rendermetoden istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:50",
+    "line": "- Det känns som att jag har ett läxor här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:54",
+    "line": "- Det förstår jag, men det är helt okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:57",
+    "line": "Just den grejen är också en grej man inte behöver lära sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:01",
+    "line": "För att man kommer göra det en gång i en app och sen är det klart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:04",
+    "line": "- Ja, det var som när man skulle byta till Hydration."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:07",
+    "line": "När man körde server-side runderat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:10",
+    "line": "Det var liksom en stor grej och sen så fick man ändå inte göra det för någon hade redan gjort det i appen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:19",
+    "line": "Besvikelsen var total."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:22",
+    "line": "Ja, det var fan det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:25",
+    "line": "Jag kommer ihåg, sa jag det i början, att React Conf också kommer upp nästa vecka tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:32",
+    "line": "Och då gissar jag också på att vi kommer få höra lite mer om React 18."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:37",
+    "line": "Och det kommer förmodligen komma ut lite mer väl genomtänkta presentationer av de här features vi har pratat om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:46",
+    "line": "Jag tror det är den åttonde om jag inte minns helt fel. Det kan vara nionde också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:51",
+    "line": "Och det är också remote och gratis. Så vill man kolla så kan man alltid gå in."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:56",
+    "line": "Allt kommer ju upp på Youtube efteråt om man vill kolla i efterhand."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:59",
+    "line": "Som även jag brukar göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:01",
+    "line": "- Ja, det är svårt om det är på arbetstid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:05",
+    "line": "- Ja, det är typ om man slår igång det lite på sidan av."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:08",
+    "line": "Men det är alltid svårt att fokusera och då blir det liksom bara"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:11",
+    "line": "halvmesyror av alltihopa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:14",
+    "line": "- Ja, alltså jag sitter ju 100% mobb och pratar med andra människor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:20",
+    "line": "- Du kan ju köra igång det där på sidan och sen bara \"ni kan lyssna på den här presentationen\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:25",
+    "line": "De kommer bli superglada i ditt team."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:29",
+    "line": "Verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:31",
+    "line": "Som sagt, det kommer en massa mer saker efter React 18. Nu har inte vi insett att vi inte har jättemycket tid kvar att prata om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:37",
+    "line": "Kommer det några serverside-grejer i React 18 nu eller är det \"deferred\"?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:43",
+    "line": "Det är en bra fråga. Det kommer kanske lite grann med Hydration."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:49",
+    "line": "Jag har inte stenkoll på exakt change log, jag har mer plockat upp saker jag tycker ser intressanta ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:58",
+    "line": "Jag hade för mig att jag läste någonstans om suspensgrejen, den sköt mig ju på för att det blev en viktig sak med just service side-renderingen, hur skulle det funka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:08",
+    "line": "Och det sköter mig ganska långt på så tycker jag läste någonstans att man inte bör använda API-produktion för att API-produktion kan nog komma ändras ganska mycket speciellt i och med React 18."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:19",
+    "line": "Men det kanske bara var rykten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:21",
+    "line": "Jag kollade diskussionerna på React Working Group lite snabbt och skummade rubrikerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:25",
+    "line": "Och här finns det ett inlägg som heter \"New Suspense Server-side Rendering Architecture in React 18\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:31",
+    "line": "Wow."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:33",
+    "line": "Första meningen är \"React 18 will include architectural improvements to React server-side rendering performance."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:40",
+    "line": "These improvements are substantial and are the culmination of several years of work.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:45",
+    "line": "Just det. Så det kanske igen är mer bakomliggande saker och själva features kommer senare då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:54",
+    "line": "Det verkar lite så. Det står att det mesta är behind the scenes."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:59",
+    "line": "Det finns några opt-in-mekanismer som man behöver veta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:03",
+    "line": "Särskilt om man inte kör något ramverk ovanpå React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:09",
+    "line": "Så det kommer någon nytt API som heter \"Render to pipeable stream\" till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:14",
+    "line": "Som tydligen ska vara sjukt nice då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:18",
+    "line": "Enligt den där korta texten skummade precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:20",
+    "line": "- Toppen!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:23",
+    "line": "Just det, hade de inte någon namn på den förra arkitekturgrejen som var i 2017? Var det React Fiber? Eller var det i 2016?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:30",
+    "line": "Nej, 2016 kom väl React Fiber tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:32",
+    "line": "Och det var ju den nya arkitekturen för deras virtuella dom typ egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:40",
+    "line": "Just det, det var det. Så 2016 var också rätt mycket bakomliggande. Stora ändringarna var bakomliggande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:47",
+    "line": "Jag menar 17 var för att det skulle bli lättare att uppdatera sen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:51",
+    "line": "Och att man även ska kunna köra olika versioner av React i samma app."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:55",
+    "line": "Yes, exakt. Det stämmer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:58",
+    "line": "Och sen kommer jag inte riktigt ihåg när Hooks kom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:00",
+    "line": "16. någonting tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:02",
+    "line": "Var det typ 16.7?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:04",
+    "line": "Nja, det känns sent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:07",
+    "line": "Ja, minns ej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:10",
+    "line": "Jag vet inte, jag är verkligen bara..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:14",
+    "line": "Det är det jag gillar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:16",
+    "line": "Ja, men det jag tänkte säga innan vi avrundar här är att det kommer lite andra coola saker som att de håller på att bygga ett cache API som ska kunna användas tillsammans med suspense."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:27",
+    "line": "De håller på med React Server Components som är att du kan köra vissa komponenter i klienten och vissa på servern på ett jävligt coolt sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:38",
+    "line": "Det är så pass att komponenten i sig kan ha tillgång till Node-API, så du kan direkt ansluta till en databas eller läsa filer i en komponent om du vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:48",
+    "line": "- Det var det avsnittet om. - Just det, det pratade vi om i ett avsnitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:52",
+    "line": "Vi kan länka dit också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:55",
+    "line": "Sen kommer jag inte ihåg om det är något mer nytt som är på G, men vi återkommer väl annars när det dyker upp saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:07",
+    "line": "Ja, för man kan ju tänka att vi pratar om mycket olika kodar, men det är ju React som är vår stora hjälte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:16",
+    "line": "Så är det ju. Men det är också för att det är där vi kan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:19",
+    "line": "Vi skulle ju lätt kunna prata om andra saker, men det skulle inte bli så jävla intressant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:23",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:27",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:27",
+    "line": "Jag tänkte säga någonting självnedvärderande där, men jag ska inte göra det. Jag tränar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:33",
+    "line": "Bra jobbat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:35",
+    "line": "Nu slutar vi på topp idag, med att du inte nedvärderar dig själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:39",
+    "line": "- Jag gör det i mitt huvud. - Då är det dags att lägga på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:44",
+    "line": "Kul att ni har lyssnat idag. Vi babblade på om React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:48",
+    "line": "Har ni några andra frågor eller vill oss något så finns det på Twitter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:51",
+    "line": "Recensera oss gärna på iTunes."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:54",
+    "line": "Med det så säger vi väl hej då för idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:57",
+    "line": "- Glad andra advent och sånt. - Det blir det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:02",
+    "line": "Vi hörs igen om två veckor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:05",
+    "line": "Så säger vi så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:06",
+    "line": "– Ja. Hej då. – Hej då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:08",
+    "line": "[Outromusik]"
+  }
+]

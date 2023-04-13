@@ -1,0 +1,1542 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Vilken dans hatar programmerare?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:04",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:09",
+    "line": "Bug."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:11",
+    "line": "Gud, den borde jag ju kunna tagit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:13",
+    "line": "Jag tänkte faktiskt att du skulle ta den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:15",
+    "line": "Jag hann typ tänka så här, tango, salsa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:19",
+    "line": "Den kommer jag inte på några fler danser."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:23",
+    "line": "Välkomna till ett nytt avsnitt av ASDF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:28",
+    "line": "Idag tänkte vi att vi skulle utgå från två artiklar som jag läst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:36",
+    "line": "Varav den första skrevs på CSS Tricks för ganska länge sedan. Det är några år sedan va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:45",
+    "line": "Typ två tror jag. Ett och ett halvt, två."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:48",
+    "line": "Av Chris Coyier. Jag vet inte hur man uttalar sig efter namn, men något i den stilen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:54",
+    "line": "och heter \"The Great Divide\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:57",
+    "line": "Jag vet inte hur man ska sammanfatta den väldigt kort, men i stort sett så handlar det väl om att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:04",
+    "line": "är frontend utveckling ett tillräckligt gott begrepp för att man ska kunna använda det för att beskriva en viss typ av utvecklare?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:15",
+    "line": "Ja, har det blivit för innefattat för mycket?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:24",
+    "line": "Ja, men exakt. Och den poängen som görs i artikeln är väl att det kanske är förberett i det att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:34",
+    "line": "vissa personer som jobbar med att skriva till exempel HTML och CSS"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:39",
+    "line": "känner att frontendutvecklare kräver att man kan javaskript till exempel?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:44",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:48",
+    "line": "Och att folk som ändå är frontendutvecklare men sitter mycket mera med"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:55",
+    "line": "konf och bygg och ren logik,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:59",
+    "line": "vissa vill verkligen inte göra styling"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:03",
+    "line": "och sådana saker, men"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:06",
+    "line": "Men det är någonting som inte går att komma ifrån, antar jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:10",
+    "line": "Nej, men exakt. Och även liksom att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:14",
+    "line": "JavaScript har blivit så pass"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:18",
+    "line": "stort att det som liksom, är man"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:22",
+    "line": "JavaScript-utvecklare så kan man ju sitta med backend också liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:25",
+    "line": "Och det har ju traditionellt sett varit att då sitter du med det som är i browsern i stort sett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:30",
+    "line": "Men jag känner, hur skulle du"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:34",
+    "line": "Om du beskriver dig själv som frontend-utvecklare eller fullstark-utvecklare, för det är också en titel som är lite debatterad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:44",
+    "line": "- Ja, vilket jag använder när jag presenterar vad jag gör. - Ja, men exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:51",
+    "line": "- Jag tror väl att jag har börjat säga att jag är webbutvecklare med fokus mot frontend."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:01",
+    "line": "Det känns ju ändå som en rätt beskrivande titel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:07",
+    "line": "Det som artikeln är inne på då, vad gör du i fronten?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:12",
+    "line": "Ja, precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:14",
+    "line": "I och med att det är så pass brett redan där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:17",
+    "line": "Jag tror att webbutvecklare började väl kalla mig för att jag var så..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:26",
+    "line": "Det var så svårt att kalla mig för fullstäck utvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:29",
+    "line": "Men där var det väl ett problem för att jag suttit i mestadels frontend."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:34",
+    "line": "Men vad jag gör i frontend beror ju väldigt mycket på vad jag har för uppdrag"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:41",
+    "line": "och vad de vill att jag ska fokusera på där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:45",
+    "line": "Vilket jag tror har resulterat i den här klassiska att jag inte är superbra på något,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:51",
+    "line": "Men jag är helt okej på en del, eller på det mesta över frontend paraplyt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:01",
+    "line": "- Ja, exakt. Jag tycker också att det är väldigt svårt att spesa vad man gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:09",
+    "line": "Jag tror att artikeln har en väldigt bra poäng i att säger man att man är frontendutvecklare idag,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:14",
+    "line": "då räknar nog folk med att du sitter mycket med JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:18",
+    "line": "Och att du sitter mycket med att implementera någonting i olika ramverk eller allt annat som är modernt idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:25",
+    "line": "Jag tror att folk generellt skulle bli ganska förvånade om du skulle säga att du är frontenutvecklare och sen kommer du till en intervju eller vad det kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:33",
+    "line": "Och så säger du att \"Nej men jag sitter inte med JavaScript, jag sitter bara med HTML och CSS\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:40",
+    "line": "Jag tror att folk har antagit att jag bara sitter med HTML och CSS en hel del."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:47",
+    "line": "Och att det kanske var därför jag började titulera mig som webbutvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:53",
+    "line": "Eller ett tag titulerade jag mig som fullstärkt utvecklare också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:57",
+    "line": "Vad presenterar du dig som?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:00",
+    "line": "Jag vet inte, jag försöker undvika titlar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:04",
+    "line": "Jag tror att i mitt konsult-CV står fullstack utvecklare med frontend fokus eller något sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:11",
+    "line": "Men det säger inte heller någonting egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:15",
+    "line": "För att backend mässigt kan man ju... Jag kan ju backenden i typ .NET och Node lite grann till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:24",
+    "line": "Men är det en backend i Ruby till exempel som kunden sitter på nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:29",
+    "line": "Där kan jag ju såklart göra saker, men det är mycket svårare för mig att ta det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:36",
+    "line": "Det är en högre tröskel för mig att sätta mig in i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:38",
+    "line": "Även om jag förstår back-end-frågor på ett annat sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:41",
+    "line": "Men en titel som kanske skulle funka är full stack JavaScript-utvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:49",
+    "line": "När jag bytte till webbutvecklare så känner jag nog att det här är i alla fall någonting som är sant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:59",
+    "line": "Jag undrar om jag inte har på LinkedIn \"I'm a web developer\" eller något sånt där. Väldigt anonymt egentligen, för det kan också betyda extremt mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:07",
+    "line": "Men sen tycker jag att det är intressant att du har ändå fått höra att du sitter med HTML och CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:17",
+    "line": "Men är det också i närtid? Är det även i ramverkens tid?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:28",
+    "line": "Ja, men jag tror att jag har stött på en hel del att de har antagit att jag mest sitter med CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:35",
+    "line": "Alltså på något sätt för att jag började ju verkligen inte min karriär med att tycka om CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:43",
+    "line": "Jag tyckte det var fruktansvärt och jag förstod ingenting liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:47",
+    "line": "Men på något sätt så tror jag att jag har hamnat där mer kanske än många andra"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:56",
+    "line": "och blivit successivt bättre på det. Det vet inte jag om det är en olyckshändelse eller om det är strukturellt eller vad det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:03",
+    "line": "Men jag tror att jag ändå stött på till viss del att folk har antagit att det är där jag ska ha min styrka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:09",
+    "line": "Jag tycker ändå det är intressant. För min del så tror jag att en anledning till att fronten utvecklare har gått mycket mot javskript"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:22",
+    "line": "är för att idag är HTML och CSS och JavaScript ofta så hårt kopplat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:29",
+    "line": "I React har vi JSX där du skriver din HTML blandat med JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:37",
+    "line": "Pratar man Angular eller Vue så har du dina template-taggar där du på något sätt fortfarande är kopplad ihop"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:43",
+    "line": "och du skriver komponenter. HTML innehåller fortfarande saker som är kopplade väldigt hårt till JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:50",
+    "line": "Och jag tror att det gör det kanske svårare att vara bara en HTML/CSS-utvecklare idag än vad det var för några år sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:03",
+    "line": "När man mer kunde, ja, du skrev din HTML och CSS och sen så hade du ett lager i avskrift ovanpå som bara manipulerade domen baserat på vissa taggar och klasser och idén och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:15",
+    "line": "Ja, jag tycker det där är lite intressant för det är på något sätt som att, alltså när jag började min karriär då kom jag in i ett system som var en enorm Java microservice arkitektur och sen så var det en helt enorm frontend-applikation liksom på där som var svår och tung och det var backbone.js och så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:39",
+    "line": "Där fick jag alltid känslan av att alla var fullstak utvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:46",
+    "line": "Men min upplevelse var att alla var utvecklare som tvingades göra en del frontend."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:53",
+    "line": "Men tyckte att det är den lätta biten, så det löser vi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:00",
+    "line": "Ja, verkligen känner jag mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:05",
+    "line": "Ja men så var det ju mycket och nu känns det som att om vi pratar frontend utvecklare så är det att vi tänker att ja men javascript och allt det, det är den svåra biten och HTML och CSS det löser vi ju bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:22",
+    "line": "Allt det här är ju fel, för så som det har vuxit, frontend är ju inte den lätta biten nödvändigtvis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:30",
+    "line": "Och HTML och CSS är ju absolut inte det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:34",
+    "line": "Vi har ju problem med att vi inte kan semantisk HTML idag, skulle jag säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:38",
+    "line": "Ja, men exakt. Jag tycker att det är två bra poäng idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:42",
+    "line": "Det ena tycker jag, först att jag känner igen mig så oerhört väl i det här med att fullstack utvecklare"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:47",
+    "line": "traditionellt sett har varit backendare som har lärt sig lite frontend."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:51",
+    "line": "Och tänker att det är ganska lätt att skriva lite frontend-kod som bara kopplar ihop det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:58",
+    "line": "Och att då har man varit fullstackare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:01",
+    "line": "Om man skulle generalisera alla fullstackare så tror jag att det är fler som har gått backend,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:06",
+    "line": "lärt sig lite frontend, än som har kunnat frontend och lärt sig lite backend."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:10",
+    "line": "Det tror jag ändå är en åsikt jag kan stå för, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:16",
+    "line": "Och underbygga med anekdoter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:19",
+    "line": "Men, sen tror jag att den andra poängen det gör också är att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:23",
+    "line": "frontend-utveckling är mycket mer idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:26",
+    "line": "Så att den där, vad ska man säga, om klyftan tidigare var kanske"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:31",
+    "line": "mellan back-end och front-end, så kanske det idag är mellan"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:35",
+    "line": "frontend-logiken och V-lagret, alltså HTM eller CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:43",
+    "line": "Och att den klyftan kanske blir lite större för att man fokuserar mer på JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:48",
+    "line": "Och det tar jag oss lite in på, bara för att nämna den här andra artikeln vi pratade lite grann om i början,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:53",
+    "line": "som heter..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:56",
+    "line": "- \"The front of the frontend and the back of the frontend\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:00",
+    "line": "- Exakt. - Eller något sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:02",
+    "line": "skriven av Brad Frost, om jag minns rätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:04",
+    "line": "Han pratade om att man ska införa två nya titlar som då är"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:09",
+    "line": "\"Front of the front-ender\" och \"Back of the front-ender\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:14",
+    "line": "Och att en, nu parapraserar jag lite här, men att det som är front of the front-end"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:20",
+    "line": "i stort sett är att man bygger komponenter och inte så mycket logik"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:26",
+    "line": "utan kanske styla knappar och göra knappar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:29",
+    "line": "Men vad som händer när man trycker på knappen är att ansvarar en back of the front end för."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:35",
+    "line": "Och att den logiken och state hanteringen och routing och sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:40",
+    "line": "Men att det ändå ingår viss JavaScript för \"vi\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:45",
+    "line": "Löser \"vi\" problem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:48",
+    "line": "Typ som en accordion kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:51",
+    "line": "Ja men exakt. Det skulle kunna fortfarande vara en front of the front end fråga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:55",
+    "line": "när man bygger en accordion, för då blir det JavaScript för att hantera vilket som är öppen och state och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:00",
+    "line": "Men det blir också väldigt..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:02",
+    "line": "Man lägger lite mer tyngd på att det är mer som krävs, som du var inne på innan,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:05",
+    "line": "till exempel med accessibility eller"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:08",
+    "line": "semantisk html och allting sånt som ingår där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:12",
+    "line": "Men att man separerar den biten från statehantering och skriva API-anrop och"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:18",
+    "line": "dataflöden och allting sånt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:21",
+    "line": "som också finns i fronten idag och är väldigt komplicerat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:25",
+    "line": "Jag tror det finns ett sånt otroligt värde i att, om intresset finns, att få gräva ner sig i saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:38",
+    "line": "För att ta en sån sak som performance, när vi pratar CSS performance, och så här fonter, allt möjligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:46",
+    "line": "Det är en persons specifika fokus tillsammans med kanske SEO-bitar, i alla fall de SEO-bitar som rör sig i domen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:53",
+    "line": "Och det kan vara några som jag tappat namnet på igen här när man sätter massa proppar så man får breadcrumbs och ratings och sånt i sökresultat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:06",
+    "line": "- Ja, precis. Open graph taggar och sådana saker. Meta-taggar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:12",
+    "line": "- Det har ett namn. Det har ett namn och jag har glömt det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:15",
+    "line": "- Ja, jag med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:15",
+    "line": "Det kommer gräna mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:17",
+    "line": "Men att jag menar, att fokusera på de bitarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:22",
+    "line": "För jag är ju nu, jag är verkligen inplats där jag känner mig tokspretig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:26",
+    "line": "För just nu så rör jag mig inte heller bara över fronten utan jag rör mig i hela stacken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:31",
+    "line": "Och det känns som att jag kan ingenting av allting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:34",
+    "line": "För att jag liksom hinner inte riktigt gräva i någonting känns det som."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:42",
+    "line": "- Ja, jag tänker att det finns en serie-strip som jag inte kommer ihåg vart det är från som har gjort den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:53",
+    "line": "Men den är typ en arbetsintervju där det kommer dit ett team och säger \"ja, jag tog med mina teammedlemmar också\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:03",
+    "line": "och de bara \"ja men arbetsintervjun är bara för en person\" och de bara \"ja nej men tro mig, du behöver ett helt team\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:08",
+    "line": "för den jag skrivit att ni vill kunna är JavaScript, Node, Backends, databaser, Azure och Molnet och allt möjligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:17",
+    "line": "Jag tycker det är en så viktig poäng att det förväntas ganska mycket idag av utvecklare att man ska kunna väldigt brett och djupt samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:27",
+    "line": "Vilket i längden inte kommer hålla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:31",
+    "line": "Nej, det är bara intressant när man tänker på det just när vi pratar om det här, är webben för komplicerad?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:39",
+    "line": "Och vad vi abstraherar bort i det, eller vi pratade om att abstrahera bort saker som konf och det finns create-react-app och de här, vad var den här jättekamla för? Geoman och sånt som drar upp saker åt en just för att man ska kunna klara av att göra det utan att behöva"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:00",
+    "line": "utan att behöva veta exakt alla detaljer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:03",
+    "line": "För att det är alldeles för mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:07",
+    "line": "Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:09",
+    "line": "Jag tror att tidigare har det kanske varit som vi var inne på tidigare,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:13",
+    "line": "att det var backen och fronten och då kunde man vara duktig på backen eller duktig på fronten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:17",
+    "line": "För att de var liksom inte så komplicerade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:20",
+    "line": "Och att det då nu har gått över till att okej, nu är även fronten så pass komplicerad"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:24",
+    "line": "Det är ganska komplicerat. Det kanske behövs två definitioner av vad man gör i frontenden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:30",
+    "line": "Sen tror jag såklart att man kan alternera mellan dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:34",
+    "line": "Jag tycker båda de här sakerna är väldigt kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:36",
+    "line": "Jag gör gärna båda sakerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:38",
+    "line": "Både skriva komponenter som är väldigt nära användaren och vyn och så där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:42",
+    "line": "Och skriver state-hantering eller dataflöden och allting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:46",
+    "line": "Vilket då gör att för min del så vill jag gärna röra mig mellan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:50",
+    "line": "att man kan prata om frontenden som flera delar för det gör det ganska mycket tydligare att det är så pass stort att det kräver mer arbete än vad man tänker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:00",
+    "line": "Ja, det värsta som finns ännu är ju att folk bara säger \"det är ju bara att göra, det är inte så svårt\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:09",
+    "line": "Det kan bli ledsen i ögat för det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:11",
+    "line": "Men jag tror att det blir så konstigt, just de här kraven som du pratar om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:23",
+    "line": "För att helt plötsligt så är det ofta att det kommer in krav som inte heller tillhör utveckla rollen som du ska kunna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:29",
+    "line": "Men som en frontändare så måste du också förstå UX och design till den här rollen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:34",
+    "line": "Och det är så här, ja men det inkår verkligen inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:39",
+    "line": "Alltså jag kan vara bra på att pusha pixlar och jag kan vara bra på att leverera vad vi vill ha."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:43",
+    "line": "Men för det kanske jag inte är bra på att se bra flöden för användare för den här specifika produkten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:50",
+    "line": "För de kanske skiljer sig enormt mycket från en annan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:53",
+    "line": "Det är inte riktigt, det ingår inte i paraplyt för mitt jobb."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:58",
+    "line": "Men man har lagt till det på sidan av."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:01",
+    "line": "Ja, exakt. Det finns så många grejer som på något sätt hamnar på frontenutvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:09",
+    "line": "Som de här grejerna du nämnde, eller om det ska vara typ SEO-saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:15",
+    "line": "Där kan man fundera på, ska det fortfarande vara på fronten eller behöver vi särskilda personer som jobbar med det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:23",
+    "line": "Just SEO är vanligare och vanligare att man har enskilda roller för det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:29",
+    "line": "Men det blir fortfarande att man måste samarbeta med frontendare och då blir det väldigt lätt att frontendare bara, \"Nej men du ska göra det bra\" typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:37",
+    "line": "Och att det är väldigt svårt i längden att allt det ska gå ihop och man ska kunna ha allting i huvudet samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:43",
+    "line": "Ja och sen har vi analytics och så har vi accessibility som vi varit inne på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:48",
+    "line": "Sen ska saker atas korrekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:50",
+    "line": "saker ska sättas upp i Piper och levereras korrekt DX är en stor grej i att ens orka göra någonting,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:59",
+    "line": "hot reloading, sådana saker, allting ska funka, vi ska få in rätt lint, det är så jäkla mycket och det rör fortfarande på sig så himla mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:10",
+    "line": "Jag menar, det här DevTools kommer ut med nya uppdateringar hela tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:14",
+    "line": "Och saker flyttar runt på sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:16",
+    "line": "Här kom min fatig fram, tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:21",
+    "line": "Ja, exakt. Och det är ju så att det händer väldigt mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:25",
+    "line": "Jag gillade verkligen de definitionerna som Brad skrev om front- och back-autofronten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:33",
+    "line": "För jag tycker att det gör det väldigt tydligt vad man pratar om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:37",
+    "line": "Sen tror jag fortfarande att det, alltså är det inte att man har ett stort team eller att man är på en stor organisation där möjligheterna finns"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:45",
+    "line": "så tror jag att de flesta frontendutvecklare kanske måste gå mellan de här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:50",
+    "line": "Och som sagt, sitter man med något JavaScript-ramverk idag så tror jag också att det är svårt att bara skriva HTML och CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:57",
+    "line": "Men jag tycker att det är viktigt att man ändå pratar om att de här grejerna finns för att det gör det så pass mycket"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:06",
+    "line": "tydligare som sagt att det är större än vad man tänker sig först."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:10",
+    "line": "Ja, jag tror också det. Det känns som att det fanns en tid då man var inne lite på att ha en roll som heter gränssnittsutvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:19",
+    "line": "Så att du hade en back end, en front end och en gränssnittsutvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:23",
+    "line": "Och det är väl lite kan jag tänka mig samma uppdelning som Brad pratar om i sin post då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:29",
+    "line": "men att det skulle vara tydligt att då är gränssnitt, det är HTML, CSS och allt de bitarna som hör till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:40",
+    "line": "Sen så tror jag att det är görbart, jag menar min största erfarenhet är React,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:45",
+    "line": "jag tror det är görbart i React om man pratar mycket om att man har en storybook,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:51",
+    "line": "eller ett sådant komponentbibliotek."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:53",
+    "line": "Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:55",
+    "line": "För där tänker jag ändå att det finns en rimlig uppdelning för att bygga de komponenterna,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:01",
+    "line": "vilket också är mycket introducerat av Brad Frost som skrev det här om atomic design."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:07",
+    "line": "Att liksom bygga upp gränssnitt av atomer, och att det är atomerna du använder för att bygga upp molekyler,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:15",
+    "line": "och så kombinerar du dem och så blir det organismer, och på så sätt så växer sidan fram,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:20",
+    "line": "men du kan fortfarande ha byggstenarna som är atomerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:23",
+    "line": "Typ så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:25",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:27",
+    "line": "Och där skulle man ändå kunna ha den här, för det ingår ju helt klart lite,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:33",
+    "line": "det är React-komponenter kanske och det ingår lite state, men det är väldigt skopat fortfarande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:38",
+    "line": "Ja exakt, för då blir verkligen fokuset på HTML och CSS främst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:43",
+    "line": "lite javaskript sprinklat ovanpå så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:46",
+    "line": "Som bara"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:48",
+    "line": "det hanterar bara väldigt lite grejer. Alltså typ är det en knapp så hanterar det att det finns en onclick-handler."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:56",
+    "line": "Och det krävs ju inte så mycket mer. Sen att det blir en annan persons ansvar att sätta ihop dem på rätt sätt och"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:02",
+    "line": "använda dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:03",
+    "line": "Det jag tror är att man fortfarande måste ha"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:09",
+    "line": "någon typ av erfarenhet, för jag tror att det är svårt att skriva,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:12",
+    "line": "pratar vi om React till exempel, skriva bra komponenter"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:15",
+    "line": "som fungerar i en kontext"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:18",
+    "line": "om man inte själv använder dem i en kontext."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:20",
+    "line": "Eller att man har erfarenhet av att göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:23",
+    "line": "Så jag tror fortfarande att det krävs att man"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:26",
+    "line": "kanske inte bara sitter och skriver knappkomponenter"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:29",
+    "line": "för att hårddra det,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:31",
+    "line": "utan det krävs nog kanske att man även"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:33",
+    "line": "för att köra hans atomiskt design exempel,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:35",
+    "line": "att man använder atomerna som"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:37",
+    "line": "molekyler eller till och med organismer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:40",
+    "line": "För att få den kontexten som behövs för att säga att okej, det här är ett bra sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:46",
+    "line": "För en knapp kanske inte spelar så stor roll, men säg att man gör ett inputfält som ska ha validering och sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:52",
+    "line": "- Ja, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:58",
+    "line": "Jag tycker det är lite intressant när man pratar om det här också, nu kommer jag byta ämne."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:06",
+    "line": "Inte helt, men just frontendrollen, för jag tycker att man glömmer bort också att den är så..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:16",
+    "line": "På något sätt för att vara en frontender så tror jag att det är viktigt som fasen att vara kommunikativ, vara bra på att kommunicera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:23",
+    "line": "För att om jag jämför med att sitta i back-end och sådana bitar, det är klart att back-end när det är kommunicerar, det säger absolut ingenting om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:31",
+    "line": "Men som fronten så känns det alltid mer som att man har det här, du kanske har UX design du ska prata med och sen har du produktägare som har alla andra stakeholders, kravställare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:40",
+    "line": "Sen kanske du har SEO-teamet, analytics-teamet som har mer saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:43",
+    "line": "Du kanske har någon annan som har åsikter här borta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:46",
+    "line": "Det känns hela tiden som att mycket av jobbet går ut på att bara kommunicera okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:53",
+    "line": "- Ja, absolut. Jag håller verkligen med. Jag tror att det finns, som med allt annat, olika nivåer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:04",
+    "line": "Tittar man på gamla uppdrag jag har varit på så har det varit både och när det har varit fronten och backen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:12",
+    "line": "Men tittar jag och generaliserar på all min erfarenhet så är det nog definitivt som du säger att fronten behöver kommunicera"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:18",
+    "line": "med fler personer i alla fall, eller fler olika avdelningar om hur det ska funka och hur det ska se ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:24",
+    "line": "Och där får man ju också den här direkta feedbacken från användare mycket oftare än vad du får på backend."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:29",
+    "line": "Där är det mer om någonting är fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:31",
+    "line": "- Men det blir ju också på något sätt, ibland så beroende på var man är såklart, men ibland så känns det också som att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:39",
+    "line": "en i rollen blir liksom tratten, där alla ska samla sin input och det är den, alltså det blir som"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:47",
+    "line": "De pratar kanske inte alltid med varann, utan att man tror att det är isolerade saker för fronten att lösa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:54",
+    "line": "Och sen när man får det på sitt bord så inser man att \"Jäklar, vad mycket jag måste nysta i\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:01",
+    "line": "och då måste jag kommunicera med alla de här personerna igen på de här olika avdelningarna för allting påverkar varann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:07",
+    "line": "Svårt att se utanför den rollen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:11",
+    "line": "Ja, jag håller verkligen med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:14",
+    "line": "Och det här är en stor anledning till att jag gillar fronten så pass mycket som jag gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:18",
+    "line": "Att man har både närheten till användarna,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:22",
+    "line": "men också som du säger till UX eller UI,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:25",
+    "line": "eller produkthögare, alla har ju en åsikt om hur det ser ut i stort sett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:29",
+    "line": "Och hur det ska fungera på det planet, för det är där man interagerar med själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:35",
+    "line": "Och det är för mig också något som lockar väldigt mycket med fronten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:40",
+    "line": "Med backen där är det en längre feedback loop för att man ska få feedback där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:45",
+    "line": "Även om jag kan tycka att jag har haft några riktigt bra features som ska byggas med backen mässigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:53",
+    "line": "Där man ska fundera med produktägare, hur ska det funka, hur ska domänen byggas upp för att det ska bli bra och hur ska logiken se ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:03",
+    "line": "Men som sagt, jag tror att det är mycket den här kortare feedback-loopen och att det är fler människor inblandade"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:09",
+    "line": "som gör att fronten är det jag gillar mest just nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:14",
+    "line": "Ja, det blir mycket så här \"Det här kan du väl bara slänga in och göra, det tar ju bara två sekunder, eller hur?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:23",
+    "line": "Absolut. Så drog jag in saker i koden och sen så kom hela kodbasen med och nu sitter jag här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:31",
+    "line": "Det där är också så svårt att förstå för det blir ju också just ett kommunikationsproblem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:38",
+    "line": "Att visst jag kan ändra den här lilla grejen, men har vi tänkt på"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:43",
+    "line": "analytics, accessibility, SEO, allting som berörs av den här lilla ändringen som man ska göra?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:51",
+    "line": "Eller UX? Det är så mycket olika områden som berörs av fronten"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:57",
+    "line": "som kanske inte back-end drabbas av lika mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:02",
+    "line": "Medan här är det mer delar som sitter ihop i ett nät mer än vad det gör i back-end."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:10",
+    "line": "- Ja, sen är det klart att allting har en påverkan men folk tror kanske inte att det är riktigt lika lätt att ändra saker hela vägen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:18",
+    "line": "än vad man kan tänka att det är bara i front-end."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:21",
+    "line": "Men frontend är också de som får dema saker och få cred för när hela flödet är klart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:28",
+    "line": "För det är ju inte alltid kul att dema backen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:31",
+    "line": "Jag tror det var någon gång jag var så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:33",
+    "line": "\"Ja, men vad ska jag dema då om min nya JSON-struktur?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:36",
+    "line": "Det kommer ju ingen familj att titta på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:39",
+    "line": "Du visar en JSON-struktur och sen så byter du flik och så visar du nästa och så säger du,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:43",
+    "line": "\"Ta-da!\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:46",
+    "line": "Den här är kortare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:48",
+    "line": "Exakt, och alla bara klappar lite långsamt och tittar sig omkring."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:53",
+    "line": "Det kan ju vara som att det är en backendare som har suttit och slitit i två veckor, sen gjorde jag en implementation där jag plockade in datan och stylade det och sen får jag all cred."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:08",
+    "line": "Det är också fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:10",
+    "line": "- Nej, men verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:12",
+    "line": "Det kanske låter som att vi klankar ner på back-end här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:16",
+    "line": "Men det är inte det vi gör egentligen, utan vi diskuterar utifrån en frontenperspektiv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:20",
+    "line": "Och vi vet ju båda två att utan back-end så har inte vi så mycket att göra heller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:26",
+    "line": "- Nej, Gud nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:28",
+    "line": "Jag förstår aldrig back-end."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:32",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:34",
+    "line": "Så jag har stor respekt för backhand."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:38",
+    "line": "Ja, vi kanske ska sluta på den highnoten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:44",
+    "line": "Vi älskar er backhandare. Tack för att ni finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:49",
+    "line": "Men om inte du har något mer att tillägga så"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:55",
+    "line": "kanske vi säger att vi hörs igen om två veckor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:00",
+    "line": "Ja, det tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:02",
+    "line": "Vill man nå oss så finns vi på de vanliga ställena. Det finns i beskrivningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:06",
+    "line": "Ge oss gärna en liten recension på iTunes eller liknande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:09",
+    "line": "Så vi är väldigt glada."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:11",
+    "line": "Vi sägs oss länge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:13",
+    "line": "Back in the best. Hejdå!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:15",
+    "line": "[Outromusik]"
+  }
+]

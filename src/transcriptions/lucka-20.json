@@ -1,0 +1,317 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "What did the Santa that couldn't go down the chimney suffer from?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "Claustrophobia."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:10",
+    "line": "Alltså..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:12",
+    "line": "Men han är ju inte rädd för tomtar!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:15",
+    "line": "- Han har ju klaustrofobi! - Jo, men..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:20",
+    "line": "Det hade ju varit en roligare skämt om han var rädd för tomtar, eller?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:26",
+    "line": "Klaustrofobi!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:29",
+    "line": "- Jag vet inte! - Förlåt, jag ska inte gå för långt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:31",
+    "line": "Jag börjar kritisera skämten här istället för att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:33",
+    "line": "Det är också så här, om det här är det första skämtet du tycker..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:37",
+    "line": "Jag vill gärna kritik."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:39",
+    "line": "Det är sant, det finns säkert en massa andra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:43",
+    "line": "Okej, 21. luckan ska vi öppna idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:47",
+    "line": "Bakom den döljer sig ett tips från mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:50",
+    "line": "Den här gången är det på ett VS Code extension."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:54",
+    "line": "Som heter så mycket som TextPastry."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:57",
+    "line": "För de som är år på mig så vet de att jag älskar multi-cursors i VS Code."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:04",
+    "line": "Sen måste vi börja där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:06",
+    "line": "Man kan ju sätta ut flera..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:08",
+    "line": "Vad heter det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:10",
+    "line": "Det är ju inte muspekare, utan det är ju..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:12",
+    "line": "Cursors?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:14",
+    "line": "Alltså den lilla textpinnen som blinkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:17",
+    "line": "Hade det varit ett vanligt avsnitt så hade det varit ett perfekt avsnittsnamn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:22",
+    "line": "Den lilla textpinnen som blinkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:24",
+    "line": "Men precis, den i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:26",
+    "line": "Man kan sätta ut flera sådana och skriva på flera ställen samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:31",
+    "line": "Det som också är nice är att om man kopierar nånting från flera ställen samtidigt, eller klipper ut nånting, så kan man också pastea in det på flera ställen samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:38",
+    "line": "Men ett problem som jag haft är att man kanske gör det här och skriver sex olika objekt i en array, eller nåt som man vill hårdkoda in."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:47",
+    "line": "Och så kanske man vill ge dem ett id."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:49",
+    "line": "Och då är det svårt, för då måste man trycka in det på varje ställe, en 1, 2, 3, 4, 5, 6, 6, 7, 8, 9, 10."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:54",
+    "line": "TextPaste relöser det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:56",
+    "line": "Så där kan du köra \"paste 0 till x\" eller \"1 till x\" och så pastea den på dina multi-cursors."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:03",
+    "line": "De siffrorna liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:05",
+    "line": "Och det är typ allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:07",
+    "line": "Det gör lite annat saker också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:09",
+    "line": "Du kan generera ett UUID och lite sånt i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:11",
+    "line": "Men jag använder den bara för att generera siffror och kanske spara fem sekunder varje gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:17",
+    "line": "Hur ofta?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:20",
+    "line": "Förvånansvärt ofta!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:22",
+    "line": "- Ja, okej. - Förvånas man ofta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:24",
+    "line": "Tillräckligt ofta för att jag blev väldigt glad av att hitta extensionen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:27",
+    "line": "Ja, absolut. Vi har alla vår grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:31",
+    "line": "Ja, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:33",
+    "line": "Nej, så jag tycker det är extremt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:34",
+    "line": "Titta upp, det finns en massa andra smarta saker i det som jag inte har använt eller som jag inte kommer ihåg nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:39",
+    "line": "Men jag tycker det hjälper väldigt mycket faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:43",
+    "line": "Ja, alltså jag kommer att ångra det den dagen jag behöver göra det här och inte har text pastry."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:47",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:49",
+    "line": "Men en liten anekdot, jag har verkligen försökt använda Abra Kadabra till en template literal."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:57",
+    "line": "Jag har börjat göra om det manuellt, jag har fått gå tillbaka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:02",
+    "line": "-Va? Det funkar jättebra!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:04",
+    "line": "-Ja, men jag har glömt bort att jag har den nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:07",
+    "line": "Så jag har fått gå tillbaka för känslan av att få använda det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:10",
+    "line": "Så det tar dubbelt så lång tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:12",
+    "line": "-Jag fattar, jag fattar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:13",
+    "line": "Ja, men det var det som dålde sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:15",
+    "line": "Dålde sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:16",
+    "line": "Det som fanns bakom luckan nummer 21."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:19",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:20",
+    "line": "Vi säger så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:21",
+    "line": "Pappa i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:22",
+    "line": "Hejdå."
+  }
+]

@@ -1,0 +1,622 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:02",
+    "line": "Vad äter snögubben till frukost?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:06",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "Snöflingor!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:10",
+    "line": "Alltså..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:12",
+    "line": "[skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Den hade jag inte en tanke på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:16",
+    "line": "Okej, kul!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:18",
+    "line": "Vi är här på"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:20",
+    "line": "lucka nummer"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:22",
+    "line": "nio, tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:24",
+    "line": "Ja..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:26",
+    "line": "Stämmer nog."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:28",
+    "line": "Det är det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:28",
+    "line": "Det är stökigt nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:29",
+    "line": "Det är lite stökigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:30",
+    "line": "Men det är så det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:31",
+    "line": "Vi är på luckan nummer nio."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:32",
+    "line": "Och här bakom döljer sig ett litet tips som jag har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:38",
+    "line": "Som jag vet inte, det här är kanske liksom det mest..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:42",
+    "line": "...det mest radikala förändringen jag gjort i hela mitt..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:46",
+    "line": "...bland mina arbetsverktyg på väldigt länge känns det som."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:49",
+    "line": "Nej, det låter värre än vad det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:52",
+    "line": "Jag har i alla fall bytt webbläsare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:54",
+    "line": "Till en webbläsare som heter ARC."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:56",
+    "line": "Alltså A-R-C."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:57",
+    "line": "Då vill jag tipsa om den, för den är väldigt trevlig. Jag har kört den i två månader nu, eller en och en halv i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:06",
+    "line": "Jag har kört Safari plus Chrome innan, och nu bytte jag till den här som heter Arc."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:13",
+    "line": "Som i och för sig är Chromium baserad, så den är lite man känner igen sig. Det är samma DevTools och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:19",
+    "line": "Men det är i alla fall mitt tips, och jag tycker den är väldigt trevlig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:25",
+    "line": "Varför är den bättre än Chrome?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:28",
+    "line": "Jag har aldrig riktigt gillat Chrome generellt sett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:33",
+    "line": "Jag använder den som utvecklingsbrowser för att den har typ bäst devtools."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:39",
+    "line": "Firefox är okej, men det finns massa annat krångligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:43",
+    "line": "Men de försöker göra saker lite annorlunda än de som bygger den, som heter The Browser Company."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:49",
+    "line": "Och det finns massa små \"features\", det är inga jätteradikala saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:55",
+    "line": "Den ena grejen som jag gillar är att de stänger dina tabbar om du inte pinnar dem efter 12 timmar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:02",
+    "line": "- Näää! - Eller ja, de arkiverar dem, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:07",
+    "line": "- Näää! Det är det värsta jag har hört! - Så efter 12 timmar stänger de dina tabbar, så finns de inte där längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:13",
+    "line": "Så oftast när jag kommer in på morgonen, eller man har jobbat och stänger ner datorn, och sen kommer man in på morgonen efter, då är tabbarna borta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:20",
+    "line": "- Det här är... Nej. - Det är så jäkla skönt!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:25",
+    "line": "- Fy fan! Fy fan! Alla mina hundra tabbar som jag tänkte läsa sen då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:30",
+    "line": "- Jag hade också så förut. Jag hade hundra tabbar förut, men sen har jag gått ifrån det nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:36",
+    "line": "Nu lägger jag väl in dem i Notion, och sparar ner dem faktiskt, istället för att göra så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:41",
+    "line": "För jag läste dem aldrig ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:43",
+    "line": "Så det är en grej. Det går att ställa in lite om den ska göra det här och hur länge det ska ta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:47",
+    "line": "För det är också de tabbarna som du inte har rört. Om du öppnar tabbar inom den här tiden igen så blir det ju 12 timmar framåt igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:53",
+    "line": "Men jag har lämnat dem som default bara för att testa hur det är och jag är väldigt såld på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:58",
+    "line": "Man kan gå tillbaka och titta i sitt arkiv och då kan du se tabbar som stängdes igår och så ser du dem som du stängde nyligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:05",
+    "line": "Man kan också pinna dem väldigt enkelt, sina tabbar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:08",
+    "line": "Det andra är att alla tabbar ligger i en vänstermeny istället för högst upp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:14",
+    "line": "Så att du har inget adressfält högst upp, utan hela menyn ligger till vänster istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:20",
+    "line": "Och den går också att stänga väldigt enkelt med typ Command + S."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:23",
+    "line": "Då är det verkligen fullscreen på allting, vilket också är svinskönt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:28",
+    "line": "Det här går väl att få till med Chrome Extension, men det känns genomtänkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:32",
+    "line": "Och den tredje grejen är väl också att man kan ha vad Olan kallar för spaces och det är typ varianter av den här sidomenyn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:44",
+    "line": "Där man har en privat sådan, jag har en för jobbet, jag har en för konsultbolaget och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:50",
+    "line": "Och då kan man bläddra mellan dem och gruppera sina tabbar på det sättet och ha olika pinnade tabbar och lite sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:58",
+    "line": "Kan det vara inloggad på olika konton?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:02",
+    "line": "I Chrome har jag en jobbprofil och en personlig profil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:06",
+    "line": "Så är det inloggat på olika Google-konton."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:08",
+    "line": "Ja, du kan ju på samma sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:10",
+    "line": "Chrome har ju profiler, så det finns ju här också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:12",
+    "line": "Eller Chromium har ju profiler."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:13",
+    "line": "Så du kan ju ställa in då att ett av de här spacen ska vara en profil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:16",
+    "line": "Och en annan ska vara en annan profil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:18",
+    "line": "Okej, men då är de ändå samlade i ett fönster."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:20",
+    "line": "Så måste de inte ha två fönster."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:22",
+    "line": "Nej, de är samlade i ett fönster."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:26",
+    "line": "Jag har faktiskt inte testat profilgrejerna för att jag inte haft behov."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:29",
+    "line": "Men när jag har sett att en feature finns så ser det ut som att det är samma fönster."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:33",
+    "line": "Sen finns det ju en massa grejer. Du kan ha mappar och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:35",
+    "line": "De har något som kallas för easels."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:37",
+    "line": "Som är typ så här, vad ska man säga?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:39",
+    "line": "Alltså typ en liten canvas som du kan typ..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:41",
+    "line": "Du kan typ ta print screens från hemsidor och rita lite och dra pilar mellan dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:47",
+    "line": "Och sen så är de typ live. Så att de här print screens behöver inte nödvändigtvis vara en bild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:51",
+    "line": "Utan det kan vara som att du iframar en bit av en hemsida och så kan du göra grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:55",
+    "line": "Använder inte jättemycket, men det är lite trevligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:57",
+    "line": "Och det är väl typ de stora grejerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:00",
+    "line": "Sen gör den lite annat så här, du har typ en library-flick som samlar allting du gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:05",
+    "line": "Så tar du en printscreen så hamnar den där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:07",
+    "line": "Du kan se dina downloads på samma ställe."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:10",
+    "line": "Du kan se typ din desktop till exempel inuti browsern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:16",
+    "line": "För att lätt kunna dra filer och sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:18",
+    "line": "Eller ladda upp dem till saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:20",
+    "line": "Så det är väldigt trevligt. Man kan rekommendera att testa den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:23",
+    "line": "Jag tror kanske den är invite only fortfarande, men man kan väl pinga mig så får man en invite. Jag har ett gäng."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:29",
+    "line": "- Åh, nice. - Och det är väl... Ja, kör!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:34",
+    "line": "Nej, men bara säga, jag testar lite browser. Egentligen bryr jag mig bara om att köra Chrome när jag jobbar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:42",
+    "line": "Och det är för DevTools sedan. För att jag också testade Firefox och fattade ingenting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:48",
+    "line": "Jag har hängt till Safari, speciellt när jag kopplar upp Iphone."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:52",
+    "line": "Men blir arg blir jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:55",
+    "line": "Sedan hade jag en sving in i Brave och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:58",
+    "line": "Men det här kanske är värt att testa. Du får skicka en invite till mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:00",
+    "line": "Det ska jag göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:02",
+    "line": "Det som är mitt bästa konsulttips med att ha fler profiler är att jag går in till en kund,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:08",
+    "line": "loggar in på det kontot, bokmärker allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:11",
+    "line": "Alla deras idéer, allting jag vill ha."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:12",
+    "line": "Och sen när jag rullar av uppdraget eller jobbet så bara \"delete profile\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:16",
+    "line": "Så allting puff borta. Lite skönt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:20",
+    "line": "–Ja, det förstår jag verkligen. –Det är mitt bästa användar-nö-profil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:24",
+    "line": "Ja, jag kanske borde börja använda profiler också. Det är en väldigt bra poäng."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:28",
+    "line": "En sista grej som jag kom på nu är att de har ganska bra stöd för split-view."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:32",
+    "line": "Du kan visa upp två hemsidor bredvid varandra inuti browsen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:38",
+    "line": "Utan att det blir två tabbar eller två fönster."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:43",
+    "line": "utan det är verkligen split-view i webbläsaren."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:47",
+    "line": "Och det är väldigt trevligt om man till exempel sitter med Figma uppe på ena tabben"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:51",
+    "line": "och sen har sin site som man bygger på den andra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:56",
+    "line": "- Ah, nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:58",
+    "line": "- Så testa den. Det ligger en länk i beskrivningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:00",
+    "line": "Och så hörs vi igen imorgon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:04",
+    "line": "- Ja, vi kan väl bara säga det. Alltså nu blev det lite långt här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:06",
+    "line": "Men egentligen så skulle det här vara ett vanligt avsnitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:10",
+    "line": "Men nu bestämde vi att det blir bara julkalenderavsnitt här i december."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:15",
+    "line": "För annars sabbas flowet lite."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:17",
+    "line": "– Exakt. – Och det vill vi inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:19",
+    "line": "– Nej, gud nej. – Så att vi återkommer med vanlig avsnitt efter julkalendern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:23",
+    "line": "– Jajamän. Förmodligen 2023, om jag inte räknar fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:30",
+    "line": "Men fram tills dess, julkalender varje dag fram till 24 december."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:34",
+    "line": "– Ja, toppen. – Toppen, toppen. Vi hörs."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:39",
+    "line": "Hej då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:39",
+    "line": "– Papp romanticism."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:44",
+    "line": "Hej då!"
+  }
+]

@@ -1,0 +1,1452 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Anton, nu börjar det bli lite kallare ute. Varför ska man inte browsa när det är kallt ute?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:06",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "Man kan få urinvägsinfektion."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:12",
+    "line": "Det är så jävla svagt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:16",
+    "line": "Jag har ju inte kanske hyllat alla dina skämt så starkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:24",
+    "line": "Men det här var så fruktansvärt forcerat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:28",
+    "line": "(skratt)"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:30",
+    "line": "Men jag uppskattar det. Jag uppskattar att du fortsätter leverera skämt efter skämt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:35",
+    "line": "Vi är ändå uppe igen 35-40 stycken nu, eller vad vi nu är på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:39",
+    "line": "Ja, alltså jag... Man kan ju inte ha krav att de ska hålla standard så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:48",
+    "line": "Nej, det kan jag hålla med om. Så är det så att någon lyssnar och sitter för en massa bra skämt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:53",
+    "line": "Kan de alltid skicka in dem? Kan vi kanske ha lite högre standard på något avsnitt?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:58",
+    "line": "Ja, jag tycker det känns som påhopp. Men absolut, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:06",
+    "line": "Men i alla fall om vi skulle välkomna till ASD för allihopa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:12",
+    "line": "Och i dagens avsnitt så tänkte jag att vi kunde prata lite om"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:18",
+    "line": "förslaget vi fick av vår lyssnare Erik, lyssnare och vän, där han undrar om vi inte kan prata lite om hur en kommer igång att hålla talks."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:31",
+    "line": "Så ta oss igenom det Anton."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:36",
+    "line": "- Exakt. Jag tycker ändå det är ganska viktigt, det är en fråga jag ändå har ställt mig själv en gång i tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:45",
+    "line": "Men ska vi också klargöra att vi inte är de mest erfarna inom området."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:51",
+    "line": "Vi har ju båda hållit talks, du har hållit på konferenser och kanske någon utbildning och jag har hållit på meetups."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:59",
+    "line": "Och jag tänker att det är det som liksom anspelats i frågan också, alltså de liksom externa talksen man gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:05",
+    "line": "Men om man ska börja någonstans så tycker jag att det första sättet att göra det på är att hålla liksom interna talks på sitt jobb."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:14",
+    "line": "Jag höll på att säga vad har vi för meriter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:21",
+    "line": "Men just det, att hålla det internt på bolaget, att börja väldigt smått ger en känsla för"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:31",
+    "line": "okej, men vad vill jag ha för typ av slides och information, vilket sätt pratar jag på,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:36",
+    "line": "hur bygger man egentligen upp ett snack liksom, och så är pressen inte så himla hög."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:41",
+    "line": "Mycket handlar ju bara om att samla erfarenhet från alla möjliga håll. Det kommer göra det tryggare tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:50",
+    "line": "Ja, verkligen. Man får ju inte tänka sig att den erfarenheten jag behöver för att hålla talks är att hålla en teknisk presentation på en meetup eller konferens."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:00",
+    "line": "utan det kan ju lika gärna vara att jag håller det mot som vi har den här fredagen, eller jag håller en presentation om den här nya tekniken i teamet bara och pratar lite grann om den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:09",
+    "line": "Alltså den erfarenheten hjälper ju en när man ska prata externt också så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:15",
+    "line": "Ja, absolut. Och sen om man vill göra det lite mer uppstyrt så skulle man kunna köra sådana saker att okej, vi tar en lunch and learn där jag håller ett kort snack om någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:25",
+    "line": "Det blir mer uppstyrt. Eller man kanske till och med skulle kunna ha en avie tillsammans, personer som har samma intressen och hålla ett snack om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:34",
+    "line": "Jag vet också att det finns andra som har hållit snack som inte ens handlar om teknik, utan handlar om deras resa eller intresse."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:41",
+    "line": "men det är fortfarande ingångslösa slides och historieberättande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:45",
+    "line": "- Ja exakt, för man kan ju bryta ner det i så oerhört många delar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:50",
+    "line": "Jag tror att du kanske har bättre koll på den här presentationstekniken i historieberättandet"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:59",
+    "line": "eller hur man ska tänka på när man lägger upp sina slides,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:02",
+    "line": "Vilken historie..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:06",
+    "line": "Vad heter det? Story arc på svenska. Det kommer jag inte ihåg nu, men skitsamma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:10",
+    "line": "Vilken historia man vill berätta och vilket upplägg man ska ha på den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:16",
+    "line": "För mig har det kommit väldigt mycket som vi är imponerade på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:19",
+    "line": "Jag har pratat mycket på lunch and learn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:22",
+    "line": "Jag har tagit egen initiativ att ha en frukost när jag presenterat något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:27",
+    "line": "Det kan vara att jag gillar att dela med mig av saker så det har drivit det här intresset."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:32",
+    "line": "Och sen har det i sin tur lett till att man ibland halkar in på lite mer \"ah men just det, hur ska man faktiskt lägga upp det för att det ska bli bra?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:41",
+    "line": "Medan i början är det mer \"ahja, så länge jag presenterar så kommer det bli vettigt\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:47",
+    "line": "Så länge jag bara ställer mig framför en publik eller en skärm, i och med att mycket är remote idag, så ger det någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:57",
+    "line": "Och sen kan man fokusera på, okej, men hur ska jag lägga upp historien i den här presentationen för att det ska bli bra och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:04",
+    "line": "Ja, alltså det är ju så mycket enklare att börja smått, och med smått menar jag kort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:14",
+    "line": "Så jag har ju kört mycket, eller de allra första gångerna jag började prata framför folk ur ett tekniskt perspektiv, det var ju i princip lightning talks."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:24",
+    "line": "För att det var såhär, okej men tröskeln är inte så himla stor, säg att jag ska snacka i fem minuter, hinner jag få till en liten inledning och lite skämt och lite fakta och sen så är det klart liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:39",
+    "line": "Jag hinner ju inte gå sönder av nervositet innan, ja det är klart man hinner göra det, men jag hamnade inte göra det liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:48",
+    "line": "Så det blev mycket lättare att trappa upp det så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:51",
+    "line": "Sen var det dock lite spännande att ta hoppet från fem minuter till 45 minuter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:56",
+    "line": "Det har jag nog fortfarande inte lyckats med, för jag landar alltid på 30."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:59",
+    "line": "Men ni menar, så har man samlat erfarenheten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:03",
+    "line": "- Nej, men verkligen. Jag tycker att Lightning Talks, eller vad man nu vill kalla sådana här väldigt, väldigt korta presentationer,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:08",
+    "line": "är ett extremt bra sätt att \"Okej, nu går jag upp och ska bara prata i fem minuter\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:13",
+    "line": "Fem minuter är fan en svinkort tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:17",
+    "line": "Så kan man bara känna hur det kändes efteråt. \"Okej, tyckte jag att det här var kul? Vill jag göra det igen?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:22",
+    "line": "Du riskerar inte så mycket på ett lightning talk, för att lightning talks i sin natur har ju så oerhört olika nivå och prestige kring det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:32",
+    "line": "Det är ju ett väldigt kort fall om det skulle gå åt helvete, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:38",
+    "line": "- Ja, precis. Så känner du bara att \"Nej, jag pallar inte mer. Låtsas att du är klar och bara drar.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:46",
+    "line": "Exakt, exakt. Du har inte kastat bort så mycket tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:51",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:53",
+    "line": "Sen tycker jag det är intressant att gå till 50-minuters-snack till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:58",
+    "line": "Jag undviker det aktivt. Jag tycker att det är för lång tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:03",
+    "line": "Min optimala längd är ungefär 25 minuter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:08",
+    "line": "För då har man ofta lite tid för att det händer något under tiden"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:11",
+    "line": "om du säger att du har en halvtimme utsatt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:13",
+    "line": "utsatt och sedan plus att ha tid för frågor i slutet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:15",
+    "line": "Så att 25 minuter för mig är liksom optimalt och går jag över liksom där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:19",
+    "line": "Jag har så svårt att fylla det med bra innehåll som jag tycker är,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:25",
+    "line": "eller som jag tror blir intressant att lyssna på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:27",
+    "line": "Alltså jag tror att liksom publiken kommer att drötna på mig på den tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:30",
+    "line": "- Ja, alltså för att det beror ju också såklart på vad det är för talks,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:37",
+    "line": "men min erfarenhet som är väldigt liten, ska tillägga igen,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:44",
+    "line": "men med en person som jag har pratat med som är väldigt bra på att hålla talks,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:48",
+    "line": "har hållit väldigt många av sådana, pratar ofta om att,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:50",
+    "line": "men det handlar ju om ett historieberättande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:52",
+    "line": "Alltså det är såklart att du kan hålla rena tekniksnack,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:56",
+    "line": "där allting bara är uppradat kring det här rätt, det här är fel, så här gör man det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:01",
+    "line": "Det är ju egentligen inga konstigheter,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:03",
+    "line": "Men det som ofta ger lite dimension till ett snack är ju när du kan koppla det till en tydlig historia och en röd tråd."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:11",
+    "line": "Alltså snarare någonting kring \"det här har jag upplevt, det här är mina erfarenheter\" och göra det till intressant och personligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:20",
+    "line": "Ja, för det är ju också en väldigt viktig poäng som jag också har hört mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:26",
+    "line": "Det kan ju vara väldigt läskigt att gå upp och ställa sig i håll i en teknisk presentation"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:30",
+    "line": "ur perspektivet att \"Det här är React, det är så här det funkar och så här gör man\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:36",
+    "line": "För att det är väldigt lätt att någon i publiken säger \"Nej, jag håller inte med\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:41",
+    "line": "Det stämmer inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:43",
+    "line": "Men istället då, som du säger, att prata utifrån egna erfarenheter"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:49",
+    "line": "och en egen resa man själv har gjort, då kan ju ingen i publiken,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:54",
+    "line": "eller kan och kan, folk kan ju såklart göra det, men det finns ju liksom inget innehåll i deras kritik om du pratar utifrån såhär"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:04",
+    "line": "\"Vi hade det såhär, och sen gjorde vi såhär, och vi tänkte såhär och såhär och såhär\" till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:10",
+    "line": "Då, alltså såhär, vad ska man kritisera? \"Ni gjorde fel!\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:14",
+    "line": "Det här är liksom, \"Ja, vi gjorde såhär på grund av det här, du vet ingenting.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:18",
+    "line": "Kritiken blir ju mycket grundare om man pratar utifrån sig själv och då kanske det också är lite mindre läskigt att göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:27",
+    "line": "Ja, sen beror det ju helt på vilken person man är. Jag har ju mycket lättare på jobbet att ställa mig och hålla ett lightning talk om min jätteemotionella resa på ett uppdrag jag hade,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:40",
+    "line": "än att jag vill gå och förklara någonting ur en teknisk point of view. Men det är ju för att jag har dåligt tekniskt självförtroende."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:47",
+    "line": "Men som du säger, min upplevelse är min, den kan ju ingen plocka från mig på det sättet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:52",
+    "line": "Nej, precis. Det är verkligen personligt. Man ska inte låta bli att hålla de här tekniska presentationerna, för jag kan tycka att de är superintressanta också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:01",
+    "line": "Igår när vi pratade om att vi skulle ha det här som ämne, då blev jag så här \"fan, jag måste hålla en textlig presentation snart\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:06",
+    "line": "Så då började jag skriva om framtidens reakt. Vi får se om det blir något av det, för just nu känner jag att det är mycket fakta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:15",
+    "line": "Det är innehåll men inte så kul. Vi får se var det landar i slutändan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:21",
+    "line": "Men att jobba på ett tåg är också ganska..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:26",
+    "line": "Det är verkligen en process."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:29",
+    "line": "Jag vet många som är erfarna konferenstalare till exempel har ett running joke om att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:37",
+    "line": "De alla preppade sina presentationer eller slides typ kvällen innan bara för att okej nu måste jag göra det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:45",
+    "line": "Så slänger man ihop slidesen och så har man klart det sen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:47",
+    "line": "- Eller på flyget till konferensen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:50",
+    "line": "- Ja exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:52",
+    "line": "Men det är fortfarande ett arbete att få till en bra presentation om man vill lägga ner lite tid på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:01",
+    "line": "För det är klart att om du kan ett ämne väldigt bra så behöver man inte lägga ner världens längsta tid på att preppa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:06",
+    "line": "Men ska du hålla ett tåg på en meetup eller en konferens så är det ju ändå kanske en skyldighet att man ska lägga lite tid på att preppa den bara för att man ska kunna slösa bort besökarnas tid helt enkelt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:24",
+    "line": "Ja, precis. Nivåerna ändras ju ganska mycket för att internt, då har man kanske inte riktigt så höga ambitioner eller krav på sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:42",
+    "line": "Och sen som meetups, det finns ju många i min, när jag gått på meetups som man märker också kanske inte är talare eller är där i sin presentationsresa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:56",
+    "line": "Men sen när man är på konferenser som är speciellt typ Norrkias när det bara finns ett spår, då håller ju talarna oftast en väldigt hög glass."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:10",
+    "line": "Sen så finns det ju såklart nervösa talare där och sådana, men man ser ju att där kan du inte gå upp och inte ha preppat liksom och ha någonting att säga för att det skulle bli jättekonstigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:25",
+    "line": "Så att jag menar, nivåerna går ju upp hela tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:27",
+    "line": "Jag pratade ju till exempel på en konferens som har väldigt många spår."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:31",
+    "line": "Där det kanske inte är samma, alltså det är inte samma mängd människor som tittar på mig liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:39",
+    "line": "Och jag fick ju faktiskt möjligheten att komma in via en så här mera stödgrej, att vi vill ha in nya talare i branschen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:48",
+    "line": "Är det någon som är intresserad, vi kommer hjälpa dig lite på den här resan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:52",
+    "line": "Så jag fick ju ett otroligt tillfälle."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:56",
+    "line": "Så det är väl också en grej när om det uppenbarar sig tillfällen, hoppa på dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:01",
+    "line": "Våga göra det om du är intresserad av att tala."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:05",
+    "line": "Ja, exakt. Mycket som du är inne på, om man tittar på NordicEES, så känns det som att många presentationer där är extremt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:15",
+    "line": "Men en viktig grej är att inte glömma att ofta har folk kört presentationerna förut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:21",
+    "line": "Man tänker kanske att \"nu har de skrivit en helt ny presentation för den här konferensen och det är första gången de visar den för någon\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:28",
+    "line": "Så är det ju i stort sett aldrig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:30",
+    "line": "De kan ju ha kört den på meetups tidigare, till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:33",
+    "line": "Eller på någon ställe som inte spelas in."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:35",
+    "line": "Eller så har de kört den på flera ställen tidigare, även fast det spelas in."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:38",
+    "line": "Men också att man har övat den flera gånger innan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:42",
+    "line": "Och det är perfekt då, till exempel, att om jag säger att jag skulle hålla en presentation på en konferens."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:46",
+    "line": "Då skulle jag kanske köra den först på internt, för lite kollegor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:52",
+    "line": "Eller först kanske jag skulle öva för mig själv, sen skulle jag köra den internt för lite kollegor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:55",
+    "line": "Ta lite feedback, se hur det gick."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:57",
+    "line": "Sen skulle jag kanske köra den på en meetup om jag ville öva ännu mer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:00",
+    "line": "Beroende på hur tidsmässigt det ser ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:03",
+    "line": "Och sen köra den på konferensen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:04",
+    "line": "Så att man får tillfällen att öva på hur det går."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:07",
+    "line": "För det är ju..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:08",
+    "line": "Alltså just själva tidsaspekten är ju jävligt svår."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:12",
+    "line": "Alltså såhär, okej, jag har preppat en presentation som är 25 minuter lång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:16",
+    "line": "Men sen kliver man upp på en scen, blir lite mer nervös och så höjer man tempo till rösten lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:21",
+    "line": "Och så helt plötsligt så har du pratat i en kvart och så är du klar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:23",
+    "line": "Så det är väldigt viktigt att kunna få en känsla för att när jag har kommit till den här sliden,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:30",
+    "line": "så är det ungefär så här mycket tid kvar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:32",
+    "line": "Och då vet man att jag ligger lite före eller lite efter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:36",
+    "line": "Ja, och sen handlar det också om att man är som mig till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:41",
+    "line": "Jag skriver ju ett helt snack, jag skriver ju ner hela manuset i princip alla ord."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:47",
+    "line": "Och sen så vill jag ju säga det på det sättet, vilket är problematiskt för då står man och läser innantill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:53",
+    "line": "göra egentligen. Men jag är ju väldigt så rädd för att om jag inte håller mig till mina exakt skrivna ord så ska jag säga någonting som är tekniskt fel och då ska jag få backning på det. Ni hör ju, jag är ju inte en person som ska hålla tåg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:09",
+    "line": "Men det är lite så det blir. Jag har ju förlitat mig väldigt mycket på att kunna läsa innantill nästan. Vilket funkar jättebra i digitala snack ska sägas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:20",
+    "line": "Så det är en grej också att träna för att komma bort från den grejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:25",
+    "line": "Sen också träna med de förutsättningarna som finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:29",
+    "line": "Ska du hålla ett digitalt snack?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:31",
+    "line": "Träna digitalt så att du vet att du har koll på skärmar och vad som ska flyttas och så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:37",
+    "line": "Ska du hålla det live med mic och klickor?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:40",
+    "line": "Se till med bästa möjliga förutsättningar att kunna träna med mic och klickor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:45",
+    "line": "För att det blir annorlunda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:46",
+    "line": "Så de bitarna är också rätt viktiga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:48",
+    "line": "Ja verkligen, och en grej som jag tänkte på nu är att det har blivit väldigt poppis nu i coronatider att föreinspela sina talks till konferenser."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:58",
+    "line": "Så det är också en möjlighet som finns mycket mer nu än vad det fanns förut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:03",
+    "line": "Men när det är digitala konferenser som inte har besökarna på plats så kan man förenspela dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:09",
+    "line": "Sen gör jag ofta många konferenser att du fortfarande har en live frågestund efteråt där talaren finns på plats."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:15",
+    "line": "Men att själva tåket är förinspelat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:18",
+    "line": "Och det är också ett ganska bra sätt att köra en första presentation på, eller första tåg på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:26",
+    "line": "För då kan man liksom, blir det fel då kan du ändå göra om en gång och spela in det igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:31",
+    "line": "Så det kan också vara ett alternativ att undersöka om man känner att \"ja men jag kanske vill testa att hålla den här presentationen på en konferens.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:37",
+    "line": "kolla om det är en konferens som tillåter förinspelade talks."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:41",
+    "line": "Så kan man ju köra på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:43",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:45",
+    "line": "Men sen så finns det också, för nu pratar vi mycket om konferenser och meetups och så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:48",
+    "line": "Det är ju det kanske mycket man tänker på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:52",
+    "line": "Men sen så finns det ju andra sätt att hålla på också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:56",
+    "line": "Jag har ju till exempel hållit, inte utbildningssnack utan typ person från branschen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:04",
+    "line": "snack på en utbildning. Det är ett annat sätt att göra det på eller om du vill, jag vet inte, som konsultbolag som vi till exempel, om man har någon som har ett jätteintressant ämne att prata om så kanske vi tar in det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:19",
+    "line": "Det blir ju som ett typ av meetup liksom, men det skulle också kunna vara att vi tar in en utomstående som pratar för våra konsulter internt. Så det finns ju lägre trösklar också att hitta skulle jag säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:31",
+    "line": "Ja, exakt. Och om man som konsult börjar hålla lite interna snack så kan det ju väldigt lätt bli att någon annan konsult säger \"kan du inte komma och hålla den där hos min kund också?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:41",
+    "line": "Och så får man komma och presentera där också. Så man ska kanske inte begränsa sig som du är inne på till bara meetups och konferenser är det som finns utan det finns ju extremt många olika sätt att hålla presentationer på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:53",
+    "line": "Och ur ett komma igång perspektiv så tror jag ändå att de interna snacken på jobbet är de viktigaste för att man ska få någon typ av rutin och komma igång och göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:06",
+    "line": "Och på samma sätt, om någon ska hålla ett demo i teamet, stig fram och ta det steget och säga \"Jag kan hålla det, det är inga problem\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:16",
+    "line": "För då får du öva på presentationsteknik och lite sådana saker i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:21",
+    "line": "Ja, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:23",
+    "line": "Och sen så finns det ju också att man inte behöver fastna vid att hålla de tekniska sakerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:28",
+    "line": "Jag vet att jag anordnade ett meetup en gång, där jag tog in två stycken, eller där två kollegor höll snack, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:35",
+    "line": "Men där jag höll, ja men typ introsnacket för meetuppet och för vad vi är för bolag, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:43",
+    "line": "Så det var ju inte tekniskt från min sida, men det var ju fortfarande som sagt igen erfarenheten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:49",
+    "line": "Mm, ja nej men precis. Nej alltså så att det finns ju extremt liksom många sätt att göra på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:57",
+    "line": "Ja alltså du kan ju hålla så här för någon som inte har din roll kan du hålla och snacka om det här är min roll, det här gör jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:05",
+    "line": "Ja men precis och sen alltså så här, sen när man väl har kommit igång och hålla snacken då finns det ju liksom extremt mycket resurser om man vill bli duktigare på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:16",
+    "line": "Jag vet att Scott Hanselman har en gratis presentationsteknikkurs på Pluralsight."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:28",
+    "line": "Det finns ganska mycket resurser som man kan kolla på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:31",
+    "line": "Gå in på Youtube och sök \"presentationsteknik\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:36",
+    "line": "Vad heter han som har gjort \"The Deaf to PowerPoint\"?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:42",
+    "line": "Jag kommer ihåg att det finns en svensk som har gjort en bok, en presentation eller en kurs."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:53",
+    "line": "Där han pratar om presentationsteknik och hur man ska göra bra slides till sin presentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:02",
+    "line": "Så att du kanske inte bara ska rada upp en massa punkter i en powerpoint utan gör det lite roligare och fångar publiken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:11",
+    "line": "- Ja, det finns nog en YouTube-video tror jag. Han har också någon där han pratar om just det här med historieberättande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:17",
+    "line": "Och vikten av det och vilken dimension det kan ge till ett snack och så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:22",
+    "line": "- Ja, exakt. Och det är ju också en sak som, historieberättande är ju liksom inte något som är unikt för att hålla presentationer direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:30",
+    "line": "Utan man kan ju liksom applicera vilken historieberättarteknik som helst. Alltså den kändaste, \"hjältens resa\" eller vad fan det nu heter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:37",
+    "line": "När du först har någonting i fokus som ska vara en hjälte och sen så ska det gå väldigt bra och sen kommer det någon motgång och sen kommer det en lite uppåt igenom och sen en sista motgång och sen så blir det något fint på slutet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:52",
+    "line": "Så alla sådana saker som man kan lära sig, sådant kunskap kan man ju hitta utanför presentationsbubblan så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:59",
+    "line": "Och allt sånt går ju att applicera på hur du håller dina presentationer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:04",
+    "line": "Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:06",
+    "line": "Sen är det en grej som kanske är helt uppenbart för andra men som inte var helt uppenbart för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:14",
+    "line": "Det är att man ska verkligen tänka på skillnaden mellan att hålla ett snack eller en presentation och att hålla en utbildning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:21",
+    "line": "Alltså sen är det ju klart längden och antal tillfällen liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:24",
+    "line": "Men om du ska berätta något för någon är ditt ultimata mål att de ska lära sig så absolut mycket de bara kan på den tiden du pratar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:33",
+    "line": "Eller är målet att de ska ha det lite gött under den tiden du pratar?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:39",
+    "line": "Ja, när jag presenterar så är det väldigt sällan jag känner så här att jag kommer lära dem något revolutionerande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:47",
+    "line": "Snarare är det så här, ta med er den här lilla grejen och få lite inspiration."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:52",
+    "line": "Det är typ oftast målet. Att folk ska känna sig mer taggade på det jag pratar om efter att jag pratat klart om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:01",
+    "line": "Det finns i olika former, jag tror den mest spännande jag gjort var att på en konferens och med en paneldebatt om jag och skriptdramverk med mitt juniora perspektiv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:15",
+    "line": "Där fick man bara sitta och tycka saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:19",
+    "line": "Ja, den uppskattar man ju ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:23",
+    "line": "No prepping needed."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:26",
+    "line": "Det är också en grej att man kanske är sugen på att hålla presentationer, men det finns ju andra format som du är inne på som man kanske tycker är ännu roligare, bara att man inte har tänkt på dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:39",
+    "line": "Alltså hålla utbildningar, sitta i någon paneldebatt, eller vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:43",
+    "line": "Men det känns som att det är väldigt lätt att få en bild av att \"ja, fan, det verkar så jävla roligt att hålla presentationer\", vilket jag tycker att det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:51",
+    "line": "Men det kan ju finnas andra saker som man tycker är ännu roligare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:54",
+    "line": "Det känns som att vi har spottat ur oss kunskap, eller vad man ska säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:00",
+    "line": "Nej, men tankar om att hålla presentationer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:04",
+    "line": "Det jag också tänkte på, ett sätt att göra det här är att live podda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:12",
+    "line": "(skratt)"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:15",
+    "line": "För att du tycker att det låter som att jag älskar att hålla presentationer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:19",
+    "line": "Gud, ja, jag tänker att det är det som är målet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:21",
+    "line": "När vi når tillräckligt många lyssnare och önskare, då ska vi styra upp en ASDF meetup."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:27",
+    "line": "Då ska vi sitta där och prata skit i en halvtimme och sen dricka öl. Det är perfekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:34",
+    "line": "- Vi skulle ju kunna ta det också apropå livepodd."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:41",
+    "line": "För det jag tycker är absolut läskigast med att hålla snack eller göra saker live, det är nästan frågorna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:48",
+    "line": "Alltså det är nästan liksom publikinvolveringen och det är inte så här att jag tycker att människor inte ska få eller att publiken inte ska få involvera sig eller tycka eller tänka saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:58",
+    "line": "Men det är väl att jag tycker det är väldigt jobbigt att det är så här mitt i få en \"ah men varför gör du inte så här\" eller fråga där och sen så kommer man av sig och sen landar man i något konstigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:09",
+    "line": "Och jag menar en sak när man håller snack och så det är också att det är du som kontrollerar, du måste ha en miljö där du är trygg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:15",
+    "line": "Du kan säga \"jag önskar att vi tar alla frågor i slutet\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:19",
+    "line": "Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:20",
+    "line": "Jo, Gud, man kan inte..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:23",
+    "line": "Även om man ska försöka göra publiken nöjd och glad, så är det fortfarande ditt snack."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:30",
+    "line": "Så du kan verkligen säga \"ja, men jag tar frågor i slutet\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:34",
+    "line": "\"Innan dess så vill jag bara hålla min presentation\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:37",
+    "line": "För det är extremt sårbart att stå där framme."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:41",
+    "line": "Plus, jag kan också säga det, man vet ju det innerst inne, men man ser verkligen jättemycket när man står där framme."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:48",
+    "line": "Jag tror jag såg en gång på en presentation jag höll som satt och sov."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:55",
+    "line": "Det var någon som pratade om det här, jag undrar om det var en tweet eller något där de tweetade"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:02",
+    "line": "\"Fan vad jag uppskattar den här personen för att när jag höll mina första presentationer satt henne längst fram och bara nickade\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:11",
+    "line": "\"Nickade med och höll med\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:14",
+    "line": "Och det var precis vad de behövde för att komma igenom det"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:18",
+    "line": "Det är också en grej att sitta och nicka och se lite glad ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:22",
+    "line": "Det kanske gör presentatörens dag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:25",
+    "line": "Ja, också om man är på digitala grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:28",
+    "line": "Om man pallar lämna kameran på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:30",
+    "line": "Och om det kommer ett skämt eller något du tycker är kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:33",
+    "line": "Sitt och skratta i bild. Du behöver inte ha ljudet på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:36",
+    "line": "Men det hjälper ju också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:38",
+    "line": "Det är lite surrealistiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:40",
+    "line": "Man håller ett snack, så drar man ett skämt och så är det helt knäppt tyst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:44",
+    "line": "Men så ser man någon som sitter och nickar lite gillande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:47",
+    "line": "Det är allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:49",
+    "line": "Jag höll ju, det måste vara precis i början av pandemin kanske,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:53",
+    "line": "jag höll ett snack på Stockholm JIS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:55",
+    "line": "Då var det helt tyst och ingen med kamera på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:58",
+    "line": "Så jag har ju ingen aning om jag skämt flög eller inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:01",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:05",
+    "line": "Det är ju fastän jobbigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:07",
+    "line": "Jag har absolut ingen aning om det var kul eller inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:09",
+    "line": "Det kändes som att det var roligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:11",
+    "line": "Jag skrattade inombords."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:13",
+    "line": "Men det är ju sjukt svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:16",
+    "line": "Sen kan jag tänka mig att många tycker att om man inte har så mycket skämt i sin presentation till exempel,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:20",
+    "line": "så kanske folk tycker att det är skönt att folk stänger av kamerorna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:23",
+    "line": "För då sitter du bara och pratar in i skärmen och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:26",
+    "line": "Jag tror kanske att det är också en typisk grej att samma sak som ställfrågor i slutet,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:31",
+    "line": "det kan man säkert säga, \"ja, ni får gärna stänga av era kameror medans jag håller presentationen.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:35",
+    "line": "Eller lämna på kamerorna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:38",
+    "line": "- För jag menar, det här nickandet kan ju också ha varit lite..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:41",
+    "line": "- Ja, gud ja, jag har ju hellre på kameror än av kameror."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:44",
+    "line": "Jag kände att det här att hålla det snacket när det är helt kneptiskt, det kanske var min crash course till att klara pinsamt tystnade videosamtal."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:55",
+    "line": "Ja, i videosamtal kan du ändå säga \"Hallå, är det någon där?\" medans presentationen är bara att köra på och hoppas att folk lyssnar och tycker att det är kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:09",
+    "line": "Ja, med det spretiga tillägget så kände jag att jag kanske inte har mer att tillge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:18",
+    "line": "Som sagt, jag har ju inte så jävla stor erfarenhet så jag vet inte vad jag sitter här och sitter om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:23",
+    "line": "Nej, men vi länkar väl till våra presentationer som finns online i beskrivningen, tänker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:29",
+    "line": "Sen vet ni ju att Therese precis sa att publik interaktion är inte så kul så ni behöver inte feedback."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:41",
+    "line": "Jag är en snöflinga, jag vill aldrig ha feedback."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:47",
+    "line": "Exakt, men med det sagt, tack för att ni har lyssnat. Vi hörs igen om två veckor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:54",
+    "line": "Så säger vi så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:56",
+    "line": "- Det gör vi. - Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:58",
+    "line": "[Outromusik]"
+  }
+]

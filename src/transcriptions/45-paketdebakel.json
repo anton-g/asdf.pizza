@@ -1,0 +1,1612 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Vad sa den trötta gränssnittsutvecklaren?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:03",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "Är du så jävla less?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:07",
+    "line": "Det var kul, den gillar jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:11",
+    "line": "Började bli lite utdaterad, för det är inte många som kör less längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:15",
+    "line": "Men det är bra att vi betar av den nu tänker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:18",
+    "line": "Ja, jag vet. Men den låg långt ner i lådan, det var verkligen dags nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:22",
+    "line": "Har du fått gräva i botten av skämtlådan?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:27",
+    "line": "Jag har inte kommit några nya till mig. Jag får jobba på det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:31",
+    "line": "Vi får se. Än så länge tycker jag att de håller nivå i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:36",
+    "line": "Man ska inte ha för höga förväntningar. Det har vi aldrig haft så det har hjälpt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:41",
+    "line": "Det är lite temat med hela podden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:44",
+    "line": "Jo, jag vet inte om du... Jag pingade dig innan här om vad vi skulle prata om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:50",
+    "line": "Jag vet inte hur bra koll du har på det här debaclet som jag såg på finska med FakerJS och CollorsJS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:57",
+    "line": "Jag tror det var."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:59",
+    "line": "Ja, jag har väl i alla fall grundläggande koll på debaclet, men kanske inget djupdyk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:05",
+    "line": "Jag är inte hängt i Twitter-trådar så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:08",
+    "line": "Men jag har läst artikel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:11",
+    "line": "Ja, okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:12",
+    "line": "Ja, precis. För det var ju i, jag kommer inte riktigt ihåg vilken dag det var."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:15",
+    "line": "Det var lördags kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:17",
+    "line": "Fredags eller lördags tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:19",
+    "line": "Som då en Open Source-utvecklare som har gjort de här FakerJS och ColorOS-JS bland annat"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:27",
+    "line": "Tydligen tyckte att nu får det vara nog på att jag ska jobba gratis"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:32",
+    "line": "Och i stort sett, om det var FakerJS som han släppte en uppdatering av det här paketet som ligger på npm"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:43",
+    "line": "Och i den uppdateringen så slängde han in så att paketet egentligen inte fungerade längre"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:49",
+    "line": "Och samma sak i den här ColorlessJS, att det som hände var att när du försökte köra någonting så fick du en infinite loop istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:59",
+    "line": "Och den printade massa \"bly\" till konsolen, eller till terminalen, så att din terminal hängde sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:06",
+    "line": "Eller ditt käll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:08",
+    "line": "-Och så \"Liberty, Liberty, Liberty\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:11",
+    "line": "-Ja, exakt. Och det stod typ så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:13",
+    "line": "Release notes för uppdateringen var \"add liberty flag\" eller något sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:20",
+    "line": "Och allt det här gjorde att extremt många saker slutade funka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:26",
+    "line": "För det är skitmånga som beror på fake IS eller specifikt Colorless IS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:30",
+    "line": "Jag tror det var en halv miljon grejer som berodde på Colorless IS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:35",
+    "line": "Och bakgrunden var väl i stort sett med att han tyckte att \"Big corporations\" borde betala mig för att jag gör det här open source arbetet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:47",
+    "line": "Och jag är förvånad nog, det kanske var för att det hände på en helg, men jag märkte inte alls av det förrän jag såg folk på Twitter som började tweeta om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:59",
+    "line": "Jag märkte inte någonting i min egen projekt, ingenting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:02",
+    "line": "Så jag slapp nog väldigt mycket av jobbet som han själv kanske hade behövt gjort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:10",
+    "line": "– Ja, alltså jag märkte ingenting. – Nej, så det var ju fint."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:14",
+    "line": "Det kan man ju tacka för att det skedde på en helg och inte på en vardag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:18",
+    "line": "Det som också hände sen var att NPM gick in och återställde en av de här tidigare versionerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:25",
+    "line": "Alltså de som inte var dåliga eller de som inte fungerade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:32",
+    "line": "Ja, avsiktligt förstörda. Var inte Faker.js-versionen typ 6.6.6?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:39",
+    "line": "Jo, jag tror kanske att det bumpades till något extremt stort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:44",
+    "line": "Så det var väldigt mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:46",
+    "line": "Sen gick NPM in och drog tillbaka versionen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:50",
+    "line": "Och sen gick också GitHub in och bannade hans konto på GitHub"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:56",
+    "line": "Vilket kanske har varit den mest kontroversiella diskussionspunkten tror jag"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:01",
+    "line": "Det ska väl tilläggas också att han uppdaterade Readme in i de här projekten så att det stod massa konspirationsteorier om Aaron Swartz"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:10",
+    "line": "Och massa, typ Ghislaine Maxwell och grejer"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:14",
+    "line": "Så det var kanske inte bara på grund av att han släppte de här paketen som han bannades."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:20",
+    "line": "Min gissning är att GitHub bannade för att de trodde att hans konto var hackat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:25",
+    "line": "För det hade varit det logiska steget att ta, att när någon släpper en..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:32",
+    "line": "Det skulle kunna vara malware i de här nya paketen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:36",
+    "line": "Särskilt när även readmes och sånt uppdateras."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:39",
+    "line": "Men om vi börjar där, vad tänker du kring att github eller att npm tar bort versionen tycker jag inte är så kontroversiellt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:48",
+    "line": "Men vad tänker du till exempel om att github har bannat hans konto?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:51",
+    "line": "Och det är fortfarande bannat så ska jag säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:53",
+    "line": "Ja det där är svårt alltså."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:58",
+    "line": "Det där är någonting, jag känner inte ens att jag är sugen på att krafsa på den ytan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:03",
+    "line": "Men det känns ju konstigt att en användare ska bli bannad, speciellt nu när det är ett stort corporation som äger grejerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:20",
+    "line": "Men å andra sidan, som du säger, i tider där vi pratar mycket om desinformation och att det är privata företag som faktiskt kan banna folk från sociala mediekonton för att de förfalskar och sprider rykten och så vidare så vidare så är det ju inte \"unheard of\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:40",
+    "line": "\"nerd\" av att det är en persons kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:47",
+    "line": "Men på sociala medier så är det en persons..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:51",
+    "line": "Jag ville kalla det poesi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:54",
+    "line": "Det känns som att det är väldigt sällan det ligger väldigt nära poesi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:59",
+    "line": "Poetry slam."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:00",
+    "line": "Personers verk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:03",
+    "line": "Ja, eller innehåll i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:06",
+    "line": "Jag flyger alldeles för högt med bedömningarna kring trötta tweets."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:11",
+    "line": "Men så att, jag menar det är väl, jag kan ju se båda sidor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:17",
+    "line": "Alltså jag förstår ju absolut varför han blev bannad typ från GitHub-sidan liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:25",
+    "line": "Men jag har nog ingen tydlig svar i vad jag tycker så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:30",
+    "line": "Vad tänker du?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:33",
+    "line": "Jag har ju väldigt mycket på sidan att jag är bannad, vilket känns som att det är en minoritet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:39",
+    "line": "I alla fall av det jag har sett på Twitterstormarna som har varit om det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:44",
+    "line": "Jag tänker att det finns två anledningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:47",
+    "line": "Den stora anledningen som jag ser är att enligt GitHubs villkor så får du inte hosta innehåll som står till stil med att det är gjort för att påverka andra negativt på ett medvetet sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:09",
+    "line": "typ något sånt. Och jag tycker att det här är exakt vad det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:14",
+    "line": "Alltså han har gjort det här för att folk ska få problem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:18",
+    "line": "Han gör det också som ett jävla statement mot \"big corporations\" när det inte drabbar en enda \"big corporation\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:23",
+    "line": "Den enda som det drabbar är andra utvecklare som sitter och faktiskt får rätta felen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:30",
+    "line": "Ja, nu när du säger så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:35",
+    "line": "Ja, så jag tycker att det var omoget och oansvarigt av han att göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:45",
+    "line": "En viktig detalj är också att båda de här projekten, om jag inte har sett helt fel, var släppta under MIT-licensen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:53",
+    "line": "Ja, det läste jag också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:55",
+    "line": "Vilket i stort sett säger \"här, gör vad du vill med min kod\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:58",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:00",
+    "line": "- Så att med det i åtanke så tycker jag ändå att det kan vara så här, då får man lite skylla sig själv"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:08",
+    "line": "om man har gjort det, för det är ingen som har stoppat honom från så här \"ja, jag slutar utveckla den här projekten\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:14",
+    "line": "eller \"ja, jag gör dem privata och fortsätter att ta betalt för de nya versionerna av projekten\" till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:21",
+    "line": "Det som förmodligen skulle hända är att någon forkar repot och släpper en faker2.js eller vad det nu kan bli."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:30",
+    "line": "Jag har inte röntgick också, då får man göra det i sådana fall om du vill använda dem en tid när det är själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:37",
+    "line": "Jag tycker bara det är alltid intressant med just det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:42",
+    "line": "Det är censur och yttrandefrihet och det är privata företag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:47",
+    "line": "Ja, det håller jag verkligen med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:50",
+    "line": "They rule the way they wanna rule tänker jag. Alltså det är klart att man kan tycka att det är fel om man pratar mycket om när andra företag censurerar eller väljer att inte ta in verk från människor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:03",
+    "line": "Men jag menar så länge det inte är statligt och det är grundlagar som bestämmer det så får väl de göra vad de vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:11",
+    "line": "Ja, jag håller med. Jag tycker att det kanske finns en poäng att diskutera det för att typ Facebook och Twitter och andra sociala medier har blivit så pass stora att de kanske motsvarar tidningar litegrann förr i tiden"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:27",
+    "line": "Där man kanske har lite mer, där de båda har mer ansvar för vad som faktiskt trycks i tidningen men också att det kanske inte går att bara ignorera saker"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:36",
+    "line": "Sen finns det ju exakt samma poäng att göra åt andra hållet, att tidningar väljer vad de publicerar också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:40",
+    "line": "Så det är en svår poäng för mig att göra så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:46",
+    "line": "Men sen tycker jag också att det finns en poäng i att diskutera, alltså den poängen han vill göra, den här utvecklaren bakom biblioteken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:56",
+    "line": "Att open source kanske behöver en bättre sätt att få in pengar på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:03",
+    "line": "För just nu så finns det inget bra sätt egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:06",
+    "line": "Det mesta är ju typ att \"ja okej, vi har någon Patreon eller någon Open Collective eller vad det nu heter där man kan donera pengar\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:15",
+    "line": "Men då är det ju väldigt mycket att \"ja då donerar man för att göra det\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:17",
+    "line": "Det är väldigt få gånger man använder faktiskt ett mjukvarubibliotek som man måste betala för."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:23",
+    "line": "– Ja, för att det finns andra alternativ då liksom. Så då väljer man att inte göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:30",
+    "line": "Det är verkligen en fråga som behöver diskuteras och komma fram till någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:40",
+    "line": "Men jag menar, kan jag ta sönder saker? Det kanske inte riktigt är ett sätt att göra på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:47",
+    "line": "Jag antar att det är någon typ av demonstration som fick enorma ramifikationer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:55",
+    "line": "Men jag kan ju också känna så här att om du blir svinarg på att folk använder din kod, lägg inte ut din kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:07",
+    "line": "Nej, jag håller med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:11",
+    "line": "Inte att vi inte ska diskutera open source-grejen och att folk gör jättebra saker som alla använder, men just den här liksom så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:19",
+    "line": "- Okej, men du i början eller du har varit svinglad för att folk ville använda dina saker?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:24",
+    "line": "Alltså när vände det och gav dig rätten att bara ändra reglerna mitt i?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:29",
+    "line": "- Nej, jag håller ju med dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:32",
+    "line": "Jag förstår ju också folk som gör argumentet, men det är hans kod, han borde få göra vad han vill med den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:40",
+    "line": "- Absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:41",
+    "line": "- Alltså det argumentet låter ju sunt när han säger det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:46",
+    "line": "Men samtidigt så är det ju så här, ja det är absolut, men om han då helt plötsligt skulle vilja lägga in ett virus i koden, håller det argumentet fortfarande?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:55",
+    "line": "Eller om han skulle vilja lägga in en krypto-miner i koden utan att liksom explicit berätta det, håller det fortfarande?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:03",
+    "line": "- Ja, för det blir väl också på någon sån här samhällsansvarsgrejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:09",
+    "line": "Typ att använda som tidningar och nu kanske Facebook har ansvar för samhället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:14",
+    "line": "Här finns ju något typ av ansvar över internet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:21",
+    "line": "Om man har så extremt många användare och många delar som använder det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:27",
+    "line": "Och så har man ju sänder rätt mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:31",
+    "line": "Men jag vet inte, det är en klurig fråga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:35",
+    "line": "Det är intressant för det är på många olika håll och det gäller verkligen att ha mycket saker i huvudet samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:40",
+    "line": "Ja, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:42",
+    "line": "Vilket kanske inte alltid är allas favoritgrej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:47",
+    "line": "Men det är spännande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:51",
+    "line": "Jag funderade ganska mycket på det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:54",
+    "line": "Jag tror det var senast när jag skulle använda Husky, tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:58",
+    "line": "Och då var det väl så att jag kollade i det report och då var det nog senaste version, version 5 eller något sånt tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:06",
+    "line": "Och då stod det väldigt tydligt så här att om du är privatperson och använder det till privatprojekt, varsågod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:16",
+    "line": "Men när du företag och vill använda version 5 då vill jag ha, om det var donation eller betalning för det liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:24",
+    "line": "Annars får du gärna fortsätta använda den fortfarande maintainade version 4 tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:30",
+    "line": "Just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:31",
+    "line": "Och det är ju problem kanske fortfarande för att det är liksom så här att du måste fortfarande se till att få in donation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:37",
+    "line": "Alltså det är fortfarande människors goodwill att inte använda det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:42",
+    "line": "Men det blir på något sätt så här, det här är väldigt tydligt gjort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:45",
+    "line": "Och jag som skulle dra in det och ett företagsräkning valde ju att dra in version 4 liksom för att testa de här grejerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:53",
+    "line": "Då blir det plötsligt så att om man ser att stora företag använder det, då kan man i alla fall ställa frågan och ifrågasätta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:59",
+    "line": "Det blir mer transparent. Varför använder du inte fyra i sådana fall? Har du donerat? Det blir någon dokumentation kanske?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:08",
+    "line": "Ja, precis. Det är intressant att man kan gå så olika vägar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:14",
+    "line": "Det finns ju ett företag som heter Mapbox som har en alternativ till Google Maps."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:22",
+    "line": "Det är en väldigt kort förklaring av vad de gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:25",
+    "line": "Men de hade också ett open source bibliotek som hette Mapbox GL."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:29",
+    "line": "Som var där man kunde rendera olika typer av kartor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:32",
+    "line": "Och då fick man välja vilken kartleverantör man ville ha så man kunde köra Mapbox"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:38",
+    "line": "Det finns något som heter..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:40",
+    "line": "Namnet som jag tappade bort precis när jag svarade, men det finns en annan leverantör som är billigare"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:44",
+    "line": "Men tillhandahåller samma tjänst, men man kunde plugga in dem i det här biblioteket"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:49",
+    "line": "Och de gjorde också så att de släppte en ny major version av sitt bibliotek"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:54",
+    "line": "Där de sa att \"Nej, nu får det här biblioteket bara användas med våra egna tjänster\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:58",
+    "line": "Vilket upprörde lite grann folk i communityt, lite för att folk har kanske bidragit till biblioteket utan att tänkt att de ska använda Mapbox-tjänster"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:15",
+    "line": "Men samtidigt förstår man ju också Mapbox att vi har utvecklat biblioteket, vi måste kunna få in pengar till det på något sätt för att kunna fortsätta vidareutveckla det"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:23",
+    "line": "Där ledde det, tror jag med minst rätt, till att det forkades och att det finns nån fork på den som heter typ \"Mapplibre GL\" kanske"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:35",
+    "line": "Eller något i den stilen. Så där har det verkligen blivit en hård fork. Sen kan jag fortfarande tänka mig att man måste använda de här Mapbox-tjänster kanske gör att de får in lite mer pengar"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:48",
+    "line": "För folk som hittar det i biblioteket och känner att det här ser skitbra ut men okej då måste jag använda den här tjänsten för att få det att funka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:55",
+    "line": "Ja, det blir spännande för att om man har en ren betaltjänst, det är så svårt att bara avgöra om någonting passar ens behov, out of the box."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:10",
+    "line": "Så när man letar efter någonting, man kan prova ett par libs för att hitta det som passar bäst där jag behöver det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:20",
+    "line": "Och det blir mycket knörligare att bara betala på från start."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:25",
+    "line": "Jag är inte emot att betala, speciellt inte från ett företagssida."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:34",
+    "line": "Men jag tycker det är svårt med den här avvägningen. Kan man få någon typ av temporärt testlicens?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:41",
+    "line": "Demo? Trailer? Nej men jag vet inte. Det blir så svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:46",
+    "line": "- Ja, där är också en poäng. När folk ber om donationer för användare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:53",
+    "line": "Det är ju i alla fall i Sverige väldigt svårt att motivera för ett företag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:58",
+    "line": "\"Okej, för användare här så måste vi donera lite pengar.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:01",
+    "line": "Det är inte så att vi får en faktura för användare, vi ska liksom inte göra det, utan det är bara en betalning som ser ut som en donation som vi sen ska bokföra som betalning för det här och det går liksom typ inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:12",
+    "line": "Så det gör det också väldigt svårt att faktiskt liksom använda saker som kräver donationer just för att använda det liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:18",
+    "line": "Ja, men det är verkligen en superknallig grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:23",
+    "line": "Det är ju, för jag läste idag också, det var ju en, i artikeln jag läste så var det ju en referens till Log4j-debaclet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:32",
+    "line": "Just det, ja det har inte vi ju ens nämnt tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:36",
+    "line": "Nej, och det var väl, var det innan jul där någon gång liksom?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:40",
+    "line": "Ja, det var väl precis innan jul tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:43",
+    "line": "Log4j är ju loggning för Java."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:47",
+    "line": "Och det är väl open source också liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:53",
+    "line": "Det ligger under open source eller någonting Apache."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:57",
+    "line": "Ja, det ska vara det. Jag tror det ligger under, ja exakt, hur man nu uttalar det, Apache."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:01",
+    "line": "Den foundationen tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:05",
+    "line": "Precis, och då var det väl så att det var några som hade hittat och registrerat säkerhetsläckor på det va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:10",
+    "line": "- Exakt. Och det var ju alltså en ganska stor, alltså det kanske är den största säkerhetsläckan senaste 20-30 åren, typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:19",
+    "line": "Om man tittar globalt, vad som hände sen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:21",
+    "line": "- Ja, Gud ja. Och att någon borde hittat den för ett tag sedan, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:26",
+    "line": "- Ja, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:28",
+    "line": "- Men just att den liksom hittades där, innan jul och bara sprängdes liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:35",
+    "line": "Jag tror att det var fler som bara hittade ännu fler problem och ännu fler vulnerabilities."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:41",
+    "line": "Det som då egentligen skedde var ju hur många företag som helst som använde det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:49",
+    "line": "Alla hade de här säkerhetsläckorna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:51",
+    "line": "Men det som de facto hände var väl att de open source utvecklarna fick sitta utan ersättning"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:58",
+    "line": "över jul och bara patcha i all ljusets hastighet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:07",
+    "line": "Och det gjorde de ju."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:08",
+    "line": "Men det var ju vad jag förstått då utan ersättning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:12",
+    "line": "Utan bara hets av hela internet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:15",
+    "line": "- Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:16",
+    "line": "Jag kommer ihåg när det där briserade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:18",
+    "line": "Att när jag hörde..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:21",
+    "line": "Det var en mindblown-ögonblick när jag hörde att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:24",
+    "line": "Det enda som krävdes var att man skrev en specifik sträng som det här loggade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:31",
+    "line": "Och då fick man access för att köra RCE, alltså Remote Code Execution."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:35",
+    "line": "Alltså att du kunde köra kod på den maskinen som hade loggat det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:38",
+    "line": "Och att det även fanns tips i Minecraft."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:41",
+    "line": "Så det räckte med att du skrev något i chatten på Minecraft."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:43",
+    "line": "Och då fick du det på servern, men också på klienterna som var anslutna till servern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:49",
+    "line": "För att alla klienter också loggade vad som sags i chatten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:52",
+    "line": "Så det räckte att du gick in på en Minecraft-server, skrev den här grejen och så kunde du få access till alla som var anslutna till servern och servern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:59",
+    "line": "Jävlar!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:01",
+    "line": "Och då kände jag, ah, okej, det här kanske är ganska allvarligt ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:05",
+    "line": "Ehh, ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:07",
+    "line": "Det är då man förstår den här mimen när hon tar i hand med chefen som tackar för att man har varit så bra på säkerhet och redan när man gjort det var det en standard outline."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:17",
+    "line": "Jag har hört det, hos min nuvarande kund så är det en leverantör som vi har där deras testmiljö har varit nere i en och en halv månad"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:27",
+    "line": "Och vi tror att det är på grund av att de hade låg på J där och då har de väl prioriterat prod, helt förståeligt, men testmiljön har varit nere ganska länge"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:39",
+    "line": "Det är också en sån här grej som du säger, jag känner igen den storyn att de fick sitta själv och det var inte jättemånga som var aktiva och utvecklade det här projektet"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:51",
+    "line": "Och så blev det precis som du sa, att man hittade den här första buggen, löste den, släppte någon patch och så bara \"ja nu hittar vi en till bugg\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:56",
+    "line": "För att helt plötsligt satt ju hela internet och granskade log4j-koden och letade fler säkerhetsluckor och då är det klart att man hittar någon mer"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:06",
+    "line": "Ja, och det är inte då man som denna maintainer bara \"Nej men jag ska öppna en julklappar nu så killa alla\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:16",
+    "line": "Nej då känner man kanske lite ansvar att faktiskt försöka fixa det direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:21",
+    "line": "Men det är ju sjukt, man kan ju tycka att det borde till någonting sånt här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:26",
+    "line": "När det här har hänt, att nu kanske folk inser att vi borde betala de här lite mer så att de har lite mer resurser och kan lägga lite mer tid på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:33",
+    "line": "Och kunna se att det här projektet hade råd att beställa in någon extern ådigt av all kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:41",
+    "line": "Sådana saker skulle kunna finansieras om bara fler skickade lite pengar på dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:48",
+    "line": "För egentligen handlar det inte om att världens företag inte har pengar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:52",
+    "line": "Utan det är bara att det är gratis och gott."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:55",
+    "line": "Ja, och för att det finns en tradition att allting bara är gratis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:00",
+    "line": "Ja, verkligen. Det kommer väl lite från information is free-rörelse."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:06",
+    "line": "Men det är lite av ett korthus. Det finns ju någon XKCD-seriestripp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:15",
+    "line": "Det är en bild på ett staplat torn av klossar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:23",
+    "line": "Och sen är det en liten kloss som håller upp allting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:26",
+    "line": "Och så står det en pil som skriver \"As minor project someone on the internet has been thanklessly maintaining since 97\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:36",
+    "line": "Och det är exakt vad det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:40",
+    "line": "Så att, det vet inte, Log4J var ju extremt stort men samtidigt är jag också lite skeptisk till att det kanske kan bli någon faktisk förändring i hur Open Source funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:50",
+    "line": "Det är ett för stort monster liksom, vem ska driva det, vem ska lyckas göra det liksom. Det känns otroligt svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:01",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:02",
+    "line": "Det måste vara en hel av en projektledare det där alltså."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:04",
+    "line": "Det känns som att det blir lite populärt på sistone med folk som bygger populära open source-projekt inom JavaScript-världen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:13",
+    "line": "Att man bygger ett bolag bakom som sen tar in riskkapital och så ska man försöka bygga någon tjänst som man ska tjäna pengar på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:20",
+    "line": "Du har till exempel Vercel som kom från Next.js från början."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:27",
+    "line": "Du har Remix nu nyligen som också har startat något bolag och tagit in riskkapital."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:34",
+    "line": "Så det finns väldigt många sådana som har gjort det den vägen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:38",
+    "line": "Men det funkar inte för alla att göra så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:41",
+    "line": "Det är helt omöjligt att folk ska kunna trycka in så mycket riskkapital i bara något och sen att det ska gå runt på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:47",
+    "line": "Det blir ju inte hållbart i längden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:49",
+    "line": "– Nej, och man ser ju också, vad blev det åt andra hållet för Mozilla?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:55",
+    "line": "– Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:56",
+    "line": "– De gjorde skitmycket bra grejer som är bra för internet och så har vi typ alla använt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:02",
+    "line": "Och sen så stänger de ner det för att de måste spara in."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:07",
+    "line": "– Ja, nämen verkligen. Och på tal om att silla så fick de också skit mycket skit häromdagen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:11",
+    "line": "Jag kan bara nämna det i förvifarten här för att de ville ta emot donationer i bitcoin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:17",
+    "line": "Och då var hela internet så här \"Vad fan, ni skulle ju vara de goda\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:23",
+    "line": "Så att de ändrade på det faktiskt. Så att nu sa de \"Nej, vi gör inte det. Förlåt\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:29",
+    "line": "Så jag vet inte, det känns också som att någon har känt att bitcoin är hett, nu kör vi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:36",
+    "line": "Och alla bara, har ni tänkt på klimatpåverkan? Och de bara, nej, okej, ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:42",
+    "line": "Just det, just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:46",
+    "line": "Mycket som poppar upp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:50",
+    "line": "Ja, det är mycket grejer som händer samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:54",
+    "line": "Det var inte allt för länge sedan, eller kanske var flera år sedan nu, det är pre-pandemi och alltihopa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:02",
+    "line": "Med Leftpad som var förra stora grejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:07",
+    "line": "Nu kommer jag inte ihåg när det var för tiden är som den är för tillfället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:12",
+    "line": "Eller svinlänge sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:14",
+    "line": "Men det var också världens största grej när de tog bort Leftpad-paketet på NPM."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:21",
+    "line": "Jag tror utvecklaren blev förbannade på NPM och avpublicerade det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:27",
+    "line": "Jag tror det var 2015."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:29",
+    "line": "Ja det kan faktiskt vara så länge sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:31",
+    "line": "Men jag kommer ihåg att det är därför NPM har de här processerna nu där de kan återställa gamla versioner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:37",
+    "line": "För det fanns inte då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:39",
+    "line": "Jag tänkte precis på det. De måste verkligen lära sig det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:44",
+    "line": "Någon hade ett helvete postmortem och fick en massa action points och bara hade det löst den här gången."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:51",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:52",
+    "line": "Det ska bli spännande att se om GitHub faktiskt kommer ut med någon kommentar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:57",
+    "line": "Jag har inte sett någon än från dem i och med att de har fått så oerhört mycket kritik från många på att de har bannat kontot."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:06",
+    "line": "Alla som bara ser deras resonemang."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:07",
+    "line": "Jag tycker att det är ett resonabelt gjort av dem att kontot är bannat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:13",
+    "line": "Men det ska bli spännande att se om de kommer ut med det och om de ändrar sig eller hur det ser ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:18",
+    "line": "För den här personen, utvecklaren, han skrev typ någon tweet om att jag har flera hundra andra bibliotek som också ligger på NPM men högstas på GitHub."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:28",
+    "line": "Vad gör jag med dem nu typ?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:30",
+    "line": "– Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:32",
+    "line": "– Jävlar alltså."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:36",
+    "line": "Vad stökigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:38",
+    "line": "Ja, det är en spännande tid. Jag förstår ju, varje gång sånt här händer så hör man ju också kritik från icke-webbutvecklare eller icke-javascriptutvecklare"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:47",
+    "line": "som bara så här, hur, varför, npm, npm, hur kan det ens funka? Hur tror ni att det här kan funka ens?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:55",
+    "line": "Men samtidigt gör det ju det, förutom några incidenter som händer lite då och då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:02",
+    "line": "Och i det här fallet så är det ju inte NPM som har gjort något konstigt egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:06",
+    "line": "Folk borde väl kanske pinna sina versioner lite mer i Package.json så att man inte bara automatiskt uppdaterar sig en ny version så fort den släpps."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:16",
+    "line": "Ja, absolut. Använd lockfilen people!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:19",
+    "line": "Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:21",
+    "line": "Så att det kan väl vara en viktig poäng att de här säger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:25",
+    "line": "MPM har också en ganska ny feature som jag tror kom i höstas kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:31",
+    "line": "Där man i PackageJ som kan sätta in overrides och skriva in vilka paket man vill ska köpa och vilka versioner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:37",
+    "line": "Men att de då också gäller för alla paket i hela trädet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:41",
+    "line": "Alltså även om det är beroenden som dina paket har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:43",
+    "line": "Mm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:45",
+    "line": "I det här fallet om man hade blivit stoppad av att något paket man berodde på berodde på colors till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:52",
+    "line": "Då hade du bara kunnat sätta in Overrides i din Package.Json och så hade allt funkat igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:57",
+    "line": "- Jaha."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:59",
+    "line": "Ska inte alla bara dra hem allt lokalt och köra Zimlink på fil?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:04",
+    "line": "Eller köra fil på Zimlink?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:05",
+    "line": "- Åh gud, jag tycker att allt ska ligga bara på burken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:07",
+    "line": "Allt ska ligga på burken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:09",
+    "line": "- Nej men det är ju lite kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:12",
+    "line": "Det är ju kul för det är så himla fragilt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:15",
+    "line": "Och då och då så blossar diskussionen upp om hur fragilt det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:20",
+    "line": "Den här bloggposten när någon i detalj förklarade hur han skulle använda NPM för att korrupta massa saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:26",
+    "line": "Den här grejen, det var väl någonting annat som var för ett tag sedan också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:31",
+    "line": "Och så blossar diskussionen upp om, \"Vad håller vi på med, vad håller vi på med?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:35",
+    "line": "Och sen så kommer vardagen igen och så lägger det sig liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:38",
+    "line": "Ja, sen fortsätter ju tåget rulla så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:43",
+    "line": "Det är inte så att tåget stannar utan det är att det hoppar till lite ibland."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:47",
+    "line": "Och sen kör vi vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:51",
+    "line": "- Ja, signalfel, jävlar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:54",
+    "line": "- Exakt, exakt. Det är allt som händer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:57",
+    "line": "Ja, jag tror kanske det är allt vi har den här gången."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:01",
+    "line": "Jag slänger in en jäkla massa länkar i beskrivningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:04",
+    "line": "Om man inte har läst i kaps sig på det här redan så kan man ju få göra det, tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:10",
+    "line": "- Ja, lös problemet. Internet kommer tacka dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:15",
+    "line": "Ingen kommer med en lösning till oss hur vi slipper såna här saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:19",
+    "line": "Med det sagt, tack för idag. Vi hörs igen om två veckor så saves oss länge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:28",
+    "line": "Det gör vi. Hej då!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:30",
+    "line": "[Outromusik]"
+  }
+]

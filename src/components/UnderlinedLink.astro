@@ -1,0 +1,57 @@
+---
+export interface Props {
+  href: string
+  class?: string
+  id?: string
+}
+
+const { href, class: className, id } = Astro.props
+const randomSvgHeight = () => 6 + Math.floor(Math.random() * 6) - 3
+---
+
+<a class:list={['link', className]} href={href} id={id}>
+  <span><slot /></span>
+  <svg
+    width="100%"
+    height="12"
+    viewBox="0 0 100 12"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    preserveAspectRatio="none"
+  >
+    <path
+      d={`M 0,${randomSvgHeight()} Q 25,${randomSvgHeight()}  50,${randomSvgHeight()}  T 100,${randomSvgHeight()}`}
+      stroke="#18140b"
+      stroke-width="2"
+      stroke-linecap="round"></path>
+  </svg>
+</a>
+
+<style>
+  .link span {
+    white-space: pre;
+    position: relative;
+    color: black;
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+  }
+  .link {
+    text-decoration: none;
+    position: relative;
+    height: fit-content;
+  }
+  .link svg {
+    overflow: visible;
+    display: inline-block;
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 100%;
+    height: 12px;
+    stroke-dasharray: 101;
+    stroke-dashoffset: 101;
+    transition: stroke-dashoffset 350ms;
+  }
+  .link:hover svg {
+    stroke-dashoffset: 0;
+  }
+</style>

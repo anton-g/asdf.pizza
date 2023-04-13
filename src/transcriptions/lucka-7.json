@@ -1,0 +1,227 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "How do elves respond when Santa takes attendance?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:10",
+    "line": "Present."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:12",
+    "line": "Alltså fan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Jag känner att jag borde kunna knäcka någon snart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:20",
+    "line": "Jag borde kunna gissa vad punishline är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:23",
+    "line": "Jag är så jävla dålig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:25",
+    "line": "Skämtar var jättebra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:27",
+    "line": "Ja, fast det lyckades ju med Cervez."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:29",
+    "line": "Ja, det lyckades jag faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:31",
+    "line": "Jag kom också på det i sista sekunden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:33",
+    "line": "Men det var också så relevant tidsmässigt att det var lättare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:38",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:40",
+    "line": "Men i alla fall, välkomna till Loka 7."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:43",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:45",
+    "line": "Och idag är det... Det är ett jävla torrt tips jag har egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:49",
+    "line": "Men det är ett torrt och nyttigt tips, tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:53",
+    "line": "Och det är att man ska läsa mer källkod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:57",
+    "line": "Och då menar jag kanske inte läsa sin egen källkod så mycket, utan jag menar mer öppen källkod som ligger på gittan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:03",
+    "line": "Typ om man använder ett bibliotek, eller ett ramverk, eller vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:08",
+    "line": "Eller om du drar in någon liten tredjepartskomponent eller någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:11",
+    "line": "Alltså jag har lärt mig sjukt mycket av att bara lägga lite tid på att försöka läsa lite källkod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:16",
+    "line": "eller om man sätter på en bugg eller så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:20",
+    "line": "det oväntat är hur någon tredjepartsgrej funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:23",
+    "line": "Att kunna gå in och läsa lite källkod på GitHub,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:26",
+    "line": "eller GitLab, eller var det nu ligger,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:28",
+    "line": "gör..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:30",
+    "line": "Jag tycker att det har gett mig en ganska stor förståelse för hur saker funkar,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:34",
+    "line": "och gör det mycket lättare att läsa ny kod också, genom att öva på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:38",
+    "line": "Ja, det är egentligen ett supertips."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:42",
+    "line": "Jag glömmer bort det fortfarande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:45",
+    "line": "Jag går inte in och kollar. Jag läser dokumentation och är dokumentationen dålig då är jag inne åt vänstern och är kört."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:52",
+    "line": "Men sen ibland går man in i källkodet men så ser man bara hundra typescript-definitioner eller class components."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:01",
+    "line": "Dokumentationen är ju kanske där man sträcker sig efter först."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:05",
+    "line": "Men om det bara funkar inte, varför funkar inte det här som jag förväntar mig?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:09",
+    "line": "Det kan ge ganska mycket, för oftast är inte koden som bibliotek eller tredjepartsgrejer skriven med så mycket mer avancerad än din."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:20",
+    "line": "Det är klart att den är inte så familjär för dig, eller du känner inte till den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:24",
+    "line": "Så det kanske tar ett tag att läsa den, men om man bara lägger ner lite tid på det så tycker jag i alla fall att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:29",
+    "line": "efter en liten stund så får man \"ja, men det funkar så här\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:31",
+    "line": "Och då kan man ju också när man väl använder det här känna att \"ja, men jag har ändå hyfsat koll på hur det funkar internt\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:37",
+    "line": "– Ja, sen kan man ju bli besviken ibland också. – Sen kan man bli besviken ganska ofta, det ska jag säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:43",
+    "line": "– Ja, toppen tips skulle jag säga. – Ja, jag ska vara lite roligare framöver, istället för något sådär torrt och trist."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:51",
+    "line": "Men vi hörs igen imorgon helt enkelt. – Ja, ha det bra. – Bye bye."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:58",
+    "line": "(Musik)"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:00",
+    "line": "[Skritt]"
+  }
+]

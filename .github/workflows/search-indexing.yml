@@ -1,0 +1,39 @@
+name: Index episodes
+
+on:
+  push:
+    paths:
+      - 'src/transcriptions/**'
+      - 'src/content/episodes/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Get changed files
+        uses: tj-actions/changed-files@v35
+        id: get-changed-files
+        with:
+          files: |
+            src/transcriptions
+            src/content/episodes
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+
+      - name: Install dependencies
+        run: 'npm ci --ignore-scripts'
+
+      - name: Run Node script
+        run: |
+          node scripts/reindex-transcriptions.js ${{ steps.get-changed-files.outputs.all_changed_files }}
+        env:
+          ALGOLIA_ADMIN_KEY: ${{ secrets.ALGOLIA_ADMIN_KEY }}
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}

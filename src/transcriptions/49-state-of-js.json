@@ -1,0 +1,2407 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Varför är utvecklare så dåliga på att sopsortera?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "Stoppar alltid samma container bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:11",
+    "line": "Det var bra tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Innan vi började spela in så sänkte du ändå förväntningarna på att det skulle vara uruselt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:18",
+    "line": "Eller till att det skulle vara uruselt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:21",
+    "line": "Nej, jag läste ett annat riktigt dåligt skämt som var bredvid det här skämtet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:26",
+    "line": "Det kanske kommer nästa gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:28",
+    "line": "Ja, vi får se. Perfekt cliffhanger till nästa avsnitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:33",
+    "line": "Yes, vart är vi? Jo, vi är i ett nytt avsnitt av ASDF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:39",
+    "line": "Och vi tänkte väl eventuellt att vi skulle prata lite grann om den här State of Jesus Surveyn, eller undersökningen som görs varje år."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:48",
+    "line": "Och vi får se om vi landar i den, eller om vi bara utgår från den. Vi får se vad det här blir av, helt enkelt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:54",
+    "line": "Men de släppte i alla fall sitt resultat nu för det måste vara några veckor sedan nu va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:58",
+    "line": "Antar jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:59",
+    "line": "Ja det tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:00",
+    "line": "Och jag tänker att vi kan ju titta lite grann på hur det ser ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:03",
+    "line": "För jag tycker att den är ju intressant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:07",
+    "line": "Även om jag tycker att den har särskilt i år fått ganska mycket välbehövd uppmärksamhet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:13",
+    "line": "Att den inte kanske är så representativ för branschen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:17",
+    "line": "Som den kanske inte försöker utge sig för att vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:20",
+    "line": "Men som folk tolkar den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:23",
+    "line": "- Alltså, vad är det som... - Ja, och den stora grejen är ju att de visar ju all data vilket är jävligt nice så man kan analysera den där ganska bra"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:34",
+    "line": "Men den stora delen är väl liksom att det är i stort sett bara utvecklare från USA som svarar till exempel"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:42",
+    "line": "Alltså tittar man på Sverige så är det vadå, 200 personer i Sverige har svarat"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:47",
+    "line": "Och då är det kanske svårt att dra något slutsatser även om branschen i sig kanske är ganska ihopkopplad så kan det vara att i Sverige så är det skit många javascriptutvecklare som också skriver p.o.p. fast det inte är det i USA till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:02",
+    "line": "Ja, just det. Jag tänkte på det också för det är så jäkla mycket engelska."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:10",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:12",
+    "line": "Det kanske inte är så himla konstigt med tanke på att mycket av informationen som finns är på engelska."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:20",
+    "line": "Nej, exakt. Men tittar man liksom, det är 2300 som har svarat i USA och som sagt 200 pers ungefär i Sverige."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:27",
+    "line": "Så det gör ju så att det är en extremt stor skillnad och då blir det en liten styrd däremot"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:37",
+    "line": "Men jag vet inte procentuellt sett hur många utvecklare i USA har jämfört med alla andra"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:44",
+    "line": "Nej så skulle det ju absolut kunna vara. Det skulle ju kunna vara att det är representativt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:52",
+    "line": "Fast det är inte särskilt så att det bara finns 200 utvecklare och 200 personer känns som ett ganska litet urval"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:58",
+    "line": "Om man ska slippa ett bias"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:00",
+    "line": "Och sen finns det ju också en massa andra bias som man kan tänka sig finns i State of Health också"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:07",
+    "line": "Till exempel att de som kommer svara på den här surveyn är de som har åsikter om JavaScript"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:13",
+    "line": "Det är inte de här utvecklarna som bara sitter på sin kammare och gör sitt jobb bra och inte är superintresserade av vad som händer runt omkring"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:21",
+    "line": "som kommer svara på den förmodligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:23",
+    "line": "- Och de som verkligen bryr sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:25",
+    "line": "Och det är ganska lätt att vikta den också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:28",
+    "line": "Säg att du tycker att det är lite få kvinnliga utvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:32",
+    "line": "Då skulle man ju till exempel kunna göra en punktinsats"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:35",
+    "line": "att bara skicka ut serving till kvinnliga utvecklare"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:37",
+    "line": "för att höja den statistiken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:39",
+    "line": "Som ett exempel som de inte har gjort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:41",
+    "line": "Men jag menar, det hade ju gått."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:43",
+    "line": "- Ja exakt, och det är svårt att veta om det finns någon bias i den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:48",
+    "line": "Tittar man på åldrarna på de som har svarat, 40% är mellan 24 och 34 år."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:53",
+    "line": "Och sen är det liksom, ja men tittar man över 45 så är det väl då 5% ungefär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:01",
+    "line": "Men alltså bias finns ju alltid i teknik."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:06",
+    "line": "Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:08",
+    "line": "Det är människor som utvecklar det liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:10",
+    "line": "Så det är ju väldigt svårt att dra några konkreta slutsatser och säga att det är så här det är efter just den här lönesvaret precis framför mig"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:29",
+    "line": "Enligt den här undersökningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:31",
+    "line": "En sak som jag tycker är ganska intressant som jag tänkte på när jag tittade på just det här med demografin bakom Servin är att det är nog typ 15% som har sagt att de har en utbildning i något område som inte är relaterat till utveckling."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:49",
+    "line": "Det tycker jag ändå är ganska högt. Alltså mer än vad jag hade förväntat mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:55",
+    "line": "Ja, men det är ju en bransch som många krävs byter till också, är min uppfattning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:04",
+    "line": "Ja, verkligen. Det tycker jag också är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:10",
+    "line": "Och tittar man också på den här fast nerebryten och tittar man då på att för män så ligger den på 19%"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:21",
+    "line": "Alltså de som har en utbildning på andra saker så att säga. Och här har de också, jag ser att de har tagit bort den, alltså att den är högre än 15%"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:31",
+    "line": "Därför att de tydligen har tagit bort de som inte har svarat när de brett ner det på Persön"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:35",
+    "line": "Men för kvinnor så ligger den på 34-35%."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:42",
+    "line": "Och det känns ju också som att det är en liten ankalsgräns kanske att kvinnor karriärsbyter in i utveckling senare än vad män gör till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:53",
+    "line": "Det känns väl ändå som någonting som ligger nära min upplevelse av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:01",
+    "line": "Det kanske bara är en så här enda lång, vad heter den där confirmation bias jag har?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:11",
+    "line": "Confirmation bias kanske det heter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:13",
+    "line": "Ja kanske det heter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:15",
+    "line": "Hade jag kanske kunnat lista ut, men det gjorde jag inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:19",
+    "line": "Det är inte rätt alla gånger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:21",
+    "line": "Och det är också kul för de har också visat vart man har svarat eller vart man har hittat \"servin\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:28",
+    "line": "Och då är det liksom 21% har hittat den på Twitter"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:32",
+    "line": "Och sen typ 17% har hittat den från State of Js själva, jag antar att den har mejlutskickat eller något"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:38",
+    "line": "10% från Google"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:41",
+    "line": "Och sen är det väldigt låga present på allting annat som är typ lite podcast och lite communities och lite sociala medier typ"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:50",
+    "line": "Telegram, den tycker jag är spännande"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:53",
+    "line": "Ja, men det känns som att, jag aldrig har varit med om det, men det känns som att det finns ganska många grupper i Telegram som man kan gå med i"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:01",
+    "line": "Jag fattar att när min CodeSmells bloggposten om React blev lite halvviral då var det ganska mycket trafik som kom från Telegram enligt en analytik."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:16",
+    "line": "Spännande, för jag använde Telegram men bara för att snacka med folk jag känner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:21",
+    "line": "Ja, för då har jag antar att man skickas in i en grupp där och sen kom det massa trafik därifrån."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:27",
+    "line": "Så jag vet inte riktigt hur det funkar. Kanske ett sidospår."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:30",
+    "line": "Ja, men har du fyllt i den?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:33",
+    "line": "Jag har fyllt i den, det gjorde jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:35",
+    "line": "Kommer inte ihåg alls när jag gjorde det, men jag vet att jag gjorde det i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:39",
+    "line": "Fyllde du i den?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:40",
+    "line": "En av 200."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:41",
+    "line": "Om jag har fyllt i den? Nej, jag tenderar att fastna på sådana här race and ethnicity."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:47",
+    "line": "Just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:48",
+    "line": "så passar jag liksom inte in i någon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:50",
+    "line": "Och så orkar jag inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:52",
+    "line": "Och så skiter jag i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:54",
+    "line": "Det känns ju också som ett till problem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:56",
+    "line": "Kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:58",
+    "line": "Ja, men det är så himla konstigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:00",
+    "line": "För dels har de slagit ihop race och ethnicity."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:02",
+    "line": "Och sen är det så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:04",
+    "line": "är du vit eller är du"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:06",
+    "line": "East Asian?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:08",
+    "line": "För mig då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:10",
+    "line": "Rasmässigt så är jag ju East Asian."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:12",
+    "line": "Men etnicitetsmässigt, jag har ju ingen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:14",
+    "line": "som helst kulturell anknytning"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:16",
+    "line": "knutning till Östasien. Jag är ju pur svensk och då blir det så här shut down i huvudet så blir det för jobbigt och så orkar jag inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:26",
+    "line": "- Ja, jag förstår det. Det är inte det lättaste eller det självklaraste svaret när det är ihopslaget så där kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:34",
+    "line": "- Nej, sen så kan jag ju bara skita i det och gå vidare och göra det ändå och det gör jag ibland. Men ibland så blir jag lite sur."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:40",
+    "line": "Det kanske var det om demografin. Heter det demografi på svenska också?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:52",
+    "line": "Ja det är det väl."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:54",
+    "line": "Det kanske det gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:56",
+    "line": "Det är så jävla stor så vi kommer inte hinna prata om allting i den här podden. Särskilt när vi har babblat så här mycket om demografi i början."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:01",
+    "line": "Men jag har några saker som jag tyckte var intressant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:05",
+    "line": "En av dem är att jag kollade på, de frågade om WebAssembly."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:10",
+    "line": "Och jag har liksom aldrig använt det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:15",
+    "line": "Men ändå så är det 15, nästan 16 procent av alla som har svarat, som säger att de har använt WebAssembly."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:21",
+    "line": "Och det tycker jag känns så fruktansvärt högt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:24",
+    "line": "Ja, det tycker jag med. I alla fall om det kommer från JavaScript-folk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:32",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:33",
+    "line": "Men alltså, ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:37",
+    "line": "För de kanske verkligen använder saker på ett annat sätt som jag har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:40",
+    "line": "För jag kände att jag blev lite chockad av..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:43",
+    "line": "Och nu kommer det en spoiler alert för awards,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:47",
+    "line": "om man hemskt gärna ville klicka fram det själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:50",
+    "line": "Men typ, den \"most adopted feature\" är Nullish Colessi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:53",
+    "line": "Och den är väl bra liksom, men jag har typ aldrig använt den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:58",
+    "line": "Jag har inga use case för den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:00",
+    "line": "Så jag var så här, men okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:02",
+    "line": "Ja, där funderar jag typ på om det är att folk blandar ihop det med den här optional chaining."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:14",
+    "line": "Ja, för den har jag använt som satan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:16",
+    "line": "Ja, den använder jag också som satan, men jag håller helt med om att dubbelfrågetecken använder jag inte jätteofta direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:22",
+    "line": "Nej, så det var mer att jag tänkte att optional chaining skulle ha vunnit den, men som du säger, folk kanske blandar ihop dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:30",
+    "line": "Eller så finns det ett supertydligt ljuscase som vissa har dagligen som jag absolut inte har någon relation till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:36",
+    "line": "Ja, det skulle ju kunna vara så också. Men jag vet inte. Nej, jag håller helt med dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:41",
+    "line": "Men jag tycker att vissa av de här är väldigt svåra som sagt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:46",
+    "line": "Jag tänker att det här kanske är ett resultat av att det är en väldigt begränsad grupp utvecklare som faktiskt svarar på den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:52",
+    "line": "Och då kanske WebAssembly är saker som folk har testat på för att de är superintresserade och vill veta hur det funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:59",
+    "line": "Ja, alltså det är ju så här folk som inte bryr sig så jäkla mycket skulle de bry sig om att fylla i det liksom?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:10",
+    "line": "Nej, exakt. Nej så är det väl förmodligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:18",
+    "line": "Sen är det en annan sak jag tänkte på som är lite halvrelaterad men när man kommer in på typ Ramverken och biblioteken och sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:26",
+    "line": "Det är så mycket nya sätt att presentera informationen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:33",
+    "line": "Grafer som är i en jävla torn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:35",
+    "line": "Det känns som att de har för mycket försökt att få det att se snyggt ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:46",
+    "line": "Det är någon där man kan se att de har en..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:48",
+    "line": "Jag vet inte vad det heter. Ett sånt här rutnät."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:51",
+    "line": "Alltså fyra rutor där det är typ så här..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:53",
+    "line": "Har använt och har inte använt på Y-axeln."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:56",
+    "line": "Och negativt och positivt på X-axeln, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:01",
+    "line": "Och sen har de ritat typ streck hur det har förändrats över tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:06",
+    "line": "Och den tycker jag är så rörig så att det går liksom inte ens så..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:09",
+    "line": "Man får inte ut någonting av den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:12",
+    "line": "- Ja, det är den här \"Changes over time\". - Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:15",
+    "line": "Och sen sträckan är också djupare, mörkare eller ljusare, tjockare eller tunnare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:25",
+    "line": "Beroende på var i tiden du..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:29",
+    "line": "Nej, på \"rising popularity\" och \"falling popularity\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:34",
+    "line": "Ja, jag tycker den är rörig. Den ger mig inte någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:41",
+    "line": "- Nej, det är lite som att det är ett barn som har gått loss med en kalligrafi-torspenna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:47",
+    "line": "- Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:49",
+    "line": "Däremot så är de här, jag vet inte om de är nya för i år eller om de hade de förra året också,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:54",
+    "line": "när de visar mer förändring över tid i kolumner och sträck mellan hur,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:01",
+    "line": "alltså det är typ på sidan om fronten, dramverk första gången den används tror jag,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:05",
+    "line": "Så kan man se hur nöjd folk är med ramverken eller hur intresserade folk är eller användning och medvetenhet kring dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:19",
+    "line": "Ja, den tycker jag var riktigt nice. Det är också kul att flippa mellan dem. Hur nöjd är du med hur \"aware\" medveten var de?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:31",
+    "line": "Så får man se hur de diffar. Det är intressant att saker går om \"react\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:39",
+    "line": "Ja, men sen tycker jag att det är liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:42",
+    "line": "Den kan vara lite svårtolkad också för att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:46",
+    "line": "Typ det ser ut, tittar man på satisfaction så ser det ut som att, oj vad Reacts satisfaction sjunker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:52",
+    "line": "Från 89 till 88 till 84."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:55",
+    "line": "Men"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:56",
+    "line": "I själva verket så är det ju förmodligen då att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:59",
+    "line": "Det är kanske färre som använt React litegrann, men samtidigt är ju React det överlägset mest använda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:05",
+    "line": "Alltså liksom så här, React framgångssaga är ju så extremt stor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:09",
+    "line": "Ja, men sen blir ju grafen lite missvisande också för att det inte är så att de följer svin mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:15",
+    "line": "Det är bara att det har tryckts upp två saker ovanför dem som ligger på en \"slightly higher percentage\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:20",
+    "line": "Ja, nämen exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:22",
+    "line": "Så det här är väl så med all data som vi ändå har fått lära oss över pandemin och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:30",
+    "line": "Man får verkligen hålla tungan rätt i munnen när man läser grafer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:33",
+    "line": "Ja, exakt. Och samma sak tittar man på typ intrestfliken för React så har den gått från 71 till 68 till 61 till 58 till 48."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:42",
+    "line": "Och då känns det ju så här, tittar man bara på den då känns det så här, oj, React håller ju på att tappa det hela hållet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:47",
+    "line": "Men i själva verket är det ju typ att, ja ja, men de som har varit intresserade av React har testat React redan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:54",
+    "line": "Så att de kommer inte välja den, liksom att de är intresserade av React igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:58",
+    "line": "Då kan man titta istället på typ Usage där React fortfarande ligger i överlägset högst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:04",
+    "line": "En annan sak som också är intressant, Angular ligger högre än Vue till exempel på Usage."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:11",
+    "line": "Ja, det är sant alltså."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:15",
+    "line": "Ja, det känns inte som en bild som förmedlas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:18",
+    "line": "Det känns som att nu är det liksom, vi kör Vue eller vi kör React."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:21",
+    "line": "Och sen ibland kanske lite typ vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:25",
+    "line": "Svält."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:27",
+    "line": "Ja, men jag tror att det blir ju, det är också svårt att säga vad som är vad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:35",
+    "line": "Eller liksom, jag menar viktat på vad folk sitter för typ av projekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:40",
+    "line": "Alltså för det kan ju också vara en enorm skillnad på, jag vet inte om det är rena legacy-projekt som folk vill gå ifrån,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:46",
+    "line": "eller om det är Greenfield, eller, alltså det är svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:51",
+    "line": "Jag visste inte att Ember fortfarande var en grej till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:55",
+    "line": "Litt vet jag inte ens vad det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:57",
+    "line": "Nej, inte lite någon typ av webbcomponents grej kanske jag tror."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:05",
+    "line": "Ah, okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:07",
+    "line": "Om jag inte minns helt fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:09",
+    "line": "För det är intressant, man pratade så himla mycket om Preact."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:14",
+    "line": "Det blev ju en grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:16",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:17",
+    "line": "när det kom och React kanske skulle kosta pengar och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:20",
+    "line": "Men sen tycker jag ändå att det försvann lite."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:23",
+    "line": "Men det finns ändå med här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:27",
+    "line": "Ja, jag håller med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:28",
+    "line": "Det är också en sån sak."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:29",
+    "line": "Jag hör inte folk prata jättemycket om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:33",
+    "line": "Men en del av mina fördomar säger också lite att det är sådana som har koll på"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:36",
+    "line": "HFSM och är lite mer så här, du vet, stöst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:40",
+    "line": "Staten ska inte bestämma över mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:44",
+    "line": "Tanken, åh gud vad det lät."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:46",
+    "line": "När man känner kanske lite ett förakt mot stora företag och kapitalistisk vinning, vilket jag absolut förstår,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:57",
+    "line": "så är man kanske lite mer \"prone\" att använda saker som \"preact\" kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:01",
+    "line": "Ja, nej men absolut. Det kan jag hålla med om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:05",
+    "line": "Det finns säkert någon typ av sanning i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:09",
+    "line": "Jag tycker också att det är intressant att de har splittat frontend framework och backend frameworks."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:23",
+    "line": "När i backend frameworks finns till exempel Next eller Astro. Jag vet inte om jag hade sett dem som backend ramverk riktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:35",
+    "line": "Nej, jag vet inte heller. Det är också som en remix."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:41",
+    "line": "De här rör ju i back-end delar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:48",
+    "line": "Men det är ju fortfarande hela..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:50",
+    "line": "Men det hade varit konstigt att ha dem i fronten också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:55",
+    "line": "Jo, det kan jag hålla med om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:58",
+    "line": "De är liksom någonstans mitt emellan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:00",
+    "line": "Vilket gör det svårt att bara säga att det är back-end ramverk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:03",
+    "line": "Ja, det är sant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:06",
+    "line": "Ja, det är stökigt är det. Men jag är lite chockad över att Koa inte ens är med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:12",
+    "line": "Ja, för mig är jag inte så chockad för att jag känner att jag aldrig har använt Koa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:18",
+    "line": "Aldrig hört om någon som använder Koa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:20",
+    "line": "Ja, de två senaste kunderna har vi kört Koa tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:25",
+    "line": "Två eller tre kanske till och med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:27",
+    "line": "Ja, det är sant. Jag har nog hört dig säga det någon gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:29",
+    "line": "Det är en."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:31",
+    "line": "Jag tror det är bara, för det är många som jag har pratat med som är sådär, Express är ute, KOR är det nya."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:39",
+    "line": "Och då är jag alltid bara såhär, jaha, okej. Jag bara accepterar att säga, jag bara köpte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:46",
+    "line": "Ja, jag vet inte. Det känns som att det är väldigt svårt att få en bild över det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:53",
+    "line": "även om man har alla de här svaren att titta på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:55",
+    "line": "Så känns det som att, jaha, okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:57",
+    "line": "Är det så här i verkligheten eller inte?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:59",
+    "line": "- Ja, alltså."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:03",
+    "line": "Jag vet inte, jag tycker det är en kul grej,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:07",
+    "line": "men det är ju verkligen inget facit, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:09",
+    "line": "Jag tycker också att det är svårt att veta,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:15",
+    "line": "för att man kan bli verkligen så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:17",
+    "line": "ja, men, jag har aldrig hört talas om det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:19",
+    "line": "Jaha, men det var en view-grej,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:21",
+    "line": "Jag har aldrig suttit med \"view\" så det är inte så konstigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:23",
+    "line": "Men det är roligt att jag aldrig har suttit med \"view\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:26",
+    "line": "- Ja, alltså det känns ju så här, det är väldigt många av alla de här sakerna som jag känner att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:31",
+    "line": "jag aldrig rört det här biblioteket, eller det här ramverket, eller vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:37",
+    "line": "Och det är ganska lätt, särskilt om man är ny så tror jag att det är ganska lätt att gå,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:41",
+    "line": "om man skulle komma in här och se det här och bara \"Oj, det finns så här mycket saker\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:45",
+    "line": "Lätt att bli lite liksom överväldigad av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:51",
+    "line": "Ja, alltså jag, någonting som jag har missat fullständigt var ju igen spoiler alert men den här satisfaction highest interest det var vitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:06",
+    "line": "Ja, just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:07",
+    "line": "Den tycker jag faktiskt är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:10",
+    "line": "Vi körde i något projekt nu"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:12",
+    "line": "på jobbet och där"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:15",
+    "line": "det funkar väldigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:18",
+    "line": "Det jag har sprungit på lite problem med är när vi har haft något fall"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:21",
+    "line": "när vi vill använda något Babel-plugin som inte riktigt funkar i vitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:25",
+    "line": "Vilket gjorde det lite meckigt och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:28",
+    "line": "Men annars tycker jag att den är skitnice när man är uppe och snurrar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:31",
+    "line": "Den är svinsnabb, jävligt smidigt att funka med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:35",
+    "line": "Fast refresh till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:37",
+    "line": "Allting runt där är sjukt nice tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:41",
+    "line": "Och den är ganska plug and play."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:43",
+    "line": "Vilket kanske är anledningen till att inte alla plugins finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:47",
+    "line": "- Vad fan så nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:49",
+    "line": "Jag har inte ens hört talas om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:51",
+    "line": "Och nu ser jag också att det ska uttalas \"Vite\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:53",
+    "line": "- \"Vite\" är det så det uttalas?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:55",
+    "line": "- Ja det stås \"Vite\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:57",
+    "line": "\"Vite\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:59",
+    "line": "\"Vite\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:01",
+    "line": "Det är tydligen franska för \"quick\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:03",
+    "line": "Och ska uttalas like \"beat\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:07",
+    "line": "- \"Vit\", bra att veta. Jag har sagt \"vit\" väldigt länge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:10",
+    "line": "- V-E-E-T."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:12",
+    "line": "- Det är ju Evan Yu som har gjort det. Sammanskapare som gjorde \"View\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:19",
+    "line": "- Mm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:21",
+    "line": "- Så det är han som byggde den från början."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:23",
+    "line": "- Men är det liksom en \"View\"-specifik grej?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:27",
+    "line": "- Nej, du kan köra vilket ramverk du vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:31",
+    "line": "Det är typ en webpack ersättare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:34",
+    "line": "Ja, jag känner Dear Parcel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:39",
+    "line": "Mm, just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:40",
+    "line": "Ja, det är nog webpack och vit som vi använder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:48",
+    "line": "Men det är ändå väldigt, jag ser det, 98% satisfaction."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:55",
+    "line": "Och sen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:00",
+    "line": "Men ändå 30% usage."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:02",
+    "line": "Så att de som använder det verkar vara jävligt nöjda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:07",
+    "line": "- Toknöjda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:10",
+    "line": "- Jag tror att den kanske \"rappar\" ES-Build också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:14",
+    "line": "Tror jag kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:19",
+    "line": "- Den använder roll-up för någonting också, såg jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:22",
+    "line": "Det är skumma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:23",
+    "line": "- Ja, så kan det säkert vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:25",
+    "line": "Jag har inte riktigt grävt mig ner i hur det funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:26",
+    "line": "Men jag för mig att det är ES-Build i grunden"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:28",
+    "line": "Det som gör att det går väldigt, väldigt fort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:31",
+    "line": "Och sen gör en vitt massa saker ovanpå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:35",
+    "line": "Och sen har vi ju pratat tidigare om att jag är så otroligt dålig på att skumma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:38",
+    "line": "Så man ska aldrig lyssna på mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:40",
+    "line": "Ja, det är ändå..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:46",
+    "line": "Som sagt, en färdighet som är bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:51",
+    "line": "Vad har vi nu mer då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:55",
+    "line": "Jag tycker att det här med \"other tools\" är lite så stökigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:01",
+    "line": "Det kan vara så vitt skilda saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:05",
+    "line": "Ja, det känns verkligen som att det är allting vi inte fick in i någon av de andra kategorierna trycker vi in i en stor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:14",
+    "line": "Ja, men inklusive jQuery."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:16",
+    "line": "Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:19",
+    "line": "Men det är intressant att Lodash fortfarande är så otroligt användt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:23",
+    "line": "Men det är väl i och för sig ett enormt bibliotek."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:26",
+    "line": "Det var länge sedan jag använde det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:28",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:29",
+    "line": "Som sagt, det finns ju hur mycket små funktioner som helst i Lodash."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:34",
+    "line": "Ja, för jag tyckte att jag läste någonstans någonting om att de hade pratat med utvecklarna till det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:40",
+    "line": "Det är kul att saker fortfarande används eller adopteras in i språket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:45",
+    "line": "Som en del av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:49",
+    "line": "Men jag hade dock ingen aning om att typ Lodash var väldigt mycket större än Underscore."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:52",
+    "line": "Jag hade tänkt att det är typ samma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:54",
+    "line": "Jaha."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:55",
+    "line": "Nej, alltså vet jag..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:57",
+    "line": "Alltså Lodash var ju enormt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:00",
+    "line": "Jag kommer ihåg att jag satte in något sjukt problem med att vi hela tiden drog in hela Lodash varje gång vi skulle använda en liten telefon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:07",
+    "line": "Ja, det är kanske inte helt toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:10",
+    "line": "Nej, det var länge sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:12",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:14",
+    "line": "Jag är också lite så här, samma sak med typ utilities tabellen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:21",
+    "line": "Prettier, 64%. Det känns, 100% borde använda Prettier."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:26",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:29",
+    "line": "Tycker du att då hade värdet varit bättre plats?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:31",
+    "line": "Att det inte är lika många som kör ES-Lint och Prettier, det vet jag i och för sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:36",
+    "line": "Men man kör ju Prettier och sen ES-Lint."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:39",
+    "line": "Sen är man set."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:42",
+    "line": "Jag håller med, det behövs inte så mycket mer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:46",
+    "line": "Men jag vet inte vad varken N, Volta Veridaccio eller ZX är för något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:53",
+    "line": "Nej, N känner inte jag heller igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:56",
+    "line": "Men jag undrar om inte det är samma sak för Volta är ju också typ en NVM variant tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:01",
+    "line": "Något i stil med att den byter Node-versionen automatiskt när du väljer projekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:11",
+    "line": "Och här när jag har klickat på länken kan jag förklara att Verdaccio är en lightweight Node.js private proxy registry."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:23",
+    "line": "Okej, det sa man inte jättemycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:27",
+    "line": "Nej, proxiga saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:29",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:31",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:33",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:35",
+    "line": "Registrera dina proxys, det kanske är supernice när man behöver rauta om en massa grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:39",
+    "line": "Ja, det är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:43",
+    "line": "Det känns så..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:47",
+    "line": "En sak jag tänkte på nu, jag vet inte, jag kanske bara inte har..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:51",
+    "line": "Det här är ditt local private npm registry."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:53",
+    "line": "Ja, okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:55",
+    "line": "Då är jag nog med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:59",
+    "line": "Men jag funderar på till exempel, det finns ingenting i Servin om typ CSS i JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:05",
+    "line": "Har de med det i state of CSS?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:09",
+    "line": "Servin istället?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:11",
+    "line": "Ja, det låter väl ändå mer nära."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:14",
+    "line": "Ja, men det är ju JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:18",
+    "line": "Ja, men det är ju styling."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:22",
+    "line": "Jo, det är sant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:24",
+    "line": "Då kan du istället tänka på att jag satt ändå ett tag och funderade på de här mobilgrejerna. Varför flatter inte de här innan jag kom på att det inte skrivs i avskrift."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:38",
+    "line": "Men jag satt ändå i några minuter och funderade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:42",
+    "line": "Jag hade inte tänkt alls på det nu. Men det är klart, det är inte i avskrift."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:46",
+    "line": "Jag har skript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:48",
+    "line": "Men det känns ju också som att jag har skript nu för tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:52",
+    "line": "Pratar man skript så pratar man bara webbutveckling generellt nästan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:56",
+    "line": "De var ju med i WebAssembly till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:00",
+    "line": "Jo, det är sant. Men jag vet inte, en del av mig när jag tittar på det här också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:04",
+    "line": "Så känner jag mig så himla..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:08",
+    "line": "Jag känner mig så himla mycket i min bubbla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:12",
+    "line": "När jag pratar om att jag är en mjukvaruutvecklare, \"ja men jag är en webbutvecklare\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:17",
+    "line": "Och så är det någon som \"ja men jag är inte det\" och jag är \"ja men vad finns det då?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:22",
+    "line": "Alltså som en douche känner jag mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:26",
+    "line": "Och lite så blir det som nu också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:28",
+    "line": "\"Men om det inte är javascript, vad är det då?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:32",
+    "line": "Ja..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:35",
+    "line": "Fan jag ser att vi inte är med på podcast."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:38",
+    "line": "Jag har besvikelse."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:40",
+    "line": "- Ja, det tänkte jag att många i USA skulle lyssna på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:46",
+    "line": "- Gud ja, men någon av de här 211 svenskarna som hade svarat på servien där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:53",
+    "line": "Där hade vi något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:55",
+    "line": "- Skrev du i det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:57",
+    "line": "- Nej det gjorde jag inte faktiskt. Jag borde ha gjort det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:00",
+    "line": "- Den enda som hade kunnat göra det gjorde inte det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:02",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:06",
+    "line": "Jag tänkte också på, ganska tydligt när man tittar på den här \"People\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:11",
+    "line": "Alltså \"People you read follow or just want to highlight for their work\" står det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:15",
+    "line": "Alltså det är 95% män ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:18",
+    "line": "Jo."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:20",
+    "line": "Jo tack."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:21",
+    "line": "I det registrerade jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:25",
+    "line": "Jag skummade nu och ser bara typ Sarah Dresner och Cassidy Williams."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:28",
+    "line": "Men det kan ju vara fler som jag missar också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:31",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:32",
+    "line": "Det är ju en representation i en LED."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:36",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:38",
+    "line": "Men inte i..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:41",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:43",
+    "line": "Är det där lite..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:47",
+    "line": "Det känns som att man..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:49",
+    "line": "Det är svårt att inte komma in på mångfaldsproblemen inom utveckling."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:55",
+    "line": "Oavsett vad man pratar om nästan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:59",
+    "line": "Ja, men det är ju liksom så här, det är ju på det sättet där det är en svår bransch att komma in om den inte har en mångfald och inte utvecklas vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:10",
+    "line": "Varför skulle fler mångfald vilja ges in i den?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:13",
+    "line": "Ja, så är det ju."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:15",
+    "line": "Så att, vi är i den hela tiden. Ja, jag vet inte, men jag kommer in på det här i allt. Så det är lugnt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:26",
+    "line": "Jag tänker, det ska jag kanske göra snart, men en sak som jag tänkte på på den här sista, inte sista men"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:32",
+    "line": "När den här JavaScript is moving in the right direction på opinionssidan"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:38",
+    "line": "Så"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:40",
+    "line": "Är det liksom ganska många"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:45",
+    "line": "Alltså det känns ändå som att det är liksom, vad är det då, 57"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:50",
+    "line": "7, 60, 80 procent ungefär tycker att det går åt rätt håll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:54",
+    "line": "Och det är ju nice för det känns inte som att det är den bilden man får när folk bara"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:59",
+    "line": "\"Ja, JavaScript är så jävla dåligt\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:02",
+    "line": "Men är det lika mycket så nu i tiden?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:06",
+    "line": "Det kanske inte är det, jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:08",
+    "line": "För jag kan ju verkligen hålla med om att JavaScript inte var så jävla toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:13",
+    "line": "Men sen alltså ES5 och vidare, Working Group, ett riktigt tag om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:20",
+    "line": "nya släpp varje år."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:22",
+    "line": "Alltså,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:24",
+    "line": "nu tycker jag ju verkligen att det är"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:26",
+    "line": "i grunden kanske inte är så stabilt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:28",
+    "line": "Och ja, det finns ju vissa kvar som är"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:30",
+    "line": "i den delen, men jag tycker ju annars att det är"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:32",
+    "line": "liksom, det finns ju en"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:34",
+    "line": "working group, det finns folk som"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:36",
+    "line": "åsiktar, folk som använder hela tiden"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:38",
+    "line": "och hjälps åt, så att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:40",
+    "line": "jag upplever inte att det är lika mycket"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:42",
+    "line": "så längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:44",
+    "line": "Men jag lever ju i en bubbla också, så att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:48",
+    "line": "Ja, jag vet inte. Ibland får man ändå känslan att många..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:53",
+    "line": "Men det kanske är min Twitter-bubbla som är att folk skriver att JavaScript suger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:00",
+    "line": "Ja, det är så. Ja, det kanske är så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:03",
+    "line": "Alltså, i min bubbla är jag mer chockad över att så många använder PHP."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:07",
+    "line": "För i mitt huvud är det fruktansvärt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:10",
+    "line": "Ja, det är det. Jag håller med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:13",
+    "line": "Men POP känns också... Jag tänker också att POP är ganska stort i USA."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:17",
+    "line": "Alltså typ med Laravelle. Eller Laravelle, jag vet inte hur man nu tar det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:21",
+    "line": "Och liknande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:23",
+    "line": "Och sen är inte WordPress skrivet i POP fortfarande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:26",
+    "line": "- Visst, WordPress. Jag glömmer det egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:31",
+    "line": "- Så att där finns det ju väldigt mycket POP-jobb, tänker jag mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:35",
+    "line": "Också nyfiken på den här \"Jag är skeptisk, moving in the right direction\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:37",
+    "line": "Vad fan som hände mellan 2018 och 2019?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:41",
+    "line": "Gick från 52% agree strongly till 20% agree strongly."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:46",
+    "line": "Ja, men var det inte någon ES-grej då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:55",
+    "line": "Jag vet inte, jag kommer inte ihåg något särskilt som hände just då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:59",
+    "line": "Nej, för ES5 kom ju jävla mycket tidigare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:03",
+    "line": "Ja, jag vet inte, det är en jävla konstig bump på alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:09",
+    "line": "Det känns nästan som att det måste förklaras av att frågan kanske har ändrats hur den ställts."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:13",
+    "line": "Just det, för det försvann massa \"agree strongly\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:17",
+    "line": "Ja, exakt. Den gick från \"agree strongly\" till \"agree\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:21",
+    "line": "Kom det fler svenskar med eller? Gillar inte ytterligheterna?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:25",
+    "line": "Det var de här 211 svenskarna som ställde till det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:29",
+    "line": "Jag håller med, men \"do I agree strongly or just agree?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:35",
+    "line": "Men det är ju en rolig grej, typ som den här MPS-frågan som finns, National Promoter Score, eller vad fan heter det, Net Promoter Score, som bara är att du frågar, skulle du rekommendera din vän den här produkten?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:51",
+    "line": "Och så har du typ 0-10 eller vad det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:54",
+    "line": "Och sen i USA så är det väldigt mycket ytterligheter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:57",
+    "line": "Så du har promotor som är uppe på 9-10."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:00",
+    "line": "Och så har du dem som disagreed, de är nere på 1-2."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:03",
+    "line": "Och så kommer den till Sverige."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:05",
+    "line": "Då måste man alltid tänka på att svenskar är så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:07",
+    "line": "Ja, jag tycker det här är bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:09",
+    "line": "Vill inte ta i för mycket, 8."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:11",
+    "line": "Ja, det här är riktigt dåligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:13",
+    "line": "Men jag vill inte vara elak, 4."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:15",
+    "line": "Ja, nej verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:19",
+    "line": "Han ska vara lite mitt emellan. Lilla landets mellanmjölk eller vad fan det är vi kallas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:24",
+    "line": "Ja exakt, det var man verkligen ta höjd för."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:27",
+    "line": "Ja det var också en väldigt sajdnod. Jag vet inte, det blev lite spretigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:33",
+    "line": "Ja det är så det är när man lyssnar på den podden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:37",
+    "line": "Om inte du har något annat så tänker jag att vi kanske är klara där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:41",
+    "line": "Ja, jag har inget annat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:46",
+    "line": "Då tackar vi för oss för den här gången."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:49",
+    "line": "Gå gärna in och läs den här State of Jez-resultatet själva och skriv om ni har sett någonting som ni tycker är udda som inte vi har sett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:56",
+    "line": "För det kan mycket väl ha hänt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:33:59",
+    "line": "- Ja, bara håll inte med oss."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:01",
+    "line": "- Ja, det får man också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:03",
+    "line": "Exakt, rav dig till mig då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:05",
+    "line": "Vi finns som vanligt på Twitter, skriv gärna en recension i iTunes eller i Spotify kan man också betygsätta podcasten, tyckte jag jag såg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:13",
+    "line": "Så det kan man också göra om man vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:15",
+    "line": "Så hörs vi om två veckor igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:19",
+    "line": "Det gör vi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:20",
+    "line": "Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:34:21",
+    "line": "[Outromusik]"
+  }
+]

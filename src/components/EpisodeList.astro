@@ -1,0 +1,91 @@
+---
+import type { CollectionEntry } from 'astro:content'
+
+export interface Props {
+  episodes: (CollectionEntry<'episodes'> | CollectionEntry<'advent22'>)[]
+  class?: string
+}
+
+const { episodes, class: className } = Astro.props
+
+const intl = new Intl.DateTimeFormat('sv-SE', { dateStyle: 'long' })
+
+const randomSvgHeight = () => 6 + Math.floor(Math.random() * 6) - 3
+---
+
+<ul class={className}>
+  {
+    episodes.map((episode) => (
+      <li>
+        <div class="item-wrapper">
+          <a href={`/${episode.slug}`} class="no-wrap">
+            {episode.data.number}. {episode.data.title}
+          </a>
+          <div class="line-wrapper">
+            <svg
+              width="100%"
+              height="12"
+              viewBox="0 0 100 12"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+              class="line-svg"
+              preserveAspectRatio="none"
+            >
+              <path
+                d={`M 0,${randomSvgHeight()} Q 25,${randomSvgHeight()}  50,${randomSvgHeight()}  T 100,${randomSvgHeight()}`}
+                stroke="#18140b"
+                stroke-width="1.5"
+                stroke-linecap="round"
+              />
+            </svg>
+          </div>
+          <time datetime={episode.data.date.toISOString()} class="no-wrap">
+            {intl.format(episode.data.date)}
+          </time>
+        </div>
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  .item-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .item-wrapper:hover .line-svg {
+    stroke-dashoffset: 0;
+  }
+
+  .line-wrapper {
+    flex-grow: 1;
+  }
+
+  .line-svg {
+    width: 100%;
+    height: 12px;
+    stroke-dasharray: 102;
+    stroke-dashoffset: 102;
+
+    transition: stroke-dashoffset 500ms;
+  }
+
+  .no-wrap {
+    white-space: nowrap;
+  }
+
+  @media (max-width: 600px) {
+    .item-wrapper {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0;
+    }
+    .line-wrapper {
+      display: none;
+    }
+    .no-wrap {
+      white-space: normal;
+    }
+  }
+</style>

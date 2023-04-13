@@ -1,0 +1,1977 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Vad sa utvecklaren som blev medbjuden på paddel?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:04",
+    "line": "Jag har ingen aning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "Tack, men jag föredrar att squasha."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:12",
+    "line": "Det var kul. Är det ett eget skämt eller något du har hittat?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:18",
+    "line": "Nej men det är ett eget, men faktiskt var det min PM/PO, vad det nu är för roll, som sa någonting om paddel när jag sa skorsa i förbifarten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:30",
+    "line": "Så då tänkte jag att här finns det något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:32",
+    "line": "Ja det förstår jag, det var ändå roligt tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:36",
+    "line": "Det var bra kvalitet på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:39",
+    "line": "Ja men det känns lite nutida också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:41",
+    "line": "Ja verkligen, det är inte så aktivt när folk lyssnar på det här om tio år och tänker vad fan är paddel för något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:46",
+    "line": "Du hoppas det eller?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:48",
+    "line": "Ja, gud ja. Någon kommer inte ihåg Puddle Crasen 2021."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:52",
+    "line": "Eller när fan det var när det exploderade som mest."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:54",
+    "line": "Är inte det typ någon OS-gren eller något nu?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:57",
+    "line": "Jo, kanske. Det kanske är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:59",
+    "line": "Jag vet inte om det är optimistiskt eller pessimistiskt att tänka att det är bortglömt om tio år."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:04",
+    "line": "Nej, jag vet inte. Jag har aldrig provat. Jag ska inte uttala mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:08",
+    "line": "Och där pratar jag om sport. Det ska jag inte heller göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:12",
+    "line": "Det är säkert så finkul, jag brukar spela badminton så det är säkert minst lika roligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:17",
+    "line": "Men välkomna till ett nytt avsnitt av ASDF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:21",
+    "line": "Jag har vaccinerat mig för ganska precis sex timmar sedan typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:26",
+    "line": "Så jag tänker att någon gång under det här timmet så kommer bieffekterna slå till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:30",
+    "line": "Så får vi se om det blir en halvtimme eller inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:33",
+    "line": "Än så länge lite stel i kroppen och lite ont i armen men annars ganska lönt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:37",
+    "line": "Jag fick full blown influensa va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:42",
+    "line": "Ja det var det. Jag har hört att den här booster dosen är inte så snäll mot de flesta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:49",
+    "line": "Så vi får se om det blir ett helt avsnitt eller inte. Men än så länge känns det bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:54",
+    "line": "Så jag tänker att om jag pratar snabbt så kan jag bara sänka hastigheten på avsnittet sen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:57",
+    "line": "Och så blir det en halvtimme."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:59",
+    "line": "Okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:04",
+    "line": "Jo, jag funderade på lite grann, vi kanske har berört det här i något gammalt avsnitt eller liksom glidit in på det i något sidospår"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:13",
+    "line": "för det brukar ju bli några stycken sådana."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:15",
+    "line": "Men jag tänkte vi skulle snacka lite dokumentation och kanske lite ur lite olika perspektiv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:23",
+    "line": "Men jag tänker vi kan börja med liksom dokumentation för att det känns som att dokumentation är något som alla utvecklare hatar"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:30",
+    "line": "Alltså att göra, det vill säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:32",
+    "line": "I att skriva dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:35",
+    "line": "Och det kommer då ofta ur perspektivet att man ska göra det för sin egen app eller sin egen tjänst eller vad man nu utvecklar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:41",
+    "line": "Men hur mycket dokumentation har du skrivit i dina dagar i relation till kodet till exempel?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:47",
+    "line": "Ouff."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:49",
+    "line": "Ja, det är ju mer kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:54",
+    "line": "Det är en övervikt mot kod skulle jag säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:58",
+    "line": "– Du då? – Ja, men verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:01",
+    "line": "Nej, jag känner exakt likadant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:04",
+    "line": "Och jag har också varit, i början av min karriär särskilt, då var jag så här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:07",
+    "line": "\"Ja, fy fan, vad tråkigt att skriva dokumentation på hur saker fungerar.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:12",
+    "line": "Men sen har det kanske skiftat lite grann, så nu känner man ändå så här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:17",
+    "line": "\"Ja, jag förstår varför dokumentation behövs i vissa fall.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:21",
+    "line": "Och då kanske det är lite lättare att ta det steg där man faktiskt skriver dokumentationen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:25",
+    "line": "än om man bara skriver den för att någon har sagt åt den att skriva den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:29",
+    "line": "- Jo, alltså, jag menar dokumentation har ju verkligen en plats egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:34",
+    "line": "Det är ju bara mer att jag får någon slags..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:38",
+    "line": "lite... det är lite ångestfyllt att skriva dokumentation, för att helt plötsligt så måste du"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:44",
+    "line": "formulera vad det är du håller på med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:47",
+    "line": "Alltså en sak som är jättebra, det är ju att dokumentera beslut som har tagits."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:51",
+    "line": "Men hur fan formulerar jag det? Jag får lite så här \"rapport i skolan ångest\" liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:58",
+    "line": "Ja, exakt. Jag håller verkligen med dig. Det måste vara rätt typ av dokumentation för att det ska bli värt det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:05",
+    "line": "Alltså till exempel som du säger, att man skriver dokumentation som förklarar beslut,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:08",
+    "line": "eller varför någonting har gjorts snarare än att man skriver dokumentation som förklarar koden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:13",
+    "line": "För dem är ofta ganska värtlös."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:15",
+    "line": "Ja, ibland kan jag komma in i system och verkligen känna att nu går dokumentationen bra. Skriver ner allt jag vet och gör det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:24",
+    "line": "Men det värsta jag vet, förutom att skriva dokumentation, det är att uppdatera dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:33",
+    "line": "Så jag tror det är det som håller mig tillbaka. Skriver dokumentation, sen ska jag uppdatera rätt delar av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:41",
+    "line": "missar alltid någonting och sedan helt plötsligt så har den dött."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:45",
+    "line": "Det är svårt för det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:48",
+    "line": "Ja, jag förstår det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:50",
+    "line": "Nej, jag är verkligen på samma sida också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:53",
+    "line": "Det är ju lite så här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:55",
+    "line": "någonting med dokumentation som gör att man bara tar emot litegrann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:58",
+    "line": "Jag vet inte, för mig tror jag att det kanske beror på också, eller i alla fall"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:01",
+    "line": "berodde mer på i början, att det är en stor skillnad på att skriva kod som man"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:06",
+    "line": "tänker att \"ja, men det har jag liksom lärt mig hur man gör\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:08",
+    "line": "Och sen att jag plötsligt skriver dokumentation, för det är inte så lätt att skriva bra dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:12",
+    "line": "Alltså det är liksom en helt annan färdighet än att skriva kod till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:17",
+    "line": "Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:19",
+    "line": "Men det ska vara tydligt och..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:21",
+    "line": "Alltså jag brukar ofta fastna också i det visuella, att jag vill att det ska vara konsekvent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:25",
+    "line": "Om jag har möjlighet att formatera vissa saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:28",
+    "line": "\"Okej, men jag använder en sådan här heading för den här överskriften.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:31",
+    "line": "\"Borde inte det vara en subheading till den här?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:33",
+    "line": "Alltså jag fastnar liksom i saker runtomkring."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:38",
+    "line": "Ja, jag är också så här. Jag har verkligen märkt det att man måste träna upp dokumentationsskrivandet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:47",
+    "line": "Jag tror att det är samma sak som att skriva tekniska artiklar eller vad det nu kan vara med så mycket teknisk innehåll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:53",
+    "line": "Eller manualer förr i tiden, för nu finns det inte så många manualer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:58",
+    "line": "Det är samma färdighet att dokumentation måste man träna på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:03",
+    "line": "Skriva ganska dålig dokumentation innan man kan skriva bra dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:07",
+    "line": "Ja, men det tror jag, det är nog verkligen en grej. Jag gick ett år kognitionsvetenskap, till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:15",
+    "line": "Och därifrån har jag för detta klasskompisar, som jobbar eller har jobbat med att enbart skriva säkerhetsmanualer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:25",
+    "line": "För att det är den här människa-maskin-interaktionen och vad som händer i den mänskliga hjärnan när man får stresspåslag,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:31",
+    "line": "har en så stor effekt på hur man uppfattar saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:34",
+    "line": "Så det är ju verkligen en liten vetenskap att skriva dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:39",
+    "line": "Ja, eller hur?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:41",
+    "line": "Och sen så är det också så här, man måste anpassa sig, för det finns ju så jävla många typer av dokumentationer som man tittar på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:46",
+    "line": "Kodkommentarer, som kanske ska vara fem rader långa, typ, max."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:51",
+    "line": "Då måste man verkligen vara konsekvent och tydlig med vad kommentaren tillför för värde, och varför man ska läsa den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:59",
+    "line": "Annars skippar folk också att läsa kommentarerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:02",
+    "line": "Och då hjälper det ingenting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:05",
+    "line": "Nej. Jag tycker det är en fine line också med att jag tenderar att lägga till en massa extra ord."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:13",
+    "line": "Så jag brukar få jobba ganska mycket med att plocka bort ord."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:16",
+    "line": "Men när det är jättekompakt, då är det ju en extrem torma som uppstår också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:22",
+    "line": "Och där tänker jag att man inte heller vill hamna. Alltid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:25",
+    "line": "Samtidigt känns det som att man hellre hamnar där, att det är väldigt kort och konsekvent än att det är utdraget och tråkigt för att det är långt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:34",
+    "line": "Jag är på samma ställe som dig. När jag skriver i artiklar till exempel, då jobbar jag väldigt hårt på att läsa in den här meningen. Hur många ord kan jag ta bort utan att det blir alltför torrt eller att den byter innebörd?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:49",
+    "line": "Ja, absolut. Men jag är ju också extremt dålig på att läsa dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:58",
+    "line": "Det är fruktansvärt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:03",
+    "line": "Det borde jag kanske vara bra på när jag jobbar med det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:07",
+    "line": "När det kommer en enorm textmassa före över, då är det som att jag bara stänger ner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:14",
+    "line": "Den är dessutom torr. Jag kan läsa samma mening typ tio gånger och ändå inte förstår den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:20",
+    "line": "- Ja, där tror jag att jag är jävligt bra på att läsa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:29",
+    "line": "Jag tror att det är generellt för text överlag, för jag har läst extremt mycket böcker, särskilt när jag var liten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:36",
+    "line": "Både på engelska och svenska."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:38",
+    "line": "Jag är väldigt duktig på att skumma texter, till exempel bara för att hitta information."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:43",
+    "line": "Eller om man vill hitta innebörden i en text så är jag ganska bra på att skumläsa den och hoppa över vissa ord som jag vet inte behövs."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:51",
+    "line": "Jag har inte tänkt på det förut, men nu när du svarar så tänker jag att det kanske hjälper ganska mycket just i dokumentationsfallet också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:58",
+    "line": "Då kan jag väldigt snabbt skumma en dokumentation utan att bli uttråkad på vägen och faktiskt hitta det jag är ute efter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:05",
+    "line": "Gud ja, det tror jag. Alltså jag fastnar ju."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:08",
+    "line": "Om jag läser, om jag säger till en bloggpost,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:11",
+    "line": "så är det ett inledande stycke, så läser jag det ord för ord"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:14",
+    "line": "och så fastnar jag på typ så här två ord som jag inte förstår."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:17",
+    "line": "Då fastnar jag på dem. Sitter fast där. Antingen upprörd,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:20",
+    "line": "eller så måste jag kolla upp vad det är, så måste jag försöka sätta in dem i sitt sammanhang."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:24",
+    "line": "Men jag fastnar där. Och så kan jag vara så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:26",
+    "line": "\"Vad betyder det här, vad betyder det här?\" Så skickar jag länken till någon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:29",
+    "line": "Och de bara, \"Jo men svaret kommer i stycket under om du bara fortsätter läsa.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:33",
+    "line": "Men det gör inte jag. Jag sitter fast där och är arg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:37",
+    "line": "Ja, det är ju ändå spännande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:41",
+    "line": "För det är inte något jag har tänkt på förut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:43",
+    "line": "Jag har ju uppfattat att folk inte läser så mycket dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:47",
+    "line": "Eller att man bara \"jag hittar ingenting i dokumentationen\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:50",
+    "line": "Och så går jag själv och tittar och bara \"men det står ju där\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:54",
+    "line": "Men jag vet inte. Det kanske också är en anledning till att nu för tiden läser jag"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:58",
+    "line": "extremt mycket dokumentation på saker jag använder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:01",
+    "line": "Det är sällan jag gått stackoverflow nu för tiden, om det inte är något specifikt problem mellan kopplingen mellan fyra olika bibliotek som man ska hitta någon lösning på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:12",
+    "line": "Då kan stackoverflow vara bra. Men annars är det någonting med ett javanskript bibliotek till exempel, då är dokumentationen dit jag går först."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:22",
+    "line": "Det här är någon slags superior skillnad. Jag går till dokumentation, läser, förstår inte, blir arg, googlar, hamnar av stackove, skummar, fattar inte, blir arg och googlar upp något nytt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:37",
+    "line": "Jag har ju ett väldigt dåligt sätt att arbeta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:41",
+    "line": "Men det är lite intressant att du kan hoppa över viktiga saker och grejer. Det måste vara så himla skönt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:47",
+    "line": "Jag har ju helt andra hållet. Jag har ju verkligen problem med det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:52",
+    "line": "Och då har jag ändå läst ganska mycket tidigare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:56",
+    "line": "Jag kan läsa, alltså dålig däckare kan jag läsa fort. Det går undan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:02",
+    "line": "Men det var också kul då, för vi hade user testing för ett system."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:08",
+    "line": "Och då är det så här, UX-aren bara \"ja men var med, skriv ner saker som du finner intressanta\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:14",
+    "line": "Och mina kollegor, de är bra på det. Jag skriver ganska lite. Jag skriver bara upp saker som är intressanta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:19",
+    "line": "Jag är så här, jag typ transkriberar allting som sägs."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:23",
+    "line": "För att jag bara, jag vet inte vad som är viktigt. Jag har med allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:27",
+    "line": "Jag kan inte sålla. Det går för fort liksom. Det funkar inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:32",
+    "line": "Jag sållar ju extremt mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:34",
+    "line": "Alltså, verkligen att jag kan skriva en mening på en presentation på 20 minuter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:39",
+    "line": "Det här var det. Take awayen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:42",
+    "line": "Det är det som kommer åka. Sen visst att det är backfire ibland att \"oj, missade den här grejen\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:48",
+    "line": "Men fan, hellre det än att sitta och transkribera 20 minuter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:52",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:56",
+    "line": "- Ja, jag önskar verkligen att jag hade den dokumentationsläsaren-skillen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:02",
+    "line": "Jag har fått träna något enormt. Och också träna mig på det som kommer naturligt för många."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:09",
+    "line": "Jag har ju för många, även dig tror jag, att dokumentationen inte ger mig det jag vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:15",
+    "line": "Så jag går in och läser lite källkod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:17",
+    "line": "Det sitter också ganska långt inne för mig att göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:21",
+    "line": "- Ja, för det kan jag också göra. Jag kan gå in i källkoden för något bibliotek och kolla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:26",
+    "line": "Hur funkar det egentligen? Varför funkar det inte som jag har tänkt?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:29",
+    "line": "Vad gör den i bakgrunden?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:31",
+    "line": "Och så, innan jag glömmer bort det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:33",
+    "line": "Stack Ove. Älskar uttrycket, aldrig hört det förut tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:37",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:40",
+    "line": "- Ja, okej. Det var nog någon gammal universitetsgrej. - Ja, Stackover."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:46",
+    "line": "- Ja, att vi skulle välja namn som var teknikerrelaterade, men på svenska. Så var det någon som valde Stackover."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:53",
+    "line": "- Jag tycker det är... - Det var någon som hette Källkod också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:56",
+    "line": "- Ja, den är också rolig. Väldigt kul. Vet du vad det finns? Det finns stickerspotential här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:01",
+    "line": "Om jag bara kunde designa, då hade det varit stickers."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:05",
+    "line": "Jo, sidospår deluxe. Men, vart var vi?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:10",
+    "line": "Dokumentation. Jag tänker också så här, Stack Overflow är ju egentligen dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:15",
+    "line": "Även om det ska vara en wiki eller en Q&A-sida."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:19",
+    "line": "Men det blir ju i förlängningen dokumentation på hur man gör saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:23",
+    "line": "Kanske inte som jag sa tidigare, hur det här biblioteket fungerar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:26",
+    "line": "Men snarare, hur integrerar jag den här saken x med y när jag bygger det på z?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:33",
+    "line": "Men det är ganska intressant att den dokumentationen finns och man kan tycka ganska mycket om stack OV."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:40",
+    "line": "Men jag kan förstå deras ambition när de har så hårda regler."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:48",
+    "line": "Att det här ska vara dokumentation, det ska vara på samma nivå som om du går in på biblioteks dokumentation och läser."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:57",
+    "line": "Ja, men det är också intressant för att i Kärplastik så känns det som att man har öppnat upp lite begreppet för dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:05",
+    "line": "För mig när jag tänker dokumentation i den här världen, då är det ju liksom, där är ett lib, här är typ referenserna, APIerna och så är det mycket text liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:15",
+    "line": "Och så ska man förklara varenda funktion som finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:18",
+    "line": "Men som du säger, jag menar allting som vi skriver ner gällande sakerna vi håller på med är ju någon typ av dokumentation liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:26",
+    "line": "Ja, nämen exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:28",
+    "line": "Likväl tickets som vi jobbar med, det är också dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:32",
+    "line": "Ja, absolut. Där vet jag att jag är jävligt kass egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:37",
+    "line": "Vi diskuterade det senaste i dag faktiskt på jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:40",
+    "line": "Att vi borde skriva ner mer saker i tickets."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:43",
+    "line": "Till exempel vilka beslut som är tagna i den här ticketen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:46",
+    "line": "Om man har gjort någon avsteg från vad som var kravet från början till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:49",
+    "line": "Sådana saker måste vi bli bättre på att faktiskt skriva ner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:53",
+    "line": "För det är ju dokumentation som lever tills vi lever vidare liksom och är skitbra att ha om en månad eller två när vi tittar tillbaka på det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:00",
+    "line": "\"Varför gjorde vi inte så här?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:02",
+    "line": "- Ja, så är det verkligen. Jag är ju verkligen en person som hade en period där jag bara gjorde one-liners."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:08",
+    "line": "Eller vad jag menar, i allhetens namn. Jag är fortfarande en person som kan göra one-line-tickets liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:13",
+    "line": "Och sen gå tillbaka och bara \"Vad fan var det här?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:16",
+    "line": "Så där har jag också verkligen tränat på att bara skriva ner saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:22",
+    "line": "Och det är inte heller så att det alltid måste vara rätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:24",
+    "line": "Jag använder kommentarsfält i Tickets, om det nu finns, ganska mycket för att få ner saker utan att det finns någon press på att det måste formuleras helt korrekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:37",
+    "line": "Eller formateras helt korrekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:39",
+    "line": "Men snarare att, okej, men här finns saker som ledde upp till det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:45",
+    "line": "Eller saker vi ska komma ihåg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:47",
+    "line": "Får bara ner det någonstans så kan vi förbättra det sen i sådana fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:51",
+    "line": "Ja, men precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:53",
+    "line": "Ja, jag tycker också att det är intressant det där, vad som gör bra dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:59",
+    "line": "Alltså både oavsett om det är i en ticket, eller om man skriver i en readme-fil, eller om det är på hemsidan för ett bibliotek."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:07",
+    "line": "Alltså det är liksom, jag har svårt att spesa exakt vad som gör att jag tycker att det här är bra dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:14",
+    "line": "Alltså jag har liksom ingen checklista som jag skulle kunna fylla i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:17",
+    "line": "Nej, inte jag heller. Men det beror ju extremt mycket på. Jag menar en readme."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:22",
+    "line": "Så att du ska starta upp ett projekt som inte har några konstiga grejer eller behöver sätta en..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:29",
+    "line": "Alltså det är ju toppen om du behöver ha den här enven och då hämtar du via det här systemet genom att sätta den här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:33",
+    "line": "Annars är det typ \"yarn start\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:36",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:36",
+    "line": "Och då behöver man inte skriva jättemycket mer som ingen orkar läsa om ingen läser det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:42",
+    "line": "Och det är ju för egna projekt, småprojekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:45",
+    "line": "Jag menar, jag tycker det är ju..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:47",
+    "line": "Allt ska ju stå i en readme om det är något lib jag vill använda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:51",
+    "line": "Jag vill ha mer information i det, liksom. Jag vill ha allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:53",
+    "line": "Ja, jag har precis. För du var ju till exempel inne på lite tidigare det här med typ att en API-referens bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:01",
+    "line": "Det skulle jag tycka att om det är det enda som finns, då är det ganska dålig dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:04",
+    "line": "Alltså om du har ett bibliotek och så bara \"Ja, men du kan se vilka API vi har och vi har dokumenterat dem\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:08",
+    "line": "och det står typ så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:10",
+    "line": "\"Den tar emot de här parametrarna, spottar ut sig i det här.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:13",
+    "line": "Klart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:15",
+    "line": "Den skulle jag förmodligen tycka är ganska dålig. Det beror lite på vad det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:18",
+    "line": "Jag kan tänka mig typ, om vi tar Lodash eller Underscore eller vad alla nu heter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:23",
+    "line": "Där funkar det lite bättre för att det är typ utility-funktioner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:26",
+    "line": "Men tittar man på Reacts dokumentation eller Vues dokumentation, då vill jag gärna ha-"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:31",
+    "line": "-mer saker som förklarar idéerna bakom och hur man ska tänka och sådana saker också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:37",
+    "line": "Ja, men jag skulle ändå vilja ha en tydlig sida där de bara spesar allting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:43",
+    "line": "För om jag är bekant med ett bibliotek och använder det, då vill jag kunna ha kortkommandon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:48",
+    "line": "Jag hänger mycket i dokumentation bara för att jag inte kommer ihåg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:52",
+    "line": "Ja, exakt. Det kanske är lite olika syften med de sidorna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:55",
+    "line": "API-specifikationen kanske mer är referens eller API-referens."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:59",
+    "line": "Alltså att du går in dit och bara refererar till saker du vet vad finns, men du behöver bara dubbelkolla hur det funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:03",
+    "line": "Medan annan typ av dokumentation som hur man ska tänka i React till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:09",
+    "line": "Den är ju mer om man kanske är ny inom det paradigmet eller språket eller vad det nu kan vara man dokumenterar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:19",
+    "line": "Ja, jag gillar ju verkligen när det finns ofta en \"get started\" eller någonting som har lite grundläggande tyngd och information."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:26",
+    "line": "De tycker ofta att kanske... Ett problem jag tycker med dokumentation ibland som jag känner igen mig väldigt mycket från när jag började koda överhuvudtaget"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:33",
+    "line": "Jag tycker att det är två nivåer. Du har saker som är dokumenterat eller förklarat på en extremt låg nivå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:47",
+    "line": "Det här är kod, det här är en for loop."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:51",
+    "line": "Alltså, du förstår min grej. Den är extremt, liksom, här är bara grunderna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:58",
+    "line": "Och sen så tycker jag att hoppet till att bara göra antagandet, att du förstår allting som ska vara däremellan, kommer väldigt tidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:05",
+    "line": "Jag har alltid känt att det är väldigt svårt att hitta köttet i mitten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:10",
+    "line": "Och på det tycker jag är lite samma sak ibland med sådana här \"get started\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:13",
+    "line": "Okej, här får du de första exemplen och här är hela API-referensen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:17",
+    "line": "Men så fort jag går på lite mer komplexa delar, vart står det? Hur hittar jag det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:23",
+    "line": "Absolut, det är väldigt sant att det är ofta basics eller avancerat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:29",
+    "line": "Det är inte så mycket \"intermediate\" säger man på engelska. Jag kommer inte på något svenskt ord."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:34",
+    "line": "Ja, extremt mycket kortare sätt att beskriva det på än vad jag gjorde."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:37",
+    "line": "Nej, jag samfattade bara vad du sa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:41",
+    "line": "Eftersom jag inte kan dra ut gisten i saker, då får du göra det åt mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:45",
+    "line": "Jag får öva på det nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:47",
+    "line": "Nej men precis, jag håller med om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:50",
+    "line": "Ofta hittar man det här mellan-steget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:54",
+    "line": "Och det är väl lite steget som tutorials eller guider fyller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:59",
+    "line": "Att någon håller dig i handen medan du försöker använda det du kan från basics för att komma till det som är avancerat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:08",
+    "line": "Så det kanske är lite så, men det är också sällan jag ser själva biblioteken eller upphovspersonerna bakom har de här guiderna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:23",
+    "line": "Oftast är det ju att communityt steppar upp och försöker skriva de här guiderna eller tutorials eller vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:29",
+    "line": "Och liksom fyller den luckan kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:31",
+    "line": "Visst, det funkar ju, men det känns samtidigt som att det kanske behövs lite mer som faktiskt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:37",
+    "line": "officiell dokumentation för vissa saker som bara fyller den mittendelen också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:43",
+    "line": "Ja, jag antar att det också är den som är svårast att få ner på något sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:50",
+    "line": "Här börjar du och här upplever du referenserna, men det här svåra i mitten är väl..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:54",
+    "line": "För jag antar att de som skriver de här posterna, de har nog inte bara \"Jag bara gjorde det, allt var lugnt, allt var fin\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:02",
+    "line": "Det har nog svettats en del för att komma fram till de här grejerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:06",
+    "line": "– Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:07",
+    "line": "Nej, jag tror att det är svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:11",
+    "line": "Jag har ändå några \"drafts\" på min sajt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:16",
+    "line": "Det är typ så här \"Hur du bygger en rit-app med React\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:20",
+    "line": "Typ, eller något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:23",
+    "line": "Och sen har jag spesat ner vad som behöver innehållas här och så bara \"Oj, vad mycket det blev!\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:28",
+    "line": "\"Det här orkar inte jag skriva.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:30",
+    "line": "\"Det kommer vara svårt att få det på en bra nivå och konsekvent språk.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:36",
+    "line": "\"Att det inte blir tråkigt, att det inte blir utdraget och så vidare.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:38",
+    "line": "Så jag förstår verkligen att det kan tänkas vara svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:43",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:45",
+    "line": "Men ja, dokumentation blir ju också..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:48",
+    "line": "Det blir ju mycket lättare att få till om man har bra verktyg för att göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:53",
+    "line": "Jag kommer ihåg att jag byggde en tjänstagång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:55",
+    "line": "Som jag sen då skulle, alltså det var bara en pock."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:59",
+    "line": "Och sen så skulle jag lämna projektet liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:02",
+    "line": "Och så skulle jag dokumentera det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:04",
+    "line": "I ett dokumentationssystem som var så otroligt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:10",
+    "line": "Och jag menar det var ju ett fullt team som satt och jobbade med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:13",
+    "line": "Så det var inte så att det bara fanns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:15",
+    "line": "Men det var liksom något sådär Python, Markdown baserat liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:21",
+    "line": "Det var helt magiskt att skriva saker i och kunna lägga in bilder och bygga grafer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:29",
+    "line": "Det gick ju undan, men det är också ett väldigt litet isolerat system där jag bara skulle försöka få ner allt och lämna vidare det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:36",
+    "line": "- Men det var något internt system på just det där bolaget som de hade byggt för att dokumentera saker?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:41",
+    "line": "- Ja, precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:43",
+    "line": "Det finns ju ändå lite försök att göra det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:47",
+    "line": "Du har ju till exempel Storybook, är väl kanske en del av det här, lite mer upp i referens fast för komponenter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:54",
+    "line": "Som försöker vi prata om i en tidigare avsnitt också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:57",
+    "line": "Men sen finns det också Docosaurus, är väl något open source bibliotek, eller ramverk kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:04",
+    "line": "Som man kan skriva dokumentation i. Jag tror att det är Facebook som ligger bakom det också, eller om de har köpt upp det eller något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:09",
+    "line": "Det är också tänkt för att man ska kunna dokumentera saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:16",
+    "line": "En sak jag tänker på nu är att älska den nya vågen, eller nya..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:22",
+    "line": "Inte så nya idéer, men att folk har börjat integrera mer interaktiva element i dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:31",
+    "line": "Alltså att du faktiskt kan klicka runt och känna hur nånting känns, eller att du kan skriva koden"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:36",
+    "line": "Och sen se resultat direkt i dokumentationen eller att du kan typ redigera kodexempel och de liksom uppdaterar faktiskt vad som resultatet blir också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:45",
+    "line": "Det känns jävligt bra tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:48",
+    "line": "Ja, men det är ju väldigt Mozilla. De var ju tidiga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:54",
+    "line": "MDN."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:55",
+    "line": "Ja, men precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:57",
+    "line": "Och jag vet till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:01",
+    "line": "Nu ska vi se vad det heter för något. Code Sandbox har ju släppt något verktyg som är gjort just för att kunna köra liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:08",
+    "line": "Eller för att kunna, vad ska man säga, kompilera kod i browserna eller transpilera eller vad man nu vill kalla det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:15",
+    "line": "Som heter, heter det Snowpack? Eller bland ihop med något annat?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:19",
+    "line": "- Var inte Snowpack det här när du skulle kunna dra in typ Endances i runtime?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:23",
+    "line": "- Jo, det kan vara. Det heter antingen Snowpack, det heter kanske Sandpack?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:29",
+    "line": "Får jag för mig?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:31",
+    "line": "Ja, det heter Sandpack."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:35",
+    "line": "Jag gissar på att det egentligen är en blandning av att det andra heter Snowpack och det här blir Sand."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:41",
+    "line": "Och att det kommer från kod Sandbox, gissar jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:45",
+    "line": "Bra förklaring."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:47",
+    "line": "Ja, precis. Så det är liksom något bibliotek som du kan köra kod i webbläsaren som du skriver i webbläsaren."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:55",
+    "line": "Sånt gör ju dokumentationen så mycket roligare att läsa att man kan experimentera lite grann med den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:01",
+    "line": "För min del blir det så mycket enklare att lära sig saker när jag faktiskt kan testa lite och förstöra det och se vad som händer när man ändrar på saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:08",
+    "line": "Fan det är också intressant för jag är sådärn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:12",
+    "line": "Nej men det där, det där ska jag inte pilla med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:16",
+    "line": "Du vill gärna bara ha, okej säg åt mig vad som är rätt och sen rör inte jag det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:24",
+    "line": "Jag tror inte det, det är ju fan ingenting. Jag är så otroligt hämmad av min egen ängslighet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:32",
+    "line": "Jag vet inte vad jag håller på med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:35",
+    "line": "Nej, det känns ändå som att du skulle kunna ändra på och lära dig lite lättare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:43",
+    "line": "Jag vet inte, det är ju personligt också hur man lär sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:45",
+    "line": "Det är samma sak som folk som föredrar att lära sig via video, text eller att göra själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:52",
+    "line": "Det är dumt, vi är en extremt visuell människa egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:56",
+    "line": "Och fattar inte när jag inte får se saker. Så det måste jag börja använda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:00",
+    "line": "Jag tycker det verkar väldigt nice. Jag tror, minns inte om ni gör React-docs-sajten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:06",
+    "line": "Använder ju Sandpack, eller om det kom senare, jag vet faktiskt inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:10",
+    "line": "Men de har ju också ganska mycket interaktiva exempel på, där man kan se hur saker bedir."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:15",
+    "line": "När man faktiskt har en komponent och allting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:18",
+    "line": "Jag tror att den trenden är väldigt positivt framåt för alla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:25",
+    "line": "Ja, men det är intressant. Vilken dokumentation tror du att du använder dig mest av in life?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:37",
+    "line": "Jag vet inte, det är så jävla svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:41",
+    "line": "Views-dokumentation har ju varit extremt bra väldigt länge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:44",
+    "line": "Och det känns som att många andra har spelat catch-up med views-dokumentationen för att komma ikapp den nivån."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:53",
+    "line": "Jag vet att när jag lärde mig Views från början så satt jag nästan bara i dokumentationen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:57",
+    "line": "För att den var så extremt bra. De hade mycket exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:00",
+    "line": "De hade en cookbook kanske, där de hade tagit fram ganska komplexa exempel på hur man kan göra saker och rekommenderade lösningar på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:10",
+    "line": "Så den satt jag och läste extremt mycket när jag lärde mig Vue."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:14",
+    "line": "Men sedan har jag hållit på med React så pass länge nu att jag kanske har läst Reacts dokumentation mer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:19",
+    "line": "Men sen är det också svårt, det kan ju vara att man är in på MDN och läser om JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:24",
+    "line": "Det händer ju också väldigt ofta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:27",
+    "line": "Så jag tror det är svårt att säga, men MDN ligger nog där uppe i topp i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:31",
+    "line": "Blandat med något ramverksdokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:35",
+    "line": "Har du någon som du känner \"ja, den har jag varit in på så jävla mycket\"?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:38",
+    "line": "Nej, du är ju helt baserad på vad jag jobbar med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:44",
+    "line": "På senaste, av någon anledning så har jag blivit helt okej på MongoDB aggregation pipeline."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:53",
+    "line": "Det är ganska nischat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:55",
+    "line": "Ja, det är ganska nischat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:57",
+    "line": "Där hänger ju en del för att hitta saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:01",
+    "line": "Men det är också kul för att någonting som jag alltid återkommer till det är gästs dokumentation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:06",
+    "line": "Och det är ju också, det har ju gått till en nivå där jag blir lite arg för att jag har hängt i, alltså det är alltid problem med att mocka saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:18",
+    "line": "Ja det gäller det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:20",
+    "line": "Och då hänger jag i en mockdokumentation och så är det alltid det här jäkla happy exemplet med en sound player."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:30",
+    "line": "Jag är alltid lite arg när jag läser det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:33",
+    "line": "Det är som att jag blir lite tryggad av att jag igen måste titta på Soundplay-exemplet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:38",
+    "line": "För att jag igen har problem med att mocka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:41",
+    "line": "Så det väcker känslor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:43",
+    "line": "Ja, det förstår jag. Det var ganska länge sedan jag var inne i S-dokumentation nu tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:46",
+    "line": "Men jag har en känsla för att jag inte tyckte det var så bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:49",
+    "line": "Men det kanske är bara för att det fanns så många olika saker som lät typ likadant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:53",
+    "line": "Som jag inte riktigt vet vad skillnaden är på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:55",
+    "line": "Och så hittade man ingenting och slutade med att man hamnade på stack over."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:59",
+    "line": "Och så ser man vad det blir av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:02",
+    "line": "Jo men absolut, absolut. Så tycker jag också att det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:05",
+    "line": "Men sen har ju stack-ovarna liksom bara så här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:08",
+    "line": "\"Ah, men det här exemplet med en sound player, och då?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:12",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:15",
+    "line": "Ja, det är inte lätt alla gånger att hitta rätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:20",
+    "line": "Nej, men alltså sen så om jag ska säga vilka som hänger med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:24",
+    "line": "MDN hänger ju en del in på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:26",
+    "line": "Och sen så hamnar alltid V3 Schools uppe bland mina sökningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:32",
+    "line": "Och sen var det väl någon gång då någon sa \"där ska man inte vara inne\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:36",
+    "line": "Så jag gör mitt allra yttersta för att hitta en annan träff."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:39",
+    "line": "Men ibland så är jag bara för trött för att jag bara vet att jag ska kolla någon syntax."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:42",
+    "line": "Så jag hänger där en del också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:44",
+    "line": "- Ja, men de var väl liksom the go-to back in the days."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:47",
+    "line": "Jag vet att ni har byggt en klanhemsida när jag var 15 år sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:53",
+    "line": "Då var det ju V3 Schools som var dit man gick, det var där man lärde sig saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:57",
+    "line": "Men sen hade de väl ganska mycket felaktig information framför mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:03",
+    "line": "Alltså dåliga råd på deras sida och grejer, så det var extremt dålig kvalitet på deras dokumentation ett tag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:09",
+    "line": "Nu tror jag faktiskt att den är bättre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:11",
+    "line": "Jag har inte varit i någon dubbelkolla där själv, men jag har hört folk säga att de har ryckt upp sig så nu är den bättre än förut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:16",
+    "line": "Men de har ju en jävligt bra SEO-sida så att de hamnar ju ofta högst upp i resultatet när man söker på saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:25",
+    "line": "Ja, den måste vara så himla bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:29",
+    "line": "Men det är ju ofta när man ska kolla så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:31",
+    "line": "Jag borde inte trycka här, men jag orkar inte. Det är bara en syntaxgrej. Jag går in här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:37",
+    "line": "Det är också lite nostalgiskt att gå in där. Den har väl sett likadan ut i 15 år?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:41",
+    "line": "Ja, säkert."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:45",
+    "line": "Det är kanske där vi lämnar våra lyssnare med idag. Gå in på V3 Schools. Få en liten nostalgi-trip om du ser likadant hur länge som helst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:53",
+    "line": "Så att det kanske är helt nytt utseende."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:56",
+    "line": "Jag var nog inne förra veckan. Jag tror det är ganska likt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:00",
+    "line": "Med det sagt så tackar vi för oss den här gången och vi hörs igen om två veckor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:09",
+    "line": "Det gör vi. Ha det bra. Bye bye."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:12",
+    "line": "[Outromusik]"
+  }
+]

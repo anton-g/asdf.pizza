@@ -1,0 +1,2017 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Varför blev det aldrig några typer i frontend?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:03",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "Du fick aldrig till något riktigt flow."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:09",
+    "line": "Okej, det var kul ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Det hade varit roligare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:17",
+    "line": "Jag tänker att det är roligare för de som jobbar med flow."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:20",
+    "line": "Ja, kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:22",
+    "line": "Är det någon som jobbar med flow?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:24",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:25",
+    "line": "Facebook har väl kvar det någonstans fortfarande?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:27",
+    "line": "Jag tror att React-kodbasen är skriven i Flow fortfarande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:40",
+    "line": "Jag är inte helt 100% men den har varit skriven i Flow i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:44",
+    "line": "Sen vet jag inte om de har migrerat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:46",
+    "line": "Men jag har inte hört något om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:48",
+    "line": "Jaja, välkomna till ett nytt avsnitt av ASTF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:52",
+    "line": "Idag är det återigen ett sånt här avsnitt när jag blir kär i någon ny teknik och sen måste få ventilera om den till dig Therese."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:02",
+    "line": "– Toppen! Det är så här jag lär mig saker. – Det är de vi älskar allihopa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:07",
+    "line": "Vi har ju något avsnitt väldigt tidigt i poddens historia som heter \"Overmind\" när jag pratar om statebiblioteket Overmind."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:15",
+    "line": "– Med \"å\" såklart. – Eller \"Overmind\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:18",
+    "line": "Jag tycker att det ska vara med Åh, det är för svenskat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:20",
+    "line": "Och den kan vi också prata om i ett avsnitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:24",
+    "line": "Jag kanske har nämnt den en gång, att jag har tappat lite av den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:27",
+    "line": "Men det är också för att den inte maintainas längre så aktivt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:30",
+    "line": "Jag hänger lite på deras Discord och det är väldigt mycket frågor som är där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:35",
+    "line": "Kommer det här biblioteket att uppdateras någon mer?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:38",
+    "line": "Men vi får väl se vad som händer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:41",
+    "line": "Jag tror att han som har byggt det från början som heter Christian Alfonis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:44",
+    "line": "Jag tror att det är en norsk som håller på att lämna det över till någon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:48",
+    "line": "Så vi får se vad som händer med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:50",
+    "line": "Men idag är min senaste förälskelse State Machines."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:58",
+    "line": "State Machines i Javascript framförallt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:00",
+    "line": "Och då också bjuder jag på biblioteket X-State."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:04",
+    "line": "Du säger herregud."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:06",
+    "line": "Så en maskin som trycker ut statusar baserat på informationen den får in?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:14",
+    "line": "Typ så ja. Det baseras på något som heter Finite State Machines."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:19",
+    "line": "Som är något skitgammalt koncept. Minns inte riktigt exakt när det uppfanns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:27",
+    "line": "Men det finns en massa gamla forskningspapper på hur det här ska fungera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:31",
+    "line": "fungera. Det som det innebär då är att just när det är en finite state-maskin så innebär det att det finns ett"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:36",
+    "line": "begränsat antal states man kan hamna i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:39",
+    "line": "Så att det liksom inte dynamiskt antal states eller vad man kan gå någonstans"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:44",
+    "line": "utan allting är specificerat att okej, men från det här statet kan det gå till det här statet och från det statet kan det gå till det nästa statet eller tillbaka eller vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:51",
+    "line": "Så att man kan liksom, det går liksom att visualisera"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:55",
+    "line": "en state-maskin eller en finite state-maskin som en graf till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:00",
+    "line": "Så det är liksom grunden till det hela."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:03",
+    "line": "Och sen finns det ju massa saker som bygger ovanpå det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:08",
+    "line": "Men känner du igen idén så att säga?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:12",
+    "line": "Ja, absolut. Den känns väldigt nära någonting bak i bakhuvudet som kom från"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:21",
+    "line": "hela det här med Alan Turings maskin som var grunden till en dator. Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:28",
+    "line": "Det kan säkert finnas en samband där som jag inte har koll på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:31",
+    "line": "Men det finns ju \"Turing Complete\" och det skulle säkert kunna vara en state machine."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:36",
+    "line": "- Ja, men det där känns väl som en väldigt gammal klassisk grej inom vetenskap och datavetenskap och alla möjliga saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:48",
+    "line": "Jag greppar ju teorin så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:53",
+    "line": "Inte exakt hur det funkar, men det översiktliga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:57",
+    "line": "Det här pratar vi nog om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:59",
+    "line": "Kanske lite svårt att se vad jag skulle applicera det på i mitt liv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:05",
+    "line": "Dagliga liv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:07",
+    "line": "Det förstår jag, för det är också den frågan jag har fått när jag har pratat om det på andra ställen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:11",
+    "line": "Och man kan ju liksom ta ett litet steg tillbaka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:19",
+    "line": "För det är ju väldigt använt inom spelprogrammering till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:21",
+    "line": "Så finns det väldigt många state machines som bygger på saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:24",
+    "line": "Det är ett populärt koncept som funnits där jättelänge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:27",
+    "line": "Men har väl inte varit superpoppis inom typ webbprogrammering eller E-React eller vad vi nu kan prata om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:32",
+    "line": "Men om vi tänker att vi har någon komponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:34",
+    "line": "Vad ska vi ta för exempel här då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:36",
+    "line": "Vi kan ta att vi har en stoppljus, alltså en bil med trafikljus."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:48",
+    "line": "Om vi skulle bygga den i React skulle man på ett väldigt naivt sätt kunna säga att vi har tre states."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:58",
+    "line": "Vi kör typ \"use state\" tre gånger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:00",
+    "line": "Så vi har en som är typ \"is red\", och sen har vi en \"is yellow\" och sen har vi en \"is green\" till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:06",
+    "line": "Och sen då skulle man kunna bygga den här maskinen så att när vi, om den är på röd från början, när vi då går från röd till gul,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:15",
+    "line": "då sätter man \"is red\" till \"false\" och så sätter man \"is yellow\" till \"true\" och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:20",
+    "line": "Och då när man går från gul till grön så sätter man då \"is yellow\" till \"false\" och \"is green\" till \"true\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:27",
+    "line": "Just det. Och sen kan man konstatera då att när man är på röd så har man bara en väg att gå och det är till gul för du får inte gå till grön."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:36",
+    "line": "Precis. Och om vi då skulle modellera det här med \"use states\" som jag pratade om nu, då skulle det tekniskt sett för det första gå att både gå från att \"is red are false\" och sen sätter du direkt att \"is green are true\" utan att hoppa över gula steget så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:56",
+    "line": "Så det är en grej. Plus att du kan hamna i det som kallas för \"impossible states\", alltså omöjliga scenarion."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:04",
+    "line": "Det vill säga att både \"is red\" är \"true\" och \"is yellow\" är \"true\" om man inte håller tungan rätt i mun när man sitter med sina state-variabler och setters."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:14",
+    "line": "Och det är ju för det första inte så nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:20",
+    "line": "Så här kan man innan man hoppar på Xstate eller state-maskin överlag"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:25",
+    "line": "så kan man tänka att då gör vi om det här så att istället för att vi har"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:29",
+    "line": "tre stycken useState-huckar i vår komponent så gör vi om det till en useState-huck"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:35",
+    "line": "och sedan att den har typ ett sträng värde istället som är red, green, yellow."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:41",
+    "line": "Eller en av dem då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:43",
+    "line": "Och då istället för att man ska sätta massa true eller false så sätter vi att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:46",
+    "line": "\"Okej, men om den är red, då sätter vi den värdet till yellow istället.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:50",
+    "line": "Då behöver vi inte tänka på att \"Okej, men då kan den vara både red och yellow samtidigt\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:53",
+    "line": "utan den kan bara vara ett sträng värde på samma gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:56",
+    "line": "Och då har vi liksom tagit bort den här möjligheten att den hamnar på en omöjligt state"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:02",
+    "line": "som inte ens är att kunna vara på, där flera saker är true samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:06",
+    "line": "Låter det vettigt so far?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:11",
+    "line": "Jag är ju mer av en visuell person än en auditiv person när det kommer till kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:17",
+    "line": "Men jag tror att det är kul att du tar upp det exemplet, för det är ju någonting som kanske man eller jag har gjort automatiskt utan att tänka på att det är därför jag gör det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:31",
+    "line": "Jag använder en sträng istället för att jag inte ska kunna hamna i en situation där jag har två \"truths\" som inte är tillåtna egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:39",
+    "line": "Det är ett skitbra tips. Även om man ignorerar allt jag kommer säga om statements-"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:45",
+    "line": "-så är det ett extremt bra tips."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:48",
+    "line": "Om man har flera useStates som är booleans-"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:52",
+    "line": "-så är det oftast mycket bättre att sätta dem till en sträng istället för en sum."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:59",
+    "line": "Om inte de här booleansen ska kunna vara true samtidigt, för då blir det annat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:04",
+    "line": "Men oftast är det bättre att ändra till en sträng."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:06",
+    "line": "Eller att man kör \"use reducer\" som gör det lite tydligare vad man ska ändra på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:10",
+    "line": "Så det kan väl vara en varm rekommendation att ta som ett första steg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:14",
+    "line": "Och det man egentligen har gjort är ju just en liten, liten state-maskin. Nästan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:19",
+    "line": "- Alltså det är ju ett sidospår, men jag har ju inte hittat ett case där jag tycker det känns rimligt att använda en \"use reducer\" heller i mitt liv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:25",
+    "line": "- Nej, men det är ju också lite så här, det är ju typ om man vill uppdatera ett komplext state."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:31",
+    "line": "Om du hamnar i en situation där du har flera useState vars värden är relativt relaterade till varann"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:38",
+    "line": "eller som hänger ihop, så att du kanske, om du kommer på dig själv med att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:42",
+    "line": "på flera ställen i din komponent så kör du flera state, alltså useState setters"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:47",
+    "line": "då kan det vara vettigt att man slår ihop dem till en useReducer och att då"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:52",
+    "line": "där du tidigare körde flera, där du uppdaterade statet på flera useState-variabler tidigare"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:59",
+    "line": "Där dispatchar man bara till reducer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:02",
+    "line": "Men som sagt, det kanske är ett cyberspår."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:04",
+    "line": "Jag tänker att det skulle kunna vara jättebra när man gör beräkningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:07",
+    "line": "Ja, förmodligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:09",
+    "line": "Men som sagt, det beror också lite på..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:11",
+    "line": "Jag tänker att det mer beror på hur ditt state är modellerat egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:15",
+    "line": "Alltså om du har en ganska komplex state eller bara ett värde."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:19",
+    "line": "Ja, förlåt, cyberspår."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:23",
+    "line": "Jag får upp någon så här gammal..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:29",
+    "line": "textbaserat äventyrsspel i Python jag gjorde en gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:34",
+    "line": "För att få upp lite det här att jag stoppade in vilka vägar den här spelen får gå när den har gjort det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:39",
+    "line": "Och så kommer de här möjliga scenarierna fram."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:42",
+    "line": "Ja, jag tycker det är ett superbra exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:44",
+    "line": "För det är ju verkligen en state-maskin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:47",
+    "line": "Att du får spesa vilka vägar man kan ta mellan de olika statesen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:51",
+    "line": "Eller rummen om man tänker en dungeon crawler textbaserat spel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:56",
+    "line": "Egentligen är det bara tre saker som en state-maskin består av."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:02",
+    "line": "Det ena är state-noderna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:06",
+    "line": "Som i vårt fall skulle kunna vara red, green och yellow."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:09",
+    "line": "Det skulle kunna vara våra tre state-noder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:11",
+    "line": "Sen finns det transitions som är vägarna mellan de här state-noderna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:20",
+    "line": "Sen finns det events och det är eventsen som triggar transitions."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:25",
+    "line": "Så säger vi att vi har red statet, då kan vi spesa att den tar emot ett event som kanske heter \"next\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:34",
+    "line": "Bara för att jag inte kom på något bättre"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:36",
+    "line": "Och då har vi spesat att \"next-eventet\" triggar en transition till yellow"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:42",
+    "line": "Så det vill säga att då har vi spesat att från röda statet kan vi gå till det gula statet"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:48",
+    "line": "Men då har vi också spesat att då finns det ingen möjlighet att gå från röd till grön direkt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:56",
+    "line": "Utan då måste man också spesa på gula statet, att den har en transition till det gröna statet"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:04",
+    "line": "Och att det finns ett event där som triggar den transitionen för att komma vidare"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:08",
+    "line": "Och det är exakt det du pratar om med ett textbaserat spel, eller vilket spel som helst"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:12",
+    "line": "Men där man går mellan olika rum och det finns dörrar mellan rummen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:16",
+    "line": "Så det tycker jag är ett svinbra exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:19",
+    "line": "Det kanske ska vara Snonja som pratar om det här med någon annan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:22",
+    "line": "Okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:25",
+    "line": "Men känns det som att du hänger med?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:28",
+    "line": "Alltså de här tre grejerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:29",
+    "line": "Du har state noder som är vilka states vi kan stå på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:32",
+    "line": "Sen har du transitions som är övergången mellan dem och event som triggar transitions så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:38",
+    "line": "Ja, alltså jag känner mig hyfsat med på det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:41",
+    "line": "Och i ärlighetens namn så var det..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:44",
+    "line": "Nu är det fan länge sedan, men inte så länge sedan som jag faktiskt kikade lite på det här när en kollega tyckte att det var ett alldeles opportun tillfälle att använda Statement of Achievement,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:55",
+    "line": "när vi skulle ta fram olika statisar på objekt. Så då läste jag nog på lite och tänkte att \"ja, det här greppar jag nog\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:05",
+    "line": "Och sen såg jag kod och rekursiva anrop och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:09",
+    "line": "Och då tror jag att jag backade lite."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:12",
+    "line": "Men jag tror han löste det själv som en hjälte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:14",
+    "line": "Och jag bara gick vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:18",
+    "line": "- Ja, det kan ju verkligen vara lite avskräckande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:22",
+    "line": "Om man pratar om bara de här tre sakerna som vi pratar om nu så är det ändå ganska straightforward."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:26",
+    "line": "Sen finns det ju såklart massa saker runt omkring där också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:29",
+    "line": "Alltså det finns något med state charts som, om jag inte är helt uttryckt här nu,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:33",
+    "line": "är att det är när du använder flera state machines och nästlar dem"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:39",
+    "line": "eller du har hierarkiska state machines eller parallella state machines"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:42",
+    "line": "eller state machines som skapar upp barnstate machines och sen skapar de upp barnstate machines"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:48",
+    "line": "och hur de kommunicerar mellan varandra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:51",
+    "line": "Men det kan vi lämna till något fördjupande avsnitt någon gång i framtiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:56",
+    "line": "Men jag tänker också bara för att man ska fatta vad det kan vara bra för"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:00",
+    "line": "Ett exempel på en state-maskin som är väldigt enkel att bygga eller som man har stött på är till exempel ett fetch-anrop."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:06",
+    "line": "När du kör fetch i din kod så kan det vara att först är det nåt waiting state eller idle state när du inte har gjort din fetch."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:15",
+    "line": "Då kan du tänka att det här är ditt promise egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:18",
+    "line": "Sen kan du ha en loading state och det triggas av att du har ett event som triggar det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:26",
+    "line": "Det är typ \"fetch\"-eventet som triggar att vi går till \"loading\" och gör vårt anrop."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:31",
+    "line": "Sen kommer den att stå i \"loading\"-statet tills den har fått ett svar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:35",
+    "line": "Då kan det vara att vi fick ett positivt svar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:38",
+    "line": "Då kanske vi går till ett state som heter \"success\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:41",
+    "line": "Och så händer det nånting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:42",
+    "line": "Eller om vi fick ett negativt svar, då kanske vi går till ett state som heter \"error\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:46",
+    "line": "Då triggar det ett event på att anropet inte fungerade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:51",
+    "line": "Sen skulle man då kanske kunna ha att, okej, men om vi är i error-statet så kanske man kan skicka en retry, till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:57",
+    "line": "Ett sånt event till vår maskin då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:59",
+    "line": "Och då kommer den göra anropet en gång till, hamna i loading och sen beroende på om det går bra eller inte så hamnar den i success eller error."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:07",
+    "line": "Så det är också ett exempel på en state-maskin som man kanske kan..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:10",
+    "line": "Som man har stött på kanske tidigare i någon utan att tänka på att det är en state-maskin just."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:15",
+    "line": "Jag får bara upp bilder så här när jag börjar på ett uppdrag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:20",
+    "line": "\"Perfekt, jag drar in en states machine!\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:25",
+    "line": "Det kanske inte är det första man gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:30",
+    "line": "Men det finns ändå fall när man vill modellera saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:34",
+    "line": "Ett exempel på saker som är bra att modellera med states machines är om du har någon typ av flerstegsformulär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:42",
+    "line": "Det brukar vara ett \"go to\" exempel för många som pratar om state machines."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:47",
+    "line": "\"Okej, men om vi har ett formulär med flera steg, då kan det vara att i det här statet som är det första"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:55",
+    "line": "då kan vi ta emot vissa events och de eventsen uppdaterar datan som finns på första steget.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:04",
+    "line": "Det är också en grej som kan sägas att våra events behöver inte nödvändigtvis trigga en transition till ett annat state."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:10",
+    "line": "Utan maskinen kan ta emot events med data och spara ner information också"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:16",
+    "line": "På steg 1 kanske vi tar emot att vi har first name och last name på steg 1"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:22",
+    "line": "Då har vi event som skickas när man fyller i de fälten"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:25",
+    "line": "Sen finns det kanske en next-knapp på det här formuläret"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:29",
+    "line": "Då triggas ett event som skickas till nästa state"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:32",
+    "line": "På den sidan kan man fylla i nästa information som kanske är e-mail eller något"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:37",
+    "line": "Oerhört dålig UX på det formulärt känner jag när jag pratar om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:41",
+    "line": "Men det förklarar ändå lite fördelen med att köra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:47",
+    "line": "För det som händer då är att då kan du se till att innan du har fyllt i first name och last name så kan du inte gå till nästa steg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:54",
+    "line": "Och står du på steg två så kan du inte fylla i first name och last name."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:58",
+    "line": "Eller om du står på steg ett så kan du inte ännu fylla i email och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:02",
+    "line": "Så det är väldigt mycket kontroll över vad man kan göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:06",
+    "line": "Jag ska säga, för våra lyssnare i Orördrad Radio, men du ser fortfarande väldigt skeptisk ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:13",
+    "line": "Jag ser ut så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:20",
+    "line": "Eller vad jag skulle säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:23",
+    "line": "Jag tror att ditt exempel påminner väldigt mycket om någonting som jag gjorde inte alls för lång tid sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:30",
+    "line": "Jag tror att det blir..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:32",
+    "line": "Jag förstår grejen och när man väl har implementerat det så är det klart att det lirar väldigt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:38",
+    "line": "Jag tror att jag blir..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:40",
+    "line": "Känner mig inte skeptisk till det som så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:46",
+    "line": "Jag känner mig skeptisk till hur roddar jag i den här koden?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:50",
+    "line": "Går den att förstå? Är den för komplex för min hjärna?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:54",
+    "line": "Det är det här som är, i och med att du pratar om att du är en visuell lärare, det här är, och det är kanske nu först vi kommer till det som enligt mig är det absolut coolaste med state machines."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:08",
+    "line": "För om vi tittar på Xstate då, som är det här populäraste JavaScript-biblioteket för state machines. Där visualiserar du hela din maskin och vilka states den har, vilka events den har, hur du går emellan dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:21",
+    "line": "Allting är egentligen bara ett javskript objekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:23",
+    "line": "Så du behöver inte skriva någon egen kod på hur du hanterar de här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:29",
+    "line": "Alltså hur du går mellan dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:30",
+    "line": "Eller du behöver inte skriva någon egen kod på hur du faktiskt interagerar med maskinen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:36",
+    "line": "Utan du skriver en specifikation som är typ så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:39",
+    "line": "Du ger den ett id."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:40",
+    "line": "Du säger något initial state som du vill ha."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:42",
+    "line": "Och sen så finns det en states property."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:46",
+    "line": "Och på den så skriver du vilka states du har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:48",
+    "line": "Vi hade kunnat skriva \"red\", \"yellow\", \"green\" till exempel som tre properties."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:53",
+    "line": "De i sin tur är objekt och i de objekten spesar man \"on\" som är en property."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:59",
+    "line": "Och sedan spesar man i den vilka event den kan ta emot och vilket state ska gå till när det händer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:05",
+    "line": "Och det är egentligen allt man behöver göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:08",
+    "line": "Så att skapa den här \"red\", \"yellow\", \"green\"-maskinen kanske är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:14",
+    "line": "Jag skulle säga 15 rader av ett JavaScript-objekt,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:18",
+    "line": "som du sen skickar in till XState och sen sköter den allting åt dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:23",
+    "line": "Är det här vi äntligen ser den totala vinningen i att ha paket?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:30",
+    "line": "Gud ja, det är det definitivt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:32",
+    "line": "Jag skulle aldrig vilja implementera allt som finns i XState själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:36",
+    "line": "Det är det som är lite coolt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:39",
+    "line": "Det som är ännu mer coolt är att eftersom den är en finite state-maskin som vi pratade om i början."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:49",
+    "line": "Det vill säga att det finns ett begränsat antal states man kan hamna i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:52",
+    "line": "Man kan tänka sig att det är som en graf."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:54",
+    "line": "Om du har sett ett flowchart någon gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:56",
+    "line": "Man ritar upp sitt yellow, eller red, så är det en pil till yellow."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:01",
+    "line": "Sen är det en pil till green från den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:03",
+    "line": "Sen kanske en pil tillbaka till red från green."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:07",
+    "line": "Då finns det verktyg för att ta din XState-maskin och visualisera den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:12",
+    "line": "Du kan klicka på ett VSCode-extension där du får upp en knapp bredvid din maskindefinition."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:20",
+    "line": "Där står det \"Open Visual Inspector\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:23",
+    "line": "Klickar du på den öppnas det ett fönster bredvid din kod där du ser exakt hur din maskin ser ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:29",
+    "line": "Du ser alla pilar mellan alla olika states."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:31",
+    "line": "Du ser hur de går mellan varandra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:32",
+    "line": "Du ser vad eventen heter och hur de triggar varandra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:36",
+    "line": "Plus att du då också kan klicka på simulate."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:39",
+    "line": "Och då kan du i din visuella bild av det här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:44",
+    "line": "då kan du klicka på dina events och se vilka states du hoppar till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:47",
+    "line": "Du kan se hur det går mellan dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:49",
+    "line": "Du kan sitta och klicka runt i din maskin och se hur funkar logiken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:53",
+    "line": "Och det gör ju då att helt plötsligt så är all logik i din applikation"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:57",
+    "line": "som är byggd med state-machines kan du sitta och titta på och klicka runt i och se hur den funkar"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:02",
+    "line": "utan att behöva köra själva applikationen egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:06",
+    "line": "Det låter ju extremt nice om det är en bra gränssnittsupplevelse och horribelt om det är bara brus."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:20",
+    "line": "Gud vad jävla pessimistiskt det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:23",
+    "line": "Det får det vara. Vi är tillbaka till avsnitt ett. Det är pepp och depp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:29",
+    "line": "Jag tycker att det funkar extremt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:32",
+    "line": "För det som också är att du kan även till exempel aktivera DevTools med XState."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:39",
+    "line": "Som gör att när du kör din maskin eller din app i browsern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:43",
+    "line": "Till exempel, jag bygger ju det här Gameshow-projektet och där använder jag State Machines."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:48",
+    "line": "Så när jag kör min Gameshow, då kan jag ta upp ett fönster bredvid där jag ser min maskin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:52",
+    "line": "Som är implementerad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:54",
+    "line": "Och jag kan då klicka runt i den och liksom så här, om jag skickar det här eventet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:58",
+    "line": "Då ska jag gå till det här statet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:00",
+    "line": "Då synkar den med min applikationsstate."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:04",
+    "line": "Så när jag klickar runt i den visuella bilden av min statemaskin så uppdateras även statet i min app."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:11",
+    "line": "Så jag kan istället för att klicka runt i GUI, så kan jag klicka runt i den visuella bilden av maskinen och se hur det påverkar GUI."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:18",
+    "line": "Det är också extremt coolt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:21",
+    "line": "- Ja, det är lite som att trycka in CSS-attribut i domen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:25",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:27",
+    "line": "Exakt, alltså det är liksom att göra det direkt i browsern liksom och så fast du kan"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:30",
+    "line": "Nu kan du göra det, det är liksom att du har visualiserat logiken istället för att bara visualisera"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:34",
+    "line": "Gud kan man säga"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:36",
+    "line": "Och den sista coola grejen som kom bara härom veckan"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:40",
+    "line": "Från, det är ett företag som heter Stately"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:43",
+    "line": "Som han som har byggt Xstate har grundat"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:46",
+    "line": "Och de släppte då en ny version av sitt VS Code Extension i veckan"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:51",
+    "line": "Kanske var förra veckan"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:53",
+    "line": "Där de har gjort en visuell editor"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:56",
+    "line": "Istället för att du skriver det här javskrivt objektet själv"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:01",
+    "line": "Så kan du drag and droppa ut dina states, events, transitions och allt annat som man kan lägga på ovanpå"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:10",
+    "line": "Så helt plötsligt behöver man inte ens kunna skriva kod för att kunna skriva logiken till en app"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:16",
+    "line": "Så det är en väldigt \"no code\" grej"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:20",
+    "line": "Men att du kan liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:22",
+    "line": "Egentligen skulle man kunna sitta tillsammans med en produktägare eller en UXare och visualisera hur det ska funka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:28",
+    "line": "\"Jamen när vi sitter på det här steget i det här flödet, då ska vi kunna gå dit.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:32",
+    "line": "Och så kan man sitta och titta och så kan man sitta och klicka igenom det här och se så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:35",
+    "line": "\"Ja men funkar det bra? Känns det bra? Är logiken vettig?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:37",
+    "line": "\"Åh nej, här hade vi inte tänkt på det där.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:39",
+    "line": "Och då kan vi fixa det direkt liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:41",
+    "line": "Och sen kan man då..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:42",
+    "line": "Och sen synkar det direkt till din kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:44",
+    "line": "Och då kan man liksom bara köra det rakt upp och ner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:48",
+    "line": "Men tänker du att det är så pass, vad heter det, jag vill säga simplifierat men så pass tydligt att en person som inte har kodkunskap kan göra det också?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:03",
+    "line": "Ja det tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:05",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:07",
+    "line": "Det beror ju inte så mycket på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:09",
+    "line": "Jag tror verkligen det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:11",
+    "line": "Jag tror att 2022 är \"the year of the state machine\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:18",
+    "line": "Jag tror att det kommer att få en riktig boom när det här nya verktyget som de släppte nu kommer och folk kan drag-and-droppa det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:28",
+    "line": "Man måste lära sig vilka properties som finns på det här jagskriptobjektet som man kan definiera maskinen med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:35",
+    "line": "Betyder det att vi kommer ha en massa state machines där vi inte hade behövt state machines?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:40",
+    "line": "Ja, garanterat. Det är väl alltid så när det blir en high."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:44",
+    "line": "Du pressar in state machines var än vi ens kan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:49",
+    "line": "Ja, så kommer det till 100% bli."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:54",
+    "line": "Men då undrar jag lite, är du liksom, vad är det du tycker är så himla nice?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:02",
+    "line": "Är du liksom intresserad av att de facto bygga en state machine eller resultatet state machinen producerar åt dig?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:10",
+    "line": "Nej, alltså det som gör mig förälskad i det är ju just det här att logiken kan visualiseras och liksom formaliseras på ett annat sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:19",
+    "line": "Jag vet inte, som sagt, om vi tar min gameshow som ett exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:23",
+    "line": "Bakgrunden är att man har en gameshow, den kan ha flera segment. Varje segment kan innehålla flera frågor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:34",
+    "line": "Det kan vara olika typer av segment. Vissa innehåller frågor, vissa gör andra saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:39",
+    "line": "Frågorna kan vara på olika sätt. Vissa kanske är att du visar upp en bild."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:43",
+    "line": "Vissa kanske är alternativfrågor där du ska klicka i olika alternativ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:47",
+    "line": "Någon är bara att man ska trycka snabbast på knappen, eller vad det nu kan vara"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:51",
+    "line": "Och det som jag kan göra då med Statemachine är att jag kan definiera logiken för alla de här olika sakerna"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:58",
+    "line": "Och bygga samman den logiken till en enda stor klump, i brist på bästa ord"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:06",
+    "line": "Och att jag också kan, sagt och sagt, se den här logiken"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:10",
+    "line": "För jag vet liksom inte ens om jag skulle lyckas tänka igenom hur allt det här skulle funka"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:15",
+    "line": "Om jag inte kunde spesa det i en state-maskin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:19",
+    "line": "Jag hade ju liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:20",
+    "line": "Det som jag hade behövt göra är att rita upp en massa flödesscheman."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:23",
+    "line": "\"Ja men okej, om jag står på den här frågan och ska gå till nästa fråga\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:27",
+    "line": "\"då ska det här hända, då ska det här statet uppdateras.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:29",
+    "line": "Nu får jag det gratis istället via state-maskinen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:32",
+    "line": "Så han säger att \"ja men då säger jag att okej\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:34",
+    "line": "\"från den här frågan ska jag bara kunna gå till nästa fråga\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:36",
+    "line": "\"och då ska det här hända\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:37",
+    "line": "\"och då kommer det inte kunna ske någonting annat med mitt state.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:39",
+    "line": "Alltså jag behöver liksom inte oroa mig så mycket att jag har kodat fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:42",
+    "line": "så länge min lilla visuella bild av logiken ser rätt ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:46",
+    "line": "Fan, umella loss lite bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:50",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:51",
+    "line": "Nej, skoja bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:51",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:52",
+    "line": "Ja, men det är väl typ liksom så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:53",
+    "line": "det sitter man med umellgrejer och sen ska du liksom göra om det till implementation"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:59",
+    "line": "och däremellan blir det ju ofta mycket missförstånd och förvirring."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:03",
+    "line": "Ja, nej men jag förstår, alltså det är väl svinbra att kunna få liksom en"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:08",
+    "line": "tydlig representation av vad man håller på med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:11",
+    "line": "Det gäller ju det mesta tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:13",
+    "line": "Bara en sån sak som när den här Bundle Size Visualizer kom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:18",
+    "line": "Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:19",
+    "line": "Har du egentligen ditt projekt?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:20",
+    "line": "Alltså sådana delar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:21",
+    "line": "Så det är väl alltid bra att kunna se vad som finns här egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:25",
+    "line": "Ja, så jag kan varmt rekommendera alla att i alla fall testa lite."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:32",
+    "line": "Eller kolla på de exemplen som finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:33",
+    "line": "För det finns ju extremt många exempel på sådana här maskiner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:35",
+    "line": "I alla fall på deras hemsida som är stately.ai tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:39",
+    "line": "eller xstate.js.org"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:43",
+    "line": "Det är ju ändå lite intressant, för du är mer intresserad av produkten du får ut"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:50",
+    "line": "än du är av att göra en state machine själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:54",
+    "line": "Ja, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:56",
+    "line": "Det hade inte behövt vara en state machine om det gav mig samma fördelar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:00",
+    "line": "Men jag vet inte om det finns någon annan alternativ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:04",
+    "line": "Nej, det är bara jag som fastnade vid en tweet som jag ville se om jag kunde fortsätta applicera på livet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:12",
+    "line": "Jag tror det var någonting i stil med att min pappa är en audiofil så han bryr sig om högtalare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:21",
+    "line": "Det spelar ingen roll vad det är för musik eller ljud utan det är bara högtalaren som betyder någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:26",
+    "line": "Så kan du vara som utvecklare också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:29",
+    "line": "Du kan antingen bry dig om musiken eller tekniken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:33",
+    "line": "Och musiken skulle då vara produkten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:36",
+    "line": "Ja, den tweeten gillar jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:39",
+    "line": "Ja, jo, jo."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:43",
+    "line": "Men det finns saker att känna med den tweeten som jag kanske inte ska gå in på nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:48",
+    "line": "Men jag håller med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:51",
+    "line": "Det jag tycker är väldigt bra om jag ska formulera mig extremt kort och koncis så är det liksom att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:56",
+    "line": "Xstate eller State Machines låter mig skriva ganska buggfri kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:04",
+    "line": "För att den sköter så mycket i bakgrunden åt mig och att det blir tydliga gränser mellan olika states och tydliga vägar mellan dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:15",
+    "line": "Passa oft."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:17",
+    "line": "Så nu, till nästa avsnitt, då har du också blivit såld på State Machines när du bara har testat lite. Det är perfekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:24",
+    "line": "Ja, det får jag absolut göra. Jag ska väl bygga en superfetch, tänkte jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:29",
+    "line": "Ja, exakt. Du kan komma till ditt team och säga \"Du, jag har byggt en fetch här med en state-maskin i bakgrunden\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:35",
+    "line": "Jag ska också säga, innan vi avrundar, det finns ju också en massa saker som hur du använder Xstate i typ Vue eller React eller andra bibliotek."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:43",
+    "line": "Alltså i React så är det en hook som heter \"use machine\" och så skickar du in din maskin-definition."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:49",
+    "line": "Och sen spottar den ut sig i statet som du är på och en send-funktion för att skicka events till den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:55",
+    "line": "Så det är också extremt simpelt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:58",
+    "line": "Men man kan också använda det utan ramverk och du kan använda det, det finns massa olika varianter på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:03",
+    "line": "Så det kanske är det sista jag har att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:05",
+    "line": "Ja, alltså jag tycker att det låter jäkligt cool och jäkligt..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:10",
+    "line": "Cool?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:11",
+    "line": "Coolt?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:12",
+    "line": "Jäkligt nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:13",
+    "line": "Och på något sätt så känns det ändå som att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:16",
+    "line": "En del av mig vill känna att det har kommit något nytt och coolt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:19",
+    "line": "Fast det bygger på så extremt gamla principer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:22",
+    "line": "Så det är inte nytt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:24",
+    "line": "Det är bara en ny take på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:26",
+    "line": "Så jag är egentligen lite spänd på att testa det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:30",
+    "line": "Men också trött."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:35",
+    "line": "Det får vi se."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:35",
+    "line": "Det förstår jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:37",
+    "line": "Man ska hellre vila än testa X-Tate."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:42",
+    "line": "Eller?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:45",
+    "line": "Men toppen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:47",
+    "line": "Vi säger så. Vi finns som vanligt på lite olika sociala medier och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:52",
+    "line": "Det är bara att höra av sig om man har några frågor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:54",
+    "line": "Annars så tackar vi för oss."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:59",
+    "line": "Ja, så hörs vi om två veckor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:01",
+    "line": "Det gör vi. Säg så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:02",
+    "line": "Bye bye."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:03",
+    "line": "Hej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:04",
+    "line": "[Outromusik]"
+  }
+]

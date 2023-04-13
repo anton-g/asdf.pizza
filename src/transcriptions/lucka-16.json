@@ -1,0 +1,282 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Vad låter O-O-O?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:03",
+    "line": "Jag har ingen aning, jag är så jävla nyfiken på vart jag ska ta vägen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "Jag har ingen aning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:10",
+    "line": "Det är tomten som går baklänges."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Alltså..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:16",
+    "line": "Det är så fruktansvärt jävla dåligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:24",
+    "line": "Jag vet inte, jag är fullt medveten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:28",
+    "line": "Om vi räknar med julkalendern så kanske vi har spelat in en 80-avsnitt eller något nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:32",
+    "line": "Alltså, det är det sämsta skämtet i poddarnas historia."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:36",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:38",
+    "line": "Jag vet, men jag kände mig tvungen att ta med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:44",
+    "line": "Det var överallt och jag bara så här, det måste med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:48",
+    "line": "Absolut. Jag är jätteglad att du tog med det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:52",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:56",
+    "line": "Nu kommer jag inte att återhämta mig från det här. Vi är på luke 16. Prata på, Therese."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:04",
+    "line": "Just det. Det är jag som har ett tips också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:10",
+    "line": "Ok, mitt tips för dagen är en Chrome extension som heter Vimium."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:19",
+    "line": "Den är inte heller så fräsk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:22",
+    "line": "Men det är min fördetta kollega, din kollega, Vimkillen, som har introducerat det här för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:33",
+    "line": "Det är en extension där du trycker på F och så får du upp allting som är klickbart på en sida i browsern."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:42",
+    "line": "Och så får du vilka bokstäver du ska klicka på för att klicka på det itemet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:48",
+    "line": "Länken eller knappen eller vad det nu kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:51",
+    "line": "Och det är för att du inte ska behöva använda musen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:54",
+    "line": "Det är nice om man vill navigera på ett sätt och slippa tabba ha sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:00",
+    "line": "Men framförallt så tycker jag det är ett väldigt bra verktyg ibland bara för att själv utvärdera vad jag håller på med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:08",
+    "line": "Okej, är saker som jag upplever är klickbara, kommer det här extensionet uppfatta det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:15",
+    "line": "Skulle en screen reader då uppfatta det och så vidare?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:18",
+    "line": "Har de rätt roller och rätt saker? Kan jag klicka på allting som jag tänker att jag kan klicka?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:23",
+    "line": "Jag tycker det är ett väldigt bra verktyg för att också utvärdera den saken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:28",
+    "line": "Just det, det blir ju en tillgänglighetstest i och med att den måste ju veta vad som är klickbart för att kunna visa dig kortkommandon för dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:38",
+    "line": "Ja, precis. Jag kommer ihåg en annan kollega, han var alltid lite irriterad på att det var en lista vi gjorde där allting var klickbart men det dök inte upp i Vimium."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:50",
+    "line": "irriterade honom väldigt mycket och det blev en tanke istället, okej men den här ska ju vara klickbar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:55",
+    "line": "Vi kan inte ha en div bara med en onclick, det funkar inte, det lider inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:00",
+    "line": "Så jag tycker det är en bra ögonöppnare för vissa sådana grejer också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:03",
+    "line": "Och som vi pratade om i ett tidigare avsnitt, ARC,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:08",
+    "line": "så informerade Anton mig här om att ARC stödjer alla Chrome-plugin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:13",
+    "line": "Jajamän, det är en Chromium-baserad browser, så då funkar allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:18",
+    "line": "Jag har inte testat alla extensions, så jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:22",
+    "line": "Jag har kört i Bitwarden och lite sånt där, så det funkar bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:26",
+    "line": "Ja, det var en väldigt lång utläggning för en väldigt liten sak, men så är det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:32",
+    "line": "Ja, jag har inte testat själv. Lite lockad just nu, även om jag inte gillar Vim."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:38",
+    "line": "Men det ser ganska trevligt ut när man använder det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:42",
+    "line": "Att kunna klicka med time-portet så snabbt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:45",
+    "line": "- Eller hur? Varför gillar du inte Vim? - Jag vet inte. Jag orkar bara inte lära mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:51",
+    "line": "- Det är bara en principsak. - Ja, jag tror det. Jag har gått från att \"förut orkade inte lära mig, nu är det en del av min identitet att hata Vim\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:59",
+    "line": "- Men kommer du ut från git? - Ja, jag har ändå lärt mig \"colon wq\" eller vad fan det är man skriver."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:08",
+    "line": "- Ja, så \"colon right quit\". - Så långt är jag med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:13",
+    "line": "Logiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:14",
+    "line": "Jajamän. Toppen hörni. Vi hörs igen imorgon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:19",
+    "line": "[skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:20",
+    "line": "Nej, jag återhämtar på det där skämtet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:22",
+    "line": "Kanske inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:24",
+    "line": "Hej då!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:25",
+    "line": "Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:26",
+    "line": "(Musik)"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:28",
+    "line": "*outro*"
+  }
+]

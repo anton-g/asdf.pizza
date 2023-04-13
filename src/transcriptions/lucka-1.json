@@ -1,0 +1,227 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Har du hört den om älgen som gjorde sig julfin?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:04",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "Den duschade så den blev ren."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "Alltså det är så dåligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:11",
+    "line": "Ja, jag vet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:12",
+    "line": "Åh, det är så dåligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Men det är en väldigt, väldigt bra start på det här avsnitten som kanske överraskar en del folk i och med att vad fan är det för dag idag?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:20",
+    "line": "Torsdag kanske när det här kommer ut va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:23",
+    "line": "Ja, god december."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:25",
+    "line": "God december och glad start på den här julkalendern eller adventskalendern eller jag vet inte vad det heter längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:34",
+    "line": "Ja det heter väl adventskalendern men jag vill också slänga in här att det här standarden på skämt kommer inte vara hög och jag tycker inte att det är mitt fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:46",
+    "line": "Det är 100% mitt fel. För jag har tvingat dig med 23 skämt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:50",
+    "line": "Det är så det får vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:52",
+    "line": "Vi får se. Jag ska försöka bidra med skämt också. Vi får se hur det går."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:55",
+    "line": "I vilket fall. Vi tänkte köra en liten julkalender i december."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:59",
+    "line": "Avsnitten kommer inte vara så jättelånga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:03",
+    "line": "Men det kommer i alla fall. Vi utlovar ett skämt och ett tips per avsnitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:07",
+    "line": "Och sen räknar jag med, säg fem minuter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:09",
+    "line": "Och sen får det fan vara klart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:10",
+    "line": "Japp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:12",
+    "line": "Så med det här underbara skämtet avklarat så tänkte jag, jag har ett tips för dagen som jag har tipsat ganska många om tidigare, fast inte i podden, tror jag i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:26",
+    "line": "Men det är ett extension till VS Code som heter Abracadabra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:32",
+    "line": "Det det gör är att det lägger på massa refaktoreringsverktyg till IVS-code för TypeScript och JavaScript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:44",
+    "line": "Vilket är svintrevligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:46",
+    "line": "Det absolut bästa som jag använder absolut oftast är att man kan byta om en sträng."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:54",
+    "line": "Du kan snabbt toggla en sträng mellan att vara en vanlig sträng och en template-sträng."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:58",
+    "line": "Och det är ju så jävla bra. Alltså hela extensionen är inte värt det bara för det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:04",
+    "line": "Men det är helt underbart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:08",
+    "line": "Fastän, satan. Jo, jag kommer ihåg att du har pratat om det här, men jag har liksom glömt bort det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:12",
+    "line": "Men nu är jag tillbaka i VS Code, så nu kanske jag ska ta mig an det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:16",
+    "line": "Alltså det där är den bästa uspen du har haft i ditt liv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:22",
+    "line": "Den är magisk och gör en massa andra bra saker också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:26",
+    "line": "Man kan flytta och bryta ut saker till egna funktioner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:30",
+    "line": "På ett lite smartare sätt än vad VS Code vanliggör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:33",
+    "line": "Jag tycker den är svinbra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:36",
+    "line": "Så kör ni VS Code, ladda ner den och testa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:38",
+    "line": "Det är väl det jag hade idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:41",
+    "line": "Bakom lucka ett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:43",
+    "line": "Ja, är väl gott nog skulle jag säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:47",
+    "line": "Gott nog. Vi hörs igen imorgon hörni."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:50",
+    "line": "Glad december!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:51",
+    "line": "Jajjemän, ha det bra! Hej!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:52",
+    "line": "Hej då!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:53",
+    "line": "(Jingle)"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:56",
+    "line": "Hej hej!"
+  }
+]

@@ -1,0 +1,1795 @@
+[
+  {
+    "speaker": "Anton",
+    "timestamp": "00:00:00.000 --> 00:00:04.000",
+    "line": "Okej. Jag vet inte var vi ska börja."
+  },
+  { "speaker": "Anton", "timestamp": "00:00:04.000 --> 00:00:06.000", "line": "Hur mår du?" },
+  { "speaker": "Therése", "timestamp": "00:00:06.000 --> 00:00:10.000", "line": "[Skratt]" },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:00:10.000 --> 00:00:13.000",
+    "line": "Det här kommer vara starten nu. Nu kommer vi köra."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:00:13.000 --> 00:00:18.000",
+    "line": "Det är svårt att komma igång och därför kör vi. Nu har vi börjat."
+  },
+  { "speaker": "Anton", "timestamp": "00:00:18.000 --> 00:00:22.000", "line": "Okej. Välkomna till." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:00:22.000 --> 00:00:26.000",
+    "line": "Vår podd heter ju ASDF. Säger vi ASDF eller säger vi ASDF?"
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:00:26.000 --> 00:00:30.000",
+    "line": "Ja det rullar ju av tungan."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:00:30.000 --> 00:00:33.000",
+    "line": "Men ASD rullar ju inte heller av tungan."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:00:33.000 --> 00:00:35.000",
+    "line": "Nej och det låter som något dåligt."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:00:35.000 --> 00:00:37.000",
+    "line": "Vi har inte riktigt tänkt till det här när vi döpte podden."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:00:37.000 --> 00:00:40.000",
+    "line": "Men jag tycker ändå det funkar."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:00:40.000 --> 00:00:42.000",
+    "line": "Kan vara för att vi döpte podden över cocktails."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:00:42.000 --> 00:00:44.000",
+    "line": "Vi döpte podden över cocktails."
+  },
+  { "speaker": "Anton", "timestamp": "00:00:44.000 --> 00:00:46.000", "line": "Sju cocktails in." },
+  { "speaker": "Therése", "timestamp": "00:00:46.000 --> 00:00:48.000", "line": "Ja det blev ju massor." },
+  { "speaker": "Anton", "timestamp": "00:00:48.000 --> 00:00:54.000", "line": "Men tanken är så här." },
+  { "speaker": "Anton", "timestamp": "00:00:54.000 --> 00:00:55.000", "line": "Jag heter Anton." },
+  { "speaker": "Therése", "timestamp": "00:00:55.000 --> 00:00:57.000", "line": "Jag heter Therese." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:00:57.000 --> 00:01:01.000",
+    "line": "Vi jobbar som it-konsulter, utvecklare."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:01:01.000 --> 00:01:04.000",
+    "line": "Och jag har tidigare haft en podcast som heter \"Stilling-beta\""
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:01:04.000 --> 00:01:06.000",
+    "line": "som handlar typ om att vara ny som utvecklare<"
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:01:06.000 --> 00:01:11.000",
+    "line": "och körde den i två år och sen la vi ner den för att vi hade inget mer att prata om och lite annat grejer."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:01:11.000 --> 00:01:14.000",
+    "line": "Och sen dess har jag typ saknat att podda."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:01:14.000 --> 00:01:16.000",
+    "line": "Så nu kände jag att det var dags igen."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:01:16.000 --> 00:01:19.000",
+    "line": "Och sen har jag tvingat in Therese i det här."
+  },
+  { "speaker": "Anton", "timestamp": "00:01:22.000 --> 00:01:24.000", "line": "Men du är ändå ganska pepp." },
+  { "speaker": "Therése", "timestamp": "00:01:24.000 --> 00:01:26.000", "line": "Ja." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:01:26.000 --> 00:01:30.000",
+    "line": "Det beror på vad man menar med pepp."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:01:30.000 --> 00:01:41.000",
+    "line": "Om du menar superhispig och blir stressad över att det inte finns tydlighet i vad vi ska göra och inte vet vad jag håller på med."
+  },
+  { "speaker": "Therése", "timestamp": "00:01:41.000 --> 00:01:43.000", "line": "Så ja, pepp." },
+  { "speaker": "Anton", "timestamp": "00:01:43.000 --> 00:01:45.000", "line": "Exakt." },
+  { "speaker": "Anton", "timestamp": "00:01:45.000 --> 00:01:47.000", "line": "100% av vad jag menade." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:01:47.000 --> 00:01:57.000",
+    "line": "Men tanken är väl egentligen att vi ska prata lite kod och utveckling, men det kommer förmodligen bli 90% struntprat."
+  },
+  { "speaker": "Therése", "timestamp": "00:01:57.000 --> 00:01:58.000", "line": "Ja, antagligen." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:01:58.000 --> 00:02:06.000",
+    "line": "Och det är väl också lite därför podden heter ASDF. Tanken är att varje avsnitt är mer som att man bara klickar något på tangentbordet."
+  },
+  { "speaker": "Therése", "timestamp": "00:02:06.000 --> 00:02:07.000", "line": "Ser vad som händer." },
+  { "speaker": "Anton", "timestamp": "00:02:07.000 --> 00:02:08.000", "line": "Exakt." },
+  { "speaker": "Therése", "timestamp": "00:02:08.000 --> 00:02:09.000", "line": "Testdata." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:02:09.000 --> 00:02:15.000",
+    "line": "Lite testdata. Här är liksom poddarnas testdata, om man vill säga det så."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:02:15.000 --> 00:02:21.000",
+    "line": "Så vi får se hur ofta vi släpper avsnitt, vi får se hur länge vi håller på, vi får se om det här avsnittet än släpps överhuvudtaget."
+  },
+  { "speaker": "Therése", "timestamp": "00:02:21.000 --> 00:02:23.000", "line": "Cliffhangers." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:02:23.000 --> 00:02:29.000",
+    "line": "Men vi kör igång tycker jag. Vem är du Therese?"
+  },
+  { "speaker": "Therése", "timestamp": "00:02:29.000 --> 00:02:31.000", "line": "Vadå vem är jag?" },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:02:31.000 --> 00:02:35.000",
+    "line": "Ge en hiss pitch till lyssnarna, vem du är."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:02:35.000 --> 00:02:46.000",
+    "line": "Jag heter Therese, jag bor i Stockholm, kommer från Linköping, jobbar som utvecklare och konsult,"
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:02:46.000 --> 00:02:53.000",
+    "line": "önskar att jag hade en hund, har gjort av mitt Instagram-flöde så det är i princip bara hundar,"
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:02:53.000 --> 00:03:02.000",
+    "line": "och försöker klappa alla hundar jag ser, men skulle aldrig närma mig dem utan deras ägarestillstånd,"
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:03:02.000 --> 00:03:06.000",
+    "line": "eller skulle aldrig gå nära hunden och sabba deras integritet."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:03:06.000 --> 00:03:10.000",
+    "line": "- Ropar du på avstånd, \"Ursäkta, får jag klappa hunden?\""
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:03:10.000 --> 00:03:19.000",
+    "line": "- Nej, det handlar om att försöka strategiskt placera sig nära hunden så att hunden kommer till dig."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:03:19.000 --> 00:03:24.000",
+    "line": "- Du ställer dig i hundens väg, och sen står du stilla tills han kommer förbi."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:03:24.000 --> 00:03:27.000",
+    "line": "Och då känner du, \"Får jag klappa?\""
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:03:27.000 --> 00:03:31.000",
+    "line": "- Ja, men om hunden tar kontakt, då får jag säga, \"Får man klappa?\""
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:03:31.000 --> 00:03:38.000",
+    "line": "Jag fattar. Går du runt med lite så här hundgodis i fickan och en så här hundvissla som lockar på hundarna."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:03:38.000 --> 00:03:40.000",
+    "line": "En gammal köttfärs i fickan."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:03:40.000 --> 00:03:47.000",
+    "line": "Nej, jag vet inte varför det blir så mycket hund. Jag tror jag har varit inne för mycket."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:03:47.000 --> 00:03:53.000",
+    "line": "Ja, vi skulle säga det också. Vi spelade in det här, vad är det för datum idag? 22 mars."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:03:53.000 --> 00:04:05.000",
+    "line": "mitt i coronatider. Så att om vi är extra konstiga så är det kanske för att vi har varit i lite social distancing senaste veckan."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:04:05.000 --> 00:04:13.000",
+    "line": "- Mycket inomhus? - Mycket, mycket inomhus. Mycket jobb hemifrån, vilket är så jävla tråkigt."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:04:13.000 --> 00:04:18.000",
+    "line": "- Tycker det är helt okej? - Ja, man kan ha lite olika uppfattningar om det där känner jag."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:04:18.000 --> 00:04:21.000",
+    "line": "Vilken är din hisspitch? Vem är du?"
+  },
+  { "speaker": "Anton", "timestamp": "00:04:21.000 --> 00:04:24.000", "line": "Ja, det är en bra fråga." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:04:24.000 --> 00:04:28.000",
+    "line": "Jag heter Anton, är 28 år gammal."
+  },
+  { "speaker": "Therése", "timestamp": "00:04:28.000 --> 00:04:30.000", "line": "Jag vet inte." },
+  { "speaker": "Anton", "timestamp": "00:04:30.000 --> 00:04:32.000", "line": "Jag kanske är 28 år gammal." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:04:32.000 --> 00:04:36.000",
+    "line": "Bor i Stockholm, kommer från Söderhamn, som alla känner till."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:04:36.000 --> 00:04:39.000",
+    "line": "Lite norr omgävlig. Man skulle kunna kalla mig norrlänning."
+  },
+  { "speaker": "Therése", "timestamp": "00:04:39.000 --> 00:04:40.000", "line": "Metropolen." },
+  { "speaker": "Anton", "timestamp": "00:04:40.000 --> 00:04:42.000", "line": "Metropolen, Söderhamn." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:04:42.000 --> 00:04:47.000",
+    "line": "Känd från bland annat Aftonbladets artikelserie \"Drågstaden\""
+  },
+  { "speaker": "Therése", "timestamp": "00:04:47.000 --> 00:04:49.000", "line": "(skratt)" },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:04:49.000 --> 00:04:52.000",
+    "line": "Men, men, Söderhamn är också känt för mycket annat."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:04:52.000 --> 00:04:57.000",
+    "line": "Vi hade eventuellt Sveriges högsta McDonalds-skylt ganska många år, tror jag."
+  },
+  { "speaker": "Therése", "timestamp": "00:04:57.000 --> 00:04:59.000", "line": "(skratt)" },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:04:59.000 --> 00:05:02.000",
+    "line": "Vi har en liten borg som heter Oscarsborg. Den är fin."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:05:02.000 --> 00:05:05.000",
+    "line": "Så att, ja, jag tycker om Söderhamn egentligen."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:05:05.000 --> 00:05:08.000",
+    "line": "Men, det här är mina highlights."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:05:08.000 --> 00:05:11.000",
+    "line": "Det är sjukt att du vet så mycket om Söderhamn."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:05:11.000 --> 00:05:14.000",
+    "line": "Jag är så här, jag kom från Linköping, vad hände där? Nej, jag vet inte."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:05:14.000 --> 00:05:16.520",
+    "line": "Ja men Linköping är väl lite för stort för att veta något om?"
+  },
+  { "speaker": "Anton", "timestamp": "00:05:16.520 --> 00:05:17.680", "line": "Fattar du vad jag menar?" },
+  { "speaker": "Therése", "timestamp": "00:05:17.680 --> 00:05:19.160", "line": "Ja, det är inte så här." },
+  { "speaker": "Therése", "timestamp": "00:05:19.160 --> 00:05:20.160", "line": "Vad har vi egentligen?" },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:05:20.160 --> 00:05:23.680",
+    "line": "Åh, vi har näst största McDonalds-skylten i Sverige."
+  },
+  { "speaker": "Therése", "timestamp": "00:05:23.680 --> 00:05:24.680", "line": "Nej." },
+  { "speaker": "Therése", "timestamp": "00:05:24.680 --> 00:05:26.440", "line": "Nej." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:05:26.440 --> 00:05:27.560",
+    "line": "Det behöver vi kanske inte."
+  },
+  { "speaker": "Therése", "timestamp": "00:05:27.560 --> 00:05:29.160", "line": "Det är mycket Saab." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:05:29.160 --> 00:05:31.960",
+    "line": "Ja, men det blir det såklart."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:05:31.960 --> 00:05:34.320",
+    "line": "Ja, men i övrigt, jag jobbar också som utvecklare i konsult."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:05:34.320 --> 00:05:37.800",
+    "line": "Vi jobbar på samma konsultbolag som heter Mpya."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:05:37.800 --> 00:05:43.400",
+    "line": "Och vi har väl känt varandra i ett år ganska precis nu."
+  },
+  { "speaker": "Therése", "timestamp": "00:05:43.400 --> 00:05:45.400", "line": "Ja, typ. Lite mer." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:05:45.400 --> 00:05:49.400",
+    "line": "Jag såg ju dig på konferensen svetugg."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:05:49.400 --> 00:05:52.400",
+    "line": "Det var ju första gången vi träffades, fast vi inte träffades."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:05:52.400 --> 00:05:55.400",
+    "line": "Jag träffade dig, men du träffade inte mig så att säga."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:05:55.400 --> 00:06:00.400",
+    "line": "Men jag lyssnade på dig första gången i din podd."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:06:00.400 --> 00:06:02.400",
+    "line": "Lyssnade jag på en avsnitt."
+  },
+  { "speaker": "Anton", "timestamp": "00:06:02.400 --> 00:06:03.400", "line": "Ja, just det." },
+  { "speaker": "Therése", "timestamp": "00:06:03.400 --> 00:06:05.400", "line": "Så jag hörde dig innan." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:06:05.400 --> 00:06:08.400",
+    "line": "Så vi kan säga att vi träffade varann, men inte tillsammans."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:06:08.400 --> 00:06:14.920",
+    "line": "Och sen så efter föreläsningen så var det någon som började följa mig på Twitter."
+  },
+  { "speaker": "Anton", "timestamp": "00:06:14.920 --> 00:06:16.920", "line": "Ja just det, det var jag." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:06:16.920 --> 00:06:20.920",
+    "line": "Ja just det, som också svarade något någon gång. Jag bara \"Vem är det här?\""
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:06:20.920 --> 00:06:24.920",
+    "line": "Du kände direkt kändiskapet stiga dig åt huvudet."
+  },
+  { "speaker": "Therése", "timestamp": "00:06:24.920 --> 00:06:27.920", "line": "Jag har en följare." },
+  { "speaker": "Anton", "timestamp": "00:06:27.920 --> 00:06:29.920", "line": "Ja men det är ju perfekt." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:06:29.920 --> 00:06:35.920",
+    "line": "Nej men och jag vet inte om jag ska säga mer. Jag har jobbat som utvecklare i tre och ett halvt år tror jag."
+  },
+  { "speaker": "Therése", "timestamp": "00:06:35.920 --> 00:06:37.920", "line": "Varför frågar du mig?" },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:06:37.920 --> 00:06:43.520",
+    "line": "Jag tittar på dig medan jag tänker efter. Perfekt radio det här."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:06:43.520 --> 00:06:48.520",
+    "line": "Jag har jobbat som utvecklare i tre och ett halvt år, alltid som konsult."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:06:48.520 --> 00:06:53.720",
+    "line": "Och som sagt, lärde känna dig för ett år sedan när jag bytte till samma konsultplats som du idag."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:06:53.720 --> 00:07:00.520",
+    "line": "Från podd till föreläsning till Twitter till att jag gick in på jobbet en dag och så bara stod du där."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:07:00.520 --> 00:07:03.920",
+    "line": "Exakt, hoppade på dig. Lite så."
+  },
+  { "speaker": "Anton", "timestamp": "00:07:03.920 --> 00:07:07.320", "line": "Hej, jag känner igen dig." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:07:07.320 --> 00:07:10.320",
+    "line": "Men du har ju varit utvecklare länge tänkte jag säga."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:07:10.320 --> 00:07:14.320",
+    "line": "Nej, inte så länge. Fyra och ett halvt, snart fem år."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:07:14.320 --> 00:07:16.320",
+    "line": "Ja, det är ganska länge ändå."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:07:16.320 --> 00:07:19.320",
+    "line": "Jag tänker fem år, då är man ju automatiskt senior."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:07:19.320 --> 00:07:24.320",
+    "line": "Ja, det är bara hemlig. Jag är ju också äldre än dig."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:07:24.320 --> 00:07:26.320",
+    "line": "Ja, men det spelar inte så stor roll."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:07:26.320 --> 00:07:28.320",
+    "line": "Sjukt mycket äldre än dig."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:07:28.320 --> 00:07:30.320",
+    "line": "Sjukt mycket äldre än mig är du ju inte."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:07:30.320 --> 00:07:34.320",
+    "line": "Vi är båda webbutvecklare, skulle det sägas kanske."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:07:34.320 --> 00:07:40.320",
+    "line": "Båda jobbar väl med React och frontends mest, eller jag gör lite fullstack."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:07:40.320 --> 00:07:42.320",
+    "line": "Och du är ju ändå Java-utvecklare nu också."
+  },
+  { "speaker": "Therése", "timestamp": "00:07:42.320 --> 00:07:44.320", "line": "Kul, kul kille." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:07:44.320 --> 00:07:48.320",
+    "line": "Jag går väl också mot fullstack."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:07:48.320 --> 00:07:54.320",
+    "line": "Jag har inga problem att gå ner och gräva längre ner i stacken så att säga."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:07:54.320 --> 00:07:56.320",
+    "line": "Men jag är ju också ganska dålig på det."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:07:56.320 --> 00:08:02.320",
+    "line": "Och det är jag helt okej med."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:08:02.320 --> 00:08:09.320",
+    "line": "Men du har kört frontend, alltså JavaScript hela tiden."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:08:09.320 --> 00:08:12.320",
+    "line": "Du pratade lite grann om det på din konferenspresentation."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:08:12.320 --> 00:08:14.320",
+    "line": "Ska vi länka till den i beskrivningen här under kanske?"
+  },
+  { "speaker": "Anton", "timestamp": "00:08:14.320 --> 00:08:16.320", "line": "Ja det ska vi." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:08:16.320 --> 00:08:19.320",
+    "line": "Jag vill länka till den när Therese pratade om React."
+  },
+  { "speaker": "Anton", "timestamp": "00:08:19.320 --> 00:08:21.320", "line": "Vad var det mer?" },
+  { "speaker": "Therése", "timestamp": "00:08:21.320 --> 00:08:23.320", "line": "När jag pratade om React." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:08:23.320 --> 00:08:29.320",
+    "line": "Ja, alltså när vi, jag drar en historia om när jag försökte dra in React i en backbone-applikation."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:08:29.320 --> 00:08:31.320",
+    "line": "Just det, backbone var det ja."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:08:31.320 --> 00:08:37.320",
+    "line": "Men det heter React and I, men alla tror att det heter React and Die när jag säger det."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:08:37.320 --> 00:08:42.320",
+    "line": "Alla tror också att jag jobbar på Empire när jag säger Mpya."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:08:42.320 --> 00:08:45.320",
+    "line": "Ja, det är inte så lätt att uttala saker tänkte jag säga."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:08:45.320 --> 00:08:51.320",
+    "line": "React and Die är ju också ett ganska bra konferenssnackstitel liksom."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:08:51.320 --> 00:08:54.320",
+    "line": "Ja, det kan du ta när du snackar."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:08:54.320 --> 00:08:58.320",
+    "line": "Nej, men jag började ju som fullstackare faktiskt."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:08:58.320 --> 00:09:12.320",
+    "line": "Min utbildning var ju medieteknik på LiU och det är i princip bara matteprogrammering men då är det ju visualiseringsprogrammering så det är ju C++ och OpenGL."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:09:12.320 --> 00:09:27.320",
+    "line": "Så jag kom ju därifrån och sen så fick jag jobb som fullstackare så jag gick från PL/SQL, SQL, Java och så från den som var en backbone-applikation som vi började dra in React i."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:09:27.320 --> 00:09:29.320",
+    "line": "Men du gjorde Java då i början också?"
+  },
+  { "speaker": "Therése", "timestamp": "00:09:29.320 --> 00:09:31.320", "line": "Ja." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:09:31.320 --> 00:09:35.320",
+    "line": "Redan där var jag väldigt dålig på Java."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:09:35.320 --> 00:09:39.320",
+    "line": "Du sa nyss att du aldrig hade gjort Java, det är inte så lätt att vara bra på Java då."
+  },
+  { "speaker": "Therése", "timestamp": "00:09:39.320 --> 00:09:41.320", "line": "Jo, men lite i plugget." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:09:41.320 --> 00:09:49.320",
+    "line": "Men i plugget var det ju så här, vår Java-lärare hade ju Java-lektionen på overhead."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:09:49.320 --> 00:09:58.320",
+    "line": "Så vi lärde oss programmering genom att han hade exempel på overhead-blad och sen flippade han dem när han skulle visa exempel och jämföra sådär."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:09:58.320 --> 00:10:04.320",
+    "line": "Så det var jävla massa overheads och så ramde de ut på golvet ibland och så var det Java Swing."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:10:04.320 --> 00:10:10.320",
+    "line": "Så vi byggde typiskt gråa IBM-härliga gränssnitt."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:10:10.320 --> 00:10:12.320",
+    "line": "Det var lite såhär Enterprise."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:10:12.320 --> 00:10:20.320",
+    "line": "Och sen när man kom ut och skulle jobba på riktigt då var det ju så här microservices, det var Java, Java Spring och massa annoteringar."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:10:20.320 --> 00:10:23.320",
+    "line": "Så här, annoteringsmagi med Lombok och så här."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:10:23.320 --> 00:10:26.320",
+    "line": "Säger jag mig absolut ingenting, men tro dig."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:10:26.320 --> 00:10:43.320",
+    "line": "Ja men det är typ att man sätter såhär @data och så skapar man getters och setters automagiskt eller när du kör serialisering och desserialisering när jag sätter annoteringar och lite såhär."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:10:43.320 --> 00:10:45.320",
+    "line": "Som sagt jag har inte så bra koll på det."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:10:45.320 --> 00:10:50.320",
+    "line": "Eller typ som decorators i vissa javascript ramverk."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:10:50.320 --> 00:10:57.320",
+    "line": "Oj vad länge sedan det var jag höll på och kikade på decorators. Angular 2 drog in det va?"
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:10:57.320 --> 00:11:04.320",
+    "line": "Ja, jag tror det och TypeScript har väl stöd inbyggt för det tror jag. Angular 2 är ju TypeScript i och för sig."
+  },
+  { "speaker": "Therése", "timestamp": "00:11:04.320 --> 00:11:06.320", "line": "Jag vet inte." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:11:06.320 --> 00:11:09.320",
+    "line": "Nej, jag bara kom på det när jag sa det."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:11:09.320 --> 00:11:14.320",
+    "line": "Jag kan tänka mig att det är det, men jag kan inte säga om det är så i det här läget."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:11:14.320 --> 00:11:22.920",
+    "line": "Jag har byggt lite grejer i ett TypeScript-ramverk som heter nestjs, alltså inte next med x utan med s."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:11:22.920 --> 00:11:26.520",
+    "line": "Sofia, jag kommer inte på något annat."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:11:26.520 --> 00:11:29.720",
+    "line": "Som i sness utan första s."
+  },
+  { "speaker": "Anton", "timestamp": "00:11:29.720 --> 00:11:31.720", "line": "Exakt." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:11:31.720 --> 00:11:40.920",
+    "line": "Och då sätter man typ så här @ och så skriver man någonting som en funktion typ ovanför typ metodnamn eller controllers eller grejer."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:11:40.920 --> 00:11:45.920",
+    "line": "för att spesa så här, det här är pathen som du ska gå på och lite sådana grejer."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:11:45.920 --> 00:11:51.920",
+    "line": "- Ja, det är inte riktigt samma sak. Alltså man kan ju också springa av noteringar för att göra dependence injections och sånt."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:11:51.920 --> 00:11:56.920",
+    "line": "- Ja, men det tror jag den här också har något liknande. Det var ett tag sedan jag skrev något till."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:11:56.920 --> 00:12:03.920",
+    "line": "- Och sen de här Lombok-grejerna är andra saker. Det är mer för att du ska slippa skriva massa boilerplate-kod tror jag."
+  },
+  { "speaker": "Anton", "timestamp": "00:12:03.920 --> 00:12:04.920", "line": "- Ja, okej." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:12:04.920 --> 00:12:11.920",
+    "line": "Jag tror att du kan bygga egna som genererar upp saker specifikt."
+  },
+  { "speaker": "Therése", "timestamp": "00:12:11.920 --> 00:12:12.920", "line": "Pass." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:12:12.920 --> 00:12:15.920",
+    "line": "Ja, pass. Vi kan släppa det."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:12:15.920 --> 00:12:19.920",
+    "line": "Vad bra att vi börjar prata om saker vi inte kan riktigt."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:12:19.920 --> 00:12:23.920",
+    "line": "Ja, jag tänker att det är den underbaraste grejen att prata om."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:12:23.920 --> 00:12:26.920",
+    "line": "Men bryr sig man på något sätt om vad man kan."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:12:26.920 --> 00:12:30.920",
+    "line": "Man ska bara sitta och gissa, killgissa sig fram till allt i hela livet."
+  },
+  { "speaker": "Therése", "timestamp": "00:12:30.920 --> 00:12:31.920", "line": "Killräckligt." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:12:31.920 --> 00:12:34.920",
+    "line": "Killräckligt, jag tar berätt med ett uttryck nu. Killräckligt."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:12:34.920 --> 00:12:36.920",
+    "line": "Jag kan killräckligt mycket om det här."
+  },
+  { "speaker": "Anton", "timestamp": "00:12:36.920 --> 00:12:38.920", "line": "Ja, jag tycker det är bra." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:12:38.920 --> 00:12:43.920",
+    "line": "Jag vill fortsätta lite på vad man gjorde innan."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:12:43.920 --> 00:12:46.920",
+    "line": "Jag pluggade i Uppsala, systemvetenskap."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:12:46.920 --> 00:12:52.920",
+    "line": "Och vi pluggade typ bara backen nästan. Med .NET och C#"
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:12:52.920 --> 00:12:57.920",
+    "line": "Och liksom inte heller supermodern C# utan det var ju ganska basic grejer liksom."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:12:57.920 --> 00:13:04.920",
+    "line": "Och sen hade vi en kurs som hette e-tjänster och webbprogrammering tror jag."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:13:04.920 --> 00:13:08.920",
+    "line": "Som var att bygga något med HTML och CSS typ."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:13:08.920 --> 00:13:14.920",
+    "line": "Fan vi hade också någon som hette e-publicering eller något sånt."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:13:14.920 --> 00:13:16.920",
+    "line": "Det var ju en ännu sexigare namn faktiskt."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:13:16.920 --> 00:13:21.920",
+    "line": "Ja, e-pubben. Jag kommer inte att ha insett vad den hette men det var ju såhär P och P."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:13:21.920 --> 00:13:24.920",
+    "line": "Men då använde man ju bara JavaScript i sådana här dialogrutor."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:13:24.920 --> 00:13:28.920",
+    "line": "Just det, vi skrev också i PHP, men hade helt glömt bort."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:13:28.920 --> 00:13:32.920",
+    "line": "Ja, jag känner mig skärrad för livet från den kursen."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:13:32.920 --> 00:13:34.920",
+    "line": "Det gick inte alls så bra."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:13:34.920 --> 00:13:38.920",
+    "line": "Ja, jag tror typ att alla kurser har jag gjort om sedan jag slutade, för att alla var för omoderna."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:13:38.920 --> 00:13:43.920",
+    "line": "Ja, men jag kommer ihåg att vi hade en labbas som var så här \"men ni kan ju ingenting\""
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:13:43.920 --> 00:13:46.920",
+    "line": "Jag bara \"ja, nej\". \"Hur gör man paginering?\""
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:13:46.920 --> 00:13:50.920",
+    "line": "Han bara \"alltså jag kan skriva ihop något till dig, här är det\""
+  },
+  { "speaker": "Therése", "timestamp": "00:13:50.920 --> 00:13:52.920", "line": "Jag bara \"okej\"" },
+  { "speaker": "Therése", "timestamp": "00:13:52.920 --> 00:13:53.920", "line": "Tack!" },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:13:53.920 --> 00:13:59.320",
+    "line": "Alltså, jag var ju labbasustent när jag pluggade på typ alla programmeringskurser."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:13:59.320 --> 00:14:04.920",
+    "line": "Och alla som frågade mig, jag vet inte, jag är svårt att avgöra om jag var hatad eller älskad."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:14:04.920 --> 00:14:08.920",
+    "line": "För att alla som frågade mig frågade någonting så här \"Men hur gör man det här?\""
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:14:08.920 --> 00:14:13.920",
+    "line": "Och jag bara \"Hm, har du testat det här?\" eller \"Hur har du tänkt?\""
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:14:13.920 --> 00:14:17.920",
+    "line": "Jag gav aldrig någon svar. Alltså inte en enda gång gav jag ett rakt svar."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:14:17.920 --> 00:14:25.920",
+    "line": "Jag gissar på att jag var mer hatad än älskad, men jag tänker att det fungerade bättre för att de skulle lära sig än att man ger dem svar på det."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:14:25.920 --> 00:14:31.920",
+    "line": "Ja, det är säkert mycket. Jag har typ labbat en kurs i Java."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:14:31.920 --> 00:14:39.920",
+    "line": "Du kom ju fram som en Java-expert här. Du stod och \"downplayade\" dig själv och sa att \"jag kan inte Java\""
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:14:39.920 --> 00:14:52.920",
+    "line": "Jag är bara väldigt dålig på Java. Jag tror bara jag var dålig för att vi hade tyvärr en, han som skulle hålla kursen gick ju bort."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:14:52.920 --> 00:14:58.920",
+    "line": "Så de fick ju i kaos hitta en ersättare som inte kunde Java."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:14:58.920 --> 00:15:09.920",
+    "line": "De låg efter i föreläsningar och de drog in labbarna vi gjorde och använde labbasistenternas kod som facit."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:15:09.920 --> 00:15:20.920",
+    "line": "Det var jävligt stökigt. Jag var nog en jättedålig labbas. Jag var så förvirrad och fattade ingenting."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:15:20.920 --> 00:15:23.920",
+    "line": "Jag kommer ihåg någon gång bara sagt \"Det är ett nullpointererror här\""
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:15:23.920 --> 00:15:26.920",
+    "line": "Jag bara \"Okej, vad har ni gjort då?\""
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:15:26.920 --> 00:15:28.920",
+    "line": "\"Det är ett nullpointererror här\""
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:15:28.920 --> 00:15:31.920",
+    "line": "Ja, och sen gick hela konversationen bara så och sen gick jag tror jag."
+  },
+  { "speaker": "Therése", "timestamp": "00:15:31.920 --> 00:15:33.920", "line": "Jag faller inte mer." },
+  { "speaker": "Therése", "timestamp": "00:15:33.920 --> 00:15:36.920", "line": "Riktigt dålig lappas." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:15:36.920 --> 00:15:40.920",
+    "line": "Jag har inte så mycket att försvara där faktiskt."
+  },
+  { "speaker": "Anton", "timestamp": "00:15:40.920 --> 00:15:42.920", "line": "Det kändes." },
+  { "speaker": "Anton", "timestamp": "00:15:42.920 --> 00:15:44.920", "line": "Du gjorde ditt bästa." },
+  { "speaker": "Therése", "timestamp": "00:15:44.920 --> 00:15:45.920", "line": "Nej." },
+  { "speaker": "Anton", "timestamp": "00:15:45.920 --> 00:15:47.920", "line": "Du gjorde ett försök." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:15:47.920 --> 00:15:49.920",
+    "line": "Jag gjorde ett försök och sen gick jag."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:15:49.920 --> 00:15:53.920",
+    "line": "Nej men det var ju inte superkul att vara student heller."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:15:53.920 --> 00:15:57.920",
+    "line": "Alltså det var ju kul ibland och sen hade man någon kurs och det var skit tråkiga uppgifter och grejer."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:15:57.920 --> 00:15:59.920",
+    "line": "Man fick ändå ganska bra betalt, minns jag."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:15:59.920 --> 00:16:03.920",
+    "line": "Man fick ju typ förberedelsetimmar för att förbereda sig inför varje labb."
+  },
+  { "speaker": "Anton", "timestamp": "00:16:03.920 --> 00:16:04.920", "line": "I alla fall vi." },
+  { "speaker": "Therése", "timestamp": "00:16:04.920 --> 00:16:05.920", "line": "Var inte vi." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:16:05.920 --> 00:16:06.920",
+    "line": "Ja, vi fick förberedelsetimmar."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:16:06.920 --> 00:16:08.920",
+    "line": "Typ tre timmar betalt för varje labb tror jag."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:16:08.920 --> 00:16:11.920",
+    "line": "Och det behövde man ju aldrig göra för det var väldigt enkelt."
+  },
+  { "speaker": "Anton", "timestamp": "00:16:11.920 --> 00:16:13.920", "line": "Aldrig sen gjort det innan." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:16:13.920 --> 00:16:16.920",
+    "line": "Jag hade ju behövt förbereda mig så jag hade koll på nullpointer eller rush."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:16:16.920 --> 00:16:32.920",
+    "line": "Har de nu höll på med? Nej men nej, jag vet att jag fick betalt och nu ligger det någon slags pension som bara ligger och tickar iväg i ränta och avgifter istället för att generera någonting."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:16:32.920 --> 00:16:34.920",
+    "line": "Jag får ett brev om det var i år."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:16:34.920 --> 00:16:38.920",
+    "line": "Ja, pensionen utspridda i 11 olika ställen för man har jobbat på så många olika."
+  },
+  { "speaker": "Therése", "timestamp": "00:16:38.920 --> 00:16:39.920", "line": "Ja." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:16:39.920 --> 00:16:43.920",
+    "line": "Det är katastrof. Men det är saker man inte har åkatt och tagit."
+  },
+  { "speaker": "Therése", "timestamp": "00:16:43.920 --> 00:16:44.920", "line": "Nej." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:16:44.920 --> 00:16:52.920",
+    "line": "Ja, sen när jag plöjde klart så jobbade jag också väldigt mycket i .NET, Episerver."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:16:52.920 --> 00:16:58.920",
+    "line": "Vilket är liksom ett CMS för .NET."
+  },
+  { "speaker": "Anton", "timestamp": "00:16:58.920 --> 00:17:02.920", "line": "Folk hatar Episerver." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:17:02.920 --> 00:17:04.920",
+    "line": "Jag vet knappt vad det är."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:17:04.920 --> 00:17:13.920",
+    "line": "Det är ju typ att du får ett redaktörsgränssnitt och så blir det väldigt flexibelt att du kan skapa upp sidor och länka dem och bygga allting<"
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:17:13.920 --> 00:17:19.920",
+    "line": "och så finns det ett redaktörsläge där vi kan se sidan renderad och klicka och redigera och dra och grejer och sånt där."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:17:19.920 --> 00:17:26.920",
+    "line": "Och AppServer är ju, kan det vara det mest hatade ramverket bland utvecklare som har jobbat med ramverket?"
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:17:26.920 --> 00:17:31.920",
+    "line": "Det är inte omöjligt alltså. Men jag tycker ändå att det får orimligt mycket skit."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:17:31.920 --> 00:17:38.920",
+    "line": "Jag har ingen aning, jag har aldrig rört mig i typ Dotnet-överhuvudtaget."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:17:38.920 --> 00:17:43.920",
+    "line": "Jag tyckte ändå att det var ganska trevligt."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:17:43.920 --> 00:17:47.920",
+    "line": "Men det är också typiskt dig att tycka det."
+  },
+  { "speaker": "Anton", "timestamp": "00:17:47.920 --> 00:17:49.920", "line": "Det är det väl inte?" },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:17:49.920 --> 00:17:54.920",
+    "line": "Alla bara \"det här är inte nice\" och du bara \"eller? Det är ganska trevligt ändå\""
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:17:54.920 --> 00:17:56.920",
+    "line": "Det är ju du som är pepp liksom."
+  },
+  { "speaker": "Anton", "timestamp": "00:17:56.920 --> 00:17:58.920", "line": "Det kanske är sånt." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:17:58.920 --> 00:18:03.920",
+    "line": "Men liksom, ja visst att det kanske inte är det supermodernaste."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:18:03.920 --> 00:18:07.920",
+    "line": "För det är typ .NET Framework istället för .NET Core som är det nya moderna."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:18:07.920 --> 00:18:14.920",
+    "line": "Man måste liksom ändå, du kan bara köra det som en monolit och inte som microservices."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:18:14.920 --> 00:18:18.920",
+    "line": "Och nu har de i och för sig lagt till att man kan köra headless."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:18:18.920 --> 00:18:22.920",
+    "line": "Så du kan bygga liksom vad som helst framför och bara använda det som ett API."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:18:22.920 --> 00:18:31.240",
+    "line": "Men tidigare så var det väldigt så här, du bygger en AspNet-app och sen har du dina vyer och den reneras via controllers och grejer."
+  },
+  { "speaker": "Anton", "timestamp": "00:18:31.240 --> 00:18:32.760", "line": "Inte så modernt." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:18:32.760 --> 00:18:35.960",
+    "line": "Men ändå ganska trevligt för användaren."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:18:35.960 --> 00:18:37.960",
+    "line": "Och det funkar ändå väldigt bra."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:18:37.960 --> 00:18:43.240",
+    "line": "Alltså den sajten jag byggde satt ändå med liksom miljontals visningar."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:18:43.240 --> 00:18:45.240",
+    "line": "Jag vet inte vad månaden var i alla fall."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:18:45.240 --> 00:18:49.560",
+    "line": "Och det var en e-handel så det var väldigt mycket beställningar och grejer och den funkar."
+  },
+  { "speaker": "Anton", "timestamp": "00:18:49.560 --> 00:18:50.440", "line": "Den hörde liksom." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:18:50.440 --> 00:18:52.440",
+    "line": "Så gjorde vi i och för sig väldigt mycket om det mer."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:18:52.440 --> 00:19:03.440",
+    "line": "Men det är väl mer så här, när man pratar om det så är det frågan om är det bra för användaren eller är det så att alla som jobbar med det tycker det är tråkigt att jobba med det."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:19:03.440 --> 00:19:11.440",
+    "line": "Ofta får ju saker mer skit för att folk tycker inte det är kul att jobba med det, men användarna tycker fortfarande att det är helt okej."
+  },
+  { "speaker": "Anton", "timestamp": "00:19:11.440 --> 00:19:12.440", "line": "Ja, nämen exakt." },
+  { "speaker": "Therése", "timestamp": "00:19:12.440 --> 00:19:14.440", "line": "För de vet inte bättre." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:19:14.440 --> 00:19:16.440",
+    "line": "Ja, så är det ju också ofta."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:19:16.440 --> 00:19:22.840",
+    "line": "Nej men att de också får en helhetslösning av någonting som är klart och funkar istället för att de får något vi har byggt här från scratch."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:19:22.840 --> 00:19:28.440",
+    "line": "Så vi saknar de här 500 funktionerna som ni skulle vilja ha men de kommer."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:19:28.440 --> 00:19:38.040",
+    "line": "Ja nej men exakt, alltså så här tittar man nu på det uppdraget jag sitter på nu så är det i och för sig vi bygger någonting från scratch men det finns ingen befintlig lösning som vi skulle kunna använda heller."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:19:38.040 --> 00:19:44.040",
+    "line": "Men där är det ju väldigt mycket så här användarna bara när kommer det här, kommer det här snart bla bla bla, när är det klart liksom."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:19:44.040 --> 00:19:50.040",
+    "line": "Och sen, det vi bygger blir väldigt bra, men vi ersätter också ett gammalt system som har massa features."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:19:50.040 --> 00:19:54.040",
+    "line": "Så det är alltid problemet med att bygga nytt."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:19:54.040 --> 00:19:57.040",
+    "line": "Även om det är väldigt nice att bygga nytt från grunden som utvecklare."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:19:57.040 --> 00:20:03.040",
+    "line": "Ja, men det är inte kul när du är van att göra saker och att du kan göra alla de här sakerna när du sitter och jobbar med det."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:20:03.040 --> 00:20:08.040",
+    "line": "Och sen så kan du inte lägga in de här grejerna eller skriva de här sakerna eller redigera det här."
+  },
+  { "speaker": "Therése", "timestamp": "00:20:08.040 --> 00:20:09.040", "line": "Vad vet jag?" },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:20:09.040 --> 00:20:14.480",
+    "line": "Nej, jag är ändå väldigt mycket för att ta ganska pragmatiska lösningar."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:20:14.480 --> 00:20:22.480",
+    "line": "Jag kan bli väldigt irriterad på utvecklarna som sitter och säger \"Vi bygger det här i GraphQL för att GraphQL är så jävla fett nu\""
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:20:22.480 --> 00:20:31.280",
+    "line": "Och man bara \"Men alla andra API-ger är byggda i REST, visst, ska vi ta ett beslut, ska vi flytta till GraphQL, men vi ska inte bygga i GraphQL bara för att bygga i GraphQL, bara för att det är coolt\""
+  },
+  { "speaker": "Therése", "timestamp": "00:20:31.280 --> 00:20:33.280", "line": "Men det är ju coolt." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:20:33.280 --> 00:20:39.280",
+    "line": "Jag är ju helt med på att det är coolt, jag gillar ju GraphQL, jag har ingenting emot det i sig."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:20:39.280 --> 00:20:44.280",
+    "line": "Men att bara byta till GraphQL för att byta till GraphQL, ah!"
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:20:44.280 --> 00:20:46.280",
+    "line": "Nej, jag fattar precis vad du menar."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:20:46.280 --> 00:20:51.280",
+    "line": "Jag tycker det är så mycket, speciellt när man snackar om att bygga saker och bolag och så här."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:20:51.280 --> 00:20:58.280",
+    "line": "Man aldrig tar med i beräkningen, okej, men hur mycket kommer det kosta för startsträckan för alla de här som ska jobba med det?"
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:20:58.280 --> 00:21:01.280",
+    "line": "att lära sig det här någonting som de inte kan."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:21:01.280 --> 00:21:07.780",
+    "line": "Eller skulle vi kunna få upp det här up and running jävligt fort för att det är många som sitter på den här kompetensen<"
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:21:07.780 --> 00:21:09.780",
+    "line": "och vet vad de håller på med väldigt snabba i det."
+  },
+  { "speaker": "Anton", "timestamp": "00:21:09.780 --> 00:21:11.780", "line": "Ja men exakt." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:21:11.780 --> 00:21:20.280",
+    "line": "Nej alltså så att det känns som att vissa utvecklare är alldeles för kåta på teknologin."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:21:20.280 --> 00:21:23.780",
+    "line": "Alltså som har liksom bara sagt \"jag vill bara jobba med cool teknologi\""
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:21:23.780 --> 00:21:25.280",
+    "line": "men det handlar ju inte om det."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:21:25.280 --> 00:21:27.280",
+    "line": "Alltså det handlar ju bara om att man ska leverera värde."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:21:27.280 --> 00:21:31.280",
+    "line": "Och sen kan man ju argumentera hur man gör det på olika sätt, alltså med teknologin."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:21:31.280 --> 00:21:45.280",
+    "line": "Men sådana utvecklare är ju typ sådana som skulle passa perfekt i sådana här labs, experimental avdelningar som bara vill testa nya saker och göra quickshot saker eller liksom saker som ska ut snabbt och sedan ska dö."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:21:45.280 --> 00:21:56.280",
+    "line": "Jag är ju precis tvärtom, alla bara \"The hack days, gud vad kul!\" och jag bara \"Finns det någon som kan säga exakt vad det är jag ska göra så att jag får lite ramar så att jag slipper tänka själv för att jag vet inte hur man gör?\""
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:21:56.280 --> 00:22:03.680",
+    "line": "Nej, men jag håller med dig att det finns väldigt olika utvecklare som tittar på lite olika saker."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:22:03.680 --> 00:22:06.180",
+    "line": "Jag är nog ganska mitt emellan."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:22:06.180 --> 00:22:12.480",
+    "line": "Jag skulle lätt kunna sitta i en snär och bara köra hackdays eller bara göra massa pockar på saker och hoppas att det blir bra."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:22:12.480 --> 00:22:14.480",
+    "line": "Eller bara producera saker som kastas bort sen."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:22:14.480 --> 00:22:17.480",
+    "line": "För jag tycker det är jäkligt kul. Och det är lite sådana grejer på fritiden."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:22:17.480 --> 00:22:25.480",
+    "line": "Men samtidigt tycker jag också att mitt jobb som utvecklare är fortfarande att leverera något som ger extremt mycket värde nu."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:22:25.480 --> 00:22:31.480",
+    "line": "Och då är det ganska skönt att jobba på det här projektet, man kan lära känna användarna, förhoppningsvis jobba väldigt nära dem."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:22:31.480 --> 00:22:36.480",
+    "line": "Vilket gör att man liksom såhär, nu känner jag att jag faktiskt levererar någonting som folk använder."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:22:36.480 --> 00:22:43.480",
+    "line": "Sen tycker jag, nu jobbar jag på ett internt system och jag vet att jag tycker att det är väldigt mycket roligare att jobba på externa system."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:22:43.480 --> 00:22:48.480",
+    "line": "Som har faktiskt användare som inte är bolaget man jobbar för."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:22:48.480 --> 00:23:00.480",
+    "line": "Men det är skönt att mixa lite för jag gick från externsystem, välkänt, sen in på att bygga saker internt på ett bolag."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:23:00.480 --> 00:23:11.480",
+    "line": "Det var så skönt att det är bara en browser som vi stödjer, vi kanske stödjer två, vi behöver inte göra de här grejerna, vi behöver inte fixa buggar för IE."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:23:11.480 --> 00:23:21.480",
+    "line": "Jag tycker också att det är kul att se att man har byggt något som allmänheten känner till, men det är också väldigt skönt att få en paus ibland och bygga lite internt."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:23:21.480 --> 00:23:31.480",
+    "line": "Ja, jag kan ju hålla med, för det systemet jag bygger nu har väldigt lite performance krav. Vi kommer kanske ha 100 användare totalt när det är klart."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:23:31.480 --> 00:23:33.480",
+    "line": "Och det är liksom att om två år, och då är inte jag kvar."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:23:33.480 --> 00:23:37.480",
+    "line": "Men nu har vi kanske tio användare, femton."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:23:37.480 --> 00:23:41.480",
+    "line": "Alltså det är liksom inga performance krav överhuvudtaget."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:23:41.480 --> 00:23:47.480",
+    "line": "Det är liksom att se någonting lite fult ut, men bara \"eh, vi behöver inte fixa det där, det är lugnt\""
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:23:47.480 --> 00:23:52.480",
+    "line": "Vilket är rätt nice när man fokuserar på det andra, men också ganska tråkigt."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:23:52.480 --> 00:23:57.480",
+    "line": "För då känner man liksom så här, jag vill ju ändå bygga det systemet som ser bra ut, som är snabbt."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:23:57.480 --> 00:23:59.480",
+    "line": "Alltså jag vill ju ändå göra liksom alla delar."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:23:59.480 --> 00:24:23.480",
+    "line": "Ja, och sen så åker man på att börja lazy-loada saker och sjunka upp koden och sen sätter man sig i harschningsproblem och sen sitter man med två sprintar eller tre månader och försöker jobba på att förbättra performances och så sitter man och tittar på den här jävla performance-grafen i Devils Tools i 5000 år och man bara \"jag förstår inte vad som händer här\""
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:24:23.480 --> 00:24:26.480",
+    "line": "Alltså det här lockar ju väldigt jag."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:24:26.480 --> 00:24:31.760",
+    "line": "Nej, fy fan. Alltså, ja. Det är… Åh, vad jag har gjort det."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:24:31.760 --> 00:24:35.560",
+    "line": "Ja, nej. Det är skönt att få en paus ibland, det är alltid jag säger."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:24:35.560 --> 00:24:37.360",
+    "line": "Visst, det är kul. Det är kul när folk använder det."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:24:37.360 --> 00:24:39.960",
+    "line": "Men det är också ganska skönt att slippa."
+  },
+  { "speaker": "Anton", "timestamp": "00:24:39.960 --> 00:24:42.360", "line": "Ja, ja, men Sverige." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:24:42.360 --> 00:24:47.560",
+    "line": "Ja, nej, alltså jag vet inte. Jag vet inte hur vi landade här riktigt."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:24:47.560 --> 00:24:50.160",
+    "line": "Inte jag heller. Det här är det mest förvirrade avsnittet någonsin."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:24:50.160 --> 00:24:52.960",
+    "line": "Nej, det är knappast det mest förvirrade avsnittet. Jag tror att det är supervärt."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:24:52.960 --> 00:24:59.680",
+    "line": "Det här är också, jag är, vi skämtade om det innan vi började spela in, att jag är den peppig av oss."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:24:59.680 --> 00:25:02.800",
+    "line": "Och Therese är då den deppig av oss."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:25:02.800 --> 00:25:06.960",
+    "line": "Och hon är inte så deppig som hon försöker få det att framstå."
+  },
+  { "speaker": "Anton", "timestamp": "00:25:06.960 --> 00:25:08.960", "line": "Men, ah!" },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:25:08.960 --> 00:25:15.760",
+    "line": "Jag tror någon i veckan skrev en kommentar, jag sa som \"Det där är verkligen att se glaset halvfullt\""
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:25:15.760 --> 00:25:20.240",
+    "line": "- Så att ja... - Jag vet inte, jag tycker."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:25:20.240 --> 00:25:22.240",
+    "line": "Sen har ju pepp och depp ganska bra klang."
+  },
+  { "speaker": "Therése", "timestamp": "00:25:22.240 --> 00:25:22.740", "line": "Ja." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:25:22.740 --> 00:25:26.240",
+    "line": "Men jag tycker inte vi ska fastna vid pepp och depp."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:25:26.240 --> 00:25:29.240",
+    "line": "Det är mer pepp och lite pepp."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:25:29.240 --> 00:25:33.240",
+    "line": "Fast jag skulle ändå säga att pepp och depp är mer av vårt naturliga tillstånd, liksom."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:25:33.240 --> 00:25:36.240",
+    "line": "Ja, jag vet inte. Du kanske är lite mer pessimist."
+  },
+  { "speaker": "Therése", "timestamp": "00:25:36.240 --> 00:25:37.240", "line": "Mm." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:25:37.240 --> 00:25:39.240",
+    "line": "Jag kanske är lite mer optimist."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:25:39.240 --> 00:25:41.240",
+    "line": "Vad kanske är du? Optimist?"
+  },
+  { "speaker": "Anton", "timestamp": "00:25:41.240 --> 00:25:43.240", "line": "Ah, jag vet inte riktigt." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:25:43.240 --> 00:25:45.240",
+    "line": "Eller är du mer så här, delösig?"
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:25:45.240 --> 00:25:47.240",
+    "line": "Ja, det är mer att jag kanske inte bryr mig så mycket."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:25:47.240 --> 00:25:54.240",
+    "line": "Jag vet inte om det var optimistiskt. Jag tror att mitt är att jag bryr mig alldeles för mycket."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:25:54.240 --> 00:26:03.240",
+    "line": "Så att jag övertänker allting. Dels kanske snarare, du är \"ah, bry mig inte så mycket\" och jag är såhär \"ah, överanalysera allting som går att överanalysera\""
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:26:03.240 --> 00:26:10.240",
+    "line": "Ja, så är det väl kanske mer än pepp och depp egentligen. Även om man kanske kan sätta de stämplarna."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:26:10.240 --> 00:26:16.240",
+    "line": "Men det är väl som du säger, jag bryr mig väldigt lite om vad folk tycker om det jag gör."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:26:16.240 --> 00:26:21.240",
+    "line": "Alltså, jag bryr mig om vad jag tycker om det jag gör."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:26:21.240 --> 00:26:24.240",
+    "line": "Nu låter det som att jag är världens hemskaste människa."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:26:24.240 --> 00:26:34.240",
+    "line": "Men det jag menar är att jag lägger inte för stor vikt vid vad andra tycker."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:26:34.240 --> 00:26:37.240",
+    "line": "Jag lägger inte någon personligt värde i vad de tycker om det jag gör."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:26:37.240 --> 00:26:39.240",
+    "line": "Om du förstår vad jag menar."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:26:39.240 --> 00:26:49.240",
+    "line": "- Ja, alltså du sätter inte din egna åsikt om vad du är värd baserat på andras åsikter."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:26:49.240 --> 00:26:54.240",
+    "line": "- Nej, inte professionellt i alla fall, så att säga."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:26:54.240 --> 00:27:03.240",
+    "line": "Men vilket är väldigt skönt, särskilt när man liksom så här, jag tänker att jag bryr mig ingenting om svaret vi får på den här podden, om folk lyssnar."
+  },
+  { "speaker": "Anton", "timestamp": "00:27:03.240 --> 00:27:05.240", "line": "Eller om folk hatar den." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:27:05.240 --> 00:27:10.960",
+    "line": "Och jag är ju precis tvärtom, för min största drivkraft är rädslan att misslyckas."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:27:10.960 --> 00:27:23.040",
+    "line": "Och jag är ju för sig min hårdaste kritiker, jag har inte en riktigt realistisk bild av mig själv."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:27:23.040 --> 00:27:29.200",
+    "line": "Men jag bryr mig ju bara om vad folk tycker."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:27:29.200 --> 00:27:32.880",
+    "line": "- Ja, alltså du har ju verkligen ingen realistisk bild av dig själv."
+  },
+  { "speaker": "Therése", "timestamp": "00:27:32.880 --> 00:27:34.880", "line": "- Nej." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:27:34.880 --> 00:27:38.880",
+    "line": "Men det är liksom två kontraster."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:27:38.880 --> 00:27:41.880",
+    "line": "Ja, det kontrasterar ju ganska mycket."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:27:41.880 --> 00:27:44.880",
+    "line": "Ja, det tycker jag. Folk brukar säga att vi är ganska lika varann."
+  },
+  { "speaker": "Therése", "timestamp": "00:27:44.880 --> 00:27:45.880", "line": "Ja, det är fel." },
+  { "speaker": "Anton", "timestamp": "00:27:45.880 --> 00:27:47.880", "line": "Det är så jävla fel." },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:27:47.880 --> 00:27:51.880",
+    "line": "Det är precis tvärtom skulle jag säga. Vi är ju extremt olika."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:27:51.880 --> 00:27:55.880",
+    "line": "Ja, så att vi får se vart det landar i slutändan."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:27:55.880 --> 00:27:59.880",
+    "line": "Var inte för hårda er feedbacks på den här podden, för då kanske Therese blir ledsen."
+  },
+  { "speaker": "Therése", "timestamp": "00:27:59.880 --> 00:28:01.880", "line": "Ja, hon hoppar av bara." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:28:01.880 --> 00:28:07.880",
+    "line": "Ja, då får ni ta inte jag någon podd med, då får ni liksom stå och prata själv i en halv timme om ingenting."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:28:07.880 --> 00:28:13.880",
+    "line": "Det skulle ju vara det ointressantaste poddavsnittet. Jag sitter och pratar i en halv timme om kod."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:28:13.880 --> 00:28:17.880",
+    "line": "- Testa? - Nej, aldrig i livet."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:28:17.880 --> 00:28:24.880",
+    "line": "Okej, men få komma tillbaka till mer på kodgrej då. Hur blev du frontändare då?"
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:28:24.880 --> 00:28:32.880",
+    "line": "Jag gjorde full stack från början."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:28:32.880 --> 00:28:36.160",
+    "line": "Jag hade gjort ganska mycket frontend-grejer, lite separat på fritiden."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:28:36.160 --> 00:28:39.360",
+    "line": "Jag drev ett företag när jag pluggade också, där vi gjorde lite egna projekt."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:28:39.360 --> 00:28:42.360",
+    "line": "Och alltid kodade ganska mycket på fritiden."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:28:42.360 --> 00:28:45.040",
+    "line": "Därigenom har jag lärt mig ganska mycket frontend också."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:28:45.040 --> 00:28:52.400",
+    "line": "Och sen körde jag även ganska mycket frontend på det där första projektet jag var på när jag var backend och episerver."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:28:52.400 --> 00:28:54.960",
+    "line": "Och då var det typ AngularJS till exempel."
+  },
+  { "speaker": "Anton", "timestamp": "00:28:54.960 --> 00:28:57.000", "line": "Sen kom lite Angular 2." },
+  { "speaker": "Anton", "timestamp": "00:28:57.000 --> 00:29:00.080", "line": "Vi hade lite utan ramverk." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:29:00.080 --> 00:29:01.880",
+    "line": "Sen skulle bygga om hela sajten<"
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:29:01.880 --> 00:29:04.680",
+    "line": "sista halvåret innan jag slutade och då var det React."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:29:04.680 --> 00:29:11.340",
+    "line": "Och sen har det blivit mer och mer att jag bara \"fan, vad kul det är med fronten\""
+  },
+  { "speaker": "Anton", "timestamp": "00:29:11.340 --> 00:29:13.400", "line": "Vet inte varför." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:29:13.400 --> 00:29:15.700",
+    "line": "Men jag tycker fronten är jävligt mycket roligare."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:29:15.700 --> 00:29:19.020",
+    "line": "Jag vet inte om det är Javascript i sig som jag tycker är roligare."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:29:19.280 --> 00:29:25.180",
+    "line": "Jag tycker fortfarande liksom så här, även om jag skriver back-in-grejer på hobbyprojekt eller så här,"
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:29:25.180 --> 00:29:30.020",
+    "line": "så blir det ofta typescript eller javscript nu för tiden också."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:29:30.020 --> 00:29:33.360",
+    "line": "Även om jag kanske kan .NET bättre egentligen."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:29:33.360 --> 00:29:39.240",
+    "line": "Men så det handlar mest om en vilja, eller inte en vilja, men liksom att jag tycker det är roligare."
+  },
+  { "speaker": "Anton", "timestamp": "00:29:39.240 --> 00:29:41.300", "line": "Tror jag." },
+  { "speaker": "Therése", "timestamp": "00:29:41.300 --> 00:29:42.580", "line": "Rimligt." },
+  { "speaker": "Anton", "timestamp": "00:29:42.580 --> 00:29:43.340", "line": "Ganska rimligt." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:29:43.340 --> 00:29:47.180",
+    "line": "Och ändå liksom väldigt skönt att kunna ha den<"
+  },
+  { "speaker": "Anton", "timestamp": "00:29:47.180 --> 00:29:48.720", "line": "approachen." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:29:48.720 --> 00:29:56.720",
+    "line": "Ja, jag tänker att vi kanske rundar av. Vi har pratat i en halvtimme. Jag tänker att vi satsar på en halvtimme i stadssnitt."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:29:56.720 --> 00:30:00.720",
+    "line": "Ja, det är ganska mycket som ska klippas bort också."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:30:00.720 --> 00:30:10.720",
+    "line": "Nej, det tror jag inte. Min dator har inte fått fnatt. Om ni undrar varför det börjar brusa som bara den, så är det för att min dator låter som bara den för tillfället."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:30:10.720 --> 00:30:24.720",
+    "line": "Om man vill så får man jättegärna skicka en recension i iTunes och feedbacka oss. Vi finns på Twitter."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:30:24.720 --> 00:30:35.720",
+    "line": "Vad heter jag på Twitter? Jag heter Anton med W efter A. Anton. Du har också Twitter, du använder ju knappt Twitter."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:30:35.720 --> 00:30:40.200",
+    "line": "Nej, jag använder Twitter väldigt dåligt. Men det är T-Com Stadius."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:30:40.200 --> 00:30:42.000",
+    "line": "Alla länkar finns i beskrivningen."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:30:42.000 --> 00:30:44.920",
+    "line": "Vi har också en hemsida som heter asdf.pizza."
+  },
+  {
+    "speaker": "Therése",
+    "timestamp": "00:30:44.920 --> 00:30:46.920",
+    "line": "Det är bara en gif än så länge."
+  },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:30:46.920 --> 00:30:49.400",
+    "line": "Än så länge, men när det här kommer upp så är det säkert någon mer."
+  },
+  { "speaker": "Therése", "timestamp": "00:30:49.400 --> 00:30:49.920", "line": "Eller?" },
+  { "speaker": "Anton", "timestamp": "00:30:49.920 --> 00:30:51.120", "line": "Eller kanske inte." },
+  { "speaker": "Anton", "timestamp": "00:30:51.120 --> 00:30:52.480", "line": "Men vi finns på asdf.pizza." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:30:52.480 --> 00:30:55.680",
+    "line": "Kanske den bästa domän jag köpte i hela mitt liv, tror jag."
+  },
+  { "speaker": "Therése", "timestamp": "00:30:55.680 --> 00:30:56.960", "line": "Tur att du fick med dig." },
+  {
+    "speaker": "Anton",
+    "timestamp": "00:30:56.960 --> 00:30:59.040",
+    "line": "Väldigt, väldigt tur att jag fick med mig faktiskt."
+  },
+  { "speaker": "Anton", "timestamp": "00:30:59.040 --> 00:31:01.920", "line": "Men till nästa gång." },
+  { "speaker": "Therése", "timestamp": "00:31:01.920 --> 00:31:03.120", "line": "Bye bye." }
+]

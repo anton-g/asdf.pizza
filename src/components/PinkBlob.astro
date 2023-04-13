@@ -1,0 +1,27 @@
+---
+export interface Props {
+  class: string
+}
+
+const { class: className } = Astro.props
+---
+
+<div class:list={['blob', className]}>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 117 115">
+    <path
+      fill="currentColor"
+      d="M71 33c8 9 21 7 30 11s14 15 15 26c1 12-2 25-10 33s-20 12-31 12c-12 0-22-6-27-13-6-8-7-18-13-24-7-6-19-8-26-15-8-7-11-19-7-28 4-8 14-14 25-22C37 6 46-3 53 2s10 23 18 31Z"
+    >
+    </path>
+  </svg>
+</div>
+
+<style>
+  .blob {
+    position: absolute;
+    z-index: -2;
+    width: 1200px;
+    aspect-ratio: 1 / 1;
+    color: #e59b96;
+  }
+</style>

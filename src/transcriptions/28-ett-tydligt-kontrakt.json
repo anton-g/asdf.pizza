@@ -1,0 +1,1612 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Varför är det så varmt att browsa på internet?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:06",
+    "line": "Hot... hot... nånting. Jag kom inte på något. Varför?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:12",
+    "line": "Det är så många element."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:14",
+    "line": "Ja, fan. Hot reload var något roligt jag letade efter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:19",
+    "line": "Men jag fick inte till någon bra punchline på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:21",
+    "line": "Men många element, det var ändå roligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:23",
+    "line": "Ja, det var bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:26",
+    "line": "Svenska versionen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:27",
+    "line": "- Exakt. Välkommen till ett nytt avsnitt av ASTF. I dag tänkte vi att vi skulle prata lite om tekniska intervjuer och kanske främst om att hålla tekniska intervjuer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:39",
+    "line": "Så att, vad är liksom din erfarenhet av det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:46",
+    "line": "Min erfarenhet av att hålla tekniska intervjuer är lite olika, främst är det väl på senaste tiden eller senaste åren där jag har varit med på företaget där vi jobbar nu och hållit i de tekniska intervjuerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:07",
+    "line": "där liksom, och det är mer från kanske då också ett ledande perspektiv på intervjun."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:14",
+    "line": "Vi började ju, de första intervjun när jag någonsin var med på som var tekniska som jag var med och höll i,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:21",
+    "line": "var ju snarare från ett juniorperspektiv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:26",
+    "line": "Dels var det några omgångar då jag skulle vara med för att vi egentligen letade efter en frontend person"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:34",
+    "line": "Person som kunde agera mentor till mig personligen, så därför var jag med där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:38",
+    "line": "Och sen även att hitta kandidater till samma typ av talangprogram som jag gick,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:45",
+    "line": "så att de skulle ha samma roll som mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:48",
+    "line": "Det är väl främst mina erfarenheter. Vilka är dina?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:52",
+    "line": "Jo, men jag har ändå, det känns som att man har hållit tekniska intervjuer ett antal år nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:58",
+    "line": "Men det är svårt att säga var det började för jag var med och intervjuade folk till samma kliniprogram som jag hade gått."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:08",
+    "line": "Och då var det lite speciell intervju för den var bara 20 minuter långa och så var det superintensivt att kandidaterna hade fyra intervjuer på samma dag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:20",
+    "line": "med fyra olika typer av intervjuer, en teknisk och en lite mer kulturell och en värderingar-intervjutyp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:31",
+    "line": "Då hade man det tekniska, men då var det väldigt speciellt för då var det bara 20 minuter och det är extremt lite tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:37",
+    "line": "Där hann man inte snacka så mycket utan det var mer \"kom in, det här är din uppgift, det här ska du göra, varsågod och kör\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:44",
+    "line": "Och sen hade man tur så gick det ju bra och då hade man snackat lite grann också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:49",
+    "line": "Men sen tycker jag ju att de intervjuerna blev väldigt, så oerhört tajta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:54",
+    "line": "Man fick liksom ingen bild av personen utan man fick eventuellt någon liten bild av tekniska kompetensen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:58",
+    "line": "Men det var ju väldigt också begränsat för det var ju typ så här lite whiteboard problemlösning liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:04",
+    "line": "Men sen är det väl mycket att man har kört, jag menar på samma sak som du sa, att där vi jobbar nu så har vi också kört intervjuer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:12",
+    "line": "Där har man tagit lite mer lid. Vi är alltid två personer som intervjuar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:15",
+    "line": "Vilket jag tycker är väldigt vettigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:17",
+    "line": "Vi kan kanske återkomma till det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:19",
+    "line": "Men där har vi lite mer tid. Vi brukar skema lägga en timme i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:24",
+    "line": "Då hinner man prata lite grann med personen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:28",
+    "line": "Istället för att bara hålla på och..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:30",
+    "line": "\"Ja, in. Gör ditt uppgift. Sen ska du ut härifrån för att vi ska ta in nästa.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:34",
+    "line": "Så jag tycker det är bättre. Så det är så mycket jag har kört."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:38",
+    "line": "Men det har blivit ett antal..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:40",
+    "line": "genom åren ändå. Och jag tycker det är väldigt kul att intervjua. Så det är något jag gör gärna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:47",
+    "line": "- Just det. Det är intressant för den du beskrev, när du tog in person i samma trainee-program som jag gjorde, var det ganska likt det jag gjorde också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:58",
+    "line": "Mitt hette ju talangprogram för det fick inte heta trainee-program, tror jag. Men det var väl ganska snarlika upplägg."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:07",
+    "line": "Det var ju verkligen på en annan nivå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:10",
+    "line": "För när jag kom in på det programmet och när jag skulle börja jobba så var jag inte en utvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:20",
+    "line": "Jag var ju en person som hade pluggat och läst kurser inom kod men kunde egentligen inte bygga system."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:30",
+    "line": "Noll erfarenhet i princip."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:33",
+    "line": "Så att de intervjuerna, och nu säger jag inte att alla de kandidaterna var på samma nivå som jag var när jag kom in, men de intervjuerna gick ju mycket mer ut på, kan den här personen läsa kod?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:46",
+    "line": "Det var inte så att jag har den här personen kunskap som vi behöver ha utan det finns grundbyggsdena grundförutsättningar för att det här blir en person som kommer utvecklas till en utvecklare här och tycker det är kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:03",
+    "line": "- Ja, precis. Jag tror att det är väldigt viktigt att man ändå anpassar sina intervjuer, eller i alla fall förväntningarna på intervjuer, efter vilken roll man intervjuar till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:11",
+    "line": "Det låter ju självklart, men särskilt när det är nyexade personer eller någon som har jobbat några år, då är det ju så extremt stor skillnad på vad man kan förvänta sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:20",
+    "line": "Alltså en nyexad person kan man inte förvänta sig att de kan koda knappt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:24",
+    "line": "knappt. Alltså det är så annorlunda på där man lär sig på universitet och sånt jämfört med vad man faktiskt gör om man har kodat professionellt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:36",
+    "line": "Ja, men det är också intressant för att det beror väldigt mycket på jobbet såklart. Där jag kom, det var ju produktbolag och där planen var att ta in personer och lära upp och på så sätt följa med i utvecklingen och få en resurs."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:01",
+    "line": "Sen i skillnad om man tar in personer som man ändå måste förväntas kunna köra själv lite från start för att det är till konsult utan kör i en ny program och sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:14",
+    "line": "Så det kan ju vara väldigt skilda förutsättningar där med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:18",
+    "line": "- Ja, verkligen. Det är så här att man måste anpassa efter bakgrunden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:24",
+    "line": "Det kan vara folk som är självlärda, eller folk som har gått på universitet,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:28",
+    "line": "eller folk som har jobbat ett år, eller folk som har gått på bootcamp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:32",
+    "line": "Det finns så jävla många vägar in i utvecklade yrket nu för tiden jämfört med förr i tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:38",
+    "line": "Då måste man ha rätt förväntningar på personen man intervjuar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:44",
+    "line": "Jag tycker också att även om det är en teknisk intervju så är det för mig väldigt viktigt att man kan få en bild av personen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:50",
+    "line": "Alltså hur den är som person också. Inte bara tekniskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:55",
+    "line": "Man vill veta hur folk jobbar i team eller hur man tänker på saker som inte berör just koden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:02",
+    "line": "Hur man kommunicerar och sådana saker. Det tycker jag också ingår lite i den tekniska intervjun."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:08",
+    "line": "Och att det inte bara är fokus på att \"Okej, nu ska du whiteboardprogrammera litegrann här för att visa att du kan skriva kod\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:15",
+    "line": "- Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:16",
+    "line": "Ja, vilket är liksom... Har du något favoritsätt att intervjua tekniskt?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:22",
+    "line": "- Jag tycker det är skitsvårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:23",
+    "line": "Det känns som att mitt absoluta favoritsätt, tror jag, skulle vara, som jag aldrig har gjort på riktigt kan man väl säga,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:31",
+    "line": "är ju typ att parprogrammera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:34",
+    "line": "Det tror jag skulle vara det absolut roligaste och bästa sättet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:37",
+    "line": "Då tror jag att man kan få ut det där. Men problemet är väl att det tar lite tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:41",
+    "line": "Det kräver att man sätter sig ner och kommer in i koden och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:45",
+    "line": "Det kan nog vara ganska läskigt för kandidater som helt plötsligt ska sitta med någon"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:53",
+    "line": "som ska titta på dem när de skriver koden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:55",
+    "line": "Sen tycker jag att man kanske ska rotera även om man gör det i en intervjusituation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:58",
+    "line": "Att även om jag intervjuar någon så som vill, att jag skriver koden fast,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:02",
+    "line": "då får man ju känna på hur de kommunicerar. Om de bara är tysta eller om de"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:06",
+    "line": "faktiskt tar för sig lite grann eller om de kommer med idéer eller ställer frågor eller sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:11",
+    "line": "Men sedan har jag aldrig testat det skarpt riktigt och sett hur det har gått."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:18",
+    "line": "Men det känns som en väldigt bra grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:19",
+    "line": "För annars är jag ganska anti-whiteboardintervjuer, särskilt om man ska skriva kod på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:24",
+    "line": "För det tycker jag är helt färdlöst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:27",
+    "line": "Det är liksom inte svårt att funka när man jobbar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:29",
+    "line": "Det är inte svårt att funka i verkligheten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:32",
+    "line": "Alltså absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:32",
+    "line": "Ska du sitta någonstans och skriva algoritmer, då kanske du ska kunna göra lite algoritmer på en whiteboard."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:39",
+    "line": "Men det är inte så du jobbar i verkligheten. Du har alltid tillgång till Google, du har alltid tillgång till kollegor som du kan fråga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:45",
+    "line": "Det är verklighetsfrånvänt att koda på en whiteboard. Så jag tycker att det är en urusel intervjuform."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:57",
+    "line": "Ja, det är intressant. Jag har faktiskt haft en intervju där vi körde mobbprogrammering, kan man väl kalla det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:05",
+    "line": "Eller så kan man säga kanske parprogrammering med ytterligare en åskådare eller någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:11",
+    "line": "Där vi faktiskt körde så att kandidaten fick..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:16",
+    "line": "Jag kommer inte ihåg vilket vi började med. Om det var så att vi började med att jag var en driver och kandidaten skulle guida mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:23",
+    "line": "eller om vi körde så att kandidaten blev guidade av oss."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:27",
+    "line": "Men dels är det så här att jag tyckte ju synd om kandidaten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:36",
+    "line": "Det var verkligen att bli kastad ut på djupt vatten, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:41",
+    "line": "För det krävs ju lite nerver och det är en väldigt sårbar situation för den personen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:51",
+    "line": "Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:53",
+    "line": "Kommer man förbi det så var det ändå väldigt bra effektivt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:58",
+    "line": "Sen så finns det alltid så här, det kanske blir ännu svårare att utvärdera, vad är nerver och vad är avsaknad av viss teknisk förståelse ibland eller processen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:10",
+    "line": "Det finns helt plötsligt många fler variabler att ta hänsyn till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:15",
+    "line": "Nu har jag bara gjort det en gång, så jag har inte en fulländad känsla för det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:23",
+    "line": "- Jag håller med, det är väldigt svårt det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:25",
+    "line": "En annan variant som jag också tycker låter ganska vettig,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:28",
+    "line": "för en sak som jag också inte gillar om vi räknar bort whiteboard-intervjuer,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:32",
+    "line": "är hemmetester, där det är \"bygg den här grejen och skicka in ett kodtest till oss\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:37",
+    "line": "Jag tycker det är rätt uselt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:41",
+    "line": "Är det något man kan göra på en timme? Absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:44",
+    "line": "Men det är väldigt sällan du kan göra något vettigt på en timme för att visa vad du kan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:48",
+    "line": "Då blir det istället att du helt plötsligt förväntar dig att du ska lägga flera timmar på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:52",
+    "line": "Att ha förväntningar på kandidaterna att för att få jobba här så ska du lägga flera timmar på att koda något gratis åt oss."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:59",
+    "line": "Det är ju helt värdelöst tycker jag också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:02",
+    "line": "om något bolag som jag inte kommer ihåg vilket det var nu som faktiskt betalade för sina hemtester."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:06",
+    "line": "Så de hade typ såhär, okej men du får den här summan och då har vi betalat dig för två timmar eller tre timmar eller vad det var."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:15",
+    "line": "Och vi förväntar inte att du lägger någon mer tid än det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:18",
+    "line": "Och då tycker jag att man har satt ganska schyssta förväntningar på såhär, okej vi förväntar oss att du kommer lägga tre timmar på det"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:26",
+    "line": "och du får betalt för de timmarna och sen kan du skicka in det där till oss."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:31",
+    "line": "Sen är det ju klart att det blir fortfarande den här implicit att jag lägger lite timmar till för att jag vill göra ett bra jobb."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:39",
+    "line": "Men då är det ju liksom, jag tycker det är en tydligare, ett tydligare kontrakt mellan kandidaten och företaget som faktiskt säger att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:47",
+    "line": "\"Okej, vi betalar dig och då förväntar vi verkligen bara de här timmarna\". Så på så sätt tror jag det är väldigt fettigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:53",
+    "line": "Men sen tycker jag inte om det ur ett rent egoistiskt perspektiv också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:59",
+    "line": "Och det är ju mycket att jag måste hinna kolla igenom kodtestet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:03",
+    "line": "Och göra det ordentligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:05",
+    "line": "Och det tar ju tid på ett annat sätt från mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:09",
+    "line": "Om jag ska hinna göra det utöver det andra jag ska göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:13",
+    "line": "Och hinna göra det innan intervjun och komma ihåg att ta med mig det på intervjun."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:17",
+    "line": "Så det känns som att det blir ganska mycket mer jobb för mig också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:24",
+    "line": "Ja, absolut. Jag håller med, det blir mer jobb att titta igenom det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:29",
+    "line": "Men det känns så svårt, för det känns verkligen som att man måste välja metod efter vad man vill utvärdera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:36",
+    "line": "Det finns vissa metoder, men hemtest kanske är bättre på att utvärdera kodkvalitet och hur man skriver koden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:45",
+    "line": "Medan kanske, som vi gör idag, så är det mer problemlösning och lite högre nivåer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:52",
+    "line": "Du skriver ju ingen kod när vi pratar eller när vi intervjuar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:55",
+    "line": "Och sen pratar man mer om koden och försöker grösa ner och se vad kandidaten säger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:02",
+    "line": "Och då kanske man får en annan förståelse för, inte koden på detaljnivå,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:08",
+    "line": "Men hur kandidaten tänker kring kod mer? Och lite mer arkitektur eller lite mer holistisk syn på problemlösning?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:18",
+    "line": "- Ja, det är verkligen så. Det är kul när vi pratar om det här med whiteboard-test."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:26",
+    "line": "Kan du plocka fram algoritmer och funktioner direkt ur huvudet och plita ner det på en whiteboard?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:32",
+    "line": "När används det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:36",
+    "line": "Alltså, de kanske jobbar så på de här storföretagen men jag har svårt att tänka mig att det är så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:42",
+    "line": "Ja, exakt. Det känns ju verkligen som att tittar man på storföretag som Google, Apple, Spotify,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:48",
+    "line": "alltså alla dem, så känns det verkligen som att det är algoritmintervjuer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:53",
+    "line": "Alltså, gör en binary search algoritm här, skriv kod på iPoden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:59",
+    "line": "Och det känns så jävla konstigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:03",
+    "line": "För jag har nära gjort en binary search-algoritm själv aldrig, tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:07",
+    "line": "Utan i plugget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:09",
+    "line": "- Näää. Däremot så kan jag väl tänka mig att det kanske finns mycket mer komplexa,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:13",
+    "line": "jag menar algoritmiska saker som behöver lösas på ställen som,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:16",
+    "line": "jag vet inte, det kan ju vara ställen som jobbar med fysikmotorer och vad som helst liksom, men"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:21",
+    "line": "jag vet inte om det känns som att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:23",
+    "line": "oavsett vad om det är den biten man vill testa,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:26",
+    "line": "kommer att rita det rakt av på en whiteboard var bästa sättet att testa även den saken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:32",
+    "line": "Nej, men exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:34",
+    "line": "Vi kommer ju väldigt mycket från en webbutvecklarsperspektiv, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:39",
+    "line": "Vilket gör att det blir ännu mer världsfrånvänt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:43",
+    "line": "Man implementerar ju inte sådana här grundläggande saker själv i stort sett."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:49",
+    "line": "Det beror såklart på bolaget och komplexiteten som du sa, men det är ytterst sällan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:54",
+    "line": "Vi sitter ju och gör liksom boxar på en skärm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:56",
+    "line": "Det är liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:57",
+    "line": "Det är typ det man gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:59",
+    "line": "Sen är det väl som sagt lite mer komplicerat än så, men..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:02",
+    "line": "Men jag tycker också att liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:05",
+    "line": "Fokus på tekniska intervjuer måste ligga på mer än bara koden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:09",
+    "line": "Jag känner att jag återkommer till det här, men alltså..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:11",
+    "line": "Jag tycker det är så oerhört viktigt att man inte bara pratar så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:14",
+    "line": "Att man vill ju mer prata om typ..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:15",
+    "line": "Eller i jobbintervjuer brukar jag fråga typ så här..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:18",
+    "line": "\"Ja, men hur skulle teamet se ut?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:20",
+    "line": "Och liksom så här..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:22",
+    "line": "Vilka skulle du behöva jobba med för att det här ska gå ihop?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:26",
+    "line": "Jag tycker det är en ganska bra fråga, för då måste man tänka på en mycket högre nivå"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:30",
+    "line": "och tänka \"vad kan jag själv? Vad är det jag behöver hjälp med?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:34",
+    "line": "\"Vad kan andra göra? Vilka delar känner jag till?\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:38",
+    "line": "Där jag kan ta in specifik expertis och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:42",
+    "line": "Så jag tycker att det är sådana frågor som är viktiga att ställa på en sån intervju"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:46",
+    "line": "även om man ska utvärdera teknisk kompetens egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:51",
+    "line": "Ja, men det är ändå lite intressant att du säger det för att det är ju ändå en indikation på att du kanske intervjuar någon som du tänker ska komma in i kanske korsfunktionella team med mycket kommunikation där teamet ska jobba som en enhet kanske även liksom någon typ av konsultmässighet och sådana bitar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:11",
+    "line": "Det kan inte ha varit riktigt den intervjun man vill ha om man säger att man ska ta in en data engineer att göra djupdykning i big data ensam i ett företag i bla bla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:26",
+    "line": "Alltså är det alltid relevant att veta den biten tror du?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:32",
+    "line": "Jag förstår din poäng men jag vet inte om jag håller med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:36",
+    "line": "Även om du är en big data engineer på ett stort företag där du ska sitta helt själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:42",
+    "line": "Du kommer ju inte kunna sitta helt själv. Du kommer prata med andra personer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:45",
+    "line": "Om vad ska vi använda den här datan till?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:50",
+    "line": "Det måste ju finnas kravställare till allt man gör nu för tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:53",
+    "line": "Så det kommer alltid finnas en kontext runt omkring dig där du inte är helt ensam."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:58",
+    "line": "Det är klart att det finns undantag till det här, där du är ensam utvecklare på en liten firma och sköter om hemsidan helt själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:09",
+    "line": "Men jag tror att man måste generalisera lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:13",
+    "line": "Och ska man göra det så tror jag att sådana här frågor är extremt viktiga för en stor majoritet av fallen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:23",
+    "line": "Jag köper det, jag är inte emot det i saken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:26",
+    "line": "Det är bara att jag försöker bredda mina tankar utanför min egna bubbla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:31",
+    "line": "Utanför webbutvecklandekonsulter?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:34",
+    "line": "Ja, eller webbutvecklare i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:38",
+    "line": "Jag vet inte exakt vad som finns där ute och hur det ser ut, känner jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:42",
+    "line": "Nej, men det känns ju också som att man har jobbat med folk som inte är webbutvecklare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:48",
+    "line": "Som sitter och gör andra saker och sitter med databasjobb och allt sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:52",
+    "line": "Och även om man jobbar med dem så känns det som att man behöver kommunicera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:59",
+    "line": "Alltså även om de sitter i ett hörn och gör saker själv för oftast så vill man ju säga"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:02",
+    "line": "\"Nu har något gått fel så måste man kunna kommunicera med dem och kunna prata med dem.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:05",
+    "line": "Och de kanske... Det är alltid positivt när de har koll på vad en själv gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:10",
+    "line": "Om man tar det från deras perspektiv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:11",
+    "line": "Så det är väldigt skönt när de har koll på \"Okej, men du kan det här ungefär.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:16",
+    "line": "\"Det här är din kompetens och då vet jag ungefär hur jag ska kommunicera med dig till exempel.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:21",
+    "line": "Ja, men så är det ju. Men sen så bygger det ju på att man vill ha ett välkommuniserande team."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:28",
+    "line": "Ja, men..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:30",
+    "line": "Jag kan ju tänka att man ibland vill ha ett team som inte fungerar allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:35",
+    "line": "Ja, ibland så tänker jag att man kanske vill ha in, vad ska man kalla dem då? Superstars?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:41",
+    "line": "Som bara kan jättemycket och låter det göra sin grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:45",
+    "line": "Det här är ingenting som jag egentligen personligen tycker är grejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:51",
+    "line": "- Det är lite spela jävelens advokat och säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:54",
+    "line": "Vill man inte ha en sån här rockstjärna som kommer in och är ninnjor och bara sitter och gör sin grej och kör?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:03",
+    "line": "Nej, det vill man inte. - Ninnjor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:05",
+    "line": "- Ja, gud. Många av de här orden är inte så härliga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:12",
+    "line": "Jag har intervjuat företag där de kallar folk för ninjor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:16",
+    "line": "Och det var definitivt en påverkan som gjorde att jag tackade nej till det jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:21",
+    "line": "Men det kanske är ett ämne för ett helt eget avsnitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:26",
+    "line": "- Ja, det där kan jag gå loss på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:29",
+    "line": "För det har ju hänt att jag har kallats det och det har ju skapat konstig stämning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:33",
+    "line": "Det har varit intressant många gånger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:35",
+    "line": "Jajamän, hur lämnar det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:37",
+    "line": "- Ja, men sen tycker jag också att intervjuer är svåra ofta för att man ofta har ganska lite förhandsinformation."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:48",
+    "line": "Alltså när du går in i intervjun."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:50",
+    "line": "Det beror ju klart på hur många steg man har innan man kommer till en teknisk, men för oss är det typ ett eller två steg beroende på hur man ser det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:57",
+    "line": "Och då vet man typ \"Ja men de har sagt att de kan det här ungefär\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:00",
+    "line": "Men sen så är det ju väldigt ofta man sitter på en intervju och bara \"Aha, det här är det du är bäst på egentligen\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:07",
+    "line": "Så vi kanske ska fokusera på det, fast vi har liksom twistat det nu, eller vinklat det nu, så att vi fokuserar på helt fel saker i början av intervjun."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:16",
+    "line": "Och sådana saker är också väldigt svårt att anpassa sig till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:20",
+    "line": "- Ja, det tycker jag. Så det gäller ju att hitta det rätt från början, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:26",
+    "line": "Men det blir ju... Alltså det finns ju vissa saker som jag tycker är väldigt svåra i intervjuer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:30",
+    "line": "i intervjuer. Dels den här att man kanske, eller att jag kanske pratar med personer om tidigare erfarenheter där kandidater får beskriva mycket själva liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:39",
+    "line": "Och det kan ju vara jättebra och det går ju att få ett hum om vad, ja men som du säger, vart ligger styrkorna och vad är det man jobbat med tidigare och sådana saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:49",
+    "line": "Men det kan ju också falla platt sen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:54",
+    "line": "Eller tvärtom när man går in på riktiga tekniska bitar och hur man tänker kring teknik överhuvudtaget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:03",
+    "line": "Då menar jag mer riktiga case, riktig kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:07",
+    "line": "Alltså när man inte bara får prata själv om erfarenheterna som man tycker sig själv besitta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:15",
+    "line": "Och sen kan jag också tycka att det är en väldigt knivig sak ibland, för det kan ju vara en väldig skillnad i vokabulär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:23",
+    "line": "Dels att det är en person som kan mycket teknisk jargong, teknisk syntax och hippa ord. Eller vad jag ska kalla det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:37",
+    "line": "- Lite buzzwords. - Hippa tekniker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:40",
+    "line": "Men det finns liksom ingen grund där bakom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:43",
+    "line": "Sen kan det också vara personer som verkligen inte har den tekniska jargongen eller det supertekniska vokabläret,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:50",
+    "line": "men som ändå har ett tankesätt kring det som är on point."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:55",
+    "line": "Och det där tycker jag kan vara svårt ibland att vada i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:59",
+    "line": "Ja, jag håller verkligen med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:01",
+    "line": "Jag har märkt många gånger, särskilt när det kommer till"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:04",
+    "line": "Ofta nyäxade som kanske inte har växt upp med IT och teknologi,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:13",
+    "line": "som kanske upptäckt intresset senare i livet,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:15",
+    "line": "så märker man ofta att de kanske saknar, exakt som du säger,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:20",
+    "line": "vissa ord för saker, men när de resonerar om koden,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:23",
+    "line": "när de pratar om koden med andra ord, så är det extremt bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:27",
+    "line": "De förklarar verkligen hur de tänker, de kan förklara att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:31",
+    "line": "\"Det här är det som borde hända i koden, vi borde göra det här på grund av det här.\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:36",
+    "line": "Men att de just saknar de orden som vi använder när vi pratar om det finns inte där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:41",
+    "line": "Vilket gör att det blir lite mer svårtolkat, fast man vet inte om man pratar om samma sak."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:46",
+    "line": "Men när man ställer följdfrågor och fördjupande frågor så märker man att det är exakt det här ordet som skulle ha sagt egentligen,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:52",
+    "line": "men nu kanske det blev två meningar istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:54",
+    "line": "Och det tycker jag är sjukt viktigt att ha med när man tänker på det, att folk kommer från helt olika bakgrunder, vilket gör att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:03",
+    "line": "har man inte de här tekniska orden som man kanske har hört om man har växt upp på internet, eller vad fan man ska säga,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:08",
+    "line": "eller på den mer tekniska sidan av internet, då kanske man saknar vissa ord som man inte lär sig i plugget,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:17",
+    "line": "men som man ploppar upp på vägen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:19",
+    "line": "Och då blir det ju liksom, det krävs ju kanske lite mer följdfrågor för att förstå vad folk menar, men det kan istället betyda att de är extremt mycket duktigare på att förstå och resonera än andra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:28",
+    "line": "- Ja, men så är det ju verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:32",
+    "line": "Och det är ju, ja..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:34",
+    "line": "Man måste verkligen hitta de bitarna, det är så himla svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:38",
+    "line": "Men vi pratar ju också om det här med att, okej, hur vi bedömer kandidater, det är ju så här, på oss, man måste lägga förväntningar och så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:47",
+    "line": "Men det är ju också så himla mycket att man måste hitta nivån för att hålla intervjun och leda intervjun också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:55",
+    "line": "För det kriterierar sig så otroligt olika. Dels beroende på person och vad man får för respons, men även vilken nivå vi förväntar oss vara på i den här intervjun."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:05",
+    "line": "Ja, men precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:09",
+    "line": "Det tycker jag också är så här himla jobbig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:14",
+    "line": "Det där är så svårt ibland. Ibland kan man känna att jag inte gjorde den här intervjun bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:22",
+    "line": "Då vet man inte vad det är på grund av mig, eller är det att det inte är rätt, eller vad är det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:31",
+    "line": "Det tycker jag är en så himla jobbig känsla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:33",
+    "line": "För att det kan vara så svårt också, mitt i intervjun och mitt i stunden, att göra allting bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:42",
+    "line": "För man är själv bara människa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:44",
+    "line": "- Ja, exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:46",
+    "line": "Jag tror att en sak som vi är ganska duktiga på i alla fall är att är man för osäker och känner att det var kanske jag som inte gjorde det här så bra,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:54",
+    "line": "så kan man ju alltid ta om intervjun."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:56",
+    "line": "Alltså för att man känner att det blir mer rättvist då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:00",
+    "line": "Och samma sak om man känner sig extremt osäker eller vad det kan vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:04",
+    "line": "Man vill ju ändå ge kandidaterna den bästa möjligheten de kan få för att visa vad de kan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:09",
+    "line": "Och känner man själv att \"det här blev kanske inte så bra, men kandidaten gjorde det där de skulle, det var bara mitt fel\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:16",
+    "line": "Så ska man ju nog inte tveka och försöka ta om intervjun."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:20",
+    "line": "Sen kan det såklart vara så här att man vill ju som sagt inte slösa med folks tid, så det kanske inte ska vara att man"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:25",
+    "line": "\"Nu tog vi om den här intervjun fyra gånger\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:27",
+    "line": "Det handlar mer om att försöka göra det så snällt som möjligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:34",
+    "line": "Nu ringer det på min dörr här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:36",
+    "line": "Vi tar en liten paus och så ska jag öppna bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:38",
+    "line": "- Yes."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:40",
+    "line": "- Okej, jag är tillbaka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:43",
+    "line": "Mitt i poddandet så ska man få ett paket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:48",
+    "line": "- Var det något kul?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:50",
+    "line": "- Nej, det var ett paket som inte var till mig till och med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:54",
+    "line": "Det var inte så jävla roligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:59",
+    "line": "Vart var vi någonstans?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:02",
+    "line": "- Jo, det här med att man inte ska slösa med folks tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:07",
+    "line": "Man ska inte okynnesta om intervjuer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:10",
+    "line": "- Just det, det var det vi pratade om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:12",
+    "line": "Jag tycker det är viktigt att tänka på tidsaspekten också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:16",
+    "line": "Men också en grej som jag kommer att tänka på nu är att det finns så jäkla mycket som är generellt för intervjuer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:25",
+    "line": "Nu har vi pratat väldigt mycket tekniskt perspektiv, men det finns extremt mycket som är \"tänk på ditt eget bias\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:32",
+    "line": "eller på att du bedömer personer som ser ut som dig själv mycket oftast bättre utan att tänka på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:37",
+    "line": "Det finns så sjukt mycket sådana grejer som är mer generellt för intervjuer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:42",
+    "line": "Men det känns också som att det här avsnittets tid börjar rinna ut lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:47",
+    "line": "Så vi kanske inte hinner med att prata om alla de heller."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:49",
+    "line": "- Okej. Det kanske blir ytterligare ett annat avsnitt att prata om det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:55",
+    "line": "- Ja, men precis. För jag tror också att det är extremt viktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:58",
+    "line": "Och just det finns så många grejer som språkbarriärer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:01",
+    "line": "Om man pratar med någon som kör på engelska och man själv inte känner sig hundra på att köra på engelska."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:07",
+    "line": "så blir det också en barriär som förmodligen gör att det är lättare att bedöma den intervjun mer negativt än positivt för att den barriären också finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:19",
+    "line": "- Ja, eller om det kanske till och med är så att det finns en språkbarriär vilket gör att man bedömer det på ett annat sätt för att man själv mentalt skulle fylla i ord som egentligen inte var där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:30",
+    "line": "- Ja, men verkligen. - Det är en intressant sak."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:32",
+    "line": "- Mm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:33",
+    "line": "Nej, så det finns ju extremt många sådana saker som vi kanske inte hinner med nu, som sagt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:36",
+    "line": "Men definitivt någonting vi kan återkomma till, tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:40",
+    "line": "- Mm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:43",
+    "line": "Men ja, med det sagt kanske vi rundar av då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:46",
+    "line": "- Ja, jag tycker det kanske är dags."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:49",
+    "line": "Vi får säkert anledning att återkomma, som sagt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:51",
+    "line": "Men för den här gången så nöjer vi oss där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:55",
+    "line": "Och vill man oss något så finns vi som alldeles på Twitter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:57",
+    "line": "Länkarna ligger i beskrivningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:59",
+    "line": "Vill ni ge oss en recension på iTunes eller liknande så blir vi superglada."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:03",
+    "line": "Vi säger så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:05",
+    "line": "- Ja. Det gör vi. - Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:07",
+    "line": "[Outromusik]"
+  }
+]

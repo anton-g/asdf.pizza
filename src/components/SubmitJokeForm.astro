@@ -1,0 +1,54 @@
+---
+import Button from './Button.astro'
+
+export interface Props {}
+
+const {} = Astro.props
+---
+
+<!-- TODO success page -->
+<h2>Bidra med ett skämt vettja</h2>
+<form class="joke-form" name="jokes" data-netlify="true" netlify-honeypot="honungslåda">
+  <label style={{ visibility: 'hidden', height: '1px', width: '1px' }}
+    >Don't fill this out if you're human
+    <input type="text" class="doodle" name="honungslåda" />
+  </label>
+  <label style={{ transform: 'rotateZ(1deg)' }}
+    >Ditt namn (eller vad vi nu ska kalla dig):
+    <input type="text" class="doodle" name="name" required />
+  </label>
+  <label style={{ transform: 'rotateZ(-0.5deg)' }}>
+    Ditt skämt (eller något annat kul du vill berätta):
+    <textarea class="doodle" rows="3" name="joke" required></textarea>
+  </label>
+  <Button type="submit" class="submit-joke-button">Skicka :)</Button>
+</form>
+
+<style>
+  .joke-form {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .joke-form label {
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+    font-variation-settings: 'BNCE' -30, 'wght' 400;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .joke-form textarea {
+    resize: none;
+  }
+
+  .submit-joke-button {
+    border: none;
+    background: unset;
+    font-size: 24px;
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+    cursor: pointer;
+    margin-left: auto;
+    margin-top: 8px;
+  }
+</style>
