@@ -16,6 +16,8 @@ Anton drar för en gångs skull ett skämt och det sätter hela avsnittet ur bal
 
 **Dessutom**! Vi har som ett par riktiga sena-på-bollen-boomers skaffat Instagram, följ oss på [@asdfpodden](https://www.instagram.com/asdfpodden/)!
 
+Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) eller Twitter ([Anton](https://twitter.com/Awnton), [Therése](https://twitter.com/tkomstadius)) &lt;3
+
 ### Länkar
 
 - [Följ oss på Instagram!](https://www.instagram.com/asdfpodden/)

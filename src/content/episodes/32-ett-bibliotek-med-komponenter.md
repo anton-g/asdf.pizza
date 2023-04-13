@@ -9,6 +9,7 @@ itunesId: '1000529043579'
 joke:
   setup: Vad kallar programmeraren ett misslyckat bankrån?
   punchline: En cache-miss.
+  author: Erik
 ---
 
 I dagens avsnitt snackar vi om komponentbibliotek. Vad det är för något, hur vi använder dem, vilka komponenter vill vi ha i ett bibliotek och mycket annat. Anton har en förkärlek för komponentbibliotek som är "headless" där det inte följer med någon styling vilket leder in på diskussioner om när man faktiskt vill att stylingen ska följa med, avvägningen mellan att hålla komponenter små och att tillhandahålla alla användningsfall som behövs, samt hur den avvägningen förändras beroende på vem användaren är.
