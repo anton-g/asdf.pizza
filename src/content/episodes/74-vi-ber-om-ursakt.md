@@ -9,7 +9,7 @@ itunesId: '1000606697648'
 joke:
   setup: Vilken är frontendarnas favoritdessert?
   punchline: Chokladpadding
-  author: Simon
+  author: Simon L
 ---
 
 Anton drar för en gångs skull ett skämt och det sätter hela avsnittet ur balans. Så det är ändå okej om ni vill stänga av efter fem minuter av ett oerhört babblande intro, MEN vi lovar det blir bättre efter det. Då blir det snack om att hålla demos, olika typer av demos, en hot take utan förklaring, att dela skärmen utan att dela, att bli uttråkad på fyra minuter samt mycket mycket annat.

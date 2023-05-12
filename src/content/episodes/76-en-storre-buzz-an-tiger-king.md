@@ -1,5 +1,5 @@
 ---
-title: 'Än större buzz än Tiger King'
+title: 'En större buzz än Tiger King'
 date: 2023-04-28T07:00:00.000Z
 description: 'Avsnitt 76: Det "obligatoriska" AI-avsnittet. Deep fakes, slutet på historia, GitHub CoPilot, vad fan en hård parantes heter, ChatGPT, turingtestet, ett löfte, den onda sidan och mycket annat.'
 number: 76
