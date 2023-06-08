@@ -1,0 +1,2282 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Vilket ramverk använder SJ?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:04",
+    "line": "Rubion Rails."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "F*ck!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:12",
+    "line": "Lite för lätt skämt. Jag skyller allt på vår lyssnare Simon som har skickat in skämtet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:18",
+    "line": "Nej, absolut inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:22",
+    "line": "Tack Simon för skämtet. Det var bara att Therese var lite för smart för att inte ta punchlinen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:28",
+    "line": "- Det var väl inte för skönt? - Också en sån klassisk, riktigt dålig på att ta emot ett skämt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:34",
+    "line": "Även om man vet vad det är så säger man väl \"\"jag vet inte\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:37",
+    "line": "- Hahahahaha! - Herregud!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:43",
+    "line": "- Men det är det där jag \"\"take pride\"\" i. Men alltså du spenderar ju varenda skämt jag drar med och gissar vad det är på riktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:50",
+    "line": "- Ja, ja, men... - Och när du kan det så har du gissat det. Så då tänker jag att jag också får gissa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:54",
+    "line": "Ja, ja, det är klart du får. Det är klart du får."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:56",
+    "line": "Jag är bara besviken på att varje gång jag drar skämt så misslyckas det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:59",
+    "line": "(skratt)"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:00",
+    "line": "Det är inte sant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:02",
+    "line": "Men alltså, jag sitter ju nära Rubin Reids hela dagarna nu, så det är nära till hans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:07",
+    "line": "Ja, det låg nära till hans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:08",
+    "line": "Det skulle vi kunna prata lite om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:10",
+    "line": "Men först, som sagt, tack till Simon för skämtet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:12",
+    "line": "Fortsätt skicka in skämt, det är svinkul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:14",
+    "line": "Det finns på vår hemsida eller skriv till oss på Instagram."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:18",
+    "line": "Men välkomna till ett nytt avsnitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:22",
+    "line": "Herregud, vad uppe i varv jag har blivit av det där misslyckandet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:25",
+    "line": "Det är så här, det är alltid du som går mest upp i varv oavsett om det är du som drar skämtet eller tar emot skämtet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:34",
+    "line": "Ja, exakt. Jag är en bra deltagare i en skämttransaktion oavsett om jag levererar eller tar emot."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:43",
+    "line": "Det är som att du är på on air varje gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:45",
+    "line": "Exakt. Jo, vad sa du? Du sitter och programmerar Ruby on Rails."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:50",
+    "line": "Nej, jag sa att jag sitter nära Ruby och Rails."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:53",
+    "line": "Ibland kanske ger mig in i lite HTML-templates eller Ruby-templates."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:58",
+    "line": "Jag har också lärt mig följa Rails-magin någorlunda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:04",
+    "line": "Jag har väl gjort någon typ av controller för ett skript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:08",
+    "line": "Så jag är nära det, men jag är inte riktigt i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:12",
+    "line": "Tycker du det verkar nice?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:16",
+    "line": "Jag tycker att det verkar som ett ganska schysst språk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:20",
+    "line": "Jag tror att det som är problemet med Rails är att det är så himla mycket magi."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:25",
+    "line": "Så jag tror att man verkligen måste kunna det för att göra bra saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:29",
+    "line": "Men kan man det så tror jag att man kan vara ganska effektiv i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:34",
+    "line": "Men det är mycket så att jag är borttappad mycket av tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:40",
+    "line": "Den här syntaxen är ju litan lunda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:42",
+    "line": "Men sen är det ju så här, ha din genomgång från en utvecklare när man följer med, så make it a sense och det känns nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:48",
+    "line": "Och liksom MVC, så att ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:51",
+    "line": "- Ja just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:52",
+    "line": "Ja för jag har ändå, alltså det finns ju någon typ av bild i alla fall bland folk jag följer på Twitter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:58",
+    "line": "Vilket ofta är min källa till allt jag säger här i podden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:03",
+    "line": "Att så här Rubion Rails är så här svinbra för att komma igång med, för att du får allting out of the box."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:08",
+    "line": "Alltså att allting är liksom, vad heter det, scaffoldat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:11",
+    "line": "Alltså att du kommer bara och säger \"\"Ska du ansluta en databas?\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:13",
+    "line": "Ja då är det löst åt dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:15",
+    "line": "\"\"Ska du göra det här så är det löst åt dig\"\" och så vidare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:17",
+    "line": "Och att de här grejerna ofta kommer upp i samband med att man pratar om typ såhär"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:22",
+    "line": "React eller JavaScript-ramverk eller såhär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:25",
+    "line": "Och att väldigt mycket, det finns hundra olika sätt att lösa saker på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:28",
+    "line": "Medan just Ruby on Rails verkar vara väldigt mycket såhär"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:30",
+    "line": "\"\"Ja, ja, vi har löst det här åt dig, gör så.\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:33",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:34",
+    "line": "Ja men jag tror det, det är väl det som är mycket av magin liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:37",
+    "line": "Om du skriver den här variabeln så förväntar vi oss att det finns en fil som har exakt det här namnet och det är så kopplingen går."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:45",
+    "line": "- Just det. Väldigt mycket magi låter det som. - Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:49",
+    "line": "- Ja, det är spännande. - Det är i alla fall så jag uppfattat det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:52",
+    "line": "Nu är jag ju absolut inte en Ruby on Rails-utvecklare, det kommer jag aldrig försöka påstå, men det är så jag uppfattar det nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:00",
+    "line": "Jag tror också att mitt kexjobb var Ruby on Rails, men då fattade jag absolut ingenting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:06",
+    "line": "Jag hade typ aldrig webbprogrammerat i hela mitt liv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:11",
+    "line": "- Ja, men jag tycker det är svårt det där, för det känns som att just sådana där saker som att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:15",
+    "line": "\"\"ja, men allting kommer funka out of the box\"\" eller \"\"allting finns för dig\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:19",
+    "line": "Det känns som att man måste liksom offra just att det blir lite mer magi för att det ska vara ganska nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:25",
+    "line": "Ja men säkert, om du ska ha någonting som är sådär out of the box så måste du väl vara super super opinionated."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:34",
+    "line": "Om du kan göra saker på 500 olika sätt då kan du göra fel på 500 olika sätt också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:39",
+    "line": "Det är väl inte det man vill då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:42",
+    "line": "Om det ska vara så super lätt att bara lira då måste du väl vara såhär."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:45",
+    "line": "Vi har bestämt, så här är det, följ det här annars kommer det inte funka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:51",
+    "line": "Nej exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:53",
+    "line": "Nej det där är ju spännande för jag vet att Remix som vi pratat om tidigare har sitt koncept med olika stacks."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:02",
+    "line": "Det vill säga, det är ju egentligen templates men de är anpassade efter olika användningsområden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:09",
+    "line": "Så det finns någon som heter The Indie Stack tror jag till exempel som är just där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:12",
+    "line": "Du får anslutning till en databas typ SQLite och du får lite användarhantering med cookies och lite sånt out of the box i din template."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:21",
+    "line": "Sen är ju det här saker man skulle kunna bygga själv på Remix."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:26",
+    "line": "Men jag tycker det är en ganska trevlig grej att få."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:28",
+    "line": "Typ fredagslunchen till exempel är baserad på en av de här stacken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:32",
+    "line": "Och det har funkat svinbra. Jag har byggt på den sen dess."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:36",
+    "line": "Jo, men jag kommer ihåg det här för jag startade med en Indie stack."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:41",
+    "line": "Och det var ju en Sequelite."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:42",
+    "line": "Och sen så ville jag gå över till en Postgres."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:44",
+    "line": "Och det är ju egentligen en Blues stack då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:48",
+    "line": "Så jag tror att jag istället för att härja runt i det här bara drog upp en ny BlueStack och flyttade över kod i slutet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:56",
+    "line": "För att det hade nog varit jättelätt att bara ändra postgräsen och sådana grejer men det blev någonting med att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:01",
+    "line": "\"\"Okej så jag har gjort de här ändringarna för att jag vill köra StyleComponent så de stödjer inte den här ReactStreamBall och sådana grejer\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:10",
+    "line": "Och så blev det liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:13",
+    "line": "Ah..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:14",
+    "line": "Jobbigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:15",
+    "line": "Och det tror jag kan vara så här, om man behöver fixa någonting och göra någonting med sådana här typer av saker, då kan det bli jobbigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:22",
+    "line": "Om saker bara lirar så är det underbart, men det är inga konstigheter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:28",
+    "line": "- Nej, det jag har känt med just remix-stracksen är att man vill nog ändå ta en del tid att sätta sig in i dem när man väl sätter upp dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:36",
+    "line": "Alltså för att annars kan man ju hamna i så här \"\"alltså jag vet inte hur det här funkar, det funkar bara, men hur är, I don't know\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:42",
+    "line": "Då blir det svårt att förlänga den eller utöka den funktionalitet som redan finns från början."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:48",
+    "line": "Jag tänkte på det här särskilt för att just Remix-stacken släpptes, en ny stack av Can't See Dods"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:53",
+    "line": "härom veckan kanske, på någon konferens."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:58",
+    "line": "Som han kallar för \"\"The Epic Stack\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:01",
+    "line": "Det kommer från..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:04",
+    "line": "Han har en kurs som heter Epic Web Dev eller Epic React, jag kommer inte riktigt ihåg. Någonting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:10",
+    "line": "Och den innehåller fan hur mycket som helst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:13",
+    "line": "Det är så jävla mycket grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:15",
+    "line": "Visst, remakes. Men sen var det liksom att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:18",
+    "line": "Du har deployment, du har docker, du har SQLite-databas med någon typ av backup-lösning på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:27",
+    "line": "Du har Hellchecks, den sätter upp grafana åt dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:31",
+    "line": "Du har massa... Du använder konton såklart, men du har också att den sätter upp mejlskick."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:38",
+    "line": "Det är så jävla mycket saker. Nu har jag läst en fjärdedel av listan över saker som står."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:44",
+    "line": "Sen är det allt från en-till-en-testning, formatering, typning, tester och styling."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:51",
+    "line": "Det är verkligen... Jag förstår att det är kul att det har blivit epic."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:54",
+    "line": "Men jag vet inte om det är för mycket saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:58",
+    "line": "Till slut känns det som att ju mer man lägger in, desto större chans blir det att man är så här..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:03",
+    "line": "\"\"Ja, fast jag vill inte ha just den där grejen som ligger där.\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:07",
+    "line": "- Jo, men fan vad jag hade kunnat behöva det här, för jag drog in mejlet \"\"Skick in\"\" och jag hade ju som en to do-drain-loggning, för det hade jag ju inte och sådana grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:15",
+    "line": "Fan vad snabb jag hade varit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:17",
+    "line": "- Ja, i och för sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:20",
+    "line": "Det finns ju ändå liksom, det finns ju någon vinst i det för att det går ju snabbt att komma igång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:24",
+    "line": "Och jag vet inte, jag skulle liksom inte vilja bygga Frihetslunchen från scratch, men ja, jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:30",
+    "line": "- Nej, men jag tror det handlar om kontexten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:32",
+    "line": "kan du kontexten, kan du inte kontexten, jag kan ju noll av Ruby och Ruby on Raids-kontexten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:37",
+    "line": "Jag är förvirrad mycket av tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:39",
+    "line": "Jag får googla fram saker och fattar dem fortfarande inte riktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:43",
+    "line": "Och sen ibland när jag frågar en Ruby-developer, de bara \"\"Det här är en special grej!\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:49",
+    "line": "Det var ju lite så som när jag körde M&M's Copilot,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:55",
+    "line": "att jag behöver hjälp med de här Ruby-grejerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:57",
+    "line": "Och det var lite som man sa om JavaScript, det är nästan rätt, men inte riktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:01",
+    "line": "Och det kan ju inte jag avgöra i Ruby."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:04",
+    "line": "Så jag tror det handlar om om man är i kontexten eller inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:07",
+    "line": "Någon som inte hänger i JavaScript, eller för den delen det som Remix drar in,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:12",
+    "line": "kommer ju ha svårt att vada i det också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:16",
+    "line": "- Ja, men verkligen. Det är väldigt, väldigt, väldigt sant tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:20",
+    "line": "Och det blir ju någon typ av avvägning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:23",
+    "line": "Vad man kan och hur mycket man vill få gratis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:27",
+    "line": "Eller hur gratis det blir jämfört med vad man kan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:31",
+    "line": "Jag tycker att det är svårt, för det handlar ju helt om vad det är för syfte. För de flesta handlar det om att bygga något med värde fort."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:42",
+    "line": "Men jag tycker att när det är så mycket magi och abstraktioner så blir det svårt att förstå hur saker fungerar på riktigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:50",
+    "line": "Det kan ibland då tycker jag skada."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:55",
+    "line": "För jag menar att säga att jag bara skulle börja Ruby on Rails."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:59",
+    "line": "Jag är inte så himla bra på backen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:02",
+    "line": "Jag kanske skulle behöva se sakerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:04",
+    "line": "Jag kanske skulle behöva veta vad som händer på ett annat sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:07",
+    "line": "För att kunna bygga riktigt stabila, robusta applikationer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:10",
+    "line": "Det kan jag inte om allting är dolt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:13",
+    "line": "och hamnar jag i en konstig bugg så kommer jag antagligen inte kunna reda ut det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:19",
+    "line": "Nej, men exakt. Det är svårt. Jag tror att det blir att man får väga för och nackdelar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:28",
+    "line": "Och hur mycket det kostar en i tid och pengar för den delen. För att det ska vara värt det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:36",
+    "line": "Jag kommer ihåg att jag hade en gång en konversation som skrämde mig lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:41",
+    "line": "För då vet jag att det var nya utvecklare som gjorde praktik."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:45",
+    "line": "Och det ska ju gå fort. Får man inte ut någon värde där, då är det inte kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:48",
+    "line": "Man vill ju inte sitta fast i komf. Så det fattar jag ju."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:51",
+    "line": "Men att man då körde en Create React-app."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:53",
+    "line": "Och det blev en sån här diskussion."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:55",
+    "line": "För jag hade nog inte kört så mycket Create React-app då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:58",
+    "line": "Så jag tror vi hamnade i en diskussionsstyling."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:00",
+    "line": "Jag bara, men vart importerar ni stylingen? Vart länkar ni stylingen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:03",
+    "line": "De bara \"\"Vad pratar du om? Man importerar den bara.\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:05",
+    "line": "Jag bara \"\"Men vadå? Kan du bara importera den i vilken field som helst? Hur funkar det?\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:09",
+    "line": "Alltså det här var ett tag sedan, ska vi säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:11",
+    "line": "Och då bara \"\"Ja, hur skulle man annars göra?\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:15",
+    "line": "Så liksom, för dem så fanns inte insikten om att det är en HTML-länk som länkar in ett style sheet i grunden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:24",
+    "line": "- Ja, just det. - Alltså den typen av grundläggande saker som bara inte fanns där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:32",
+    "line": "Det tycker jag är lite skrämmande. Men det kanske bara är jag som är gammal nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:36",
+    "line": "Nej, men det tror jag inte att det är. Jag tror att det krävs en förståelse för"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:42",
+    "line": "någon typ av grundläggande kunskaper, hur webben funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:45",
+    "line": "Man vill ju veta vad outputen är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:48",
+    "line": "När det kommer till just CreateRackTap, då är det ju så här, \"\"Vad är det Bild gör?\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:54",
+    "line": "Alltså när man kör CreateRackTaps byggskript."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:57",
+    "line": "Vad är outputen blir? Det handlar om att få en förståelse av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:01",
+    "line": "Sen kan man få den förståelsen genom att antingen kolla vad den outputar eller förstå att det här är en HTML-sida och du har en länk till ett style sheet och allt sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:11",
+    "line": "Men det kan ju bli spännande. Det är intressant att se hur det blir i framtiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:19",
+    "line": "en extremt dålig segway höll på att bli här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:22",
+    "line": "Men jag tänkte att vi skulle prata om"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:25",
+    "line": "Apples nya"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:28",
+    "line": "\"\"mixed reality headset\"\" som de inte kallar det själva."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:31",
+    "line": "De kallar det för en, vad fan var den nu då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:33",
+    "line": "\"\"Spatial Computing Device\"\" eller något sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:36",
+    "line": "- Alltså det här är den skakigaste bryggan"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:39",
+    "line": "jag haft på länge tror jag. - Jo, det skulle komma till det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:42",
+    "line": "Man vet ju hur det ser ut i framtiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:44",
+    "line": "För många är skeptiska till det här nu, men säger att om 50 år"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:47",
+    "line": "Alla sitter med sånt jävla headset på huvudet och de nya vet ingenting om hur det funkar med mus och tajm-bord."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:53",
+    "line": "- Jag vet inte, det är en hel del dystopi. - Absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:58",
+    "line": "Jag tänker fortfarande bara på hur folk tecknar telefon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:05",
+    "line": "Alltså typ, millennials upp gör tumme och lillfinger, tummen vid öra, lillfinger vid mun och så \"\"hallå\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:14",
+    "line": "Så frågar man Gen Z hur man gör en telefon, då gör de bara en platt hand och lägger den vid örat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:20",
+    "line": "För att det är en smartphone! För att det är så det är! För att de har inte haft det andra!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:24",
+    "line": "Åh, jag har aldrig varit så gammal som i det här avsnittet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:28",
+    "line": "Nej, absolut. Jag känner mig också väldigt gammal just nu faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:31",
+    "line": "Men hur mycket har du hängt med på Apples annonsering av den här, med det, jag vet inte vad jag tycker om namnet, Vision Pro?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:42",
+    "line": "Alltså jättelite, jag hänger inte med på Apples lanseringar vanligtvis. Jag har fattat att det är typ AR-headset."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:50",
+    "line": "Ja precis, det är ju liksom, jag vet inte riktigt de här termerna, men du har ju VR, alltså Virtual Reality och det är ju typ Oculus Quest."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:01",
+    "line": "Där du sätter på dig headsetet, du kliver in i en annan värld, du ser liksom inte genom headsetet på samma sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:08",
+    "line": "Alltså det påverkar inte, den blandar inte det du ser i headsetet med verkligheten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:14",
+    "line": "Sen finns det ju då AR."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:16",
+    "line": "Augmented Reality."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:19",
+    "line": "Exakt, som då ska vara det som är tvärtom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:21",
+    "line": "Att den typ ska på något sätt blanda det du ser i verkligheten med någon typ av lager ovanpå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:29",
+    "line": "Jag testade Microsofts HoloLens för länge sedan, och det var väl också ett AR-headset."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:34",
+    "line": "Och då kunde du i headsetet sätta på dig det där, och såg det genom en transparent skärm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:43",
+    "line": "Så att du såg rummet samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:45",
+    "line": "Men sen kunde den där skärmen spela upp saker också, så att du kunde få en boll som rullade av ett bord."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:50",
+    "line": "Fast bordet var ett verkligt bord."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:52",
+    "line": "Och sen finns det ju Mixed Reality, som jag tror är, utan att veta,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:57",
+    "line": "är när det är både och."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:00",
+    "line": "Alltså du kan göra att du kan ha både något som inte påverkar den yttre världen"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:04",
+    "line": "eller att den blandar de här sakerna och sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:06",
+    "line": "Och jag tror väl det är lite, i alla fall kapaciteten på den här vision-headsetet från Apple."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:12",
+    "line": "- Ja, alltså jag tänker ju bara typ Minority Report"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:17",
+    "line": "eller du vet spionfilmerna där de har information i sina glasögon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:21",
+    "line": "- Precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:22",
+    "line": "Men jag tycker det här är spännande för en sak som jag tyckte var intressant"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:25",
+    "line": "är att Apple nämnde inte artificial reality, virtual reality, mixed reality,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:32",
+    "line": "de nämnde inte metaverse, alltså inte ett enda av de här orden"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:35",
+    "line": "nämndes under presentationen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:37",
+    "line": "Utan de pratade bara om det som en \"\"spatial computing\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:41",
+    "line": "Alltså det vill säga att man kan liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:44",
+    "line": "Det ska vara som en dator, fast i 3D-rymden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:49",
+    "line": "Och det var ju också det som var mycket fokus på presentationen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:54",
+    "line": "De visade inga spel eller något sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:56",
+    "line": "Fokuset var på att ha en Macbook på huvudet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:02",
+    "line": "I brist på bättre beskrivning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:05",
+    "line": "Så att du kunde få upp skärmar, appar,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:08",
+    "line": "du kunde filma med den, spela upp 3D-filmer och sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:14",
+    "line": "Det var kanske en av de mest dystopiska scenerna i deras reklamfilm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:20",
+    "line": "När det var någon pappa som hade på sig en sån här och filmade sina barn under deras födelsedag när de blåste ut ljuset på sin tårta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:28",
+    "line": "Och då var det så här \"\"Relive your moments later\"\" bla bla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:32",
+    "line": "Och det har ju... Helvete vad folk har reagerat på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:36",
+    "line": "- Men alltså det är ju också lite kul att folk reagerar på det, för det är väl exakt samma sak man gör med sin mobil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:44",
+    "line": "- Ja, jag reagerar inte alls lika starkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:47",
+    "line": "Jag har ju inte barn så jag kanske pratar i nattmössan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:52",
+    "line": "Min tanke är att det inte är så att de räknar med att du kommer att ha på dig det här headsetet"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:57",
+    "line": "varje gång du är med dina ungar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:00",
+    "line": "Men det är klart att man kan ha på sig headsetet ibland för att filma något med sina ungar"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:04",
+    "line": "för att kunna se det senare i 3D i framtiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:07",
+    "line": "För mig, om jag skulle haft barn, det är inte så att jag skulle filma varenda ögonblick med dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:13",
+    "line": "Eller tänka att jag måste vara med mina barn i varje ögonblick i deras liv, annars kommer jag missa dem och vara i stunden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:21",
+    "line": "Jag tänker att det blir ganska långtråkigt efter ett tag av barn, då kan man väl filma lite."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:25",
+    "line": "Jo, alltså nu skaffade jag ju hund och filmade henne varenda sekund av hennes valpliv i och för sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:32",
+    "line": "Ja, men tänk om du kunde haft ett headset på dig då samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:36",
+    "line": "Jo, jag vet inte, jag tycker det känns..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:39",
+    "line": "Jag menar, det finns ju människor som..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:42",
+    "line": "När man ska filma ögonblick så finns det ju människor som filmar med iPad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:46",
+    "line": "De blir ju inte ens se över iPaden, så då ser de ju verkligheten i iPaden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:51",
+    "line": "Det är väl samma sak, det är bara att de måste hålla det i händerna istället av att ha det på huvudet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:55",
+    "line": "- Ja, exakt. - Det är ju stämd grej över samma grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:57",
+    "line": "Ja, alltså det är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:59",
+    "line": "Skillnaden blir väl att personer som tittar på dig får ju titta igenom det här jävla headsetet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:03",
+    "line": "Det är också en grej, om folk inte har sett headsetet så är det en ganska stor, en välvd glas skärm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:11",
+    "line": "Det ser ut som ett par skidglasögon, bara att det är en skärm på framsidan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:15",
+    "line": "Och det de också har gjort som är lite speciellt är att det är en yttre skärm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:19",
+    "line": "Det vill säga att den kan visa upp dina ögon utåt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:23",
+    "line": "Så att det ser ut som att du tittar genom ett par skidglasögon, fast ni fattar att det är en skärm."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:28",
+    "line": "Så att det inte riktigt är likadant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:30",
+    "line": "Och det är också en grej som folk tänker \"\"men varför?\"\" Jag tror att det kommer vara svinviktigt för att det här ska slå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:37",
+    "line": "Det är ju ett stort problem. Om man kör Oculus Quest till exempel, då kan man slå på transparens."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:46",
+    "line": "Det är bara svart och vitt som man ser då och det är en ganska dålig kvalitet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:50",
+    "line": "Men bara för att kunna se igenom. Men ingen annan ser ju det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:53",
+    "line": "Men om det här är tänkt att funka som en riktig data som du sitter och arbetar med, då är det ju svinviktigt att kunna se såhär, kan jag gå fram till den här personen och vinka och säga hej?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:02",
+    "line": "Kommer de se mig då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:04",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:06",
+    "line": "Alltså, gå fram till den här personen och vinka, vad kommer man behöva för kontor? Det är det sjukaste."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:14",
+    "line": "Ja, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:15",
+    "line": "Och jag vet inte, när de har visat på de här reklamfilmerna, det är väl de man har gått efter,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:20",
+    "line": "då står ju en person bara vid ett tomt skrivbord och liksom står och tittar ut i intet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:26",
+    "line": "Sen är det ju ganska, alltså det verkar ganska smart gjort,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:28",
+    "line": "alltså jag läste några som har faktiskt testat det på demosessionerna som de har nu i San Francisco eller var fan de nu ligger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:36",
+    "line": "Och de har ju sagt att det finns ganska coola saker som att,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:39",
+    "line": "\"\"Säg att du har en stor skärm framför dig eller att du har dragit i så att du tittar på en film eller något.\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:45",
+    "line": "\"\"Det är liksom att du har stängt ut allting.\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:47",
+    "line": "\"\"Om någon kommer fram och börjar prata med dig, då kommer de dyka upp.\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:50",
+    "line": "\"\"Då släpper den igenom en liten bubbla med dem, så att du kan se den här personen ändå.\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:56",
+    "line": "Då var det någon som också sa att de drog efter andan för att de tyckte att det var så jävla coolt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:03",
+    "line": "Och sen var resten av den artikeln ganska kritisk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:06",
+    "line": "Och då tänker jag att det måste vara jävligt coolt ändå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:08",
+    "line": "Jo."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:12",
+    "line": "Men alltså det är, ja, jag tycker det här är så..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:15",
+    "line": "\"\"Ready Player One\"\" creepy."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:18",
+    "line": "Ja, alltså sen är det ju, jag vet inte, det är ju liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:22",
+    "line": "Jag ser, om man ser på det som en dator, då tycker jag att det..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:26",
+    "line": "...inte är så jävla konstigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:27",
+    "line": "Sen det skulle ju sägas, vad fan var utgångspriset?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:29",
+    "line": "Alltså den börjar från 3500 dollar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:32",
+    "line": "Och det vill säga att med mobb spirar det typ 50 000 i Sverige."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:37",
+    "line": "Jo, den har jag sett. Jag har inte sett så mycket om den. Jag har sett priset."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:42",
+    "line": "Jag har ju, eller jag och jag, men för det första så heter den ju Vision Pro."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:48",
+    "line": "Det antyder ju att det kommer komma en Apple Vision som inte är Pro. Den kommer garanterat vara billigare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:52",
+    "line": "Plus att det här är den första i en helt ny produktkategori kan man väl nästan påstå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:59",
+    "line": "Och de är alltid dyra. Alltså första iPhone var ju också svindyr."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:05",
+    "line": "Ja. Alltså det här är väl inget nytt och om inte annat så kommer man vänja sig vid det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:11",
+    "line": "För det är det vi gör. Alltså jag menar Apple-tatorer är ju uppe i, jag vet inte, 35-40?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:19",
+    "line": "Ja, en MacBook Pro 16-tum kollade jag idag. Den kostade 36 000 i standardutförande liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:25",
+    "line": "Och det har ju vant oss vi. Och inflation och grejer, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:29",
+    "line": "Men förut var det så här \"\"15 000 för en dator du dumhej\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:32",
+    "line": "\"\"En mobil för 6 000, dumhej\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:34",
+    "line": "Jag tror min kostade typ..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:36",
+    "line": "Den har kostat 13. Nej, det är en 13."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:38",
+    "line": "Den kostade 10, kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:41",
+    "line": "Och det där är ju också ganska sjukt, för att det är också lite..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:43",
+    "line": "Alltså, vi som utvecklare är ju också i en väldigt bubbla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:47",
+    "line": "Alltså, jag tror inte Apple förväntar sig"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:50",
+    "line": "att gemene man ska springa och köpa den här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:53",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:54",
+    "line": "Utan de förväntar sig att typ utvecklare, entusiaster, företag ska köpa den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:00",
+    "line": "Och sen så kommer de utveckla, se vilka appar som slår, vilka kommer att vara populärast, hur ska man göra det här, hur ska allting funka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:08",
+    "line": "Och utifrån det så kommer de ta fram en billigare version."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:11",
+    "line": "Som är mer konsument i slutändan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:13",
+    "line": "- Ja, det är alla rich bitch, eller vad man ska säga. Men alla rika människor kommer ju springa och köpa en om de är intresserade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:22",
+    "line": "Jag tänker ju så här, jag kollar så mycket på F1, jag tänker att F1-fattarna vill ha en sådan här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:27",
+    "line": "Ja, förmodligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:28",
+    "line": "Formel 1-förarna, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:30",
+    "line": "De har bara massa pengar att slänga överallt och vill testa allt nytt och coolt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:34",
+    "line": "Ja, men precis. Men det är samma sak som med, även om man pratar om en MacBook Pro 16-tum, 36 000."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:39",
+    "line": "Det är ju inte heller någonting gemene man går och köper."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:43",
+    "line": "Nej, det är helt bizarrt att göra det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:46",
+    "line": "Jag köpte ju loss min dator, det är väl en 14-tum, den kom som en 33-tum."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:54",
+    "line": "Det hade jag aldrig gjort om jag inte behövde den för jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:57",
+    "line": "Eller liksom att jag vet att jag kan använda det i jobbet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:01",
+    "line": "Vad fan ska jag med den till? Ska jag e-shoppa på en jävla MacBook Pro?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:08",
+    "line": "Nej, exakt. Och det är ju samma sak, då köper man typ en billig iPad i dag istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:14",
+    "line": "Är Ipad dött? Använder folk ens Ipad längre?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:18",
+    "line": "Jag tror att det används mycket mer än man tror."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:21",
+    "line": "Jag tror att vi lever i den här utvecklad bubblan som är så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:25",
+    "line": "man måste ha dyrt jävla skrivbord till det för att det ska vara en vanlig dator."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:29",
+    "line": "Folk behöver inte datorer längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:33",
+    "line": "Folk betalar sina räkningar, de surfar på e-handlar och läser Aftonbladet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:40",
+    "line": "Jo, men att folk använder sin mobil istället för att man mobilanpassar, men man iPad-anpassar inte för att alla glömmer mittenskärmen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:47",
+    "line": "Nu är jag ute på ett annat ämne. Jag tror bara att jag blev lite offended när någon så här, häromdagen, vi hade någon på Aguberg, så jag bara \"\"Jag testar på iPad\"\" och de bara \"\"Visst, vi har ingen trafik på iPad, men testar du?\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:57",
+    "line": "Jag bara \"\"Ursäkta?\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:59",
+    "line": "Jag är trafiken på iPad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:02",
+    "line": "Ja, iPad är allt jag använder. Ursäkta mig. Personally offended. Kränkt blev jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:09",
+    "line": "Nej, det är klart att folk använder telefonen mycket mer än förut också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:15",
+    "line": "Och det är definitivt mer telefon än Ipad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:19",
+    "line": "Men jag tror att mycket fler som tänker \"\"jag ska köpa en dator\"\" köper en Ipad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:25",
+    "line": "Ja, jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:27",
+    "line": "Har du läst? Det här är också en citospår."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:29",
+    "line": "Det finns ju en Fredrik Backman som har skrivit, en man som heter Ove."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:34",
+    "line": "Och Björndalen eller vad han heter. Björnriket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:38",
+    "line": "En man som heter Ove föddes ju på hans blogg på typ Café kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:43",
+    "line": "Där finns det ett inlägg som heter \"\"En man som heter Ove köper en data som inte är en data\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:51",
+    "line": "som handlar om att då Ove-karaktären ska köpa en dator"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:57",
+    "line": "och den här personen i butiken rekommenderar en iPad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:02",
+    "line": "Det är fruktansvärt roligt. Jag lägger den i avsnittslänkarna så kan man utta den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:08",
+    "line": "Den kom till en 2010, så det är skapligt länge sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:12",
+    "line": "Jävlar vilket sidospår. Också att man ska tycka det är kul med en grinig gammal gubbe."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:17",
+    "line": "Det är ganska kul med en grinig gammal gubbe."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:21",
+    "line": "Jag tror jag identifierar mig för mycket med den griniga gamla gubben, så jag kan liksom inte..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:26",
+    "line": "Jag kan inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:27",
+    "line": "Nej, jag förstår det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:29",
+    "line": "Vart var vi? Joel?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:31",
+    "line": "Jo, men jag tycker det är lite skrämmande så här, för jag ser ju,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:34",
+    "line": "alltså jag tycker det är ett problem, eller alla pratar om att det är ett problem att vi bara lever genom våra mobiler."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:39",
+    "line": "Så mobilerna är med överallt, jag är fastlimmad till min mobil, jag har inte ens TikTok,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:44",
+    "line": "för jag vet att det skulle vara ett hår jag aldrig skulle ta mig upp ur, liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:47",
+    "line": "Jag, jag..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:49",
+    "line": "Typ..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:50",
+    "line": "Jag vet inte ens vad jag gör, ibland så hänger jag i min..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:54",
+    "line": "eh, liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:55",
+    "line": "Nordea-app och kollar vad jag har köpt förut, för att jag inte har något bättre för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:59",
+    "line": "Jag gör inte ens något med mobilen, jag bara hänger i den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:04",
+    "line": "Och så gör man ingenting annat så lever man inte ute i världen och man rör inte på sig hela allra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:09",
+    "line": "Jag tycker att det här känns som en dystopi om alla bara ska sitta med ett headset sen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:13",
+    "line": "Ja, det kan jag hålla med om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:17",
+    "line": "Men jag tror ju att målet inte är det. Jag tror att målet är att ersätta datorn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:25",
+    "line": "Ja, det kanske är bättre ergonomi, använder man händer och tal för att navigera?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:32",
+    "line": "Ja, det är också en ganska cool grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:34",
+    "line": "Du använder alltså så här, för om man tänker just Minority Report som du pratade om tidigare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:39",
+    "line": "Han vevar ju så in i helvete med sina jävla händer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:42",
+    "line": "- Man har ju handskar. - Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:45",
+    "line": "Och det är ju svinjobbigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:48",
+    "line": "Så att just Vision Pro funkar så att du..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:52",
+    "line": "Du styr muspekaren, eller vad som ska motsvara muspekaren."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:57",
+    "line": "Du pekar med ögonen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:00",
+    "line": "Så det du tittar på blir fokuserat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:03",
+    "line": "Det blir där muspekaren motsvarande är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:06",
+    "line": "Eller där ditt finger på telefonen eller Ipaden är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:11",
+    "line": "Och sen så använder du handen för att klicka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:19",
+    "line": "Det som är smart med det här är att det finns några kameror på främre undersidan av headsetet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:27",
+    "line": "De filmar ner i ditt knä om du sitter ner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:31",
+    "line": "Det betyder att du kan ha din hand vilandes i knät."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:35",
+    "line": "Så du behöver inte lyfta upp armarna utan du behöver inte anstränga dig för att göra saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:40",
+    "line": "Du kan klicka med fingrarna genom att göra en nyp rörelse."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:46",
+    "line": "Du kan typ scrolla genom att dra med tummen över fingret på några städer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:50",
+    "line": "Jag har bara sett det här på några klipp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:51",
+    "line": "Men så har jag uppfattat att det funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:52",
+    "line": "Och det är ju ganska coolt att det är ögonen som styr det åt dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:57",
+    "line": "- Så vi behöver aktivera inga muskler överhuvudtaget annat än ögonen i princip."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:03",
+    "line": "- Exakt!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:05",
+    "line": "- Gud, det är ju coolt att eye-tracking har kommit så långt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:10",
+    "line": "Speciellt om man tänker till människor som verkligen behöver den här typen av saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:14",
+    "line": "Accessibility, att man kan uppa accessibilityn för människor på det här sättet så att alla kan använda det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:22",
+    "line": "Det är ju coolt, men fortfarande..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:26",
+    "line": "Åh... Jesus."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:30",
+    "line": "Ja, men det är ju också det som krävs för att det ska slå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:34",
+    "line": "Du kommer inte få folk att stå upp med ett Oculus-headset på dig där du måste vifta med en hel del handkontroll och peka med den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:43",
+    "line": "Det är liksom för svårt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:45",
+    "line": "- Det är för jobbigt också. Man måste ha så mycket utrymme."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:49",
+    "line": "Sånt som inte kan gå sönder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:51",
+    "line": "- Ja, exakt. - Nej, jag fattar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:53",
+    "line": "Jag tror absolut att det är det här som kommer slå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:55",
+    "line": "Men jag tycker också att det är läskigt. Jag tycker att vi lär oss ingenting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:57",
+    "line": "Men jag menar, alltså..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:59",
+    "line": "Av Wally."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:01",
+    "line": "(skratt)"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:03",
+    "line": "Ready Player One. Vi lär oss ingenting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:05",
+    "line": "- Nej, men jag har ju också svårt att det blir så pass bra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:12",
+    "line": "I det här fallet, då är det liksom att, i och med att det är både virtuell verklighet och det här artificiellt, alltså augmented, vad fan heter det?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:22",
+    "line": "Augmented reality."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:24",
+    "line": "Så känns det lite som att de är liksom inte ute efter att folk ska sitta i headset hela tiden, utan det känns mer som att deras målgrupp är liksom, det är bara arbete."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:37",
+    "line": "Alltså så här, jobba i den här, sen gå och gör vad fan du vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:41",
+    "line": "- Vad tungt det måste vara för huvudet. - Ja det känns som det kan bli lite tungt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:46",
+    "line": "- Jag tänkte jobba i det där 8 timmar om dagen. Jag hade ett par Bose Noise Cancelling."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:50",
+    "line": "- Jag fick liksom ont i nacken efter 3 timmar. Ont i huvudet efter 5 timmar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:54",
+    "line": "- Ja, de har ju också försökt få ner vikten. Så till exempel har du ett externt batteri."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:00",
+    "line": "- Som du typ får ha i en ficka som går med sladd till headsetet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:04",
+    "line": "- Batteritiden bara 2 timmar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:08",
+    "line": "Det är inte särskilt länge."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:11",
+    "line": "Det är som \"\"forced break\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:13",
+    "line": "Det är också \"\"all day battery life\"\" eller \"\"all day bla bla\"\" om du pluggar in det i väggen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:20",
+    "line": "Jo, \"\"no shit\"\" men då sitter jag fast."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:23",
+    "line": "(skratt)"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:27",
+    "line": "Jag tycker det blir spännande att se vad det blir."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:31",
+    "line": "Jag tror det kommer vara intressant att se."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:33",
+    "line": "Jag skulle kunna tänka mig att ibland skulle det kunna vara svinnigt att jobba i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:37",
+    "line": "För att man vill ha flera skärmar till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:41",
+    "line": "Eller du vill sitta och jobba med någonting på ett helt annat sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:44",
+    "line": "Alltså man får ju mycket mer frihet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:45",
+    "line": "Alltså det är bara där som det tilltalar mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:47",
+    "line": "Det tilltalar mig inte 50 000 kronor mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:50",
+    "line": "Men det tilltalar mig att i framtiden kunna ha ett headset på mig och liksom ha"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:55",
+    "line": "kanske ett tangentbord för mig fortfarande för att han vill ha det här taktila."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:58",
+    "line": "Men att då bara kunna slänga upp att \"\"ja men här har jag\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:02",
+    "line": "\"\"tre olika skärmar för att jag behöver det just nu\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:06",
+    "line": "Men alltså tänk influencers in the wild. Alltså ska de stå där med sina skumma headsets."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:14",
+    "line": "Ja, de ska också filma i tredje. Men då kommer ju inte de ha på sig headsetet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:20",
+    "line": "Då kommer någon assistent springa efter dem med ett headset och filma där de gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:26",
+    "line": "Ja, jag vet. Men liksom businessen. Det kommer en massa sådant konstiga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:30",
+    "line": "- Alla turister kommer att stå vid Eiffeltornet och på Kärleksbron eller vad det heter med sina headset på sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:37",
+    "line": "- Perfekt!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:39",
+    "line": "Och då kan man återuppleva det själv sen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:41",
+    "line": "Man sätter på sig headsetet och så ser man alla andra med sina headset på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:44",
+    "line": "Och så känner man en tillhörighet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:46",
+    "line": "- Ja, härligt. Minions."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:49",
+    "line": "- Jag vet inte, jag tror det kommer bli intressant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:52",
+    "line": "Headsetet släpps ju för det första inte förrän nästa år."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:54",
+    "line": "Så det kommer väl ta ett tag innan det här blir något av det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:58",
+    "line": "av det och sen kanske 2025, 2026 när någon typ av konsumentversion har kommit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:04",
+    "line": "Då kan vi börja prata."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:06",
+    "line": "Ja, då får vi prata om det igen då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:11",
+    "line": "Lagom till typ avsnitt 180, 200 någonstans. Då kanske vi är framme."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:17",
+    "line": "Gud."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:19",
+    "line": "Kul att ni lyssnade hörni. Vi säger väl så för den här gången tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:24",
+    "line": "Följ oss på Instagram som vanligt. Ge oss en recension på iTunes."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:29",
+    "line": "Nu är jag tillbaka i den här härliga avslutningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:32",
+    "line": "Don't forget to click that bell och vad fan man nu säger på Youtube."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:36",
+    "line": "Men följ oss där vi finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:39",
+    "line": "Click subscribe button."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:43",
+    "line": "Hej då!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:32:45",
+    "line": "[Musik]"
+  }
+]
