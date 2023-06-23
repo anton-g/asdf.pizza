@@ -1,5 +1,7 @@
 import fs from 'fs'
 
+// TODO fixa ta bort " från CSV
+
 const parseTranscriptionCsv = (csvPath) => {
   const csv = fs.readFileSync(csvPath, 'utf8')
   const lines = csv.split('\n').slice(1)
