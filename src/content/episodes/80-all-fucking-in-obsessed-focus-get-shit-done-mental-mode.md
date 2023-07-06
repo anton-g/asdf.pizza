@@ -3,7 +3,7 @@ title: 'All-fucking-in-obsessed-focus-get-shit-done-mental-mode'
 date: 2023-06-23T07:00:00.000Z
 description: 'Avsnitt 80: En trasig fot, LinkedIn, det var bättre förr-gubbar, Goblin Mode, slutet av podden och mycket annat.'
 number: 80
-pinecastId: ''
+pinecastId: '7e838ca5-81a2-48e0-8d9f-b03ec395a48a'
 spotifyId: ''
 itunesId: ''
 joke:
