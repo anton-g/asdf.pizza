@@ -1,0 +1,2037 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Vilket rengöringsmedel använder Linux sysadmins?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:05",
+    "line": "Jag har ingen aning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:09",
+    "line": "Vim?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:11",
+    "line": "Nej jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:13",
+    "line": "Med brasklappen att den tyvärr numera bytt namn till GIF."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:17",
+    "line": "Det är så jävla smalt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:21",
+    "line": "Jag vet, inlämnat av vår lyssnare som jag vet inte om det är, men instanicket är Arizon. Jag vill säga Arizan. Det låter rimligare att det ska vara Arizan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:36",
+    "line": "Det låter rimligare med Arizan, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:38",
+    "line": "Men i alla fall, tack så mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:41",
+    "line": "Tack, det var smalt. Jag fixade, men det gör ju i stort sett alla skämt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:48",
+    "line": "Men alltså, Vim var ju inte smalt. Det var väl liksom standardrengöringsmedel för?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:54",
+    "line": "Jo, men man ska komma ihåg det också. Såg jag ju liksom, det är lite yngre än dig, du vet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:59",
+    "line": "Ja, från tiden man kollar på reklam. Alltså, det finns en..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:06",
+    "line": "Nu kommer det en jättekonstig historia, men det finns hemma, när Yes-reklamen kommer på tv,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:12",
+    "line": "På tv så uttrycker Fredrik alltid sin besvikelse över att det är ny reklam och inte den här gamla reklamen där det är en snubbe som är dubbad och han bara \"\"Det är klart, schabben ska diska!\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:24",
+    "line": "Alltså vad i helvete?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:28",
+    "line": "Åh herregud. Okej hörni, välkommen till ett nytt avsnitt där vi pratar diskmedel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:36",
+    "line": "Du kommer behöva hitta den här på Youtube nu och länka."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:39",
+    "line": "Absolut, jag ska göra mitt bästa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:42",
+    "line": "Jag ska göra mitt bästa, eller åringet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:44",
+    "line": "Jo, så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:48",
+    "line": "Jag har suttit några dagar med,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:50",
+    "line": "några dagar var jag nere vid drift,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:52",
+    "line": "men jag satt typ två timmar igår."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:54",
+    "line": "Och bumpade massa paket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:58",
+    "line": "Jag uppgraderade massa paket i ett projekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:01",
+    "line": "Jag kanske uppgraderade 80 i beroenden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:05",
+    "line": "För det första får man en reality checkad, som är varför i helvete har jag 80 direkta beroenden i det här projektet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:12",
+    "line": "Men de är vettiga, jag har lyckats ta bort något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:17",
+    "line": "-Vad är det för projekt? -Det är Fredagslunchen fortfarande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:20",
+    "line": "-Har du 80 beroenden i Fredagslunchen? -Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:24",
+    "line": "-Men hur? -Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:28",
+    "line": "-Men är det direkta? -Det är dependencies och devdependencies."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:33",
+    "line": "- Det är 80 totalt. - Okej, men hur många är dev-dependencies?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:37",
+    "line": "- Säg... 75... nej, men säg 30. - Har du types?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:46",
+    "line": "- Ja, några av dem är types. Inte så många. Sju stycken typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:49",
+    "line": "- Okej, men ändå. - Jo, men sen är det också att ganska många av de här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:53",
+    "line": "dependencies är att det är... Jag vet inte hur många vi har, men Radix,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:57",
+    "line": "Där är varje komponent ett eget mp1-paket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:04",
+    "line": "React-aria och React-state är också samma sak, fast det är helper-funktioner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:12",
+    "line": "Men allting är uppdrappat i ett småpaket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:14",
+    "line": "Så det är mycket sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:16",
+    "line": "Det är inte så stora paket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:18",
+    "line": "Men, vad fan var det vi skulle prata om?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:23",
+    "line": "Sluta hata mina beroenden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:25",
+    "line": "- Ja, men jag bara hörde lite, för jag var tvungen att googla fram Youtube Yes-reklamen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:35",
+    "line": "- Ja, det var det. - Så att vi vet att du har den."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:37",
+    "line": "Och då hörde jag det bara lite i öronvrån höll jag på att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:42",
+    "line": "- Ja, men det finns. Öronvrån finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:44",
+    "line": "- Ja, och då blev vi chockad. Det är allt. Förlåt, fortsätt nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:48",
+    "line": "- Nej, men för det första så fick jag vilja piss och sitta uppe och träda beroendan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:52",
+    "line": "Helvete vad trött jag blev."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:54",
+    "line": "Ja, alltså riktigt riktigt tråkig uppgift."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:59",
+    "line": "Det blev lite enklare för att det finns något paket som heter MPM Check Updates."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:11",
+    "line": "Som var ganska trevligt. För det första så får du en lista på vilka paket har Patch-uppdateringar, vilka har Minor och vilka har Major."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:20",
+    "line": "Och så hoppas man att alla följer Semantic Versioning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:23",
+    "line": "Sen kan man använda den för att uppdatera alla paket som börjar på Radix till exempel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:29",
+    "line": "Och så sköter den det åt dig. Och det var ganska trevligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:33",
+    "line": "Men det var fortfarande ett jävla helvete så fort man kom upp till major versioner."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:38",
+    "line": "Jag var tvungen att gå igenom allting och kolla vad som har ändrats."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:41",
+    "line": "Kommer någonting gå sönder?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:43",
+    "line": "Jag har ju inga tester."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:46",
+    "line": "Många har fruktansvärda changelogs också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:49",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:50",
+    "line": "För att jag sitter i ett team nu också vars en arbetsuppgift är, eller ska bli, att bumpa alla dependencies för hela projektet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:03",
+    "line": "Så det är kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:04",
+    "line": "Ja, det låter jättekul. Grattis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:08",
+    "line": "Inte alls läskigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:09",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:10",
+    "line": "Men i vilket fall, jag lyckades ta mig igenom det här. Det gick okej, men det tog tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:17",
+    "line": "Det här är ett remixprojekt och då uppdaterade jag Remix det senaste."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:22",
+    "line": "Remix håller på med att förbereda för en major version."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:32",
+    "line": "Så de är på 1.16 eller 1.17 och håller på att förbereda för en v2."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:37",
+    "line": "Och då gör de det genom att de har i sin Remix-config lagt till att du kan i ett objekt som heter \"\"Future\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:47",
+    "line": "så kan du opta in till Breaking Changes som kommer i V2 redan nu om du vill."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:51",
+    "line": "Det känns väl ändå ganska vettigt, det är inte så konstigt för skapar du ett nytt V1-projekt nu så är det default att du kör på de nya V2-sakerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:02",
+    "line": "Jag har inte kört de där V2 sakerna tidigare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:09",
+    "line": "När man uppdaterade nu så började man få massa varningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:11",
+    "line": "Varje gång du startade applikationen så fick du massa varningar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:14",
+    "line": "\"\"Future change warning\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:17",
+    "line": "\"\"Opta in till den här grejen för att slippa varningen\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:21",
+    "line": "\"\"Gör det här och där\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:23",
+    "line": "\"\"Så här funkar det\"\" och så var det någon länk till någon guide."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:26",
+    "line": "Det var också helt okej. Det ledde till att jag absolut inte kunde stå ut med de där varningarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:31",
+    "line": "För jag absolut inte behövde migrera till V2 just nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:35",
+    "line": "Men det kunde jag inte låta bli."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:37",
+    "line": "Så för att få bort varningarna så började jag göra det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:40",
+    "line": "Vissa funkade jättebra. Någon kände jag var helt idiotisk. Den skete jag faktiskt inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:46",
+    "line": "Men en sån de har gjort då som jag skulle vilja prata lite om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:49",
+    "line": "För jag tror att de flesta kan relatera är att Remix har haft filbaserad routing på samma sätt som i stort sett alla andra ramverk nu för tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:59",
+    "line": "Alltså det är samma sak i Next, att du har dina mappar och du nästlar dem i den och så får du ut en URL, en path baserad på vilken mapp saker ligger i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:10",
+    "line": "Om du har ett dollar i Remix, så är det en variabel eller en parameter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:17",
+    "line": "Det är i stort sett som Next har det också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:20",
+    "line": "Och det jag skulle komma till till slut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:24",
+    "line": "Nu i V2 så har de ändrat något som de kallar \"\"Flat File Routes\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:28",
+    "line": "Det innebär att de tar bort alla mappar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:33",
+    "line": "Så om vi säger att i Remix kan du ha nästladde eller layouts som du även kan i Nexts nya approuter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:46",
+    "line": "Men du kan ha en layoutfil som är bara så här att alla routes under den här ska bara ha wrappat i den här komponenten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:53",
+    "line": "Så att säga att du har en layoutgrej, förut hade du en layoutmapp och sedan i den kanske du hade en indexfil och sen så låg det en till mapp i den som kanske var admin eller något."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:02",
+    "line": "och i den var det typ någonting som hette en index eller en route-fil som var liksom lövet i trädet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:10",
+    "line": "Nu när det här ändras, då blir det istället att istället för att man har en massa mappar, då har du liksom en fil som heter layout.admin.index.t6."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:22",
+    "line": "Okej, men då kommer du ju ha massa filer som har samma patronym i början. Är det verkligen bättre?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:28",
+    "line": "- Alltså vänta, jag ska bara skicka den här bilden till dig så att du förstår."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:34",
+    "line": "Alltså om du får hålla på med den här bilden jag skickar till dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:36",
+    "line": "Där är mina routes i projektet nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:38",
+    "line": "- Ja precis, det var exakt så som jag uppfattade det innan du skickade den här bilden till mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:45",
+    "line": "- Ja, det var bra. Så det är liksom massa filer som bara ligger platt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:49",
+    "line": "Och på något sätt så gillar jag att det är platt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:52",
+    "line": "Men det är ju fan svinjobbigt när det inte går."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:55",
+    "line": "Jag hade hellre velat ha nästla halvvägs."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:00",
+    "line": "I stort sett alla mina filer börjar på layout."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:04",
+    "line": "För att det är en layout."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:08",
+    "line": "Det är ju Rappern som alla routes använder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:10",
+    "line": "Då hade jag hellre haft en mapp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:12",
+    "line": "Du har ju en MDX-fil bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:14",
+    "line": "Ja, det finns också. Det är för att remixa stöd för Markdown."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:17",
+    "line": "Eller MDX och nästla, eller en del av routes från."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:21",
+    "line": "Men den här layout-grejen, då skulle jag bara vilja ha en layout-mapp istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:26",
+    "line": "För jag bryr mig ju inte om att alla innehåller layout."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:29",
+    "line": "Nej, det här tycker jag kändes lite stökigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:32",
+    "line": "För nu blir det ju, som jag säger, det blir väl jättemånga..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:35",
+    "line": "Om du har flera admin, layout och admin, bla bla bla, layout och admin, bla bla bla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:40",
+    "line": "Alltså... Och jag är ju en person som har jävligt svårt för att navigera saker på det här sättet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:45",
+    "line": "För att allting jag läser flyter ihop."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:47",
+    "line": "Om man kollar i mitten så finns det typ 10 filer som heter layout.groups.dollargroupid.någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:57",
+    "line": "Det är detaljsidan för en grupp och sen finns det en massa undersida till det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:04",
+    "line": "Jag satt och försökte migrera det här igår och bara \"\"Varför gör jag det här? Det här känns idiotiskt.\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:11",
+    "line": "Ja, jag vet inte det här tycker jag inte. Och sen har du API här. Då hade det varit nice att ha en layout-mapp och en API-mapp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:23",
+    "line": "Det är tydligt, det är två mappar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:25",
+    "line": "Gud ja, det hade varit svimbra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:28",
+    "line": "Och jag tror att någon argumentation för att man kan göra så här är att du skulle kunna, istället för att alla de här filerna var rena filer,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:36",
+    "line": "Då skulle du kunna döpa dem till en mapp som heter samma sak."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:39",
+    "line": "Och sen inuti den mappen lägga en index.t6 eller en route.t6."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:44",
+    "line": "Deras argumentation är att då kan du också co-locata med saker där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:51",
+    "line": "Så skulle du ha så här, det här är CSS som är specifik för den här routen, då kan den ligga i den mappen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:55",
+    "line": "Om du har komponenter som är specifika för den här routen så kan de ligga i den mappen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:00",
+    "line": "Visst, det lockar lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:02",
+    "line": "Men jag tycker fortfarande att det är så jävla svårt att få en överblick av och svårt att hitta vad fan jag håller på med."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:12",
+    "line": "Jag tror inte jag uppskattar det här alls, men då skulle jag säga att jag också just nu sitter i Next."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:21",
+    "line": "Men däremot så tycker jag att det blir lite skönt att slippa, för jag ser ibland att man gör en route och så har man en map."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:30",
+    "line": "Och så heter det någonting och i den mappen finns en indexfil och sen ingenting mer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:34",
+    "line": "Och då är det lite så här, då hade vi inte behövt mappen, då hade vi bara kunnat döpa filen till det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:37",
+    "line": "- Ja, absolut. - Det stör mig lite grann."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:39",
+    "line": "Det håller jag med om. Man vill ju undvika indexfiler så gott det går egentligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:44",
+    "line": "Ja, men folk det är, de älskar indexfiler."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:49",
+    "line": "Jag vet inte, sen såg jag att det fanns ett paket som man kunde uppgradera till v2"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:57",
+    "line": "men ändå behålla den gamla strukturen som var officiellt från Remix hållet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:03",
+    "line": "Men då känns det också så här, vill jag verkligen använda Remix om de säger \"\"Nej, det här är vårt officiella sätt att göra det på\"\"?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:11",
+    "line": "Man vet ju med sådana grejer att till slut så kommer det sluta supportas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:16",
+    "line": "Och till slut så kommer det vara så här, vi har optimerat för den här platta strukturen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:21",
+    "line": "Samma sak så här, det funkar att köra klasskomponenter i React idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:24",
+    "line": "Men funktionskomponenter är ju det som är rekommenderat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:30",
+    "line": "Det känns bara mäckigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:34",
+    "line": "Det fanns också ett tredjeparts integration till Remix."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:44",
+    "line": "Som var att du kunde få typ platta routes, men du kunde få de här halvväg så att du kan ha layout RN-mapp"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:51",
+    "line": "som innehåller massa filer och API var RN-mapp som innehåller massa filer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:54",
+    "line": "Så kanske att jag sträcker mig efter den, men jag vet inte, jag tycker bara att det känns jobbigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:02",
+    "line": "Men det är också kul, då kommer jag inte använda det här bla bla, alltså kul."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:06",
+    "line": "Alltså jag är ju inte så opinionitet, jag hade ju bara så här, det här är sögväll, men jag hade ju bara använt det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:11",
+    "line": "Jo, precis. Men jag tänker att det här är väldigt mycket sidoprojekts perspektivet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:18",
+    "line": "Alltså då hade jag liksom så här, \"\"Åh, nästa gång jag gör någonting, då kanske jag inte använder Remix för att jag hatar dras routing.\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:26",
+    "line": "Jo, men då är det också bara ett sidoprojekt och inte ett riktigt projekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:31",
+    "line": "Ja, absolut. Du tänker att det är inte så mycket att vara upprörd för."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:36",
+    "line": "Ehh, för dem kanske inte det är värsta att personen som gjort sitt sidoprojekt inte använder Dreamweaver."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:43",
+    "line": "Det kanske det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:44",
+    "line": "Det vet inte jag, men det lär ju också finnas personer som älskar det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:47",
+    "line": "Det är en tydlig överblick över alla routes jag har. Jag kan tydligt följa dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:52",
+    "line": "De är inte dolda i fil eller i mappar. Jag måste följa upp varje mapp för att se mina paths."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:58",
+    "line": "Utan de är här, rakt här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:00",
+    "line": "I ditt blickfång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:02",
+    "line": "Jo, det kanske är en vanlig sak. Det vet jag inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:04",
+    "line": "Det kanske bara är det. Jag är så van med att det ska vara baserat på vilka mappar det ligger i och vad de heter och vilken struktur de har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:14",
+    "line": "Men det är också så att jag tänkte på det här en dag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:17",
+    "line": "Nu händer inte det jätteofta men det känns också som att om jag ska flytta någonting nu, då blir det istället att byta namn på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:22",
+    "line": "Eller om jag vill byta URL-strukturen på ett gäng filer så måste jag byta namn på alla filer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:26",
+    "line": "Jag vet inte, jag tycker det känns..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:29",
+    "line": "Jag är inte såld, så att säga."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:32",
+    "line": "Jag börjar ändå gilla det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:34",
+    "line": "Ju mer du tittar på den här bilden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:36",
+    "line": "Ja, en klassisk printscreen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:39",
+    "line": "Men ändå, jag gillar det på något sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:41",
+    "line": "Nu har jag funderat mycket på det här, för jag söker upp alla grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:44",
+    "line": "Så då blir det så här, okej, men omsidan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:48",
+    "line": "Sen så måste jag flippa omkring i alla mappar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:51",
+    "line": "Då i VS Code skulle jag kunna söka upp den filen,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:54",
+    "line": "bara köra Command + Shift + E,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:56",
+    "line": "och sen så är hela filstrukturen där,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:58",
+    "line": "ser alla paths som finns, som är typ samma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:01",
+    "line": "Det hade nog givnat mig, tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:04",
+    "line": "Jag vet att jag föredrar väldigt mycket själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:08",
+    "line": "Att istället för att ha komponenter i olika mappar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:14",
+    "line": "Att man delar upp dem i olika, vad de är för någonting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:16",
+    "line": "Du kanske har en grupp, eller en mapp med komponenter som har med grupper att göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:23",
+    "line": "En mapp med komponenter som har med användarna att göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:26",
+    "line": "Det tycker jag är oftast ganska värdelöst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:29",
+    "line": "Jag är så här, dumpa alla komponenter i en mappa då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:34",
+    "line": "Så man kan se allting samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:36",
+    "line": "För jag tycker det är så här, man söker ju upp dem alltid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:39",
+    "line": "- Ja, men sen så jobbar jag ju med människor som verkligen, verkligen jobbar med filträdet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:44",
+    "line": "Så jag kan väl förstå att det blir en diskussion."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:47",
+    "line": "För att nu kommer det kommer komma en liten diskussion liksom"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:50",
+    "line": "hur vi ska använda Common Components-mappen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:53",
+    "line": "För att vi har väldigt mycket svaret på det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:55",
+    "line": "- Där har vi också, Common. Vad är det? Common?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:58",
+    "line": "Exakt, vi har ju strukturen att vi har en page och i den pagen så har vi direkt en komponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:07",
+    "line": "Så det finns liksom en page-komponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:10",
+    "line": "Så alla de har egna filer och sen har man en common map."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:13",
+    "line": "Och då kommer en diskussion om man liksom borde ha något, det heter inte prefix, vad heter det efter?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:22",
+    "line": "Suffix."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:23",
+    "line": "Det är ett suffix för de komponenterna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:27",
+    "line": "Om det finns en mypage-route så finns det en komponent som heter my."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:36",
+    "line": "Men då kanske den i stället skulle heta myroot."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:40",
+    "line": "Och sen så kommer det en diskussion om vad common filen är till."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:46",
+    "line": "Det blir mycket så."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:48",
+    "line": "Och jag tror att det kommer mycket mer från personer som rör sig i filträdet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:52",
+    "line": "Jag bara söker efter allting. Jag rör mig inte i filträdet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:57",
+    "line": "Jag söker efter precis allting. Men när man är precis tvärtom, då förstår jag att de här sakerna helt plötsligt spelar lite större roll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:03",
+    "line": "- Ja, men så kan det nog vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:07",
+    "line": "Det krävs ju att man är lite bekant med en kodbas för att man ska kunna börja söka också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:15",
+    "line": "Jag tycker att man har en components-mapp som innehåller alla komponenter, rakt upp och ner, platt, rakt ner i mappen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:24",
+    "line": "Jag tycker att det kan ge en ganska bra överblick."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:26",
+    "line": "Plus att det tvingar en att se till att de har ganska bra namn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:30",
+    "line": "Ja, men det beror på hur många komponenter man har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:34",
+    "line": "Jag försökte göra det här där jag bytte default-export till named-export."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:40",
+    "line": "Så jag la upp en PR på det och så fegade jag ur för jag vågade inte mer än."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:44",
+    "line": "Jag hade alltså ändrat i 1600 filer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:46",
+    "line": "[skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:48",
+    "line": "Så jag menar, det är inte så bra att ha en radda..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:51",
+    "line": "[skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:52",
+    "line": "...bara en radda 1600..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:54",
+    "line": "[skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:55",
+    "line": "...komponenter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:56",
+    "line": "- Eller är det? - Nej!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:58",
+    "line": "[skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:59",
+    "line": "Nej!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:00",
+    "line": "[skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:01",
+    "line": "- Nej. - Jag förstår vad du menar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:03",
+    "line": "Jag tycker det är bra att ha alla platt bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:06",
+    "line": "Alla liksom, som är längst ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:08",
+    "line": "Men saker som används i dem, de tycker jag kan få klättra ner ett träd i dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:12",
+    "line": "Typ."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:13",
+    "line": "saker som används i komponenterna, tänker du?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:16",
+    "line": "Ja, precis. Om den här sidan har en komponent som heter \"\"heading for\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:22",
+    "line": "\"\"a fancy heading\"\" komponent som bara används i den komponenten, då kan den få ligga som barn, tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:30",
+    "line": "Ja, just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:31",
+    "line": "Och där kommer då \"\"common\"\" in igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:34",
+    "line": "Absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:35",
+    "line": "Nej, det kanske beror på, för jag är också väldigt mycket för, alltså nu känner jag att jag liksom"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:39",
+    "line": "Jag talar emot mig själv lite grann, men jag är väldigt mycket för att co-locata, som jag inte vet vad det heter på svenska, men"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:46",
+    "line": "saker som hör samman."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:49",
+    "line": "Men det känns också som att det är väldigt sällan saker hör så jävla mycket samman."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:54",
+    "line": "Det beror kanske på hur man gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:55",
+    "line": "Jag kör ju mycket CSS inges libbar så då hamnar saker tillsammans i samma fil oftast."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:02",
+    "line": "Men hade man haft till exempel"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:04",
+    "line": "en .css-fil som hörde ihop med varje route,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:09",
+    "line": "Det hade varit väldigt trevligt om de låg på samma ställe istället för att de skulle ligga på olika platser."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:15",
+    "line": "Men vill man verkligen ha andra saker i routes-mappen än filerna som ska vara själva routern?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:23",
+    "line": "Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:25",
+    "line": "Blir inte det routes?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:27",
+    "line": "Nej, det blir ju inte routes för att de har löst det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:33",
+    "line": "Men om det ligger andra JS eller TSX-filer där i så blir det väl ändå routes?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:37",
+    "line": "Nej, de måste heta på specifika sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:41",
+    "line": "Vad menar du?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:42",
+    "line": "I Remix exemplet, om du har en layout."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:49",
+    "line": "I mitt exempel finns det en layout.about.tsx"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:53",
+    "line": "Om man skulle vilja co-locata den med en CSS-fil så förstår jag det som att du byter layout.about"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:00",
+    "line": "blir en mapp. I den ligger en fil som antingen heter index.t6 eller route.t6."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:08",
+    "line": "Det är bara de filerna i de här mapparna som blir routes."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:12",
+    "line": "Och sen i vad du lägger i mappen i övrigt, det kan vara vad som helst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:16",
+    "line": "Där kan du lägga CSS och komponenter och allt möjligt även om det är t6 eller j6 filer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:20",
+    "line": "Men det är då för att de har en standard som är att om det är en mapp nu"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:28",
+    "line": "i den här platta strukturen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:30",
+    "line": "Då måste"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:32",
+    "line": "route-filen inuti den"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:34",
+    "line": "heta route.t6 eller"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:36",
+    "line": "index.t6. - Men om det inte är en"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:38",
+    "line": "platta? - Ja då går det väl inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:40",
+    "line": "- Eller om det är index.js? - Alltså i Next går det väl inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:42",
+    "line": "Såvitt jag vet. - Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:44",
+    "line": "Det var ju det jag menade. - Ja men jag"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:46",
+    "line": "pratade bara utifrån Remix, herregud."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:48",
+    "line": "- Åh men gud."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:50",
+    "line": "Gud. - Nej men i Remix"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:52",
+    "line": "eller i Next går det väl inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:54",
+    "line": "- Nej men minst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:56",
+    "line": "Nej, precis. Det är väl det, att man inte kan lägga massa saker i Next."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:59",
+    "line": "Nu vet jag inte hur det är i Next 13. Det vet jag inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:02",
+    "line": "Nej, i approuten tror jag att det är samma sak där faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:06",
+    "line": "Nej, men skitsamma. Det känns som att jag har varit inne på mappstruktur förut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:13",
+    "line": "Men jag är så himla kluven. Jag brukar bara försöka sälja mig till..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:18",
+    "line": "Det enda jag verkligen kände att det var numera en kulle som jag var beredd att dö på var Named Exports."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:24",
+    "line": "Och där dog du inte ändå?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:26",
+    "line": "Jag fattar inte det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:28",
+    "line": "Jag har tagit bort regeln i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:30",
+    "line": "Okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:32",
+    "line": "Jag förstår till exempel inte det här med en indexfil i en komponentmapp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:40",
+    "line": "Där man bara exporterar saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:46",
+    "line": "Jag förstår att det blir en kortare path i importen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:50",
+    "line": "Det förstår jag också, men det blir också 5 miljoner indexfiler som du måste uppdatera om du uppdaterar någonting i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:56",
+    "line": "Jag förstår inte den grejen till exempel, men om jag är på ett ställe som vill ha det här, då följer jag ju det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:03",
+    "line": "Ja, exakt. Det är inte en kulle du dör på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:07",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:09",
+    "line": "Jag vet inte, jag tror att jag har fått för mig att jag har lärt mig att det kallas för \"\"barrel exports\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:14",
+    "line": "Jag vet inte riktigt varför, men jag håller med. Jag tycker att de är helt värdelösa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:21",
+    "line": "Jag tycker inte att de ger mig någonting. Alla IDE- eller kode-editors idag har ju AutoComplete på allt sånt här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:27",
+    "line": "Så du tjänar ju ingenting på att ha dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:30",
+    "line": "Nej, jag vet inte heller. Däremot så gillar jag ju nu att jag har Styling och Test tillsammans med komponenten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:38",
+    "line": "Jo, men test känns man vill ha när och där det är test."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:45",
+    "line": "Jag vet inte vad jag vill komma med det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:47",
+    "line": "Ingenstans tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:49",
+    "line": "De här remixroutsen, de flatroutsen växer fan på mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:53",
+    "line": "Däremot sådana här som underscore, som layouten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:59",
+    "line": "Den hade kunnat vara en map, men tänk att bara fälla upp den och få alla paths."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:07",
+    "line": "Men i och för sig, jo. För den är inte med i pat-namet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:12",
+    "line": "Nej, precis."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:14",
+    "line": "Så det..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:17",
+    "line": "Ja, jag vet inte var jag kommer att landa i det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:20",
+    "line": "Jag funderar på om jag ska testa det här tredje parts-libbet som man kunde integrera med Remix"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:24",
+    "line": "så att man kunde få det vi nu pratar om nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:26",
+    "line": "Men då känner jag också så här, routingen känns som en jävla stor kärna i vad ett ramverk gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:33",
+    "line": "Så vill man gå ifrån det de rekommenderar?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:36",
+    "line": "Det är också helt sjukt att en sån här sak skulle kunna få dig att inte använda en grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:41",
+    "line": "Jag hade brytt mig så lite. Jag hade bara så här, \"\"ja, men då är det väl så här jag gör det.\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:46",
+    "line": "Ljusläst dokumentationen, kollat på en tutorial, varit så här livrädd för att sticka minsta tå utanför the line."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:56",
+    "line": "Så jag bara, \"\"då gör jag väl så här?\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:58",
+    "line": "Ja, absolut. Jag känner också att jag snöade in på det här, fast jag inte behövde ta det här beslutet nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:06",
+    "line": "Jag hade kunnat lämna det som det var, för det var ju bara den här varningen som jag störde mig så mycket på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:10",
+    "line": "Ja, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:12",
+    "line": "Samtidigt så tycker jag att just hur Remix hanterar att det kommer \"\"breaking changes\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:18",
+    "line": "Vi har bestämt oss för att det kommer \"\"breaking changes\"\" i framtiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:22",
+    "line": "Du kan köra dem redan nu. Det tycker jag känns ganska trevligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:26",
+    "line": "Ja, det får man väl tycka. Men hur kommer saker ändras ändå sen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:36",
+    "line": "Kanske man har gjort det här jobbet i onödan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:39",
+    "line": "Jag tror att deras filosofi är att det här är saker som är spikade till nästa \"\"breaking change\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:46",
+    "line": "Men jag vet faktiskt inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:51",
+    "line": "Jag tycker det funkar helt okej men jag skulle också vilja kunna stänga av de där varningarna utan att behöva göra massa skit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:59",
+    "line": "Jag stör mig för mycket på sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:03",
+    "line": "Det är samma sak med ES-Lint varningar. Det stör jag mig också jättemycket på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:10",
+    "line": "Man ska inte ha varningar. Antingen får man ha errors eller så får man komma över det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:15",
+    "line": "Ja, fast jag vet inte. Typ oanvända imports."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:20",
+    "line": "Men ta bort dem bara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:23",
+    "line": "Jo, men jag tycker att de kan ligga som en varning för att när man utvecklar så händer det ganska ofta att du har en import eller du kommenterar ut lite kod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:31",
+    "line": "Och då är det så jävla irriterande om importen försvinner för att du måste ta bort den eller att du får ett error som gör att bygget failar när du bara sitter och har kommenterat bort lite kod som använder en import."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:41",
+    "line": "Ja, déjà vu. Till en tid då vi satt i ett projekt och någon alltid tog bort den här regeln."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:52",
+    "line": "Och sen lämnade fem miljoner imports. Oanvända imports."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:58",
+    "line": "Jag förstår din poäng, men sitter du i att kommentera ut dem eller ta bort dem och sen importera dem med command punkt?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:15",
+    "line": "Ja jag vet, det är inte värnligt men det var enda exempel jag kom på att man kanske behöver ta varningar på ESLint."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:23",
+    "line": "Ja, konsolloggs kanske. Du ska inte höra om det, men ibland vill man höra om det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:28",
+    "line": "Ja, det är sant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:30",
+    "line": "Det är lite jobbigt att man ska köra någon \"\"disable\"\" kommentar varje gång man ska konsollogga också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:37",
+    "line": "Ja, eller om man vill gå från \"\"default export\"\" till \"\"named export\"\" kan man sätta en varning, men det fick man inte för då hade man 1400 varningar i loggarna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:47",
+    "line": "Jag tycker du ska ge det till försök."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:53",
+    "line": "Nej!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:55",
+    "line": "Jag tycker verkligen att du ska pusha igenom den här ändringen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:59",
+    "line": "Nej men det var för läskigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:01",
+    "line": "Som för typ tre eller fyra avsnitt sedan, då kommer du att ha gjort lite gott för världen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:05",
+    "line": "Ja absolut, det är verkligen gott för världen. Man bryr sig så mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:10",
+    "line": "Nej men det var för läskigt, saker gick sönder och jag kunde inte reda i det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:13",
+    "line": "Det är för obakligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:15",
+    "line": "Jag är super nyfiken på att höra om folk har testat sådana här Flat Routes. Jag vet inte, det kanske finns något annat ramverk som kör platta routes istället för mappbaserat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:30",
+    "line": "Men jag är nyfiken på att höra om folk faktiskt gillar det. Jag har inte kommit dit än i alla fall. Så vi får se om jag återkommer om det här i framtiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:42",
+    "line": "Ja, och jag sitter ju bara här som en utomstående observer och tittar på en screenshot, men jag gillar den då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:48",
+    "line": "Ja, exakt. Du är liksom såld redan efter ditt screenshot."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:52",
+    "line": "Ja, men just för att jag inte behövt skriva dem själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:57",
+    "line": "Och för att det är väldigt tydligt för mig vad det har för routes."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:01",
+    "line": "Förstår du hur mindfucket det var när jag skulle döpa om alla filer som låg i olika mappar till de här platta filnamnen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:11",
+    "line": "Alltså jag förstod ingenting, det var helt omöjligt att hålla det i huvudet samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:15",
+    "line": "Jag förstår inte hur svårt det kunde vara."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:17",
+    "line": "Men hur svårt kan det vara? Jag fattar inte. Vad är det som är svårt?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:20",
+    "line": "Nej men det var liksom, det är inte så svårt utan allting var ju ungefär som man hade tänkt sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:26",
+    "line": "Och sen fanns det något nytt edge case, att saker skulle heta \"\"_index\"\" i slutet ibland."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:33",
+    "line": "Och det fuckade allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:34",
+    "line": "Alltså jag förstod, det blev så mycket buggar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:36",
+    "line": "Och det blev liksom, det tog sån tid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:38",
+    "line": "Så det kanske också har färgat min åsikt om den här platta finspekturen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:45",
+    "line": "Men, helvete vad läss jag var ett tag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:48",
+    "line": "Ja, det kan absolut ha färgat. Jag älskar att jag sitter här på min höga häst."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:54",
+    "line": "Och det känns som att om jag ger mig på det här, då kommer jag liksom trilla av direkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:59",
+    "line": "- Alltså jag önskar att du får ge dig på det här någon gång."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:02",
+    "line": "För då kommer jag komma ihåg, jag kommer liksom klippa in när du säger \"\"hur svårt kan det vara?\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:07",
+    "line": "- Hahaha, men det ska också sägas att jag är ganska bra på repetitiva döda..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:14",
+    "line": "Döfödda? Döda?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:16",
+    "line": "Repetitiva, monotona uppgifter där man inte använder huvudet så mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:20",
+    "line": "För att alltså det är det enda jag kan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:22",
+    "line": "Du kan innovera, jag kan göra repetitiva saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:25",
+    "line": "Så, så mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:27",
+    "line": "Men det känns repetitivt och monotont."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:29",
+    "line": "Jo, det var det faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:31",
+    "line": "Ja, ja. Vi avslutar där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:35",
+    "line": "Och sen så får vi väl se vad fan som händer med den här platta filstrukturen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:40",
+    "line": "Och där avsnittet, jag vet inte ens. Jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:43",
+    "line": "Nej, men som vanligt, vi finns där vi finns."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:46",
+    "line": "Ge oss gärna en..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:48",
+    "line": "Fan, vet du vad jag måste säga?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:50",
+    "line": "Våra lyssnare är ganska dåliga på att ge sig recensioner på iTunes."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:55",
+    "line": "Absolut. Har du någonsin gett en recension på iTunes?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:58",
+    "line": "Jag har gett recensioner till mina egna poddar varje gång jag haft någon."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:03",
+    "line": "Har du gett en recension till den här? För jag har inte sett det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:06",
+    "line": "Jag tror inte jag har skrivit något, men jag har gett en femstjärnor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:09",
+    "line": "Jaha. Vill du inte ha skrivna recensioner? Är inte det du eftersöker?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:14",
+    "line": "Jo, jag vill ha skrivna recensioner, men de får ju också gärna vara positiva."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:17",
+    "line": "Nu kommer vi bara få en massa hat när jag sitter och säger att folk är dåliga för det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:20",
+    "line": "Ja, vi glömmer det där hörni. Vi hörs igen om två veckor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:24",
+    "line": "– Det gör vi. Ha det bra! – Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:26",
+    "line": "– Hej!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:28",
+    "line": "[Outromusik]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:33",
+    "line": "*outro*"
+  }
+]
