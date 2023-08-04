@@ -12,10 +12,10 @@ const parseTranscriptionCsv = (csvPath) => {
     result.push({ speaker: null, timestamp, line: text })
   }
 
-  if (!fs.existsSync('output')) fs.mkdirSync('output')
+  // if (!fs.existsSync('output')) fs.mkdirSync('output')
 
   const outputFilename = csvPath.split('/').pop().replace('.csv', '.json')
-  fs.writeFileSync(`output/${outputFilename}`, JSON.stringify(result, null, 2))
+  fs.writeFileSync(`../src/transcriptions/${outputFilename}`, JSON.stringify(result, null, 2))
 
   console.log(`Parsed ${csvPath} and wrote to output/${outputFilename}`)
 }
