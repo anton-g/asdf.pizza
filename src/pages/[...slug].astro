@@ -59,7 +59,10 @@ const formatTimestamp = (timestamp: string) => {
 const transcriptionUrl = `https://github.com/anton-g/asdf.pizza/blob/master/src/transcriptions/${entry.slug}.json`
 ---
 
-<Layout title={`avsnitt ${entry.data.number}. ${entry.data.title} - asdf`}>
+<Layout
+  title={`avsnitt ${entry.data.number}. ${entry.data.title} - asdf`}
+  description={entry.data.description}
+>
   <HomeLink class="back-link" />
   <main class="main" style={{ position: 'relative', marginTop: '40px', minHeight: '800px' }} id="top">
     <GreenBlob class="green-blob" />
