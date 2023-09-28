@@ -1,0 +1,2132 @@
+[
+  {
+    "speaker": null,
+    "timestamp": "00:00:00",
+    "line": "Vad heter den nya versionen av datingtjänsten för attraktiva utvecklare i ditt närområde?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:08",
+    "line": "Ehh, jag har, det är något med local, men kör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:15",
+    "line": "Localhots3000."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:18",
+    "line": "Ja, fan. Jag var ändå, jag var på G."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:25",
+    "line": "Det var du, det får jag säga. Jag vill också tacka Johan för det skämtet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:30",
+    "line": "Ja, verkligen tack Johan. Alltså jag älskar att våra lyssnare fick en skämt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:34",
+    "line": "Jag tycker det är mest av allt, ska jag säga, är det helt egoistiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:39",
+    "line": "För jag kommer ju aldrig på ett skämt själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:41",
+    "line": "Då har jag också skämt som du inte har hört innan, som jag kan leverera."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:45",
+    "line": "Ja, men alltså grejen, anledningen till att jag jobbar för att komma på skämt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:49",
+    "line": "Det är för att jag är så korkad annars. Jag kan inte komma på... Jag fattar aldrig ordvitsar och grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:56",
+    "line": "Så du vill vara den som levererar dem?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:00:58",
+    "line": "Ja, så det här är egentligen ett trauma som jag har vänt på."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:02",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:05",
+    "line": "Ja, men det tycker jag är on brand."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:08",
+    "line": "Tagit kontroll över det, liksom. Alla barndomsminnen där jag kände mig som en idiot."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:14",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:16",
+    "line": "Välkomna hörni till ett nytt avsnitt av asdf."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:19",
+    "line": "Vi..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:21",
+    "line": "Vad sa vi? Det ska vara ett dramafritt avsnitt idag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:24",
+    "line": "Ja men gud, inte med drama. Chilla lite."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:27",
+    "line": "Nej, vi skiter. Vi pausar dramaskrittet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:30",
+    "line": "Vi återkommer. Det finns jättemycket drama att prata om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:32",
+    "line": "Men vi tar det i framtida avsnitt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:34",
+    "line": "Men du pratade om att du har faktiskt testat och kört Tailwind nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:40",
+    "line": "- Det har jag väldigt lite. Pitterpitterlite. - Tillräckligt mycket för att du ska bilda till själv en åsikt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:01:49",
+    "line": "Ja. Ja. Jag har så mycket åsikter. Jag tänker att jag är en person som inte bryr mig så mycket."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:01",
+    "line": "Men när jag väl pratar om saker, fan vad jag låter. Fan vad bestämd jag låter. Jag vet inte vad det är som händer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:08",
+    "line": "Jo, men man ska ha... Livet blir fan roligare med starka åsikter och kryddade historier."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:13",
+    "line": "Så man ska absolut, absolut, jag står helt bakom det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:16",
+    "line": "Men jag tänker, vi har väl några lyssnare som inte hänger i webbsfären lika mycket som vi gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:23",
+    "line": "Så kan du bara, okej, om du skulle förklara Taylor Wynn, om du skulle pitcha Taylor Wynn för mig då?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:27",
+    "line": "Pitcha Taylor... Alltså, det är ett lite fräschare bootstrap."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:33",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:35",
+    "line": "Absolut, bootstrap känner fan alla till ändå. Även om man skriver rust eller något annat skit."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:42",
+    "line": "Ja det är ju för fan webbhistoria eller?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:44",
+    "line": "Ja det tycker jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:46",
+    "line": "Nej men vad är Tailwind då? Det är ett ramverk för att styla din HTML."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:02:53",
+    "line": "Det kommer med färdig styling. Det är som ett lager ovanpå CSSen så du behöver aldrig peta på CSSen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:03",
+    "line": "Det är väl det man brukar klassificera det som, om jag inte minns fel nu, är väl \"\"utility first\"\" eller något sånt där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:11",
+    "line": "Utility based. Jag kommer inte ihåg vad termen är, men att det är ett utility ramverk."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:17",
+    "line": "Ja säkert."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:19",
+    "line": "Det det kommer med är väldigt väldigt små byggstenar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:24",
+    "line": "För att bygga ihop sådana grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:26",
+    "line": "Så att man typ istället för att skriva en style tagg eller ha ett CSS-dokument som man fyller i själv, så är det bara massa här klasser som man använder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:36",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:38",
+    "line": "A utility-first CSS framework."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:42",
+    "line": "Oj, oj, oj. Den där tog jag från minnet. Jag är lite stolt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:45",
+    "line": "Bra minne."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:47",
+    "line": "Eller skäms lite, det beror på hur man ser på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:49",
+    "line": "Rapidly build modern websites without ever leaving your HTML."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:03:55",
+    "line": "Det är fortsättningen på att JSX kom för ett herrans massa år sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:02",
+    "line": "Vi stoppade in HTML i JavaScripten och nu stoppar vi in CSS i HTML."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:08",
+    "line": "Men det har vi väl gjort förut?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:13",
+    "line": "Jo, fast inte riktigt. Det känns inte som att just de här gjorde till det förut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:18",
+    "line": "Om man ska förklara vad det är, bara jättekort, ännu mer kortare."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:22",
+    "line": "Istället för att skriva \"\"style color blue\"\" finns det en klass som är \"\"text blue\"\" som sätter färgen blå."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:36",
+    "line": "Det finns någon typ av tokens där bakom att de har valt ut ett visst antal färger, eller vilken spacing man ska ha på de flesta grejerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:46",
+    "line": "Sätter man padding säger man \"\"p1\"\" och då blir det fyra pixlars padding åt alla håll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:04:51",
+    "line": "Ja, och sen så kan du ju själv definiera, overridea eller extenda den stylingen som de redan har satt, för att få det mer till din egen personliga liknande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:03",
+    "line": "Ja, jag tycker ju verkligen att din jämförelse med Bootstrap är ganska bra, för jag tycker att Tailwind har liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:11",
+    "line": "Man kan nästan idag ändå se på en sajt om den är gjord med Tailwind."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:17",
+    "line": "Visst att det är lite fler färger, det är inte lika tydlig identitet som det var på Bootstrap."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:26",
+    "line": "Men just Tailwind gör ju att allting får samma spacing som i och för sig många andra använder ändå, som är väl 4 pixlar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:33",
+    "line": "Jag vet inte, jag tycker att det finns någon känsla."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:37",
+    "line": "Sen är det väl kanske att Tailwind följer väl de trenderna som går just nu i hur man ska styla och designa saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:45",
+    "line": "Så det kan ju vara därför också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:47",
+    "line": "Jo absolut, men bootstrap var ju verkligen så, du såg ju verkligen att personen hade använt bootstrap."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:05:53",
+    "line": "Så bootstraps färdiga knappar med färdiga färger och så här, även om du bytte färgen såg det exakt likadant ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:00",
+    "line": "Så ett tag så såg ju allt likadant ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:02",
+    "line": "Ja, verkligen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:05",
+    "line": "Men ja, alltså jag vet inte, det känns konstigt för mig för att jag var aldrig riktigt så här,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:12",
+    "line": "Jag är inte 100% inne i Bootstrap, men så som jag förstått det så upplever jag det som ett förnyat, nerslimmat Bootstrap."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:24",
+    "line": "Jag vet inte om folk blir upprörda på att jag säger det, jag har ingen aning. Jag vet inte om folk har starka känslor för Tailwind."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:30",
+    "line": "Det känns verkligen som att folk har starka känslor för Tailwind."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:34",
+    "line": "I alla fall om man tittar på Twitter-X-crowden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:38",
+    "line": "Det låter som att jag säger de som har varit på Twitter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:41",
+    "line": "Fan vad jag hatar det här namnbytet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:43",
+    "line": "Jag kommer fortsätta säga Twitter till folk som inte fattar längre."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:46",
+    "line": "På Twitter känns det som att folk har starka känslor om Tailwind i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:50",
+    "line": "Är folk kvar på X?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:53",
+    "line": "Sluta säga X!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:06:55",
+    "line": "Nej, du vet det som när man tar filmtitlar och byter ut ett ord till typ..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:00",
+    "line": "Jag vet inte, bajskorv?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:02",
+    "line": "Jaha, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:04",
+    "line": "[skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:06",
+    "line": "Nej men, folk är väl kvar. Jag hänger där extremt sällan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:11",
+    "line": "Men det känns som att Tailwind har varit en av grejerna där folk verkligen står långt ifrån varandra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:20",
+    "line": "Alltså att du antingen hatar det eller älskar det för att vara lite klischig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:24",
+    "line": "Och det är ganska ofta starka känslor."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:27",
+    "line": "Jag kommer inte ihåg vilka det är som har gjort det här nu, men en heter Steve Sugar tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:33",
+    "line": "Och jag kommer ihåg det här för att han skrev någon bok som jag tyckte var väldigt bra som heter \"\"Restructuring AI\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:40",
+    "line": "Som var typ såhär \"\"här är tips och tricks för hur du får ett GUI att se snyggt ut\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:45",
+    "line": "Och jag vet att bland annat han och den här andra personen som ligger bakom Tailwind, som jag inte kommer ihåg vad han heter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:51",
+    "line": "Deras kommentarsfält är \"\"hot garbage\"\" ganska ofta."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:07:58",
+    "line": "- Vad härligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:00",
+    "line": "Jag förstår sällan hur man kan ha så starka känslor kring det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:08",
+    "line": "- Ja, men ändå sitter det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:11",
+    "line": "- Har jag starka känslor? Låter jag mycket?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:16",
+    "line": "Eller har jag starka känslor? De är ju inte nödvändigtvis korrelerade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:20",
+    "line": "Nej, absolut. Så är det faktiskt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:22",
+    "line": "Men okej, vad tycker du om Tailwind då? Nu när du har kört ett tag?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:29",
+    "line": "Jag har verkligen inte kört ett tag. Jag har inte sagt att jag skrapat på ytan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:32",
+    "line": "Jag har typ fått det att funka i projektet och gjort en komponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:36",
+    "line": "Det är det jag har gjort. Varför?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:38",
+    "line": "Det är kört ett tag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:40",
+    "line": "Jo, men varför? Jo, för att liksom evaluera om det är någonting som man vill dra in i ett komponentbibliotek."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:08:47",
+    "line": "Jag tycker så här, jag förstår poängen, tycker inte det är rätt för kanske en organisation där man har uppdelat att man har både frontend och backend."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:11",
+    "line": "Jag förstår inte tror jag varför en organisation som har frontändare som bygger klientwebben ska använda sig av Tailwind."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:25",
+    "line": "För att jag tycker bara att man lägger på något nytt som man måste lära sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:30",
+    "line": "Om alla redan kan CSS så lägger vi här på att man måste lära sig alla klasserna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:35",
+    "line": "Man måste lära sig ramverket för att kunna använda det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:38",
+    "line": "Det tycker jag är en onödig abstraktion i det här fallet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:41",
+    "line": "För att jag tycker det var fruktansvärt jävla snackigt att lägga det i en React-komponent."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:48",
+    "line": "Och här kan ju jag ha gjort fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:50",
+    "line": "Men jag fick det inte att funka utan att explicit lista alla klasser som jag eventuellt ville använda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:09:58",
+    "line": "Och sen använda logik för att bestämma om de skulle läggas till eller inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:03",
+    "line": "Jag fick inte dynamiskt skapa upp klassnamn. Det funkade inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:07",
+    "line": "så tycker du att det var otroligt jävla verbost."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:09",
+    "line": "Ja, det där är väl min erfarenhet också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:17",
+    "line": "Jag har använt yttre flit och jag har testat det i ett hobbyprojekt eller sidoprojekt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:21",
+    "line": "Vad tycker du?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:23",
+    "line": "Jag har varit väldigt anti-Tailwind."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:29",
+    "line": "Men jag har också varit väldigt för Style Components eller CSS i JS generellt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:36",
+    "line": "Vilket verkligen är på väg ur tiden om man ska följa..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:42",
+    "line": "Vad är det man säger? Det är Kurskis sak? Nej det är något annat. Det är en jävla YouTube-kanal va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:47",
+    "line": "Alltså, Zeitgeisten. Det är det det heter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:50",
+    "line": "Men är det här foliehats-grejen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:55",
+    "line": "Foliehats-grejen? Förklara det själv."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:10:58",
+    "line": "Det är konspirationsteorin att Vercel är super inne på Tailwind och vill att alla ska använda Tailwind."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:08",
+    "line": "Så att de lobbyar för att ingen ska använda CSS i JS så de löser inte problemen med att kunna använda det i Next."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:18",
+    "line": "Det här är en konspirationsteori jag ställer mig bakom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:23",
+    "line": "(skratt)"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:26",
+    "line": "Man kanske inte kallar det konspirationsteorin, man ställer sig bakom saker i och för sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:31",
+    "line": "Det är bara att ta fram aluminiumfålet och linnen hatt bara och ställ dig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:37",
+    "line": "Exakt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:38",
+    "line": "Det man skulle säga att Sitegeisten pratar om,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:45",
+    "line": "Jag tror att just nu är det väldigt inne..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:49",
+    "line": "Det är så jävla mycket saker som är inne. Det är inne att hata på React, det är inne att hata på allt möjligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:11:53",
+    "line": "Men just nu är det väldigt inne att React Server Components stödjer inte Style Components eller Emotion, eller vilket nu man vill köra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:02",
+    "line": "Och därför helt plötsligt så är CSS i JS. Man ska släppa det, det är över."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:06",
+    "line": "Jag tycker fortfarande att det är det sättet som gjort mig mest produktiv med CSS någonsin."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:13",
+    "line": "För att det löser vissa problem som jag tycker CSS har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:18",
+    "line": "Det var inte allt för länge sedan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:20",
+    "line": "Kanske lite av ett hot take när jag sa att C i CSS, alltså Cascading, var ett misstag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:26",
+    "line": "Men vi kanske inte behöver gå in på just den poängen just nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:33",
+    "line": "Det var också en extrem överdrift."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:35",
+    "line": "Men det jag vill komma till val är att just Style Components löser problemet med att skapa CSS väldigt enkelt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:43",
+    "line": "till en komponent, till exempel, vilket man oftast vill göra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:46",
+    "line": "Eller att man vill göra något annat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:48",
+    "line": "Och det är samma problem som Tailwind löser."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:51",
+    "line": "Till viss del eller delvis då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:53",
+    "line": "Att en klass som du sätter på ett objekt, den kommer ju"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:12:57",
+    "line": "den kommer ju kaskada, men det är väldigt tydligt vart"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:02",
+    "line": "Den kaskader liksom, istället för att man har det någonstans."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:05",
+    "line": "Så på så sätt tycker jag att tv är ganska trevligt nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:08",
+    "line": "Och så fort man kommer in i att skriva det, och kommer ihåg vad klasserna heter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:13",
+    "line": "Så är det ju väldigt trevligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:15",
+    "line": "Men, sen kommer man ju tillbaka till att \"\"Ah, nu har jag glömt bort, vad fan heter det här klassnamnet?\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:19",
+    "line": "\"\"Jag har ingen aning.\"\" Och så sitter man och försöker liksom chansa sig fram till det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:22",
+    "line": "Jag tycker att typ deras, det finns väl något VS Code extension som ger en liksom auto-complete när man skriver klasserna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:28",
+    "line": "Det funkar uruselt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:29",
+    "line": "Vilket gör mig bara ännu mer irriterad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:31",
+    "line": "Det är svårt att få en översikt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:34",
+    "line": "Och som du säger, det blir väldigt snackigt i komponenterna man skriver."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:40",
+    "line": "-Fruktansvärt!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:42",
+    "line": "Alltså, fruktansvärt jävla snackigt!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:44",
+    "line": "-Ja, sen det finns väl... Jag har inte heller gått in så djupt i tailwind-träsket,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:49",
+    "line": "vilket det fan är ändå,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:51",
+    "line": "i att det finns en massa sätt som folk argumenterar för."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:54",
+    "line": "\"\"Ja, men då kanske du skriver för stora komponenter.\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:13:56",
+    "line": "\"\"Ja, men då kanske du ska använda en jävla apply-direktiv för att applicera flera klasser samtidigt som du...\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:03",
+    "line": "\"\"Jag vet inte fan...\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:04",
+    "line": "Och det är så jävla mycket sådär, och då blir jag ju mindre sugen på Tailwind när folk pratar om det där."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:09",
+    "line": "För att det är liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:11",
+    "line": "Jag vet inte, man blir så jävla bara..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:13",
+    "line": "Jag orkar liksom inte med att lägga på ett tillager på CSS också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:18",
+    "line": "Det som jag tyckte var nice med Just Style Components eller CSS i JS"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:22",
+    "line": "Där skrev du ju vanlig CSS, i alla fall i de fall jag gillar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:26",
+    "line": "Det fanns ju objektnotationen också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:29",
+    "line": "Men jag gillar ju att du använder template-strängar och sen så"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:32",
+    "line": "transformeras det till vanlig CSS som är scopad."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:36",
+    "line": "Och jag tycker det var så..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:37",
+    "line": "Gud, jag kan sörja att det där inte funkar på nya sätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:39",
+    "line": "Sen kör jag det fortfarande, men..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:41",
+    "line": "Ja, alltså..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:43",
+    "line": "Så här, grejen är att jag förstår absolut varför det här vore bra att använda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:47",
+    "line": "Kanske någonstans där du behöver få upp någonting snabbt"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:50",
+    "line": "eller där du har personer som inte är så bevandrade i CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:55",
+    "line": "För att det är ju ganska nice."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:14:57",
+    "line": "Det jag verkligen känner är ju att till exempel för mig,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:01",
+    "line": "jag ska inte säga att jag kan, jag är ju inte expert på CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:05",
+    "line": "Men jag har jobbat mycket med CSS, jag kan CSS, jag kan grunderna som vi pratar om till viss del"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:10",
+    "line": "som också tailwindar det som de försöker lösa."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:13",
+    "line": "Jag menar, de har ju inte de värsta specialhacken, det är inte det vi pratar om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:18",
+    "line": "Det är en bra grund att jobba med CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:20",
+    "line": "Så då blir det som för mig att istället för att bara använda mig av den kunskapen jag har kring det här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:27",
+    "line": "så måste jag lära mig hela det här nya ramverket som har jättemycket dokumentation och svåra namn."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:34",
+    "line": "Och sen vill jag då aligna det här med designsystemet, vilket jag också gjorde ett jobb för att sätta upp i tema,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:42",
+    "line": "Dra in konfiguren, definiera färger, definiera fontfamilj och fontstorlek och sådana grejer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:15:49",
+    "line": "Då blir det också såhär, och det irriterade mig något enormt, för att jag ville ha en definierad färg på ett heading-element."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:00",
+    "line": "Och då är den alltid prefixad med text."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:04",
+    "line": "Så då blir det min såhär, text-heading-excel-color."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:10",
+    "line": "Och jag bara \"\"ÅÅÅÅH, vad störigt! Gud vad det störde mig!\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:14",
+    "line": "Jättelitet!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:16",
+    "line": "Det är väl nice att man kan dra upp de här grejerna, och"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:20",
+    "line": "Style Components var också nice, men jag känner ju instinktivt att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:23",
+    "line": "\"\"Okej, men här skulle jag ju föredra att använda en kombination av CSS-variabler, SAS-variabler och CSS-modules.\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:33",
+    "line": "Ja, man kommer ju väldigt långt på"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:39",
+    "line": "Just CSS-variabler är ju extremt underutnyttjat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:42",
+    "line": "Jag är väldigt inne på, för nu kör vi Material UI, vilket är en helt annan historia som alla borde undvika som pesten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:52",
+    "line": "Men de använder ju Emotion under huvudet, som är ett CSS-slib."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:16:58",
+    "line": "Och det i sin tur har ju något temafil där man kan skicka in anonyma funktioner och få ut temat och allting sånt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:08",
+    "line": "Där är jag väldigt inne på att vi inte bara ska byta allt det här till CSS-variabler istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:14",
+    "line": "För då behöver vi inte overheaden från att ha en massa JavaScript för att hämta ut temat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:22",
+    "line": "Det kan ju lika gärna ligga som CSS-variabler."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:24",
+    "line": "Men det där hela grejen att det finns ska flöda ut i Movie-komponenterna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:30",
+    "line": "Ja, jag vet. Jag vill ju revolverera Movie."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:33",
+    "line": "Alltså jag blir... åh..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:35",
+    "line": "- Ja, jag vet. - Jag blir tokig på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:38",
+    "line": "Jag blir tokig! Det är den sämsta jävla skiten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:41",
+    "line": "- Alltså... ja. - Det är så jävla komplext också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:44",
+    "line": "Du kan göra 500 miljoner komplexa saker om du går ner så djupt i muihålet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:49",
+    "line": "- Åh... - Nej, jag tycker det är..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:53",
+    "line": "- ...skurigvällt. - Men, alltså CSS-variabler"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:17:56",
+    "line": "funkar inte i mediaqueries. Det är det största jävla problemet vi har."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:01",
+    "line": "Alltså att du inte kan skriva över variablerna baserat på en media query?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:06",
+    "line": "Du kan inte använda variabler i media queries."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:09",
+    "line": "Vadå? Kan man inte? Du kan inte få värdet från en variabel i en media query?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:14",
+    "line": "Nej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:15",
+    "line": "Det här kan inte stämma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:17",
+    "line": "Alltså det var så senast jag..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:21",
+    "line": "Ett år sen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:23",
+    "line": "Ja, ett år sen. Mindre än ett år sen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:25",
+    "line": "CSS variables media queries. Jag googlar nu."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:28",
+    "line": "\"\"Using variables in media query\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:34",
+    "line": "\"\"Try this\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:35",
+    "line": "Det låter inte lovande."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:37",
+    "line": "Jag gav det ett ganska ordentligt försök, vill jag minnas."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:43",
+    "line": "Okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:46",
+    "line": "Jag hittar faktiskt bara exempel på att man sätter värdet på variablerna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:53",
+    "line": "Inte att man använder dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:18:55",
+    "line": "Nej, jag vill ändå minnas att jag la tid på det här och hittade i slutsatsen att"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:04",
+    "line": "nej, det går inte att använda CSS-variabler i Media Query-logiken."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:09",
+    "line": "Jag ser det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:13",
+    "line": "Det är en jättelång artikel här om varför det inte funkar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:17",
+    "line": "\"\"Hope on the horizon for CSS environment variables\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:23",
+    "line": "Och sen är det massa Workarounds. Ah, ok, Workarounds var använd SAS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:29",
+    "line": "Ehh, aha, det här var ju nytt för mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:35",
+    "line": "- Blev du lite ledsen nu? - Ja, nu tror jag inte lika mycket på..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:39",
+    "line": "Nu kör vi temat i JavaScript. Jag står för det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:44",
+    "line": "- Nu är du Movie All The Way. - Jag ändrar mig väldigt snabbt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:48",
+    "line": "Fan, Movie är så jävla bra alltså."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:50",
+    "line": "Jag har inte sagt vad Mui är. Material UI, Googles React-komponentbibliotek."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:56",
+    "line": "De har färdiga React-komponenter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:19:59",
+    "line": "Men även om man säger så är det förvidrande för folk som försöker sätta sig in."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:03",
+    "line": "För det finns Material UI, som är typ Mui X, eller Material UI Headless."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:08",
+    "line": "Alltså det är liksom en jävla röra."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:10",
+    "line": "Gokart?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:12",
+    "line": "Åh Gud, alltså."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:14",
+    "line": "Ska jag liksom bara ta en kväll och bryta ut allt MUI från jobbappan?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:20",
+    "line": "Kanske."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:22",
+    "line": "Kanske är det jobbigt ändå att sitta en hel kväll."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:24",
+    "line": "Men, eh."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:26",
+    "line": "Jaha, okej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:28",
+    "line": "Du kommer inte köra vidare på Tailwind nu alltså?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:30",
+    "line": "Nej, men så här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:32",
+    "line": "Det här var ju bara för att jag skulle lära mig lite om vad det är."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:36",
+    "line": "Införfattat beslut om jag tycker det är en bra idé att använda det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:38",
+    "line": "Sen är absolut inte jag en egen person i det här utan jag vill bilda mig lite av en egen uppfattning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:44",
+    "line": "Är det så att en organisation skulle bestämma sig för att de vill använda det så kommer jag inte motsätta mig det så länge det kommer argument för det som inte är det nya."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:20:56",
+    "line": "Det måste finnas bra use case för varför det är bättre att använda Tailwind."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:06",
+    "line": "För personligen i egna projekt tror jag inte att jag skulle använda det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:13",
+    "line": "En anledning till att jag skulle använda det själv nu tror jag, det skulle vara för att jag skulle lära mig det för att det är det nya."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:22",
+    "line": "För att jag inte vill vara \"\"outside the loop\"\" liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:25",
+    "line": "Men jag föredrar att skriva CSS framför det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:31",
+    "line": "Vill du använda det? Vad tänker du?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:36",
+    "line": "Nej, jag vet inte. Jag tycker så här, om jag inte ska köra Style Components"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:43",
+    "line": "då kanske jag hamnar i Tailwind."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:47",
+    "line": "För att det är väldigt lätt att sätta upp."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:51",
+    "line": "Men jag förstår inte, CSS-modules är ju jättelätt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:21:56",
+    "line": "Jo, men jag gillar ändå fortfarande att ha CSS väldigt, väldigt nära mina komponenter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:05",
+    "line": "Alltså i samma fil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:06",
+    "line": "CSS-modules, då måste jag ändå ha en CSS-fil som ligger där bredvid och stör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:10",
+    "line": "Men Tailwind har ju ingen styling nära dig överhuvudtaget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:14",
+    "line": "Och vad gör du om du behöver lägga till extra styling?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:17",
+    "line": "Extra styling? Som i?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:19",
+    "line": "Som i något specialhack och choose first child, varannat barn och vad det nu kan vara när man gör det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:26",
+    "line": "Det finns ju lite sånt i Tailwind också, de har massa jätteobskura syntax."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:32",
+    "line": "Åh nej, alltså nej, nej, alltså varför, men varför?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:38",
+    "line": "Det finns ju, det är typ en klass, du prefixar den med liksom, vad fan är det typ, stjärna, krokodilmun, stjärna, eller jag vet inte."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:45",
+    "line": "Det går. Alla så här hoover-effekter, skriven på hoover framför och sen klassnamnet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:52",
+    "line": "Det måste vara en jävla massa klassnamn totalt faktiskt när man tänker efter i Tailwind."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:57",
+    "line": "Med tanke på alla jävla kombinationer som finns och allt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:22:59",
+    "line": "Ja, men jag förstår inte grejen. Du öppnar din IDE, du öppnar din komponent och så öppnar du stylingfilen och så lägger du den bredvid."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:07",
+    "line": "Jag ser noll..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:10",
+    "line": "Det är så skönt att vara alltid i samma fil."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:13",
+    "line": "Det är typ lättare än att du måste scrolla upp och ner i en fil. Du ser bara att det är samtidigt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:19",
+    "line": "Jag upptäckte ju att man kan skriva i Tailwind typ så här..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:25",
+    "line": "...custom klasser. Alltså egna färger. Det kan bli overrides i."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:31",
+    "line": "Alltså som en klass. Jag fattar inte riktigt hur det går till. Jag antar att de kör nån post-processing på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:36",
+    "line": "Men om man skriver typ... Jag vet inte vad de heter."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:39",
+    "line": "\"\"Color\"\", nej, kanske \"\"Text Black\"\" heter den i vanliga fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:42",
+    "line": "Då kan man byta ut \"\"Black\"\" mot typ så här"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:44",
+    "line": "kantiga brackets och så skriver man en hex-kod för"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:50",
+    "line": "en färg inuti och så bara funkar det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:52",
+    "line": "Ja, just det. De stoppar in värdet istället."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:54",
+    "line": "Du kan göra likadant med pixelstorlekar och så, eller med liksom"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:23:58",
+    "line": "storlekar, units och sånt också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:00",
+    "line": "Exakt, och då kände jag att fan, det här, nu blir det lite bättre,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:03",
+    "line": "för nu behöver jag inte följa det jävla mallet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:05",
+    "line": "- Ja, men fy fan! - Nu kan jag stoppa in vad jag vill överallt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:11",
+    "line": "- Vad är klassnamn? - Men det är ju inte läsbart."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:14",
+    "line": "- Det är liksom inte läsbart. - Nej, det håller jag verkligen med om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:18",
+    "line": "- Jag håller med dig, Kina. - Du skriver inte inline-style längre,"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:23",
+    "line": "men du har typ 15 klasser där allt innehåller brackets."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:26",
+    "line": "Något special. Tryck till in hex-koder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:31",
+    "line": "Ja, det var jättebra!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:33",
+    "line": "Ja, det är toppen!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:35",
+    "line": "Man kan inte hålla på hela tiden med att det ska vara så fint."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:41",
+    "line": "Jag vet inte, det var flexibelt. Det gillar jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:46",
+    "line": "Ja, det är ju hundra gånger lättare att läsa tre rader klassnamn i en sträng än det är att ha en CSS-fil bredvid den här filen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:55",
+    "line": "Gud!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:24:56",
+    "line": "\"\"Men då måste du sitta och hålla på och matcha, vad är det som hänger ihop med vad?\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:00",
+    "line": "\"\"Vilket klassnamn har jag skrivit för det här?\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:02",
+    "line": "\"\"Äh, det är inte...\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:04",
+    "line": "\"\"C3 Modules, inte sålt, det är där vi landar på.\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:07",
+    "line": "\"\"Tailwind, ganska bra, eller?\"\""
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:09",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:10",
+    "line": "Alltså, den här vändningen som skedde i det här avsnittet, alltså..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:14",
+    "line": "Nej, men jag tror att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:17",
+    "line": "Jag tror kanske att jag i vissa fall kommer att skriva \"\"Tailwind\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:20",
+    "line": "Säkert på projekt som är kortlivade."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:24",
+    "line": "Alltså saker jag inte behöver underhålla så länge, då kommer jag kunna stoppa in Tailwind."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:28",
+    "line": "Typ för att slippa ha någon typ av CSS/JS-lösning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:32",
+    "line": "Sen är det ju på G lite sådana lösningar också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:35",
+    "line": "Jag tror att de som har gjort Chakra-UVI finns det ju någon som heter, va?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:40",
+    "line": "Som är typ som MUI, fast jag hade testat det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:45",
+    "line": "Men det är garanterat bättre för att MUI suger."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:48",
+    "line": "Men de släppte ju någon..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:52",
+    "line": "Vad fan heter det? Någon..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:54",
+    "line": "Panda tror jag heter det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:25:58",
+    "line": "Om jag inte minns fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:01",
+    "line": "Ganska säkert. Jag tror att det heter Panda."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:04",
+    "line": "Som är CSS i JS, fast det är liksom..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:10",
+    "line": "Vad ska man säga?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:13",
+    "line": "Det kompileras i byggsteget."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:16",
+    "line": "Så att den spottar ur sig. Det är liksom ingen runtime på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:20",
+    "line": "som det är på många andra CSS/JS-libbar."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:27",
+    "line": "Jag orkar inte ens tänka på vad allt det här betyder."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:32",
+    "line": "Det är som typer och styling, det är det värsta jag vet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:35",
+    "line": "Är det runtime eller compile time?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:39",
+    "line": "Exakt. Jag hittade Panda CSS heter det i alla fall."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:44",
+    "line": "Ser att de använder väldigt modern CSS också."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:47",
+    "line": "Jag vet inte hur browsers ser ut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:49",
+    "line": "De använder Cascade Layers."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:52",
+    "line": "Jag har ingen aning om det är ute ens i Chrome."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:55",
+    "line": "Men de andra browsersna."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:26:57",
+    "line": "- Men vadå? Compilerar de ner det till nån typ av gamm CSS?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:03",
+    "line": "- Nej, de kompilerar det till supermodern CSS."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:06",
+    "line": "- Jaha."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:08",
+    "line": "- Det som är grejen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:10",
+    "line": "- Grejen är att jag verkligen förstår ljuscaset för det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:15",
+    "line": "Men bygga små saker snabbt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:19",
+    "line": "Bygga saker där du inte vill tänka så mycket på att sätta upp ett grid och aligna med ett designsystem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:27",
+    "line": "Eller du hatar CSS och vill inte röra det men du vill ändå ha lite styling."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:32",
+    "line": "Eller du är en organisation där du inte har tid eller kapacitet att fokusera på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:40",
+    "line": "så att jag ser ljuscasen, men jag tycker kanske inte att det är rätt bara för att det är nytt och kul"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:47",
+    "line": "eller populärt som med så mycket andra saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:50",
+    "line": "Nej, absolut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:54",
+    "line": "Det kan jag verkligen hålla med om."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:27:59",
+    "line": "Jag tror att det är väldigt lätt när man är oerfaren att hamna i den strömmen av att man följer lite folk på Twitter och ser att de använder bara det här."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:14",
+    "line": "Fast i verkligheten så gör de inte det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:16",
+    "line": "Eller då man följer bara en massa influencers vars jobb är att påverka folk att använda någon ny grej."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:22",
+    "line": "De jobbar på något coolt bolag som har släppt någon ny produkt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:25",
+    "line": "På Twitter är ju sanningen ofta att 95% skriver aldrig applikationskod."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:33",
+    "line": "Folk sitter bara och tycker saker och gör saker."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:36",
+    "line": "Men i verkligheten så sitter majoriteten på gammal kod och underhåller den och gör inte nånting nytt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:45",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:46",
+    "line": "Men alltså jag tycker också det här, jag tycker det är lite spännande med sådär stylingbibliotek och grejer för det känns för mig nästan som att det rör sig hetsigare än vad JavaScript gör."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:28:54",
+    "line": "För jag tycker det har liksom ploppat upp och ploppat ner stylinggrejer som har dött innan de ens har levt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:01",
+    "line": "Liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:02",
+    "line": "Jag kommer ihåg att det var någon gång på en konferens som någon gick igenom sitt nya coola stylingbibliotek han höll på att bygga och sen hörde jag aldrig någonsin talas om det igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:12",
+    "line": "Och det var inte färdigt när han höll föreläsningen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:16",
+    "line": "Ja, just det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:18",
+    "line": "Som det här panda, om det är för fräscht, hur skulle vi kunna använda det nu?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:23",
+    "line": "Nej, det är väldigt sant. Jag skulle inte dra in det första jag gör på jobbet och säga \"\"här hörni, här har vi något som vi ska köra på\"\"."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:34",
+    "line": "Är det ännu sugen?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:36",
+    "line": "Lite sugen, ja absolut. Men det beror ju inte så mycket på panda utan mer på muren, att det är så dåligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:42",
+    "line": "Ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:43",
+    "line": "Nej men jag vet inte vart jag ville komma med det här avsnittet eller nånting."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:47",
+    "line": "Men jag känner mig utanför tror jag."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:49",
+    "line": "Alla snackar om \"\"Tailwind\"\" och jag har inte orkat."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:51",
+    "line": "Jag var på väg en gång och så gjorde jag en träning och kollade lite på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:29:55",
+    "line": "Och så nu känner jag att jag har lite belägg för att vara en sur gammal tant."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:00",
+    "line": "Liksom."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:01",
+    "line": "Mer än vad jag hade förut."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:03",
+    "line": "Ja men vafan, det är väl härligt."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:08",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:11",
+    "line": "Det är liksom en period i ditt liv jag har sett fram emot."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:17",
+    "line": "Att jag ska vara en sur gammal tant?"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:19",
+    "line": "Ja, exakt. Jag tror att sur gammal tant Therese verkligen har något charmigt över sig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:27",
+    "line": "Hahaha, det är också kul för att..."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:33",
+    "line": "Nej, säg då."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:35",
+    "line": "Lyssna bara på det här avsnittet."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:37",
+    "line": "Nej, det är för fan."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:39",
+    "line": "Jo, Gud ja."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:41",
+    "line": "Nej, men alltså så här, grejen är att jag låter mycket och jag låter verkligen så säker på det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:47",
+    "line": "Men om någon skulle komma med så här bra argument, då skulle jag ju vända kappen efter vinnaren."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:51",
+    "line": "Alltså jag är ju en följare, jag gör ju inte, jag har ingen egen åsikt, jag bara följer."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:56",
+    "line": "Och är rädd för att göra fel."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:30:58",
+    "line": "Så det är bara att övertala mig."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:00",
+    "line": "Jag bara har en högljudd stämma."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:04",
+    "line": "[Skratt]"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:06",
+    "line": "Och den högljudda stämman får fan alltid tröttning."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:09",
+    "line": "För jävlar vad vi har gått över tiden."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:11",
+    "line": "Men vi säger så, så hörs vi om två veckor igen."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:16",
+    "line": "Just det, skicka in frågor om ni har några."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:18",
+    "line": "Finns på vår hemsida eller till vår Instagram."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:20",
+    "line": "Alltså det kommer komma svar på dem."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:22",
+    "line": "Jag vet att det inte känns som det."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:24",
+    "line": "- Det kommer komma svar på dem. - Ja, det finns en tanke bakom den här jävla chaten."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:29",
+    "line": "Men nu måste vi lägga ner, annars blir ni trötta på oss."
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:32",
+    "line": "- Vi hörs om två veckor hörni. - Det gör vi. Ha det bra, hejdå!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:35",
+    "line": "- Bye bye!"
+  },
+  {
+    "speaker": null,
+    "timestamp": "00:31:36",
+    "line": "[Musik spelas]"
+  }
+]
