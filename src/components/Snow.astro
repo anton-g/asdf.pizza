@@ -1,0 +1,35 @@
+<script src="/scripts/confetti.browser.min.js" type="text/javascript"></script>
+
+<script>
+  var skew = 1
+
+  function randomInRange(min: number, max: number) {
+    return Math.random() * (max - min) + min
+  }
+
+  ;(function frame() {
+    var ticks = Math.max(200, 1000)
+    skew = Math.max(0.1, skew - 0.001)
+
+    // @ts-ignore
+    confetti({
+      disableForReducedMotion: true,
+      flat: true,
+      particleCount: 1,
+      startVelocity: 0,
+      ticks: ticks,
+      origin: {
+        x: Math.random(),
+        // since particles fall down, skew start toward the top
+        y: Math.random() * skew - 0.2,
+      },
+      colors: ['#ffffff'],
+      shapes: ['circle'],
+      gravity: randomInRange(0.2, 0.5),
+      scalar: randomInRange(0.4, 1),
+      drift: randomInRange(-0.4, 0.4),
+    })
+
+    requestAnimationFrame(frame)
+  })()
+</script>

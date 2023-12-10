@@ -1,8 +1,8 @@
 ---
 import type { CollectionEntry } from 'astro:content'
 
-export interface Props {
-  episodes: (CollectionEntry<'episodes'> | CollectionEntry<'advent22'>)[]
+interface Props {
+  episodes: (CollectionEntry<'episodes'> | CollectionEntry<'advent22'> | CollectionEntry<'advent23'>)[]
   class?: string
 }
 

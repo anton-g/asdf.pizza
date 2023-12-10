@@ -21,7 +21,7 @@ const randomSvgHeight = () => 6 + Math.floor(Math.random() * 6) - 3
   >
     <path
       d={`M 0,${randomSvgHeight()} Q 25,${randomSvgHeight()}  50,${randomSvgHeight()}  T 100,${randomSvgHeight()}`}
-      stroke="#18140b"
+      stroke="currentColor"
       stroke-width="2"
       stroke-linecap="round"></path>
   </svg>
@@ -31,7 +31,6 @@ const randomSvgHeight = () => 6 + Math.floor(Math.random() * 6) - 3
   .link span {
     white-space: pre;
     position: relative;
-    color: black;
     font-family: 'Shantell Sans', system-ui, sans-serif;
   }
   .link {

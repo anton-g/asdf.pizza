@@ -1,8 +1,14 @@
 ---
 import UnderlinedLink from './UnderlinedLink.astro'
+
+interface Props {
+  className?: string
+}
+
+const { className } = Astro.props
 ---
 
-<footer class="footer">
+<footer class:list={['footer', className]}>
   <UnderlinedLink href="/om-asdf">Om asdf</UnderlinedLink>
   <span>|</span>
   <UnderlinedLink href="/avsnitt">Alla avsnitt</UnderlinedLink>
@@ -17,5 +23,9 @@ import UnderlinedLink from './UnderlinedLink.astro'
     padding-top: 146px;
     display: flex;
     gap: 16px;
+
+    a {
+      color: currentColor;
+    }
   }
 </style>

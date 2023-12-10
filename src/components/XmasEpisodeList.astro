@@ -1,0 +1,68 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import DoodleLink from './DoodleLink.astro'
+
+type Episode = CollectionEntry<'advent22'> | CollectionEntry<'advent23'>
+
+export interface Props {
+  episodes: Episode[]
+  class?: string
+}
+
+const { episodes, class: className } = Astro.props
+
+const sortedEpisodes = episodes.sort((a: Episode, b: Episode) => {
+  if (a.data.date < b.data.date) return 1
+  if (a.data.date > b.data.date) return -1
+  return 0
+})
+---
+
+<div class:list={['list', className]}>
+  {
+    sortedEpisodes.map((episode: Episode) => (
+      <div class="episode">
+        <DoodleLink href={`/${episode.slug}`} class="no-wrap">
+          {episode.data.title}
+        </DoodleLink>
+      </div>
+    ))
+  }
+</div>
+
+<style>
+  .list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 64px;
+  }
+
+  .episode {
+    display: flex;
+    position: relative;
+
+    &:nth-child(odd) {
+      margin-left: -12px;
+    }
+    &:nth-child(even) {
+      margin-right: -24px;
+    }
+
+    a {
+      color: white;
+      svg {
+        color: red;
+      }
+    }
+  }
+
+  .no-wrap {
+    white-space: nowrap;
+  }
+
+  @media (max-width: 600px) {
+    .no-wrap {
+      white-space: normal;
+    }
+  }
+</style>
