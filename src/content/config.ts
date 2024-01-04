@@ -24,4 +24,5 @@ const episodeCollection = defineCollection({
 export const collections = {
   episodes: episodeCollection,
   advent22: episodeCollection,
+  advent23: episodeCollection,
 }

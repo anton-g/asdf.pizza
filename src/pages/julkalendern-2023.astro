@@ -1,0 +1,30 @@
+---
+import AdventLayout from '../layouts/AdventLayout.astro'
+import { getCollection } from 'astro:content'
+import Footer from '../components/Footer.astro'
+import HomeLink from '../components/HomeLink.astro'
+import XmasEpisodeGrid from '../components/XmasEpisodeGrid.astro'
+
+const episodes = await getCollection('advent23')
+
+const sortedEpisodes = episodes.slice().sort((a, b) => a.data.date.getTime() - b.data.date.getTime())
+---
+
+<AdventLayout title="adventskalendern 2023 - asdf">
+  <HomeLink class="back-link" />
+  <main class="main">
+    <h1>julkalendern 2023</h1>
+    <XmasEpisodeGrid episodes={sortedEpisodes} />
+    <Footer />
+  </main>
+</AdventLayout>
+
+<style>
+  h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    margin: 0;
+    margin-bottom: 48px;
+    margin-top: 96px;
+  }
+</style>

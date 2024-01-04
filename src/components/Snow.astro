@@ -1,15 +1,16 @@
 <script src="/scripts/confetti.browser.min.js" type="text/javascript"></script>
 
 <script>
-  var skew = 1
+  let skew = 1
+  const minSkew = 0.1
 
   function randomInRange(min: number, max: number) {
     return Math.random() * (max - min) + min
   }
 
-  ;(function frame() {
-    var ticks = Math.max(200, 1000)
-    skew = Math.max(0.1, skew - 0.001)
+  function frame() {
+    let ticks = Math.max(200, 1000)
+    skew = Math.max(minSkew, skew - 0.001)
 
     // @ts-ignore
     confetti({
@@ -29,7 +30,15 @@
       scalar: randomInRange(0.4, 1),
       drift: randomInRange(-0.4, 0.4),
     })
+  }
 
-    requestAnimationFrame(frame)
+  ;(function init() {
+    if (skew > minSkew) {
+      frame()
+      requestAnimationFrame(init)
+      return
+    }
+
+    setInterval(frame, 25)
   })()
 </script>

@@ -1,0 +1,37 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import XmasEpisodeGridBox from './XmasEpisodeGridBox.astro'
+
+type Episode = CollectionEntry<'advent22'> | CollectionEntry<'advent23'>
+
+export interface Props {
+  episodes: Episode[]
+  class?: string
+}
+
+const { episodes, class: className } = Astro.props
+---
+
+<ul class:list={['list', className]}>
+  {episodes.map((episode: Episode) => <XmasEpisodeGridBox episode={episode} />)}
+</ul>
+
+<style>
+  .list {
+    --columns: 2;
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(var(--columns), 124px);
+    grid-template-rows: repeat(auto-fill, 124px);
+    margin-top: 0px;
+  }
+
+  @media (min-width: 900px) {
+    .list {
+      --columns: 9;
+      grid-template-columns: repeat(var(--columns), 1fr);
+      gap: 0px 64px;
+      margin-left: -30%;
+    }
+  }
+</style>
