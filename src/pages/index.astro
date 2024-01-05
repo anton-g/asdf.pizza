@@ -19,6 +19,7 @@ import keysLH from '../images/keys-lh.png'
 import keysHeart from '../images/keys-heart.png'
 import keysEnter from '../images/keys-enter.png'
 import keysSpace from '../images/keys-space.png'
+import voicemail from '../images/voicemail.png'
 import Footer from '../components/Footer.astro'
 
 const episodes = await getCollection('episodes')
@@ -79,6 +80,20 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
         </div>
         <Image src={keysHeart} alt="" class="keys-heart bg-image" />
       </div>
+      <div class="services">
+        Prenumunememerera här:
+        <div style={{ display: 'flex', gap: '8px' }}>
+          <a href="https://open.spotify.com/show/48pKe510caxiFkvxtoXJge?si=394f0c14012b4d6d">
+            <Image src={spotify} alt="Lyssna på Spotify" />
+          </a>
+          <a href="https://podcasts.apple.com/se/podcast/asdf/id1506059489">
+            <Image src={itunes} alt="Lyssna på iTunes" />
+          </a>
+          <a href="https://pinecast.com/feed/asdfpod">
+            <Image src={rss} alt="Lyssna med RSS" />
+          </a>
+        </div>
+      </div>
       <aside class="more-episodes-cta">
         <div style={{ marginLeft: 'auto' }}>
           pssst! <br />fler avsnitt <br />här nere!
@@ -95,7 +110,6 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
       <Image src={keysLV} alt="" class="keys-lv bg-image" />
       <BlueBlob class="blue-blob" />
     </section>
-
     <section class="section">
       <h2>Lite fler avsnitt</h2>
       <EpisodeList episodes={restEpisodes} />
@@ -161,19 +175,15 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
     <section class="section joke-section">
       <SubmitJokeForm />
     </section>
-    <section class="services">
-      Prenumunemerera här:
-      <div style={{ display: 'flex', gap: '8px' }}>
-        <a href="https://open.spotify.com/show/48pKe510caxiFkvxtoXJge?si=394f0c14012b4d6d">
-          <Image src={spotify} alt="Lyssna på Spotify" />
-        </a>
-        <a href="https://podcasts.apple.com/se/podcast/asdf/id1506059489">
-          <Image src={itunes} alt="Lyssna på iTunes" />
-        </a>
-        <a href="https://pinecast.com/feed/asdfpod">
-          <Image src={rss} alt="Lyssna med RSS" />
-        </a>
-      </div>
+    <section class="voicemail">
+      <Image src={voicemail} alt="" height={300} />
+      <h2>Ring asdf!</h2>
+      <p class="bob">
+        Lämna oss ett meddelande i vår fantastiska <span>r</span><span>ö</span><span>s</span><span>t</span
+        ><span>b</span><span>r</span><span>e</span><span>v</span><span>l</span><span>å</span><span>d</span
+        ><span>a</span>!
+      </p>
+      <a href="tel:+46766860507">076-686 05 07</a>
     </section>
     <Footer />
     <GreenBlob class="green-blob" />
@@ -204,8 +214,77 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
     gap: 8px;
     font-family: 'Shantell Sans', system-ui, sans-serif;
     align-self: center;
+    margin-top: 96px;
+    text-align: center;
+  }
+
+  .voicemail {
+    position: absolute;
+    left: -400px;
+    bottom: 500px;
+    gap: 8px;
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+    align-self: center;
     margin-top: 124px;
     text-align: center;
+  }
+
+  .voicemail h2 {
+    width: fit-content;
+    transform-origin: left;
+    transform: rotateZ(345deg);
+    margin-left: 85px;
+  }
+
+  .voicemail p {
+    width: 360px;
+    text-align: left;
+    transform-origin: left;
+    transform: rotateZ(345deg);
+    margin-left: 94px;
+  }
+
+  .voicemail a {
+    font-size: 36px;
+    text-decoration: none;
+    color: black;
+    width: fit-content;
+    display: block;
+    transform-origin: left;
+    transform: rotateZ(345deg);
+    margin-top: 12px;
+    margin-left: 110px;
+  }
+
+  .voicemail a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+  }
+
+  @keyframes bob {
+    0% {
+      transform: translateY(-2px);
+    }
+    100% {
+      transform: translateY(1px);
+    }
+  }
+
+  .bob span {
+    display: inline-block;
+    animation: bob 0.6s infinite alternate ease-in-out;
+  }
+  .bob span:nth-child(2n) {
+    animation-delay: 0.15s;
+  }
+  .bob span:nth-child(3n) {
+    animation-delay: 0.3s;
+  }
+  .bob span:nth-child(4n) {
+    animation-delay: 0.45s;
+  }
+  .bob span:nth-child(5n) {
+    animation-delay: 0.6s;
   }
 
   .latest-episode-title {
@@ -228,7 +307,7 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
     bottom: -80px;
     margin-left: auto;
     margin-right: -200px;
-    margin-bottom: -100px;
+    margin-bottom: -80px;
     width: fit-content;
     display: flex;
     flex-direction: column;
@@ -368,6 +447,12 @@ const { Content: LatestEpisodeContent } = await latestEpisode.render()
   .keys-space {
     position: relative;
     bottom: -100px;
+  }
+
+  @media (max-width: 1350px) {
+    .voicemail {
+      position: static;
+    }
   }
 
   @media (max-width: 1230px) {
