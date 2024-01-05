@@ -1,8 +1,12 @@
 ---
 import type { CollectionEntry } from 'astro:content'
+import santahat from '../images/santahat.png'
+import snowflake from '../images/snowflake.png'
+import { Image } from '@astrojs/image/components'
 
+type Episode = CollectionEntry<'episodes'>
 interface Props {
-  episodes: (CollectionEntry<'episodes'> | CollectionEntry<'advent22'> | CollectionEntry<'advent23'>)[]
+  episodes: Episode[]
   class?: string
 }
 
@@ -15,40 +19,114 @@ const randomSvgHeight = () => 6 + Math.floor(Math.random() * 6) - 3
 
 <ul class={className}>
   {
-    episodes.map((episode) => (
-      <li>
-        <div class="item-wrapper">
-          <a href={`/${episode.slug}`} class="no-wrap">
-            {episode.data.number}. {episode.data.title}
+    episodes.map((episode: Episode) => (
+      <>
+        {episode.data.number === 91 && (
+          <a href={`/julkalendern-2023`} class="no-wrap advent-link spin-link">
+            <Image src={snowflake} alt="a santa hat" height={40} />
+            julkalendern 2023
           </a>
-          <div class="line-wrapper">
-            <svg
-              width="100%"
-              height="12"
-              viewBox="0 0 100 12"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg"
-              class="line-svg"
-              preserveAspectRatio="none"
-            >
-              <path
-                d={`M 0,${randomSvgHeight()} Q 25,${randomSvgHeight()}  50,${randomSvgHeight()}  T 100,${randomSvgHeight()}`}
-                stroke="#18140b"
-                stroke-width="1.5"
-                stroke-linecap="round"
-              />
-            </svg>
+        )}
+        {episode.data.number === 67 && (
+          <a href={`/julkalendern-2022`} class="no-wrap advent-link wiggle-link">
+            <Image src={santahat} alt="a santa hat" height={56} />
+            julkalendern 2022
+          </a>
+        )}
+        <li>
+          <div class="item-wrapper">
+            <a href={`/${episode.slug}`} class="no-wrap">
+              {episode.data.number}. {episode.data.title}
+            </a>
+            <div class="line-wrapper">
+              <svg
+                width="100%"
+                height="12"
+                viewBox="0 0 100 12"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                class="line-svg"
+                preserveAspectRatio="none"
+              >
+                <path
+                  d={`M 0,${randomSvgHeight()} Q 25,${randomSvgHeight()}  50,${randomSvgHeight()}  T 100,${randomSvgHeight()}`}
+                  stroke="#18140b"
+                  stroke-width="1.5"
+                  stroke-linecap="round"
+                />
+              </svg>
+            </div>
+            <time datetime={episode.data.date.toISOString()} class="no-wrap">
+              {intl.format(episode.data.date)}
+            </time>
           </div>
-          <time datetime={episode.data.date.toISOString()} class="no-wrap">
-            {intl.format(episode.data.date)}
-          </time>
-        </div>
-      </li>
+        </li>
+      </>
     ))
   }
 </ul>
 
 <style>
+  @keyframes wiggle {
+    0% {
+      transform: rotate(0deg);
+    }
+    25% {
+      transform: rotate(-10deg);
+    }
+    75% {
+      transform: rotate(10deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    25% {
+      transform: rotate(90deg);
+    }
+    50% {
+      transform: rotate(180deg);
+    }
+    75% {
+      transform: rotate(270deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+  .advent-link {
+    display: flex;
+    margin: 24px 0;
+    gap: 12px;
+    font-size: 1.5rem;
+    text-decoration: none;
+    text-decoration: underline;
+    align-items: center;
+  }
+
+  .wiggle-link:hover img {
+    transform-origin: top right;
+    animation-name: wiggle;
+    animation-duration: 1500ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+  }
+
+  .spin-link:hover img {
+    transform-origin: center;
+    animation-name: spin;
+    animation-duration: 2000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+  }
+
   .item-wrapper {
     display: flex;
     align-items: center;
