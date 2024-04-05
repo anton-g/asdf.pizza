@@ -17,8 +17,6 @@ Hör av er till oss på vår röstbrevlåda! Berätta ett skämt, ställ en frå
 
 Om du gillar podden blir vi väldigt glada för en liten recension i iTunes eller en prenumeration på Spotify. Följ oss och säg hej på [@asdfpodden på Instagram](https://www.instagram.com/asdfpodden/) &lt;3
 
-Tack till Zombiemagnus för dagens skämt!
-
 ### Länkar
 
 - [Somna med Henrik](https://somnamedhenrik.se/)
