@@ -1,0 +1,9 @@
+{
+  "$schema": "https://www.partykit.io/schema.json",
+  "name": "asdf-partykit",
+  "main": "party/search.ts",
+  "vectorize": {
+    "searchIndex": "asdf-index"
+  },
+  "ai": true
+}
