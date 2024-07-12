@@ -7,7 +7,7 @@ pinecastId: '5626d535-74fc-4cb2-ac03-9860c73a9a93'
 spotifyId: ''
 itunesId: ''
 joke:
-  setup: Varför skulle Sean-Claube Van Damme passa bra i ett kuberneteskluster?
+  setup: Varför skulle Sean-Claude Van Damme passa bra i ett kuberneteskluster?
   punchline: Han kan lastbalansera
   author: Erik
 ---
