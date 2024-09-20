@@ -3,7 +3,7 @@ title: 'Vim-killens kompis'
 date: 2024-09-20T07:00:00.000Z
 description: 'Avsnitt 109: Att bli uppsagd, nålar i ballonger, en läxa att lära sig, överlämningar, mobbprogrammering och mycket annat.'
 number: 109
-pinecastId: ''
+pinecastId: '8b080c40-8c51-48b1-8b68-143d7e296c90'
 spotifyId: ''
 itunesId: ''
 joke:
