@@ -1,5 +1,5 @@
 ---
-title: 'Brända jordens taktig'
+title: 'Brända jordens taktik'
 date: 2024-10-18T07:00:00.000Z
 description: 'Avsnitt 111: Det är drama i WordPress-världen.'
 number: 111
