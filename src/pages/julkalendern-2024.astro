@@ -1,0 +1,107 @@
+---
+import RawLayout from '../layouts/RawLayout.astro'
+import { getCollection } from 'astro:content'
+import Footer from '../components/Footer.astro'
+import HomeLink from '../components/HomeLink.astro'
+import XmasEpisodeGrid from '../components/XmasEpisodeGrid.astro'
+import Layout from '../layouts/Layout.astro'
+
+const episodes = await getCollection('advent23')
+
+const sortedEpisodes = episodes.slice().sort((a, b) => a.data.date.getTime() - b.data.date.getTime())
+---
+
+<RawLayout title=''>
+	<div class="scroll-container">
+		<img src="advent24.png" alt="Large Image">
+	</div>
+</RawLayout>
+
+<style>
+  .scroll-container {
+    height: 100dvh;
+    width: 100vw;
+    overflow: hidden;
+  }
+  .img {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+</style>
+
+<script>
+const container = document.querySelector('.scroll-container') as HTMLElement;
+
+let isDragging = false;
+let startX: number, startY: number, scrollLeft: number, scrollTop: number;
+
+container.addEventListener('mousedown', (e: MouseEvent) => {
+	e.preventDefault();
+	isDragging = true;
+	container.style.cursor = 'grabbing';
+
+	const x = e.pageX;
+	const y = e.pageY;
+
+	onStart(x, y);
+});
+
+container.addEventListener('touchstart', (e: TouchEvent) => {
+	e.preventDefault();
+	isDragging = true;
+
+	const touch = e.touches[0];
+	const x = touch.pageX;
+	const y = touch.pageY;
+
+	onStart(x, y);
+}, { passive: false });
+
+container.addEventListener('mousemove', (e: MouseEvent) => {
+	if (!isDragging) return;
+	e.preventDefault();
+
+	const x = e.pageX;
+	const y = e.pageY;
+
+	onMove(x, y);
+});
+
+container.addEventListener('touchmove', (e: TouchEvent) => {
+	if (!isDragging) return;
+	e.preventDefault();
+
+	const touch = e.touches[0];
+	const x = touch.pageX;
+	const y = touch.pageY;
+
+	onMove(x, y);
+}, { passive: false });
+
+container.addEventListener('mouseup', onEnd);
+container.addEventListener('mouseleave', onEnd);
+container.addEventListener('touchend', onEnd);
+
+function onMove(x: number, y: number) {
+	const deltaX = x - container.offsetLeft;
+	const deltaY = y - container.offsetTop;
+	const walkX = startX - deltaX;
+	const walkY = startY - deltaY;
+
+	container.scrollLeft = scrollLeft + walkX;
+	container.scrollTop = scrollTop + walkY;
+}
+
+function onStart(x: number, y: number) {
+	startX = x - container.offsetLeft;
+	startY = y - container.offsetTop;
+	scrollLeft = container.scrollLeft;
+	scrollTop = container.scrollTop;
+}
+
+function onEnd() {
+	isDragging = false;
+	container.style.cursor = 'grab';
+}
+</script>
