@@ -1,0 +1,121 @@
+---
+// import type { CollectionEntry } from 'astro:content'
+
+// type Episode = CollectionEntry<'advent22'> | CollectionEntry<'advent23'>
+export interface Props {
+  // episode: Episode
+  x: number
+  y: number
+  text: string
+  enabled: boolean
+  class?: string
+}
+
+const { x, y, text, enabled } = Astro.props
+---
+
+<asdf-xmas data-enabled={enabled ? 'true' : 'false'}>
+  <button
+    class="square"
+    style={{
+      left: x + 'px',
+      top: y + 'px',
+    }}
+  >
+    <div class="border"></div>
+    <div class="content">
+      {enabled && <slot />}
+    </div>
+    <div
+      class="front"
+      style={{
+        backgroundPosition: `-${x}px -${y}px`,
+      }}
+    >
+      <span class="text">{text}</span>
+    </div>
+  </button>
+</asdf-xmas>
+
+<style>
+  .square {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    border: 0;
+    cursor: pointer;
+    perspective: 1000px;
+    display: grid;
+    padding: 0;
+  }
+  .border {
+    grid-area: 1 / 1;
+    height: 100%;
+    outline: 2px dashed snow;
+  }
+  .front {
+    grid-area: 1 / 1;
+    height: 100%;
+    background-image: url('advent24.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform-origin: right;
+    transition: transform 1s;
+  }
+  .text {
+    font-size: 8rem;
+    color: white;
+    font-family: serif;
+    font-weight: 500;
+  }
+  .square.open .front {
+    transform: rotateY(95deg);
+  }
+  .content {
+    grid-area: 1 / 1;
+    height: 100%;
+    display: none;
+    align-items: center;
+    justify-content: center;
+  }
+  .square.open .content {
+    display: flex;
+  }
+  @keyframes shake {
+    0%,
+    100% {
+      transform: translateX(0);
+    }
+    20%,
+    60% {
+      transform: translateX(-5px);
+    }
+    40%,
+    80% {
+      transform: translateX(5px);
+    }
+  }
+  .shake {
+    animation: shake 0.3s;
+  }
+</style>
+
+<script>
+  class AsdfXmas extends HTMLElement {
+    connectedCallback() {
+      const enabled = this.dataset.enabled === 'true'
+      const button = this.querySelector('button') as HTMLButtonElement
+      button.addEventListener('click', () => {
+        if (!enabled) {
+          button.classList.add('shake')
+          setTimeout(() => button.classList.remove('shake'), 500)
+          return
+        }
+        button.classList.toggle('open')
+      })
+    }
+  }
+
+  customElements.define('asdf-xmas', AsdfXmas)
+</script>
