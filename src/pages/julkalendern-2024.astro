@@ -35,6 +35,9 @@ const container = document.querySelector('.scroll-container') as HTMLElement;
 
 let isDragging = false;
 let startX: number, startY: number, scrollLeft: number, scrollTop: number;
+let lastX: number, lastY: number;
+let velocityX = 0, velocityY = 0;
+let momentumFrame: number | null = null;
 
 container.addEventListener('mousedown', (e: MouseEvent) => {
 	e.preventDefault();
@@ -89,19 +92,65 @@ function onMove(x: number, y: number) {
 	const walkX = startX - deltaX;
 	const walkY = startY - deltaY;
 
+	// Calculate velocity
+	velocityX = x - lastX;
+	velocityY = y - lastY;
+
+	lastX = x;
+	lastY = y;
+
 	container.scrollLeft = scrollLeft + walkX;
 	container.scrollTop = scrollTop + walkY;
 }
 
 function onStart(x: number, y: number) {
+	cancelMomentum(); // Stop any existing momentum
 	startX = x - container.offsetLeft;
 	startY = y - container.offsetTop;
 	scrollLeft = container.scrollLeft;
 	scrollTop = container.scrollTop;
+
+	lastX = x;
+	lastY = y;
+
+	velocityX = 0;
+	velocityY = 0;
 }
 
 function onEnd() {
 	isDragging = false;
 	container.style.cursor = 'grab';
+
+	applyMomentum();
+}
+
+function applyMomentum() {
+	const deceleration = 0.95; // Deceleration factor (lower = faster stop)
+	const minVelocity = 0.5; // Minimum velocity to stop animation
+
+	const momentum = () => {
+		if (Math.abs(velocityX) > minVelocity || Math.abs(velocityY) > minVelocity) {
+			container.scrollLeft -= velocityX;
+			container.scrollTop -= velocityY;
+
+			// Apply deceleration
+			velocityX *= deceleration;
+			velocityY *= deceleration;
+
+			// Request the next frame
+			momentumFrame = requestAnimationFrame(momentum);
+		} else {
+			cancelMomentum();
+		}
+	};
+
+	momentum();
+}
+
+function cancelMomentum() {
+	if (momentumFrame !== null) {
+		cancelAnimationFrame(momentumFrame);
+		momentumFrame = null;
+	}
 }
 </script>
