@@ -21,10 +21,15 @@ const { x, y, text, enabled } = Astro.props
       left: x + 'px',
       top: y + 'px',
     }}
+    aria-label={`Öppna lucka ${text}`}
+    aria-disabled={!enabled}
   >
     <div class="border"></div>
     <div class="content">
       {enabled && <slot />}
+    </div>
+    <div class="shadow">
+      <div class="shadow-inner"></div>
     </div>
     <div
       class="front"
@@ -73,13 +78,44 @@ const { x, y, text, enabled } = Astro.props
     transform: rotateY(95deg);
   }
   .content {
+    --shadow-color: 0deg 0% 45%;
+    --shadow-elevation: inset 0.5px 0.5px 0.5px hsl(var(--shadow-color) / 1),
+      inset 0.9px 0.9px 1px -1.7px hsl(var(--shadow-color) / 0.82),
+      inset 4.1px 4.1px 4.3px -3.3px hsl(var(--shadow-color) / 0.55),
+      inset 12.5px 12.5px 13.3px -5px hsl(var(--shadow-color) / 0.27);
     grid-area: 1 / 1;
     height: 100%;
     display: none;
     align-items: center;
     justify-content: center;
+    box-shadow: var(--shadow-elevation);
   }
-  .square.open .content {
+  .shadow {
+    position: absolute;
+    width: 250px;
+    right: -250px;
+    height: 500px;
+    top: -125px;
+    grid-area: 1 / 1;
+    overflow: hidden;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+  .shadow-inner {
+    background-color: black;
+    width: 100px;
+    height: 150px;
+    position: absolute;
+    top: 175px;
+    filter: blur(60px);
+  }
+  .square.open .shadow {
+    opacity: 1;
+    transition-delay: 0.5s;
+    transition-duration: 0.8s;
+  }
+  .square.opened .content {
     display: flex;
   }
   @keyframes shake {
@@ -94,6 +130,14 @@ const { x, y, text, enabled } = Astro.props
     40%,
     80% {
       transform: translateX(5px);
+    }
+  }
+  @keyframes appear {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
     }
   }
   .shake {
@@ -112,6 +156,10 @@ const { x, y, text, enabled } = Astro.props
           setTimeout(() => button.classList.remove('shake'), 500)
           return
         }
+        if (!button.classList.contains('opened')) {
+          button.classList.add('opened')
+        }
+
         button.classList.toggle('open')
       })
     }
