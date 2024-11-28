@@ -1,5 +1,5 @@
 ---
-import RawLayout from '../layouts/RawLayout.astro'
+import Advent24Layout from '../layouts/Advent24Layout.astro'
 import { getCollection } from 'astro:content'
 import XmasSquare from '../components/XmasSquare.astro'
 
@@ -8,13 +8,13 @@ const episodes = await getCollection('advent23')
 const sortedEpisodes = episodes.slice().sort((a, b) => a.data.date.getTime() - b.data.date.getTime())
 ---
 
-<RawLayout title="">
+<Advent24Layout title="">
   <div class="scroll-container">
     <XmasSquare text="24" x={150} y={150} enabled={true}>HELLO</XmasSquare>
     <XmasSquare text="1" x={250} y={450} enabled={false}>HI</XmasSquare>
-    <img src="advent24.png" alt="Large Image" />
+    <img src="advent24.png" alt="" />
   </div>
-</RawLayout>
+</Advent24Layout>
 
 <style>
   .scroll-container {

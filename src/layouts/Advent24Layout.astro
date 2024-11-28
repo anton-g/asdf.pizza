@@ -1,0 +1,112 @@
+---
+import '@fontsource/crimson-pro'
+
+export interface Props {
+  title: string
+  description?: string
+}
+
+const defaultDescription =
+  'Som en liten parentes i cyberrymden spenderar Therése & Anton en halvtimme då och då med att prata ofiltrerat om kod, livet och allt däremellan.'
+
+const { title, description } = Astro.props
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="preload" as="image" href="/advent24.png" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="twitter:creator" content="asdf med Anton & Therése" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="og:type" content="website" />
+    <meta name="og:image" content="/social.png" />
+    <meta name="twitter:description" content={description || defaultDescription} />
+    <meta property="og:description" content={description || defaultDescription} />
+    <meta name="description" content={description || defaultDescription} />
+    <meta name="twitter:title" content={title} />
+    <meta property="og:title" content={title} />
+    <script src="https://cdn.usefathom.com/script.js" data-site="OWCHGDNF" defer></script>
+    <title>{title}</title>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
+
+<style is:global>
+  @font-face {
+    font-family: 'Shantell Sans';
+    src: url('/fonts/shantell-sans.woff2') format('woff2-variations');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  :root {
+  }
+
+  html,
+  body {
+    font-family: 'Crimson Pro', serif;
+    position: relative;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: 'Shantell Sans', system-ui, sans-serif;
+    font-variation-settings:
+      'BNCE' -50,
+      'wght' 500;
+  }
+
+  /*
+  RESET
+  */
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+  * {
+    margin: 0;
+  }
+  html,
+  body {
+    height: 100%;
+  }
+  body {
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  img,
+  picture,
+  video,
+  canvas,
+  svg {
+    display: block;
+  }
+  input,
+  button,
+  textarea,
+  select {
+    font: inherit;
+  }
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    overflow-wrap: break-word;
+  }
+  .main {
+    isolation: isolate;
+  }
+</style>
