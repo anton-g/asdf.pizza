@@ -1,9 +1,9 @@
 ---
 title: 'Therése är bra på sitt jobb'
 date: 2024-11-29T07:00:00.000Z
-description: 'Avsnitt 114: '
+description: 'Avsnitt 114: Cachning, identitetskriser och backend.'
 number: 114
-pinecastId: ''
+pinecastId: '8d44d9fa-37ac-477b-bb10-8dfc5bb5fd27'
 spotifyId: ''
 itunesId: ''
 joke:
