@@ -1,0 +1,193 @@
+---
+// import type { CollectionEntry } from 'astro:content'
+
+// type Episode = CollectionEntry<'advent22'> | CollectionEntry<'advent23'>
+export interface Props {
+  // episode: Episode
+  x: number
+  y: number
+  text: string
+  enabled: boolean
+  url?: string
+  class?: string
+}
+
+const { x, y, text, enabled, url } = Astro.props
+---
+
+<asdf-xmas data-enabled={enabled ? 'true' : 'false'}>
+  <div
+    class="square"
+    style={{
+      left: x + 'px',
+      top: y + 'px',
+    }}
+  >
+    <div class="border"></div>
+    <a class="content" href={url} target="_blank">
+      {enabled && <slot />}
+    </a>
+    <div class="shadow">
+      <div class="shadow-inner"></div>
+    </div>
+    <button class="hatch" aria-label={`Öppna lucka ${text}`} aria-disabled={!enabled}>
+      <div class="back"></div>
+      <div
+        class="front"
+        style={{
+          backgroundPosition: `-${x}px -${y}px`,
+        }}
+      >
+        <span class="text">{text}</span>
+      </div>
+    </button>
+  </div>
+</asdf-xmas>
+
+<style>
+  .square {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    border: 0;
+    cursor: pointer;
+    perspective: 1000px;
+    display: grid;
+    padding: 0;
+  }
+  .border {
+    grid-area: 1 / 1;
+    height: 100%;
+    outline: 2px dashed snow;
+  }
+  .hatch {
+    cursor: pointer;
+    padding: 0;
+    border: 0;
+    grid-area: 1 / 1;
+    height: 100%;
+    display: grid;
+    transform-origin: right;
+    transition: transform 1s;
+  }
+  .front {
+    grid-area: 1 / 1;
+    height: 100%;
+    background-image: url('advent24.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    opacity: 1;
+    transition: opacity 0.3s;
+  }
+  .back {
+    grid-area: 1 / 1;
+    height: 100%;
+    background-color: black;
+  }
+  .text {
+    font-size: 8rem;
+    color: white;
+    font-family: serif;
+    font-weight: 700;
+    opacity: 0.85;
+  }
+  .hatch.open {
+    transform: rotateY(95deg);
+  }
+  .content {
+    --shadow-color: 0deg 0% 45%;
+    --shadow-elevation: inset 0.5px 0.5px 0.5px hsl(var(--shadow-color) / 1),
+      inset 0.9px 0.9px 1px -1.7px hsl(var(--shadow-color) / 0.82),
+      inset 4.1px 4.1px 4.3px -3.3px hsl(var(--shadow-color) / 0.55),
+      inset 12.5px 12.5px 13.3px -5px hsl(var(--shadow-color) / 0.27);
+    grid-area: 1 / 1;
+    height: 100%;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    box-shadow: var(--shadow-elevation);
+    background-color: white;
+  }
+  .shadow {
+    position: absolute;
+    width: 250px;
+    right: -250px;
+    height: 500px;
+    top: -125px;
+    grid-area: 1 / 1;
+    overflow: hidden;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+  .shadow-inner {
+    background-color: black;
+    width: 100px;
+    height: 150px;
+    position: absolute;
+    top: 175px;
+    filter: blur(60px);
+  }
+  .hatch.open .shadow {
+    opacity: 1;
+    transition-delay: 0.5s;
+    transition-duration: 0.8s;
+  }
+  .hatch.open .front {
+    opacity: 0.5;
+    transition-delay: 0.5s;
+  }
+  .square.opened .content {
+    display: flex;
+  }
+  @keyframes shake {
+    0%,
+    100% {
+      transform: translateX(0);
+    }
+    20%,
+    60% {
+      transform: translateX(-5px);
+    }
+    40%,
+    80% {
+      transform: translateX(5px);
+    }
+  }
+  @keyframes appear {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  .shake {
+    animation: shake 0.3s;
+  }
+</style>
+
+<script>
+  class AsdfXmas extends HTMLElement {
+    connectedCallback() {
+      const enabled = this.dataset.enabled === 'true'
+      const button = this.querySelector('button') as HTMLButtonElement
+      button.addEventListener('click', () => {
+        if (!enabled) {
+          button.parentElement?.classList.add('shake')
+          setTimeout(() => button.parentElement?.classList.remove('shake'), 500)
+          return
+        }
+        if (!button.parentElement?.classList.contains('opened')) {
+          button.parentElement?.classList.add('opened')
+        }
+
+        button.classList.toggle('open')
+      })
+    }
+  }
+
+  customElements.define('asdf-xmas', AsdfXmas)
+</script>

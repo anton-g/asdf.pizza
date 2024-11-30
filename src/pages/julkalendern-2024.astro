@@ -1,0 +1,204 @@
+---
+import Advent24Layout from '../layouts/Advent24Layout.astro'
+import { getCollection } from 'astro:content'
+import XmasSquare from '../components/XmasSquare.astro'
+
+const episodes = await getCollection('advent23')
+
+const sortedEpisodes = episodes.slice().sort((a, b) => a.data.date.getTime() - b.data.date.getTime())
+---
+
+<Advent24Layout title="">
+  <div class="scroll-container">
+    <div class="inner">
+      <XmasSquare
+        text="1"
+        x={2050}
+        y={1050}
+        url="https://open.spotify.com/show/48pKe510caxiFkvxtoXJge?si=4faeef0547e5483e"
+        enabled={false}
+      >
+        <img src="/salma.png" />
+      </XmasSquare>
+      <XmasSquare text="2" x={4600} y={2600} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="3" x={1500} y={2400} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="4" x={4000} y={550} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="5" x={1000} y={1250} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="6" x={2800} y={2000} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="7" x={100} y={2400} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="8" x={2950} y={50} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="9" x={1970} y={1850} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="10" x={4500} y={1600} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="11" x={800} y={150} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="12" x={3300} y={1100} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="13" x={250} y={1450} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="14" x={3655} y={2250} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="15" x={1223} y={555} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="16" x={4623} y={232} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="17" x={2623} y={1234} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="18" x={875} y={1850} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="19" x={4400} y={1085} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="20" x={3695} y={1570} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="21" x={150} y={712} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="22" x={2410} y={2600} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="23" x={3350} y={450} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="24" x={2400} y={400} enabled={false}>HI</XmasSquare>
+    </div>
+    <img src="advent24.png" alt="" />
+  </div>
+</Advent24Layout>
+
+<style>
+  .scroll-container {
+    height: 100dvh;
+    width: 100vw;
+    overflow: hidden;
+    position: relative;
+  }
+  .inner {
+    width: 5000px;
+    height: 3000px;
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+  }
+  .img {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+</style>
+
+<script>
+  const container = document.querySelector('.scroll-container') as HTMLElement
+
+  let isDragging = false
+  let startX: number, startY: number, scrollLeft: number, scrollTop: number
+  let lastX: number, lastY: number
+  let velocityX = 0,
+    velocityY = 0
+  let momentumFrame: number | null = null
+
+  container.addEventListener('mousedown', (e: MouseEvent) => {
+    e.preventDefault()
+    isDragging = true
+    container.style.cursor = 'grabbing'
+
+    const x = e.pageX
+    const y = e.pageY
+
+    onStart(x, y)
+  })
+
+  container.addEventListener(
+    'touchstart',
+    (e: TouchEvent) => {
+      e.preventDefault()
+      isDragging = true
+
+      const touch = e.touches[0]
+      const x = touch.pageX
+      const y = touch.pageY
+
+      onStart(x, y)
+    },
+    { passive: false }
+  )
+
+  container.addEventListener('mousemove', (e: MouseEvent) => {
+    if (!isDragging) return
+    e.preventDefault()
+
+    const x = e.pageX
+    const y = e.pageY
+
+    onMove(x, y)
+  })
+
+  container.addEventListener(
+    'touchmove',
+    (e: TouchEvent) => {
+      if (!isDragging) return
+      e.preventDefault()
+
+      const touch = e.touches[0]
+      const x = touch.pageX
+      const y = touch.pageY
+
+      onMove(x, y)
+    },
+    { passive: false }
+  )
+
+  container.addEventListener('mouseup', onEnd)
+  container.addEventListener('mouseleave', onEnd)
+  container.addEventListener('touchend', onEnd)
+
+  function onMove(x: number, y: number) {
+    const deltaX = x - container.offsetLeft
+    const deltaY = y - container.offsetTop
+    const walkX = startX - deltaX
+    const walkY = startY - deltaY
+
+    // Calculate velocity
+    velocityX = x - lastX
+    velocityY = y - lastY
+
+    lastX = x
+    lastY = y
+
+    container.scrollLeft = scrollLeft + walkX
+    container.scrollTop = scrollTop + walkY
+  }
+
+  function onStart(x: number, y: number) {
+    cancelMomentum() // Stop any existing momentum
+    startX = x - container.offsetLeft
+    startY = y - container.offsetTop
+    scrollLeft = container.scrollLeft
+    scrollTop = container.scrollTop
+
+    lastX = x
+    lastY = y
+
+    velocityX = 0
+    velocityY = 0
+  }
+
+  function onEnd() {
+    isDragging = false
+    container.style.cursor = 'grab'
+
+    applyMomentum()
+  }
+
+  function applyMomentum() {
+    const deceleration = 0.95 // Deceleration factor (lower = faster stop)
+    const minVelocity = 0.5 // Minimum velocity to stop animation
+
+    const momentum = () => {
+      if (Math.abs(velocityX) > minVelocity || Math.abs(velocityY) > minVelocity) {
+        container.scrollLeft -= velocityX
+        container.scrollTop -= velocityY
+
+        // Apply deceleration
+        velocityX *= deceleration
+        velocityY *= deceleration
+
+        // Request the next frame
+        momentumFrame = requestAnimationFrame(momentum)
+      } else {
+        cancelMomentum()
+      }
+    }
+
+    momentum()
+  }
+
+  function cancelMomentum() {
+    if (momentumFrame !== null) {
+      cancelAnimationFrame(momentumFrame)
+      momentumFrame = null
+    }
+  }
+</script>

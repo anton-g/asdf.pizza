@@ -25,4 +25,5 @@ export const collections = {
   episodes: episodeCollection,
   advent22: episodeCollection,
   advent23: episodeCollection,
+  advent24: episodeCollection,
 }
