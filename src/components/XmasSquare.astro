@@ -16,23 +16,21 @@ const { x, y, text, enabled, url } = Astro.props
 ---
 
 <asdf-xmas data-enabled={enabled ? 'true' : 'false'}>
-  <button
+  <div
     class="square"
     style={{
       left: x + 'px',
       top: y + 'px',
     }}
-    aria-label={`Öppna lucka ${text}`}
-    aria-disabled={!enabled}
   >
     <div class="border"></div>
-    <a class="content">
+    <a class="content" href={url} target="_blank">
       {enabled && <slot />}
     </a>
     <div class="shadow">
       <div class="shadow-inner"></div>
     </div>
-    <div class="hatch">
+    <button class="hatch" aria-label={`Öppna lucka ${text}`} aria-disabled={!enabled}>
       <div class="back"></div>
       <div
         class="front"
@@ -42,8 +40,8 @@ const { x, y, text, enabled, url } = Astro.props
       >
         <span class="text">{text}</span>
       </div>
-    </div>
-  </button>
+    </button>
+  </div>
 </asdf-xmas>
 
 <style>
@@ -63,6 +61,9 @@ const { x, y, text, enabled, url } = Astro.props
     outline: 2px dashed snow;
   }
   .hatch {
+    cursor: pointer;
+    padding: 0;
+    border: 0;
     grid-area: 1 / 1;
     height: 100%;
     display: grid;
@@ -92,7 +93,7 @@ const { x, y, text, enabled, url } = Astro.props
     font-weight: 700;
     opacity: 0.85;
   }
-  .square.open .hatch {
+  .hatch.open {
     transform: rotateY(95deg);
   }
   .content {
@@ -107,6 +108,7 @@ const { x, y, text, enabled, url } = Astro.props
     align-items: center;
     justify-content: center;
     box-shadow: var(--shadow-elevation);
+    background-color: white;
   }
   .shadow {
     position: absolute;
@@ -128,12 +130,12 @@ const { x, y, text, enabled, url } = Astro.props
     top: 175px;
     filter: blur(60px);
   }
-  .square.open .shadow {
+  .hatch.open .shadow {
     opacity: 1;
     transition-delay: 0.5s;
     transition-duration: 0.8s;
   }
-  .square.open .front {
+  .hatch.open .front {
     opacity: 0.5;
     transition-delay: 0.5s;
   }
@@ -174,12 +176,12 @@ const { x, y, text, enabled, url } = Astro.props
       const button = this.querySelector('button') as HTMLButtonElement
       button.addEventListener('click', () => {
         if (!enabled) {
-          button.classList.add('shake')
-          setTimeout(() => button.classList.remove('shake'), 500)
+          button.parentElement?.classList.add('shake')
+          setTimeout(() => button.parentElement?.classList.remove('shake'), 500)
           return
         }
-        if (!button.classList.contains('opened')) {
-          button.classList.add('opened')
+        if (!button.parentElement?.classList.contains('opened')) {
+          button.parentElement?.classList.add('opened')
         }
 
         button.classList.toggle('open')
