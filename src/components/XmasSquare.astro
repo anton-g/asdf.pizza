@@ -8,10 +8,11 @@ export interface Props {
   y: number
   text: string
   enabled: boolean
+  url?: string
   class?: string
 }
 
-const { x, y, text, enabled } = Astro.props
+const { x, y, text, enabled, url } = Astro.props
 ---
 
 <asdf-xmas data-enabled={enabled ? 'true' : 'false'}>
@@ -25,19 +26,22 @@ const { x, y, text, enabled } = Astro.props
     aria-disabled={!enabled}
   >
     <div class="border"></div>
-    <div class="content">
+    <a class="content">
       {enabled && <slot />}
-    </div>
+    </a>
     <div class="shadow">
       <div class="shadow-inner"></div>
     </div>
-    <div
-      class="front"
-      style={{
-        backgroundPosition: `-${x}px -${y}px`,
-      }}
-    >
-      <span class="text">{text}</span>
+    <div class="hatch">
+      <div class="back"></div>
+      <div
+        class="front"
+        style={{
+          backgroundPosition: `-${x}px -${y}px`,
+        }}
+      >
+        <span class="text">{text}</span>
+      </div>
     </div>
   </button>
 </asdf-xmas>
@@ -58,6 +62,13 @@ const { x, y, text, enabled } = Astro.props
     height: 100%;
     outline: 2px dashed snow;
   }
+  .hatch {
+    grid-area: 1 / 1;
+    height: 100%;
+    display: grid;
+    transform-origin: right;
+    transition: transform 1s;
+  }
   .front {
     grid-area: 1 / 1;
     height: 100%;
@@ -65,16 +76,23 @@ const { x, y, text, enabled } = Astro.props
     display: flex;
     justify-content: center;
     align-items: center;
-    transform-origin: right;
-    transition: transform 1s;
+    z-index: 1;
+    opacity: 1;
+    transition: opacity 0.3s;
+  }
+  .back {
+    grid-area: 1 / 1;
+    height: 100%;
+    background-color: black;
   }
   .text {
     font-size: 8rem;
     color: white;
     font-family: serif;
-    font-weight: 500;
+    font-weight: 700;
+    opacity: 0.85;
   }
-  .square.open .front {
+  .square.open .hatch {
     transform: rotateY(95deg);
   }
   .content {
@@ -114,6 +132,10 @@ const { x, y, text, enabled } = Astro.props
     opacity: 1;
     transition-delay: 0.5s;
     transition-duration: 0.8s;
+  }
+  .square.open .front {
+    opacity: 0.5;
+    transition-delay: 0.5s;
   }
   .square.opened .content {
     display: flex;

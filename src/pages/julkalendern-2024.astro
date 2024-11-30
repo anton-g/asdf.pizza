@@ -10,8 +10,32 @@ const sortedEpisodes = episodes.slice().sort((a, b) => a.data.date.getTime() - b
 
 <Advent24Layout title="">
   <div class="scroll-container">
-    <XmasSquare text="24" x={150} y={150} enabled={true}>HELLO</XmasSquare>
-    <XmasSquare text="1" x={250} y={450} enabled={false}>HI</XmasSquare>
+    <div class="inner">
+      <XmasSquare text="1" x={2050} y={1050} enabled={true}>HELLO</XmasSquare>
+      <XmasSquare text="2" x={4600} y={2600} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="3" x={1500} y={2400} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="4" x={4000} y={550} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="5" x={1000} y={1250} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="6" x={2800} y={2000} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="7" x={100} y={2400} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="8" x={2950} y={50} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="9" x={1950} y={1700} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="10" x={4500} y={1600} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="11" x={800} y={150} enabled={false}>HI</XmasSquare>
+      <XmasSquare text="12" x={3300} y={1100} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="13" x={250} y={1450} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="14" x={3655} y={2250} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="15" x={1223} y={555} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="16" x={4623} y={232} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="17" x={2623} y={1234} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="18" x={875} y={1850} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="19" x={4400} y={1085} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="20" x={3695} y={1570} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="21" x={150} y={712} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="22" x={2410} y={2600} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="23" x={3350} y={450} enabled={true}>HI</XmasSquare>
+      <XmasSquare text="24" x={2400} y={400} enabled={true}>HI</XmasSquare>
+    </div>
     <img src="advent24.png" alt="" />
   </div>
 </Advent24Layout>
@@ -22,6 +46,13 @@ const sortedEpisodes = episodes.slice().sort((a, b) => a.data.date.getTime() - b
     width: 100vw;
     overflow: hidden;
     position: relative;
+  }
+  .inner {
+    width: 5000px;
+    height: 3000px;
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
   }
   .img {
     position: absolute;
