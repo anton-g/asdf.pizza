@@ -2,6 +2,7 @@
 import type { CollectionEntry } from 'astro:content'
 import santahat from '../images/santahat.png'
 import snowflake from '../images/snowflake.png'
+import lucka from '../images/lucka.png'
 import { Image } from 'astro:assets'
 
 type Episode = CollectionEntry<'episodes'>
@@ -21,9 +22,15 @@ const randomSvgHeight = () => 6 + Math.floor(Math.random() * 6) - 3
   {
     episodes.map((episode: Episode) => (
       <>
+        {episode.data.number === 114 && (
+          <a href={`/julkalendern-2024`} class="no-wrap advent-link zoom-link">
+            <Image src={lucka} alt="a christmas calendar opening" height={40} />
+            julkalendern 2024
+          </a>
+        )}
         {episode.data.number === 91 && (
           <a href={`/julkalendern-2023`} class="no-wrap advent-link spin-link">
-            <Image src={snowflake} alt="a santa hat" height={40} />
+            <Image src={snowflake} alt="a snow flake" height={40} />
             julkalendern 2023
           </a>
         )}
@@ -108,6 +115,7 @@ const randomSvgHeight = () => 6 + Math.floor(Math.random() * 6) - 3
     text-decoration: none;
     text-decoration: underline;
     align-items: center;
+    transition: transform 500ms;
   }
 
   .wiggle-link:hover img {
@@ -117,6 +125,10 @@ const randomSvgHeight = () => 6 + Math.floor(Math.random() * 6) - 3
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
     animation-direction: alternate;
+  }
+
+  .zoom-link:hover img {
+    transform: scale(1.1);
   }
 
   .spin-link:hover img {
