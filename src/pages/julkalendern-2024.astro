@@ -1,26 +1,29 @@
 ---
 import Advent24Layout from '../layouts/Advent24Layout.astro'
-import { getCollection } from 'astro:content'
 import XmasSquare from '../components/XmasSquare.astro'
-
-const episodes = await getCollection('advent23')
-
-const sortedEpisodes = episodes.slice().sort((a, b) => a.data.date.getTime() - b.data.date.getTime())
 ---
 
-<Advent24Layout title="">
+<Advent24Layout title="Julkalendern 2024">
   <div class="scroll-container">
     <div class="inner">
       <XmasSquare
         text="1"
         x={2050}
         y={1050}
-        url="https://open.spotify.com/show/48pKe510caxiFkvxtoXJge?si=4faeef0547e5483e"
+        url="https://open.spotify.com/episode/6HQ3ozUHghFh5Ji6FqZMd1?si=4e7b1d10823a4249"
         enabled={true}
       >
         <img src="/salma.png" />
       </XmasSquare>
-      <XmasSquare text="2" x={4600} y={2600} enabled={false}>HI</XmasSquare>
+      <XmasSquare
+        text="2"
+        x={4600}
+        y={2600}
+        enabled={true}
+        url="https://open.spotify.com/show/48pKe510caxiFkvxtoXJge?si=4faeef0547e5483e"
+      >
+        <img src="/erik.png" />
+      </XmasSquare>
       <XmasSquare text="3" x={1500} y={2400} enabled={false}>HI</XmasSquare>
       <XmasSquare text="4" x={4000} y={550} enabled={false}>HI</XmasSquare>
       <XmasSquare text="5" x={1000} y={1250} enabled={false}>HI</XmasSquare>
