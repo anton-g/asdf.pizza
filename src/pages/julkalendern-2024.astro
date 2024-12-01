@@ -93,7 +93,7 @@ const sortedEpisodes = episodes.slice().sort((a, b) => a.data.date.getTime() - b
   container.addEventListener(
     'touchstart',
     (e: TouchEvent) => {
-      e.preventDefault()
+      // e.preventDefault()
       isDragging = true
 
       const touch = e.touches[0]
@@ -101,8 +101,8 @@ const sortedEpisodes = episodes.slice().sort((a, b) => a.data.date.getTime() - b
       const y = touch.pageY
 
       onStart(x, y)
-    },
-    { passive: false }
+    }
+    // { passive: false }
   )
 
   container.addEventListener('mousemove', (e: MouseEvent) => {
