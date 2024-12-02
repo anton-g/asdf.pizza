@@ -25,6 +25,7 @@ const { x, y, text, enabled, url } = Astro.props
   >
     <div class="border"></div>
     <a class="content" href={url} target="_blank">
+      <div class="content-shadow"></div>
       {enabled && <slot />}
     </a>
     <div class="shadow">
@@ -97,18 +98,27 @@ const { x, y, text, enabled, url } = Astro.props
     transform: rotateY(95deg);
   }
   .content {
-    --shadow-color: 0deg 0% 45%;
-    --shadow-elevation: inset 0.5px 0.5px 0.5px hsl(var(--shadow-color) / 1),
-      inset 0.9px 0.9px 1px -1.7px hsl(var(--shadow-color) / 0.82),
-      inset 4.1px 4.1px 4.3px -3.3px hsl(var(--shadow-color) / 0.55),
-      inset 12.5px 12.5px 13.3px -5px hsl(var(--shadow-color) / 0.27);
     grid-area: 1 / 1;
     height: 100%;
     display: none;
     align-items: center;
     justify-content: center;
-    box-shadow: var(--shadow-elevation);
     background-color: white;
+    position: relative;
+  }
+  .content-shadow {
+    position: absolute;
+    inset: 0;
+    --shadow-color: 0deg 0% 45%;
+    --shadow-elevation: inset 0.3px 0.5px 0.7px hsl(var(--shadow-color) / 0.24),
+      inset 1.5px 2.9px 3.7px -0.4px hsl(var(--shadow-color) / 0.24),
+      inset 2.7px 5.4px 6.8px -0.7px hsl(var(--shadow-color) / 0.24),
+      inset 4.5px 8.9px 11.2px -1.1px hsl(var(--shadow-color) / 0.24),
+      inset 7.1px 14.3px 18px -1.4px hsl(var(--shadow-color) / 0.24),
+      inset 11.2px 22.3px 28.1px -1.8px hsl(var(--shadow-color) / 0.24),
+      inset 17px 33.9px 42.7px -2.1px hsl(var(--shadow-color) / 0.24),
+      inset 25px 50px 62.9px -2.5px hsl(var(--shadow-color) / 0.24);
+    box-shadow: var(--shadow-elevation);
   }
   .shadow {
     position: absolute;
@@ -130,7 +140,7 @@ const { x, y, text, enabled, url } = Astro.props
     top: 175px;
     filter: blur(60px);
   }
-  .hatch.open .shadow {
+  .square:has(.hatch.open) .shadow {
     opacity: 1;
     transition-delay: 0.5s;
     transition-duration: 0.8s;
