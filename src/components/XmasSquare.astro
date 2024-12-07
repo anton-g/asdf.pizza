@@ -10,9 +10,10 @@ export interface Props {
   enabled: boolean
   url?: string
   class?: string
+  disableShadow?: boolean
 }
 
-const { x, y, text, enabled, url } = Astro.props
+const { x, y, text, enabled, url, disableShadow } = Astro.props
 ---
 
 <asdf-xmas data-enabled={enabled ? 'true' : 'false'}>
@@ -25,7 +26,7 @@ const { x, y, text, enabled, url } = Astro.props
   >
     <div class="border"></div>
     <a class="content" href={url} target="_blank">
-      <div class="content-shadow"></div>
+      {!disableShadow && <div class="content-shadow" />}
       {enabled && <slot />}
     </a>
     <div class="shadow">
