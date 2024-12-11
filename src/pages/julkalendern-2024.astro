@@ -3,7 +3,10 @@ import Advent24Layout from '../layouts/Advent24Layout.astro'
 import XmasSquare from '../components/XmasSquare.astro'
 ---
 
-<Advent24Layout title="Julkalendern 2024">
+<Advent24Layout
+  title="Julkalendern 2024"
+  description="asdfs julkalender 2024 är ambitiösare än någonsin, öppna alla luckor för att inte missa någon av våra fantastiska vänner"
+>
   <div class="scroll-container">
     <div class="inner">
       <XmasSquare
@@ -93,11 +96,19 @@ import XmasSquare from '../components/XmasSquare.astro'
         x={4500}
         y={1600}
         enabled={true}
-        url="https://open.spotify.com/show/48pKe510caxiFkvxtoXJge?si=a1f20d5b33f34f6b"
+        url="https://open.spotify.com/episode/4aMk8pI8mTTp1rjw19KpMe?si=756e386c94094afe"
       >
         <img src="/sara.png" />
       </XmasSquare>
-      <XmasSquare text="11" x={800} y={150} enabled={false}>HI</XmasSquare>
+      <XmasSquare
+        text="11"
+        x={800}
+        y={150}
+        enabled={true}
+        url="https://open.spotify.com/show/48pKe510caxiFkvxtoXJge?si=a1f20d5b33f34f6b"
+      >
+        <img src="/jonny.png" />
+      </XmasSquare>
       <XmasSquare text="12" x={3300} y={1100} enabled={false}>HI</XmasSquare>
       <XmasSquare text="13" x={250} y={1450} enabled={false}>HI</XmasSquare>
       <XmasSquare text="14" x={3655} y={2250} enabled={false}>HI</XmasSquare>
