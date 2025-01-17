@@ -9,7 +9,6 @@ itunesId: ''
 joke:
   setup: Why are developers so dirty?
   punchline: They hate SOAP
-  author: Fredrik Björeman
 ---
 
 Vi är tillbaka från lite julsemester och det blir direkt lite gött snack om bajsmackor, svordomar, vim-killens ovilja och att kommunicera med tredje part. Dessutom massor om integrationer, att ligga i fosterställning under skrivbordet, att tappa bort sig själv och självläkande fel.
