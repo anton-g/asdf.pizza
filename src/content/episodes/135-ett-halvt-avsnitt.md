@@ -1,6 +1,6 @@
 ---
 title: 'Ett halvt avsnitt'
-date: 2025-10-17T07:00:00.000Z
+date: 2025-10-31T07:00:00.000Z
 description: 'Avsnitt 135: Teknikstrul, Biome, Rom, bedrägerier, uttal och Prettier.'
 number: 135
 pinecastId: 'cae6aaab-d3df-415b-a9cc-3037d177731c'
