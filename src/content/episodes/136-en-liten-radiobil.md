@@ -3,7 +3,7 @@ title: 'En liten radiobil'
 date: 2025-11-14T07:00:00.000Z
 description: 'Avsnitt 136: Nordic.js, konferencier, kostymer, 70-talets extremvänster och matköer.'
 number: 136
-pinecastId: ''
+pinecastId: '64412333-8998-4177-a6d9-d3ed7d963a47'
 spotifyId: ''
 itunesId: ''
 joke:
