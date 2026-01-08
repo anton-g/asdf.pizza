@@ -7,8 +7,8 @@ pinecastId: 'a9e6f36d-e537-47c6-904f-2a242f298a99'
 spotifyId: ''
 itunesId: ''
 joke:
-  setup: 
-  punchline: 
+  setup: What is the name of the predecessor to nyancat?
+  punchline: Deprecat
 ---
 
 Nytt år, nytt drama! Det blir lite Tailwind, att driva bolag, en regnbågskatt, Adam Wathan, att gissa sig fram, internet i AI-eran, Adam Wathan, trafikdippar, korrelationer, Adam Wathan och en hel del TikTok. Dessutom lite om framtiden, komponentbibliotek, att dyka in i ett tåg och att cowboyprompta.
