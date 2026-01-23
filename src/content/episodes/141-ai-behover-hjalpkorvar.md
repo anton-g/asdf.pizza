@@ -1,6 +1,6 @@
 ---
 title: 'AI behöver hjälpkorvar'
-date: 2026-01-09T07:00:00.000Z
+date: 2026-01-23T07:00:00.000Z
 description: 'Avsnitt 141: Hjälpkorvar, AI, pirater och en ny AI-expert i podden.'
 number: 141
 pinecastId: '2a25eeae-403c-4cd2-9afd-1ab5a59a443d'
